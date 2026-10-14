@@ -1,0 +1,100 @@
+2701|одиночество|Состояние одинокого человека|Einsamkeit|noun; feminine
+2702|социализм|Общественный строй с общественной собственностью на средства производства|Sozialismus|noun; masculine
+2703|судно|Плавучее транспортное средство|Schiff|noun; neuter
+2704|туалет|Санитарное помещение|Toilette|noun; feminine
+2705|окружающее|Условия и обстановка вокруг|Umgebung|noun; feminine
+2706|якобы|Употребляется для выражения сомнения или ложности|angeblich|particle
+2707|атмосфера|Газовая оболочка Земли|Atmosphäre|noun; feminine
+2708|удача|Успех; желательный исход дела|Glück|noun; neuter
+2709|бросаться|Кидаться на кого-либо; метать что-либо|sich werfen|verb; imperfective; infinitive; reflexive
+2710|оценка|Мнение о ценности или значении чего-либо|Bewertung|noun; feminine
+2711|Волга|Река в России|Wolga|noun; feminine; proper
+2712|пароход|Судно с паровым двигателем|Dampfschiff|noun; neuter
+2713|служебный|Относящийся к месту работы или службе|dienstlich|adjective
+2714|вне|За пределами чего-либо|außerhalb|preposition
+2715|остановка|Место, где останавливается пассажирский транспорт|Haltestelle|noun; feminine
+2716|рыцарь|Средневековый феодал, тяжело вооружённый конный воин|Ritter|noun; masculine
+2717|академик|Член академии наук|Akademiker|noun; masculine
+2718|пустота|Отсутствие содержания; пустое пространство|Leere|noun; feminine
+2719|копейка|Мелкая монета, сотая доля рубля|Kopeke|noun; feminine
+2720|версия|Вариант в изложении или толковании чего-либо|Version|noun; feminine
+2721|ножка|Опора мебели или прибора|Bein|noun; neuter
+2722|деревенский|Относящийся к деревне|ländlich|adjective
+2723|аккумулятор|Устройство для накопления энергии|Akku|noun; masculine
+2724|исключить|Удалить из состава чего-либо|ausschließen|verb; perfective; infinitive
+2725|провожать|Вести, сопровождать кого-либо|begleiten|verb; imperfective; infinitive
+2726|собеседник|Участник беседы|Gesprächspartner|noun; masculine
+2727|триста|Число 300|dreihundert|numeral; cardinal
+2728|прошептать|Сказать шёпотом|flüstern|verb; perfective; infinitive
+2729|плоский|Ровный; с гладкой поверхностью|flach|adjective
+2730|зритель|Тот, кто наблюдает происходящее|Zuschauer|noun; masculine
+2731|нынче|Сегодня; в настоящее время|heute|adverb
+2732|осмотреть|Посмотреть со всех сторон; обследовать|besichtigen|verb; perfective; infinitive
+2733|характерный|С ярко выраженными чертами|charakteristisch|adjective
+2734|военный|Военнослужащий|Soldat|noun; masculine
+2735|вздрогнуть|Резко дрогнуть от испуга или неожиданности|zusammenzucken|verb; perfective; infinitive
+2736|старость|Период жизни с постепенным ослаблением организма|Alter|noun; neuter
+2737|цивилизация|Ступень развития общества и его культуры|Zivilisation|noun; feminine
+2738|посвятить|Предназначить; отдать что-либо чему-либо|widmen|verb; perfective; infinitive
+2739|перенести|Переместить через пространство|übertragen|verb; perfective; infinitive
+2740|драка|Взаимные побои в ссоре|Schlägerei|noun; feminine
+2741|лифт|Вертикальный подъёмник с кабиной|Aufzug|noun; masculine
+2742|тряпка|Лоскут ткани|Lappen|noun; masculine
+2743|колбаса|Мясной продукт в оболочке|Wurst|noun; feminine
+2744|прервать|Резко остановить; прекратить|unterbrechen|verb; perfective; infinitive
+2745|отчёт|Доклад о своих действиях или работе|Bericht|noun; masculine
+2746|каша|Блюдо из сваренной крупы|Brei|noun; masculine
+2747|освободить|Сделать свободным|befreien|verb; perfective; infinitive
+2748|дьявол|Злой дух, противостоящий Богу|Teufel|noun; masculine
+2749|сарай|Крытое нежилое строение|Scheune|noun; feminine
+2750|использование|Применение чего-либо|Nutzung|noun; feminine
+2751|творчество|Создание новых культурных или материальных ценностей|Schaffen|noun; neuter
+2752|неторопливый|Не спешащий; спокойный в действиях|bedächtig|adjective
+2753|проход|Место для прохода сквозь что-либо|Durchgang|noun; masculine
+2754|Чечня|Республика на Северном Кавказе|Tschetschenien|noun; neuter; proper
+2755|воробей|Маленькая птица с серо-чёрным оперением|Spatz|noun; masculine
+2756|учесть|Принять во внимание|berücksichtigen|verb; perfective; infinitive
+2757|походить|Быть похожим на кого-либо|ähneln|verb; imperfective; infinitive
+2758|относительно|По поводу; насчёт чего-либо|bezüglich|preposition
+2759|подвести|Причинить неприятность своими действиями|enttäuschen|verb; perfective; infinitive
+2760|рваться|Разделяться на части от резкого движения|reißen|verb; imperfective; infinitive
+2761|мышца|Орган тела, способный сокращаться|Muskel|noun; masculine
+2762|жирный|С большим содержанием жира|fettig|adjective
+2763|дожидаться|Ждать наступления чего-либо|warten|verb; imperfective; infinitive
+2764|рассвет|Время перед восходом солнца|Morgendämmerung|noun; feminine
+2765|всерьёз|Серьёзно; не в шутку|ernsthaft|adverb
+2766|кивать|Наклонять голову вперёд в знак согласия|nicken|verb; imperfective; infinitive
+2767|коммунизм|Общественный строй с общественной собственностью|Kommunismus|noun; masculine
+2768|сбежать|Убежать тайком|flüchten|verb; perfective; infinitive
+2769|глоток|Количество жидкости при одном глотательном движении|Schluck|noun; masculine
+2770|доказательство|Факт или довод, подтверждающий что-либо|Beweis|noun; masculine
+2771|ввести|Включить в состав; сделать действующим|einführen|verb; perfective; infinitive
+2772|крайне|В высшей степени; очень|äußerst|adverb
+2773|нация|Исторически сложившаяся общность людей|Nation|noun; feminine
+2774|сердито|С раздражением; гневно|ärgerlich|adverb
+2775|узел|Место соединения концов чего-либо|Knoten|noun; masculine
+2776|грустно|С печалью; с тоской|traurig|adverb
+2777|зависимость|Подчинённость другим при отсутствии самостоятельности|Abhängigkeit|noun; feminine
+2778|груз|Товар, принимаемый для перевозки|Ladung|noun; feminine
+2779|империя|Монархическое государство во главе с императором|Kaiserreich|noun; neuter
+2780|определять|Точно выяснять или устанавливать|bestimmen|verb; imperfective; infinitive
+2781|комбат|Командир батальона|Bataillonskommandeur|noun; masculine
+2782|величина|Размер; объём предмета|Größe|noun; feminine
+2783|крышка|Верхняя закрывающая часть сосуда|Deckel|noun; masculine
+2784|воздействие|Влияние на кого-либо или что-либо|Einwirkung|noun; feminine
+2785|допустить|Разрешить кому-либо участвовать в чём-либо|zulassen|verb; perfective; infinitive
+2786|сбросить|Бросить вниз с чего-либо|abwerfen|verb; perfective; infinitive
+2787|кирпич|Брусок из обожжённой глины|Ziegel|noun; masculine
+2788|полюбить|Почувствовать любовь к кому-либо|sich verlieben|verb; perfective; infinitive; reflexive
+2789|глазок|Небольшое круглое отверстие|Guckloch|noun; neuter
+2790|содержать|Обеспечивать кого-либо средствами к жизни|unterhalten|verb; imperfective; infinitive
+2791|турист|Человек, занимающийся туризмом|Tourist|noun; masculine
+2792|де|Разговорная частица, вводящая чужую речь|angeblich|particle
+2793|обмен|Передача чего-либо в обмен на что-либо|Austausch|noun; masculine
+2794|всеобщий|Относящийся ко всем; распространяющийся на всё|allgemein|adjective
+2795|перевод|Текст, переведённый с одного языка на другой|Übersetzung|noun; feminine
+2796|четверо|Количество четыре|vier|numeral; cardinal
+2797|стрела|Тонкий стержень с заострённым наконечником для лука|Pfeil|noun; masculine
+2798|уголок|Место, отведённое для определённых занятий|Ecke|noun; feminine
+2799|лишённый|Не имеющий чего-либо|beraubt|adjective
+2800|превращаться|Принять иной вид; перейти в другое состояние|sich verwandeln|verb; imperfective; infinitive; reflexive

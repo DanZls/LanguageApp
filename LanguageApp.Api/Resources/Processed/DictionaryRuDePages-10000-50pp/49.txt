@@ -1,0 +1,50 @@
+2451|моряк|Человек, служащий во флоте|Seemann|noun; masculine
+2452|речка|Небольшая река|Flüsschen|noun; neuter
+2453|республика|Форма правления с выборными органами власти|Republik|noun; feminine
+2454|гордость|Чувство собственного достоинства; самоуважение|Stolz|noun; masculine
+2455|бревно|Ствол срубленного дерева, очищенный от веток|Klotz|noun; masculine
+2456|невеста|Девушка или женщина, вступающая в брак|Braut|noun; feminine
+2457|потянуться|Распрямить уставшие конечности|sich strecken|verb; perfective; infinitive; reflexive
+2458|кривой|Не прямой; изогнутый|krumm|adjective
+2459|посреди|В середине чего-либо|inmitten|preposition
+2460|предположить|Допустить возможность чего-либо|annehmen|verb; perfective; infinitive
+2461|вчерашний|Относящийся к вчерашнему дню|gestrig|adjective
+2462|прибор|Специальное устройство или аппарат|Gerät|noun; neuter
+2463|кандидат|Лицо, предполагаемое к избранию или назначению|Kandidat|noun; masculine
+2464|портфель|Жёсткая сумка с запором для ношения бумаг или книг|Aktentasche|noun; feminine
+2465|доставить|Привезти или принести к месту назначения|liefern|verb; perfective; infinitive
+2466|ошибиться|Сделать ошибку; поступить неправильно|sich irren|verb; perfective; infinitive; reflexive
+2467|разбудить|Прекратить чей-либо сон; пробудить|aufwecken|verb; perfective; infinitive
+2468|невидимый|Недоступный зрению; незаметный|unsichtbar|adjective
+2469|виза|Разрешение на въезд в страну с отметкой в паспорте|Visum|noun; neuter
+2470|гибель|Уничтожение; смерть от катастрофы или насилия|Untergang|noun; masculine
+2471|прятать|Убирать в скрытое место|verstecken|verb; imperfective; infinitive
+2472|карьера|Путь к успехам и видному положению|Karriere|noun; feminine
+2473|водить|Вести кого-либо куда-либо (многократно)|führen|verb; imperfective; infinitive
+2474|малыш|Маленький ребёнок|Kleinkind|noun; neuter
+2475|пробовать|Пытаться; стараться что-либо сделать|versuchen|verb; imperfective; infinitive
+2476|заплатить|Передать деньги за что-либо; оплатить|bezahlen|verb; perfective; infinitive
+2477|назначение|Область или сфера применения|Zweck|noun; masculine
+2478|гвоздь|Заострённый металлический стержень со шляпкой|Nagel|noun; masculine
+2479|кафе|Небольшое заведение с подачей кофе|Café|noun; neuter
+2480|убийца|Тот, кто совершил убийство|Mörder|noun; masculine
+2481|неведомый|Неизвестный; незнакомый|unbekannt|adjective
+2482|японский|Относящийся к Японии или японцам|japanisch|adjective
+2483|обязанность|Круг действий, безусловных для выполнения|Pflicht|noun; feminine
+2484|отель|Гостиница|Hotel|noun; neuter
+2485|обнять|Заключить в объятия; обхватить руками|umarmen|verb; perfective; infinitive
+2486|допустимый|Возможный; позволительный|zulässig|adjective
+2487|заглядывать|Быстро или украдкой смотреть куда-либо|hineinschauen|verb; imperfective; infinitive
+2488|подготовка|Запас знаний или навыков; предварительная работа|Vorbereitung|noun; feminine
+2489|последствие|Следствие чего-либо; результат|Folge|noun; feminine
+2490|красавица|Женщина с красивой внешностью|Schönheit|noun; feminine
+2491|ковер|Изделие из пряжи для покрытия пола или украшения стен|Teppich|noun; masculine
+2492|выбросить|Избавиться от чего-либо, выбросив|wegwerfen|verb; perfective; infinitive
+2493|анализ|Метод исследования путём рассмотрения частей и свойств|Analyse|noun; feminine
+2494|устроиться|Найти работу или жильё; обустроиться|unterkommen|verb; perfective; infinitive
+2495|собственность|Материальные ценности, принадлежащие кому-либо|Eigentum|noun; neuter
+2496|оценить|Определить ценность кого-либо или чего-либо|bewerten|verb; perfective; infinitive
+2497|немножко|Не очень много; слегка|ein bisschen|adverb
+2498|хлопнуть|Произвести резкий звук, ударив|knallen|verb; perfective; infinitive
+2499|родить|Произвести на свет ребёнка|gebären|verb; perfective; infinitive
+2500|уставиться|Пристально направить взгляд|starren|verb; perfective; infinitive

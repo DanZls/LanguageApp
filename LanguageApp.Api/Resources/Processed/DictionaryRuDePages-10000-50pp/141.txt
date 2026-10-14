@@ -1,0 +1,50 @@
+7051|спотыкаться|Терять равновесие при ходьбе; запинаться|stolpern|verb; imperfective; infinitive
+7052|крепостной|Крестьянин, находившийся в личной зависимости от землевладельца|Leibeigener|noun; masculine
+7053|безо|Вариант предлога «без» перед формами слов «весь» и «всякий»|ohne|preposition
+7054|рукоятка|Часть предмета, предназначенная для захвата и управления рукой|Griff|noun; masculine
+7055|конкурент|Лицо, соперничающее с другими в той же сфере|Konkurrent|noun; masculine
+7056|вертеть|Приводить в круговое вращение|drehen|verb; imperfective; infinitive
+7057|салат|Листовое овощное растение, употребляемое в сыром виде|Salat|noun; masculine
+7058|футбольный|Относящийся к футболу|Fußball-|adjective
+7059|пособие|Денежная выплата в качестве социальной поддержки|Beihilfe|noun; feminine
+7060|вытекать|О реке: брать начало откуда-либо|entspringen|verb; imperfective; infinitive
+7061|подолгу|На протяжении длительного времени|lange|adverb
+7062|поступление|Полученная сумма или материалы; зачисление|Eingang|noun; masculine
+7063|метель|Сильный ветер, несущий снег|Schneesturm|noun; masculine
+7064|мадонна|В католичестве: образ Богородицы|Madonna|noun; feminine
+7065|вериться|Казаться достоверным; легко поддаваться вере|glaubhaft erscheinen|verb; imperfective; impersonal; infinitive
+7066|избрать|Выбрать путём голосования|wählen|verb; perfective; infinitive
+7067|грузин|Представитель грузинского народа|Georgier|noun; masculine
+7068|мальчишеский|Свойственный мальчику; озорной и задорный|jungenhaft|adjective
+7069|хлестать|Бить гибким предметом; хлопать|peitschen|verb; imperfective; infinitive
+7070|ответный|Являющийся ответом или ответной реакцией|erwidert|adjective
+7071|растительный|Относящийся к миру растений; получаемый из растений|pflanzlich|adjective
+7072|револьвер|Многозарядный пистолет с вращающимся барабанным магазином|Revolver|noun; masculine
+7073|выпадать|Падать вниз или наружу из чего-либо|herausfallen|verb; imperfective; infinitive
+7074|чадо|Ребёнок; дитя|Kind|noun; neuter
+7075|подтолкнуть|Побудить к действию; ускорить принятие решения|anstoßen|verb; perfective; infinitive
+7076|моментально|В тот же миг; мгновенно|augenblicklich|adverb
+7077|колхозник|Крестьянин, входящий в состав колхоза|Kolchosebauer|noun; masculine
+7078|задумчивый|Погружённый в размышления; мечтательный|nachdenklich|adjective
+7079|сторонка|Небольшая отдалённая местность; укромное место|Gegend|noun; feminine
+7080|посоветоваться|Обратиться к кому-либо за советом; обменяться мнениями|sich beraten|verb; perfective; infinitive; reflexive
+7081|сопеть|Тяжело дышать с носовым свистящим звуком|schnaufen|verb; imperfective; infinitive
+7082|узелок|Небольшой завязанный узел|Knoten|noun; masculine
+7083|претендовать|Добиваться чего-либо; рассчитывать на что-то|anstreben|verb; imperfective; infinitive
+7084|трубочка|Небольшой полый цилиндрический предмет|Röhrchen|noun; neuter
+7085|производиться|Изготовляться; выпускаться в промышленных масштабах|hergestellt werden|verb; imperfective; infinitive; passive
+7086|избушка|Маленькая деревенская изба; небольшой домик|Hütte|noun; feminine
+7087|стебель|Центральная несущая часть растения с ветвями и листьями|Stängel|noun; masculine
+7088|насторожиться|Принять позицию повышенной готовности; прислушаться|aufhorchen|verb; perfective; infinitive
+7089|араб|Представитель арабского народа|Araber|noun; masculine
+7090|драма|Литературное произведение с серьёзным конфликтом без трагического конца|Drama|noun; neuter
+7091|растопырить|Широко расставить или раздвинуть в стороны|spreizen|verb; perfective; infinitive
+7092|реализация|Осуществление чего-либо; сбыт или обращение в деньги|Realisierung|noun; feminine
+7093|свежесть|Состояние недавно изготовленного или неиспорченного|Frische|noun; feminine
+7094|вклад|Деньги или ценности, помещённые на хранение|Einlage|noun; feminine
+7095|речной|Относящийся к реке|Fluss-|adjective
+7096|камешек|Небольшой кусочек камня или минерала|Kieselstein|noun; masculine
+7097|засада|Скрытое место ожидания для внезапного нападения|Hinterhalt|noun; masculine
+7098|жать|Давить с усилием; стискивать|drücken|verb; imperfective; infinitive
+7099|швырять|Бросать с силой|schleudern|verb; imperfective; infinitive
+7100|пишущий|Способный писать; предназначенный для письма (об устройстве)|Schreib-|adjective

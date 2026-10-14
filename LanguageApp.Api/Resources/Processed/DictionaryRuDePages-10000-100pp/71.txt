@@ -1,0 +1,100 @@
+7001|грохотать|Издавать громкие раскатистые звуки; двигаться с шумом|donnern|verb; imperfective; infinitive
+7002|пробраться|С трудом проникнуть сквозь препятствие|sich durchschlagen|verb; perfective; infinitive; reflexive
+7003|зажигать|Воспламенять; включать источник света|anzünden|verb; imperfective; infinitive
+7004|отвлекать|Переключать внимание на другое|ablenken|verb; imperfective; infinitive
+7005|обои|Рулонный материал для оклейки стен|Tapete|noun; feminine
+7006|пластмассовый|Изготовленный из пластмассы|Plastik-|adjective
+7007|цитировать|Воспроизводить чужой текст дословно|zitieren|verb; imperfective; infinitive
+7008|вранье|Ложь; беспочвенные выдумки|Lüge|noun; feminine
+7009|пилотка|Мягкий форменный головной убор без полей|Feldmütze|noun; feminine
+7010|позавчера|За два дня до сегодняшнего|vorgestern|adverb
+7011|сирота|Ребёнок, лишившийся одного или обоих родителей|Waise|noun; feminine
+7012|напоследок|В самом конце; под завершение|schließlich|adverb
+7013|тускло|Без яркости; неотчётливо|trüb|adverb
+7014|исключать|Убирать из состава; не допускать|ausschließen|verb; imperfective; infinitive
+7015|надлежать|Быть необходимым; подобать|gebühren|verb; impersonal; imperfective; infinitive
+7016|милорд|Почтительное обращение к английскому аристократу|Mylord|noun; masculine
+7017|лавочка|Длинная скамья без спинки|Bank|noun; feminine
+7018|парить|Держаться в воздухе на неподвижных крыльях|schweben|verb; imperfective; infinitive
+7019|создатель|Тот, кто создал что-либо; творец|Schöpfer|noun; masculine
+7020|продемонстрировать|Наглядно показать; представить|demonstrieren|verb; perfective; infinitive
+7021|беспорядок|Нарушение установленного порядка|Unordnung|noun; feminine
+7022|бешенство|Вирусное заболевание нервной системы, передаваемое через укус|Tollwut|noun; feminine
+7023|вырастать|Становиться больше ростом; перерастать размер одежды|herauswachsen|verb; imperfective; infinitive
+7024|улетать|Покидать место, летя прочь|wegfliegen|verb; imperfective; infinitive
+7025|невеликий|Небольшой по размеру или значению|gering|adjective
+7026|энтузиазм|Сильная увлечённость; душевный подъём|Begeisterung|noun; feminine
+7027|сохраняться|Оставаться неповреждённым; не утрачиваться|sich erhalten|verb; imperfective; infinitive; reflexive
+7028|косточка|Твёрдое ядро внутри плода|Kern|noun; masculine
+7029|подмигивать|Делать знак быстрым закрыванием одного глаза|zwinkern|verb; imperfective; infinitive
+7030|зонтик|Складной купол на ручке для защиты от дождя или солнца|Regenschirm|noun; masculine
+7031|полезно|С пользой; принося положительный эффект|nützlich|adverb
+7032|рыть|Копать; делать углубление в земле|graben|verb; imperfective; infinitive
+7033|глобальный|Охватывающий весь мир; всеобщий|global|adjective
+7034|гарнизон|Воинские части, дислоцированные в конкретном месте|Garnison|noun; feminine
+7035|совхоз|Крупное государственное сельскохозяйственное предприятие советского периода|Sowchos|noun; masculine
+7036|наказывать|Применять наказание; подвергать взысканию|bestrafen|verb; imperfective; infinitive
+7037|университетский|Относящийся к университету|Universitäts-|adjective
+7038|построение|Теоретическая конструкция; система рассуждений|Konstruktion|noun; feminine
+7039|преодолевать|Преодолевать трудности; справляться с препятствиями|überwinden|verb; imperfective; infinitive
+7040|вежливость|Учтивое, уважительное обращение с людьми|Höflichkeit|noun; feminine
+7041|спор|Словесное противостояние по спорному вопросу|Streit|noun; masculine
+7042|психиатр|Врач, специализирующийся на психических расстройствах|Psychiater|noun; masculine
+7043|ширина|Размер в поперечном направлении|Breite|noun; feminine
+7044|соратник|Товарищ по совместной борьбе или деятельности|Mitstreiter|noun; masculine
+7045|горка|Небольшое возвышение на местности|Hügel|noun; masculine
+7046|познать|Приобрести знание о чём-либо; постичь|erkennen|verb; perfective; infinitive
+7047|наедине|Вдвоём без посторонних; с глазу на глаз|allein|adverb
+7048|императорский|Относящийся к императору или империи|kaiserlich|adjective
+7049|сигара|Скрученный табачный цилиндр для курения|Zigarre|noun; feminine
+7050|перепутать|Ошибочно принять одно за другое; смешать|verwechseln|verb; perfective; infinitive
+7051|спотыкаться|Терять равновесие при ходьбе; запинаться|stolpern|verb; imperfective; infinitive
+7052|крепостной|Крестьянин, находившийся в личной зависимости от землевладельца|Leibeigener|noun; masculine
+7053|безо|Вариант предлога «без» перед формами слов «весь» и «всякий»|ohne|preposition
+7054|рукоятка|Часть предмета, предназначенная для захвата и управления рукой|Griff|noun; masculine
+7055|конкурент|Лицо, соперничающее с другими в той же сфере|Konkurrent|noun; masculine
+7056|вертеть|Приводить в круговое вращение|drehen|verb; imperfective; infinitive
+7057|салат|Листовое овощное растение, употребляемое в сыром виде|Salat|noun; masculine
+7058|футбольный|Относящийся к футболу|Fußball-|adjective
+7059|пособие|Денежная выплата в качестве социальной поддержки|Beihilfe|noun; feminine
+7060|вытекать|О реке: брать начало откуда-либо|entspringen|verb; imperfective; infinitive
+7061|подолгу|На протяжении длительного времени|lange|adverb
+7062|поступление|Полученная сумма или материалы; зачисление|Eingang|noun; masculine
+7063|метель|Сильный ветер, несущий снег|Schneesturm|noun; masculine
+7064|мадонна|В католичестве: образ Богородицы|Madonna|noun; feminine
+7065|вериться|Казаться достоверным; легко поддаваться вере|glaubhaft erscheinen|verb; imperfective; impersonal; infinitive
+7066|избрать|Выбрать путём голосования|wählen|verb; perfective; infinitive
+7067|грузин|Представитель грузинского народа|Georgier|noun; masculine
+7068|мальчишеский|Свойственный мальчику; озорной и задорный|jungenhaft|adjective
+7069|хлестать|Бить гибким предметом; хлопать|peitschen|verb; imperfective; infinitive
+7070|ответный|Являющийся ответом или ответной реакцией|erwidert|adjective
+7071|растительный|Относящийся к миру растений; получаемый из растений|pflanzlich|adjective
+7072|револьвер|Многозарядный пистолет с вращающимся барабанным магазином|Revolver|noun; masculine
+7073|выпадать|Падать вниз или наружу из чего-либо|herausfallen|verb; imperfective; infinitive
+7074|чадо|Ребёнок; дитя|Kind|noun; neuter
+7075|подтолкнуть|Побудить к действию; ускорить принятие решения|anstoßen|verb; perfective; infinitive
+7076|моментально|В тот же миг; мгновенно|augenblicklich|adverb
+7077|колхозник|Крестьянин, входящий в состав колхоза|Kolchosebauer|noun; masculine
+7078|задумчивый|Погружённый в размышления; мечтательный|nachdenklich|adjective
+7079|сторонка|Небольшая отдалённая местность; укромное место|Gegend|noun; feminine
+7080|посоветоваться|Обратиться к кому-либо за советом; обменяться мнениями|sich beraten|verb; perfective; infinitive; reflexive
+7081|сопеть|Тяжело дышать с носовым свистящим звуком|schnaufen|verb; imperfective; infinitive
+7082|узелок|Небольшой завязанный узел|Knoten|noun; masculine
+7083|претендовать|Добиваться чего-либо; рассчитывать на что-то|anstreben|verb; imperfective; infinitive
+7084|трубочка|Небольшой полый цилиндрический предмет|Röhrchen|noun; neuter
+7085|производиться|Изготовляться; выпускаться в промышленных масштабах|hergestellt werden|verb; imperfective; infinitive; passive
+7086|избушка|Маленькая деревенская изба; небольшой домик|Hütte|noun; feminine
+7087|стебель|Центральная несущая часть растения с ветвями и листьями|Stängel|noun; masculine
+7088|насторожиться|Принять позицию повышенной готовности; прислушаться|aufhorchen|verb; perfective; infinitive
+7089|араб|Представитель арабского народа|Araber|noun; masculine
+7090|драма|Литературное произведение с серьёзным конфликтом без трагического конца|Drama|noun; neuter
+7091|растопырить|Широко расставить или раздвинуть в стороны|spreizen|verb; perfective; infinitive
+7092|реализация|Осуществление чего-либо; сбыт или обращение в деньги|Realisierung|noun; feminine
+7093|свежесть|Состояние недавно изготовленного или неиспорченного|Frische|noun; feminine
+7094|вклад|Деньги или ценности, помещённые на хранение|Einlage|noun; feminine
+7095|речной|Относящийся к реке|Fluss-|adjective
+7096|камешек|Небольшой кусочек камня или минерала|Kieselstein|noun; masculine
+7097|засада|Скрытое место ожидания для внезапного нападения|Hinterhalt|noun; masculine
+7098|жать|Давить с усилием; стискивать|drücken|verb; imperfective; infinitive
+7099|швырять|Бросать с силой|schleudern|verb; imperfective; infinitive
+7100|пишущий|Способный писать; предназначенный для письма (об устройстве)|Schreib-|adjective

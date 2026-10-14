@@ -1,0 +1,100 @@
+3901|переводить|to translate|verb; regular
+3902|вцепиться|to grab|verb; perfective; reflexive
+3903|обман|deception|noun; singular
+3904|подробно|in detail|adverb
+3905|противоречие|contradiction|noun; singular
+3906|нефть|oil|noun; singular; uncountable
+3907|медицина|medicine|noun; singular; uncountable
+3908|сбоку|from the side|adverb
+3909|полно|enough|adverb
+3910|напечатать|to print|verb; perfective
+3911|руководить|to lead|verb; regular
+3912|видный|prominent|adjective
+3913|нисколько|not at all|adverb
+3914|землянка|dugout|noun; singular
+3915|француз|Frenchman|noun; singular; irregular plural
+3916|откровенно|frankly|adverb
+3917|донестись|to reach|verb; perfective; reflexive
+3918|нуль|zero|noun; singular
+3919|соответствие|correspondence|noun; singular
+3920|разнообразный|diverse|adjective
+3921|практический|practical|adjective
+3922|капуста|cabbage|noun; singular; uncountable
+3923|неплохой|not bad|adjective
+3924|вкусный|tasty|adjective
+3925|бесплатно|free of charge|adverb
+3926|верховный|supreme|adjective
+3927|выбить|to knock out|verb; perfective
+3928|повиснуть|to hang|verb; perfective
+3929|мрак|darkness|noun; singular; uncountable
+3930|осведомиться|to inquire|verb; perfective; reflexive
+3931|окружать|to surround|verb; regular
+3932|сук|bough|noun; singular
+3933|травма|trauma|noun; singular
+3934|законный|legal|adjective
+3935|предоставить|to provide|verb; perfective
+3936|интеллигентный|cultured|adjective
+3937|отражение|reflection|noun; singular
+3938|котел|boiler|noun; singular
+3939|самостоятельный|independent|adjective
+3940|изумление|amazement|noun; singular; uncountable
+3941|длина|length|noun; singular
+3942|похороны|funeral|noun; plural
+3943|обширный|extensive|adjective
+3944|ресурс|resource|noun; singular
+3945|сценарий|screenplay|noun; singular
+3946|свидетельствовать|to testify|verb; regular
+3947|пропаганда|propaganda|noun; singular; uncountable
+3948|смертельный|deadly|adjective
+3949|вытаскивать|to pull out|verb; regular
+3950|официант|waiter|noun; singular
+3951|обвинение|accusation|noun; singular
+3952|мэр|mayor|noun; singular
+3953|школьник|schoolboy|noun; singular
+3954|НКВД|NKVD|noun; abbreviation; proper
+3955|беречь|to protect|verb; irregular
+3956|молиться|to pray|verb; regular; reflexive
+3957|рюкзак|backpack|noun; singular
+3958|проявляться|to manifest|verb; regular; reflexive
+3959|сталинский|Stalinist|adjective
+3960|покупка|purchase|noun; singular
+3961|осел|donkey|noun; singular
+3962|описывать|to describe|verb; regular
+3963|баран|ram|noun; singular
+3964|безумный|insane|adjective
+3965|ведать|to know|verb; irregular
+3966|Япония|Japan|noun; singular; proper
+3967|пустынный|deserted|adjective
+3968|специальность|specialty|noun; singular
+3969|походка|gait|noun; singular
+3970|увезти|to take away|verb; perfective
+3971|приветствовать|to greet|verb; regular
+3972|оборот|turnover|noun; singular
+3973|бульвар|boulevard|noun; singular
+3974|скамья|bench|noun; singular
+3975|презрительный|contemptuous|adjective
+3976|буфет|buffet|noun; singular
+3977|итальянский|Italian|adjective
+3978|бумажный|paper|adjective
+3979|опираться|to lean|verb; regular; reflexive
+3980|серия|series|noun; singular
+3981|неожиданность|surprise|noun; singular
+3982|купол|dome|noun; singular
+3983|наказать|to punish|verb; perfective
+3984|развитый|developed|adjective
+3985|копия|copy|noun; singular
+3986|научно|scientifically|adverb
+3987|тропинка|path|noun; singular
+3988|рама|frame|noun; singular
+3989|упомянуть|to mention|verb; perfective
+3990|вздрагивать|to shudder|verb; regular
+3991|расположение|arrangement|noun; singular
+3992|приглашение|invitation|noun; singular
+3993|башка|noggin|noun; singular
+3994|горько|bitterly|adverb
+3995|буря|storm|noun; singular
+3996|пионер|pioneer|noun; singular
+3997|сухо|dryly|adverb
+3998|неясный|unclear|adjective
+3999|философия|philosophy|noun; singular; uncountable
+4000|шерсть|wool|noun; singular; uncountable

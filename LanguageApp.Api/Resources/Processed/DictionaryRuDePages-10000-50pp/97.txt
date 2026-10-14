@@ -1,0 +1,50 @@
+4851|позор|Бесчестье, постыдное положение|Schande|noun; feminine
+4852|конструкция|Состав и взаиморасположение частей сооружения или механизма|Konstruktion|noun; feminine
+4853|концепция|Система взглядов; основная руководящая идея|Konzeption|noun; feminine
+4854|особняк|Отдельный городской дом для одной семьи|Villa|noun; feminine
+4855|весть|Известие, сообщение о чём-либо|Nachricht|noun; feminine
+4856|строиться|Возводиться, сооружаться|gebaut werden|verb; imperfective; infinitive
+4857|бабочка|Насекомое с цветными крыльями, покрытыми чешуйками|Schmetterling|noun; masculine
+4858|опомниться|Прийти в сознание, обрести самообладание|zur Besinnung kommen|verb; perfective; infinitive; reflexive
+4859|тыкать|Ударять острым предметом; тыкать куда-либо|stechen|verb; imperfective; infinitive
+4860|перебивать|Прерывать того, кто говорит|unterbrechen|verb; imperfective; infinitive
+4861|вполголоса|Негромко, не в полный голос|halblaut|adverb
+4862|изделие|Вещь, произведённая трудом|Produkt|noun; neuter
+4863|студия|Мастерская художника; студия записи|Studio|noun; neuter
+4864|ленинский|Связанный с Лениным или ленинизмом|leninistisch|adjective
+4865|видение|Способность видеть и воспринимать; также мистическое явление|Vision|noun; feminine
+4866|слюна|Бесцветная жидкость в полости рта|Speichel|noun; masculine
+4867|попрощаться|Проститься, обменяться прощальными словами|sich verabschieden|verb; perfective; infinitive; reflexive
+4868|круто|Резко, крутым образом|steil|adverb
+4869|отменить|Объявить недействительным, упразднить|abschaffen|verb; perfective; infinitive
+4870|встречный|Движущийся навстречу|entgegenkommend|adjective
+4871|подавлять|Лишать кого-либо возможности действовать|unterdrücken|verb; imperfective; infinitive
+4872|сложность|Трудность, осложняющее обстоятельство|Schwierigkeit|noun; feminine
+4873|выслать|Направить кого-либо куда-либо; выдворить|aussenden|verb; perfective; infinitive
+4874|землянин|Житель Земли|Erdling|noun; masculine
+4875|строение|Здание, постройка|Gebäude|noun; neuter
+4876|дежурить|Нести дежурство по очереди|Dienst haben|verb; imperfective; infinitive
+4877|скрипка|Четырёхструнный смычковый инструмент высокого регистра|Geige|noun; feminine
+4878|украсить|Сделать красивее, придать нарядный вид|schmücken|verb; perfective; infinitive
+4879|ложный|Содержащий ложь, ошибочный|falsch|adjective
+4880|бас|Самый низкий мужской певческий голос|Bass|noun; masculine
+4881|песенка|Маленькая песня (уменьш.)|Liedchen|noun; neuter
+4882|сани|Зимняя повозка на полозьях|Schlitten|noun; masculine
+4883|редкость|Нечто редко встречающееся|Seltenheit|noun; feminine
+4884|федерация|Союзное государство из объединившихся образований|Föderaion|noun; feminine
+4885|диагноз|Медицинское заключение о состоянии здоровья и болезни|Diagnose|noun; feminine
+4886|чудовище|Страшное уродливое существо из сказок|Monster|noun; neuter
+4887|вица|— (слово неустановленного значения)|—|—
+4888|помчаться|Начать стремительно двигаться|losjagen|verb; perfective; infinitive
+4889|премьера|Первый показ спектакля или фильма|Premiere|noun; feminine
+4890|разыскать|Найти после поисков|ausfindig machen|verb; perfective; infinitive
+4891|хоронить|Погребать умершего по установленному обряду|begraben|verb; imperfective; infinitive
+4892|букет|Срезанные цветы, подобранные вместе|Blumenstrauß|noun; masculine
+4893|доставлять|Привозить, привозить по назначению|liefern|verb; imperfective; infinitive
+4894|выпрямиться|Принять прямое положение|sich aufrichten|verb; perfective; infinitive; reflexive
+4895|придать|Добавить, наделить чем-либо|verleihen|verb; perfective; infinitive
+4896|хорошенький|Миловидный, симпатичный|niedlich|adjective
+4897|боковой|Расположенный сбоку|seitlich|adjective
+4898|кредит|Ссуда, предоставление средств в долг|Kredit|noun; masculine
+4899|эшелон|Поезд для массовых перевозок|Truppenzug|noun; masculine
+4900|поздравлять|Выражать поздравление|gratulieren|verb; imperfective; infinitive

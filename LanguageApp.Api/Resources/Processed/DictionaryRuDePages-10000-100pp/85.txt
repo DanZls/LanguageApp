@@ -1,0 +1,100 @@
+8401|дореволюционный|Существовавший до революции|vorrevolutionär|adjective
+8402|департамент|Отдел министерства или высшего государственного органа|Abteilung|noun; feminine
+8403|бритый|Очищенный от волос бритьём|rasiert|adjective
+8404|лепить|Создавать изображение из пластичного материала|modellieren|verb; imperfective; infinitive
+8405|тайвань|Остров в Восточной Азии|Taiwan|noun; masculine; proper
+8406|могущественный|Обладающий большой властью и силой|mächtig|adjective
+8407|выбивать|Вышибать что-либо ударом|herausschlagen|verb; imperfective; infinitive
+8408|шестерка|Цифра или количество шесть|Sechs|noun; feminine
+8409|освоить|Полностью овладеть чем-либо, научиться использовать|sich aneignen|verb; perfective; infinitive; reflexive
+8410|диапазон|Интервал от низшего до высшего значения|Tonumfang|noun; masculine
+8411|нюхать|Вдыхать через нос, определяя запах|riechen an|verb; imperfective; infinitive
+8412|наручник|Железные оковы для запястий|Handschelle|noun; feminine
+8413|разинуть|Широко открыть рот|aufreißen|verb; perfective; infinitive
+8414|строгость|Качество строгого; жёсткое требование|Strenge|noun; feminine
+8415|назло|Наперекор, чтобы рассердить|zum Trotz|adverb
+8416|бесцветный|Не имеющий цвета; блёклый|farblos|adjective
+8417|выспаться|Хорошо отдохнуть, поспав достаточно|ausschlafen|verb; perfective; infinitive
+8418|просмотреть|Ознакомиться, просматривая|durchsehen|verb; perfective; infinitive
+8419|наброситься|Броситься, напасть на кого-либо|sich stürzen auf|verb; perfective; infinitive; reflexive
+8420|переплет|Жёсткая обложка книги|Bucheinband|noun; masculine
+8421|либеральный|Проявляющий либерализм, свободомыслящий|liberal|adjective
+8422|грядка|Длинная узкая полоса земли для посева|Beet|noun; neuter
+8423|миллионер|Обладатель состояния в миллионы|Millionär|noun; masculine
+8424|недостаточный|Не удовлетворяющий потребности по количеству|unzureichend|adjective
+8425|эвакуация|Вывоз людей или имущества из опасных мест|Evakuierung|noun; feminine
+8426|афиша|Объявление о спектакле, концерте или мероприятии|Plakat|noun; neuter
+8427|кадровый|Относящийся к постоянному составу персонала|Personal-|adjective
+8428|выбрить|Побрить, очистить бритьём|rasieren|verb; perfective; infinitive
+8429|отвыкнуть|Утратить привычку к чему-либо|entwöhnen|verb; perfective; infinitive
+8430|обыкновенно|Как правило, как всегда|gewöhnlich|adverb
+8431|опешить|Растеряться от неожиданности|verblüfft sein|verb; perfective; infinitive
+8432|накопиться|Собраться в большом количестве|sich ansammeln|verb; perfective; infinitive; reflexive
+8433|графиня|Женщина, носящая дворянский титул графа|Gräfin|noun; feminine
+8434|шведский|Относящийся к Швеции или шведам|schwedisch|adjective
+8435|отопление|Нагревание помещений|Heizung|noun; feminine
+8436|параллельно|Одновременно, в тот же период|parallel|adverb
+8437|гаркнуть|Один раз громко крикнуть|aufschreien|verb; perfective; infinitive
+8438|фляга|Плоская бутылка для ношения|Feldflasche|noun; feminine
+8439|чаща|Густой непроходимый лес|Dickicht|noun; neuter
+8440|вкрадчивый|Стремящийся вызвать доверие лестью и притворной любезностью|schmeichlerisch|adjective
+8441|сущий|Самый настоящий, истинный|wahrhaftig|adjective
+8442|конный|Действующий с помощью лошадей; кавалерийский|berittener|adjective
+8443|будильник|Часы со звонком для пробуждения|Wecker|noun; masculine
+8444|отрывок|Часть, выбранная из произведения|Auszug|noun; masculine
+8445|усиливать|Делать более сильным или интенсивным|verstärken|verb; imperfective; infinitive
+8446|заглушить|Подавить или уменьшить звук|übertönen|verb; perfective; infinitive
+8447|равенство|Одинаковое положение и права; подобие по величине|Gleichheit|noun; feminine
+8448|прорвать|Разорвав, сделать отверстие|durchreißen|verb; perfective; infinitive
+8449|извне|Снаружи, со стороны|von außen|adverb
+8450|взлет|Подъём в воздух; воодушевление|Aufstieg|noun; masculine
+8451|облепить|Покрыть, прилепляя со всех сторон|bekleben|verb; perfective; infinitive
+8452|обняться|Обнять друг друга|sich umarmen|verb; perfective; infinitive; reflexive
+8453|улавливать|Замечать, воспринимать|wahrnehmen|verb; imperfective; infinitive
+8454|немедленный|Безотлагательный, срочный|sofortig|adjective
+8455|отмахиваться|Отгонять движением руки|abwehren|verb; imperfective; infinitive
+8456|сумрачный|Угрюмый, мрачный|düster|adjective
+8457|угадываться|Проявляться, быть угадываемым|zu erkennen sein|verb; imperfective
+8458|содрать|Снять, содрать что-либо с поверхности|abziehen|verb; perfective; infinitive
+8459|мучение|Мука, страдание|Qual|noun; feminine
+8460|корочка|Удостоверение или диплом в твёрдой обложке (разг.)|Ausweis|noun; masculine
+8461|рассудок|Способность к мышлению; здравый смысл|Verstand|noun; masculine
+8462|согнутый|Изогнутый, приведённый в согнутое положение|gebogen|adjective; participle
+8463|затруднение|Трудное положение, осложнение|Schwierigkeit|noun; feminine
+8464|престарелый|Очень пожилой, старый|hochbetagt|adjective
+8465|скудный|Недостаточный, бедный|karg|adjective
+8466|намерен|Предполагает, собирается что-либо сделать|beabsichtigt|adjective; predicative
+8467|обойма|Приспособление для патронов в магазинном оружии|Magazin|noun; neuter
+8468|мыс|Часть суши, выступающая в водоём|Kap|noun; neuter
+8469|панель|Пешеходная дорожка вдоль улицы, тротуар|Gehsteig|noun; masculine
+8470|окрасить|Покрыть поверхность краской|anstreichen|verb; perfective; infinitive
+8471|графика|Искусство изображения контурными линиями без красок|Grafik|noun; feminine
+8472|инвестор|Лицо, осуществляющее инвестиции|Investor|noun; masculine
+8473|джаз|Импровизационная музыка, сочетающая европейские и африканские традиции|Jazz|noun; masculine
+8474|преобладать|Занимать господствующее положение, превосходить числом|überwiegen|verb; imperfective; infinitive
+8475|зазвонить|Начать звонить|anfangen zu klingeln|verb; perfective; infinitive
+8476|окровавленный|Покрытый кровью|blutbefleckt|adjective; passive participle
+8477|повышаться|Становиться выше, увеличиваться|steigen|verb; imperfective; infinitive
+8478|входящий|О корреспонденции: получаемый организацией|eingehend|adjective; participle
+8479|исходный|Начальный, отправной|Ausgangs-|adjective
+8480|подчас|Иногда, в отдельные моменты|manchmal|adverb
+8481|мотылек|Небольшая бабочка|Schmetterling|noun; masculine
+8482|рекорд|Наивысший показатель в труде или спорте|Rekord|noun; masculine
+8483|операционный|Относящийся к операциям (хирургическим или военным)|Operations-|adjective
+8484|ругань|Грубые бранные слова; ссора|Beschimpfung|noun; feminine
+8485|гримаса|Намеренное или невольное искажение лица|Grimasse|noun; feminine
+8486|писарь|Должностное лицо, занимающееся перепиской|Schreiber|noun; masculine
+8487|гормон|Биологически активное вещество, вырабатываемое организмом|Hormon|noun; neuter
+8488|ладоши|Ладони рук|Handflächen|noun; plural
+8489|компас|Прибор для определения сторон горизонта|Kompass|noun; masculine
+8490|сказываться|Проявляться, обнаруживаться|sich auswirken|verb; imperfective; reflexive
+8491|гимнастика|Комплекс физических упражнений для укрепления здоровья|Gymnastik|noun; feminine
+8492|утешение|То, что приносит облегчение в горе|Trost|noun; masculine
+8493|лось|Крупное парнокопытное животное семейства оленей|Elch|noun; masculine
+8494|засохнуть|Высохнуть, потерять влагу|eintrocknen|verb; perfective; infinitive
+8495|облачко|Небольшое облако (уменьш.)|Wölkchen|noun; neuter; diminutive
+8496|пони|Лошадь мелкой породы|Pony|noun; neuter
+8497|смыть|Удалить водой или мытьём|abwaschen|verb; perfective; infinitive
+8498|отвлечь|Направить внимание на другое, отвлечь|ablenken|verb; perfective; infinitive
+8499|тракторист|Водитель трактора|Traktorist|noun; masculine
+8500|крякнуть|Издать короткий резкий звук (о крике птицы)|quaken|verb; perfective; infinitive

@@ -1,0 +1,100 @@
+2301|ценность|value|noun; singular
+2302|заяц|hare|noun; singular
+2303|сэр|sir|noun; singular
+2304|желудок|stomach|noun; singular
+2305|слабость|weakness|noun; singular
+2306|танец|dance|noun; singular
+2307|изучать|to study|verb; regular
+2308|удивительно|surprisingly|adverb
+2309|пилить|to saw|verb; regular
+2310|князь|prince|noun; singular
+2311|партийный|party|adjective
+2312|бомба|bomb|noun; singular
+2313|воин|warrior|noun; singular
+2314|подписать|to sign|verb; perfective
+2315|стрелок|shooter|noun; singular
+2316|посылать|to send|verb; regular
+2317|комитет|committee|noun; singular
+2318|карточка|card|noun; singular
+2319|итог|result|noun; singular
+2320|девка|wench|noun; singular
+2321|воображение|imagination|noun; singular; uncountable
+2322|душевный|heartfelt|adjective
+2323|плотный|dense|adjective
+2324|танцевать|to dance|verb; regular
+2325|склон|slope|noun; singular
+2326|действительность|reality|noun; singular
+2327|объяснение|explanation|noun; singular
+2328|серебряный|silver|adjective
+2329|коротко|briefly|adverb
+2330|подобрать|to pick up|verb; perfective
+2331|незаметно|unnoticeably|adverb
+2332|осветить|to illuminate|verb; perfective
+2333|дешевый|cheap|adjective
+2334|многочисленный|numerous|adjective
+2335|степь|steppe|noun; singular
+2336|стеклянный|glass|adjective
+2337|вор|thief|noun; singular; irregular plural
+2338|внук|grandson|noun; singular
+2339|голодный|hungry|adjective
+2340|винтовка|rifle|noun; singular
+2341|лев|lion|noun; singular
+2342|тяжесть|weight|noun; singular
+2343|приобрести|to acquire|verb; perfective
+2344|оборона|defense|noun; singular
+2345|ужасно|terribly|adverb
+2346|огонек|light|noun; singular
+2347|поинтересоваться|to inquire|verb; perfective; reflexive
+2348|вечерний|evening|adjective
+2349|заорать|to yell|verb; perfective
+2350|трогать|to touch|verb; regular
+2351|задержать|to detain|verb; perfective
+2352|подбородок|chin|noun; singular
+2353|стиль|style|noun; singular
+2354|вещий|prophetic|adjective
+2355|редактор|editor|noun; singular
+2356|потребовать|to demand|verb; perfective
+2357|щель|slit|noun; singular
+2358|вслух|aloud|adverb
+2359|блестеть|to shine|verb; regular
+2360|противоположный|opposite|adjective
+2361|давление|pressure|noun; singular; uncountable
+2362|коммунистический|communist|adjective
+2363|режиссер|director|noun; singular
+2364|значительно|significantly|adverb
+2365|дар|gift|noun; singular
+2366|метро|subway|noun; singular; indeclinable
+2367|шанс|chance|noun; singular
+2368|конкретный|specific|adjective
+2369|наблюдение|observation|noun; singular
+2370|май|May|noun; singular
+2371|усесться|to settle down|verb; perfective; reflexive
+2372|сиять|to shine|verb; regular
+2373|туча|cloud|noun; singular
+2374|стоящий|worthwhile|adjective
+2375|вырваться|to break free|verb; perfective; reflexive
+2376|отвернуться|to turn away|verb; perfective; reflexive
+2377|дума|thought|noun; singular
+2378|закончиться|to end|verb; perfective; reflexive
+2379|клиент|client|noun; singular
+2380|двигатель|engine|noun; singular
+2381|сентябрь|September|noun; singular
+2382|дежурный|on duty|adjective
+2383|бормотать|to mutter|verb; regular
+2384|завтрак|breakfast|noun; singular
+2385|состояться|to take place|verb; perfective; reflexive
+2386|рыбак|fisherman|noun; singular; irregular plural
+2387|взвод|platoon|noun; singular
+2388|особо|especially|adverb
+2389|поправить|to fix|verb; perfective
+2390|альбом|album|noun; singular
+2391|болото|swamp|noun; singular
+2392|ответственность|responsibility|noun; singular
+2393|ощутить|to feel|verb; perfective
+2394|беспокоиться|to worry|verb; regular; reflexive
+2395|пламя|flame|noun; singular
+2396|задавать|to assign|verb; regular
+2397|выдавать|to hand over|verb; regular
+2398|полететь|to fly off|verb; perfective
+2399|художественный|artistic|adjective
+2400|отдохнуть|to rest|verb; perfective

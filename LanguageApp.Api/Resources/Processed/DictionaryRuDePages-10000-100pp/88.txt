@@ -1,0 +1,100 @@
+8701|исподлобья|Из-под нахмуренных бровей, исподлобья|finster|adverb
+8702|влиятельный|Обладающий значительным влиянием|einflussreich|adjective
+8703|молвить|Сказать, произнести (устар.)|sprechen|verb; imperfective; infinitive
+8704|изменяться|Становиться другим, меняться|sich verändern|verb; imperfective; infinitive; reflexive
+8705|разговориться|Начать говорить свободно и непринуждённо|ins Gespräch kommen|verb; perfective; infinitive
+8706|чекушка|Четвертинка бутылки водки (разг.)|Viertelliter|noun; masculine
+8707|ограничиваться|Ограничивать себя, не выходить за рамки|sich beschränken|verb; imperfective; infinitive; reflexive
+8708|грипп|Острое вирусное заболевание дыхательных путей с лихорадкой|Grippe|noun; feminine
+8709|курточка|Небольшая лёгкая куртка (уменьш.)|Jäckchen|noun; neuter; diminutive
+8710|охранный|Охраняющий или предназначенный для охраны|Schutz-|adjective
+8711|почет|Уважение, оказываемое обществом|Ehre|noun; feminine
+8712|ветхий|Разрушающийся от старости, дряхлый|baufällig|adjective
+8713|новорожденный|Только что появившийся на свет|neugeboren|adjective
+8714|предшественник|Человек, действовавший до кого-либо и подготовивший почву|Vorgänger|noun; masculine
+8715|отдаление|Далёкое расстояние; удаление|Ferne|noun; feminine
+8716|тамошний|Находящийся или относящийся к тому месту|dortig|adjective
+8717|кентавр|В греческой мифологии: существо с телом коня и верхней частью человека|Zentaur|noun; masculine
+8718|горб|Выпуклость на спине вследствие деформации позвоночника|Buckel|noun; masculine
+8719|распространять|Расширять, увеличивать охват|verbreiten|verb; imperfective; infinitive
+8720|выработать|Произвести, создать в ходе работы|erarbeiten|verb; perfective; infinitive
+8721|пронести|Пронести что-либо на определённое расстояние|durchtragen|verb; perfective; infinitive
+8722|калашникова|Автомат Калашникова|Kalaschnikow|noun; masculine; proper
+8723|кордон|Пограничный или заградительный отряд|Kordon|noun; masculine
+8724|лазить|Многократно лезть, карабкаться|klettern|verb; imperfective; infinitive
+8725|теленок|Детёныш коровы|Kalb|noun; neuter
+8726|плетень|Изгородь из сплетённых прутьев и ветвей|Flechtwerk|noun; neuter
+8727|болотный|Коричневато-зелёного цвета; относящийся к болоту|Sumpf-|adjective
+8728|выгореть|Сгореть полностью|ausbrennen|verb; perfective; infinitive
+8729|цензура|Система государственного контроля над печатью и СМИ|Zensur|noun; feminine
+8730|корявый|Искривлённый, шероховатый с неровностями|knorrig|adjective
+8731|выручка|Деньги, полученные от продажи|Einnahmen|noun; plural
+8732|аквариум|Стеклянный резервуар с водой для содержания рыб|Aquarium|noun; neuter
+8733|телохранитель|Человек, охраняющий чью-либо личную безопасность|Leibwächter|noun; masculine
+8734|газон|Площадка, засеянная травой|Rasen|noun; masculine
+8735|детски|По-детски, как ребёнок|kindlich|adverb
+8736|кучер|Работник, управляющий лошадиным экипажем|Kutscher|noun; masculine
+8737|розочка|Украшение в форме розы (уменьш.)|Röschen|noun; neuter; diminutive
+8738|простоять|Провести время стоя или неподвижно|stehen bleiben|verb; perfective; infinitive
+8739|воистину|Действительно, на самом деле|wahrlich|adverb
+8740|горбун|Человек с горбом|Buckliger|noun; masculine
+8741|детдом|Детский дом|Kinderheim|noun; neuter
+8742|экономист|Специалист в области экономики|Ökonom|noun; masculine
+8743|размеренный|Плавный, ритмичный, неторопливый|gemächlich|adjective
+8744|именоваться|Называться определённым именем|heißen|verb; imperfective; infinitive
+8745|успокаиваться|Становиться спокойным|sich beruhigen|verb; imperfective; infinitive; reflexive
+8746|комплект|Полный набор предметов|Satz|noun; masculine
+8747|артерия|Кровеносный сосуд, несущий кровь от сердца|Arterie|noun; feminine
+8748|просматривать|Бегло осматривать или читать|durchsehen|verb; imperfective; infinitive
+8749|вонь|Отвратительный запах, зловоние|Gestank|noun; masculine
+8750|селедка|Сельдь (чаще о приготовленном продукте)|Hering|noun; masculine
+8751|портсигар|Карманная плоская коробка для сигарет или папирос|Zigarettenetui|noun; neuter
+8752|преобразование|Крупное изменение, реформирование|Umgestaltung|noun; feminine
+8753|шестьсот|Число 600|sechshundert|numeral; cardinal
+8754|колдунья|Женщина, занимающаяся колдовством|Hexe|noun; feminine
+8755|хозяйский|Относящийся к хозяину; рачительный|Hausherren-|adjective
+8756|пролетарский|Относящийся к пролетариату|proletarisch|adjective
+8757|приземлиться|Опуститься на землю (о самолёте или прыгуне)|landen|verb; perfective; infinitive
+8758|проситься|Просить разрешения что-либо сделать|bitten|verb; imperfective; infinitive
+8759|управиться|Завершить работу, справиться|fertig werden|verb; perfective; infinitive
+8760|храбрость|Мужество и решительность, отсутствие страха|Tapferkeit|noun; feminine
+8761|противостоять|Сопротивляться воздействию, сохраняя устойчивость|widerstehen|verb; imperfective; infinitive
+8762|оскорблять|Обижать, унижать словом или действием|beleidigen|verb; imperfective; infinitive
+8763|правота|Соответствие истине, правильность позиции|Recht|noun; neuter
+8764|лопух|Репейник с большими листьями|Klette|noun; feminine
+8765|корешок|Часть книги, где скреплены листы|Buchrücken|noun; masculine
+8766|привилегия|Преимущественное право, льгота|Privileg|noun; neuter
+8767|добровольный|Совершаемый по собственному желанию|freiwillig|adjective
+8768|колючка|Шип, острый вырост растения|Stachel|noun; masculine
+8769|походный|Пригодный для использования в походе|Feld-|adjective
+8770|мара|Призрак, наваждение (в славянской мифологии)|Gespenst|noun; neuter
+8771|Финляндия|Государство в Северной Европе|Finnland|noun; neuter; proper
+8772|являть|Проявлять, демонстрировать|zeigen|verb; imperfective; infinitive
+8773|иней|Слой ледяных кристаллов на охлаждённой поверхности|Raureif|noun; masculine
+8774|свинец|Мягкий тяжёлый металл синевато-серого цвета|Blei|noun; neuter
+8775|трофейный|Относящийся к трофею или захваченный как трофей|Beute-|adjective
+8776|гастроль|Выступление артиста за пределами основного места работы|Gastspiel|noun; neuter
+8777|заикаться|Страдать заиканием; говорить с затруднением|stottern|verb; imperfective; infinitive
+8778|проработать|Проработать определённое время|durcharbeiten|verb; perfective; infinitive
+8779|вышибить|Резким толчком выбить|herausschlagen|verb; perfective; infinitive
+8780|гулко|С гулким эхом, с раскатистым звуком|hallend|adverb
+8781|нырять|Погружаться в воду с головой|tauchen|verb; imperfective; infinitive
+8782|умываться|Умывать лицо или руки|sich waschen|verb; imperfective; infinitive; reflexive
+8783|продержаться|Пробыть некоторое время, сохраняя позицию|sich halten|verb; perfective; infinitive; reflexive
+8784|ограничивать|Устанавливать границу, сдерживать|einschränken|verb; imperfective; infinitive
+8785|подложить|Положить что-либо подо что-то|unterlegen|verb; perfective; infinitive
+8786|прогуливаться|Неторопливо прохаживаться|spazieren gehen|verb; imperfective; infinitive
+8787|раздражить|Вызвать раздражение, рассердить|reizen|verb; perfective; infinitive
+8788|собрат|Товарищ по профессии или роду занятий|Kollege|noun; masculine
+8789|тулуп|Длинная меховая шуба|Pelzmantel|noun; masculine
+8790|жаба|Бесхвостое земноводное с бородавчатой кожей|Kröte|noun; feminine
+8791|монолог|Речь одного лица, обращённая к другим или к себе|Monolog|noun; masculine
+8792|картофель|Клубнеплод семейства пасленовых, богатый крахмалом|Kartoffel|noun; feminine
+8793|возглавить|Встать во главе, взять руководство|leiten|verb; perfective; infinitive
+8794|анализировать|Проводить анализ чего-либо|analysieren|verb; imperfective; perfective; infinitive
+8795|скопление|Большое количество собравшихся людей или предметов|Ansammlung|noun; feminine
+8796|поражаться|Удивляться, изумляться чему-либо|staunen|verb; imperfective; infinitive
+8797|чум|Конусообразное переносное жилище северных народов|Zelt|noun; neuter
+8798|снеговой|Относящийся к снегу|Schnee-|adjective
+8799|сказаться|Обнаружиться, проявиться как следствие|sich auswirken|verb; perfective; infinitive; reflexive
+8800|синеватый|Слегка синий, с оттенком синевы|bläulich|adjective

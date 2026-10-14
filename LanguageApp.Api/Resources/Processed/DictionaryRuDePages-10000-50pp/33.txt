@@ -1,0 +1,50 @@
+1651|преступление|Общественно опасное действие, нарушающее закон|Verbrechen|noun; neuter
+1652|стенка|Боковая сторона вместилища; тонкая стена|Wand|noun; feminine
+1653|орать|Громко кричать; очень громко говорить|schreien|verb; imperfective; infinitive
+1654|кругом|Вокруг; огибая со всех сторон|ringsum|adverb
+1655|обойтись|Поступить определённым образом; справиться без чего-либо|auskommen|verb; perfective; infinitive
+1656|луна|Спутник Земли, отражающий солнечный свет|Mond|noun; masculine
+1657|богатый|Обладающий большим имуществом; зажиточный|reich|adjective
+1658|гостиница|Дом с номерами для временного проживания приезжих|Hotel|noun; neuter
+1659|беседа|Разговор; обмен мнениями|Gespräch|noun; neuter
+1660|твёрдый|Сохраняющий форму в отличие от жидкого и газообразного|fest|adjective
+1661|полк|Воинская часть в составе дивизии или бригады|Regiment|noun; neuter
+1662|выдать|Предоставить; снабдить чем-либо|ausgeben|verb; perfective; infinitive
+1663|лапа|Нога с пальцами у животных; лапа|Pfote|noun; feminine
+1664|воевать|Вести войну; участвовать в боевых действиях|kämpfen|verb; imperfective; infinitive
+1665|останавливаться|Прекращать движение; задерживаться|anhalten|verb; imperfective; infinitive; reflexive
+1666|никуда|Ни в какое место|nirgendwohin|adverb
+1667|обладать|Иметь в наличии или в числе своих свойств|besitzen|verb; imperfective; infinitive
+1668|продать|Передать в собственность за плату|verkaufen|verb; perfective; infinitive
+1669|спорить|Вести спор; возражать|streiten|verb; imperfective; infinitive
+1670|солнечный|Освещённый ярким солнечным светом|sonnig|adjective
+1671|забор|Ограда, преимущественно деревянная|Zaun|noun; masculine
+1672|больший|Более крупный по размеру или количеству|größer|adjective; comparative
+1673|пост|Ответственная должность; место несения вахты|Posten|noun; masculine
+1674|полезть|Начать лезть; приступить к карабканью|anfangen zu klettern|verb; perfective; infinitive
+1675|печальный|Проникнутый печалью; вызывающий грусть|traurig|adjective
+1676|выполнять|Исполнять; осуществлять задание|ausführen|verb; imperfective; infinitive
+1677|требоваться|Быть необходимым; нужным|benötigt werden|verb; imperfective; infinitive
+1678|бледный|Слабо окрашенный; лишённый яркости|blass|adjective
+1679|умирать|Лишаться жизни; переставать жить|sterben|verb; imperfective; infinitive
+1680|шапка|Головной убор, преимущественно тёплый|Mütze|noun; feminine
+1681|дойти|Достичь места назначения пешком|erreichen|verb; perfective; infinitive
+1682|успокоиться|Стать спокойным; перестать волноваться|sich beruhigen|verb; perfective; infinitive; reflexive
+1683|университет|Высшее учебное заведение с различными отделениями|Universität|noun; feminine
+1684|бабка|Мать отца или матери (разг.)|Oma|noun; feminine
+1685|журналист|Работник средств массовой информации|Journalist|noun; masculine
+1686|должность|Служебное место; служебная обязанность|Stelle|noun; feminine
+1687|приближаться|Становиться ближе; подходить|sich nähern|verb; imperfective; infinitive; reflexive
+1688|истина|Адекватное отражение реальности в сознании; правда|Wahrheit|noun; feminine
+1689|раствор|Жидкость с растворённым в ней веществом|Lösung|noun; feminine
+1690|газ|Вещество в газообразном состоянии|Gas|noun; neuter
+1691|позиция|Положение; расположение; точка зрения|Position|noun; feminine
+1692|летать|Совершать полёт; перемещаться по воздуху|fliegen|verb; imperfective; infinitive
+1693|неожиданный|Непредвиденный; такой, которого не ожидали|unerwartet|adjective
+1694|убивать|Лишать жизни; умерщвлять|töten|verb; imperfective; infinitive
+1695|появление|Процесс или момент появления|Erscheinen|noun; neuter
+1696|глухой|Лишённый слуха; не способный слышать|taub|adjective
+1697|обыкновенный|Обычный; ничем не выделяющийся|gewöhnlich|adjective
+1698|двинуться|Отправиться в путь; начать движение|aufbrechen|verb; perfective; infinitive
+1699|решительно|Абсолютно; с полной определённостью|entschieden|adverb
+1700|спуститься|Переместиться сверху вниз|hinabsteigen|verb; perfective; infinitive

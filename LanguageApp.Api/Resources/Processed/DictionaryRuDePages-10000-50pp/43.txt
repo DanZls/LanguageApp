@@ -1,0 +1,50 @@
+2151|март|Третий месяц календарного года|März|noun; masculine
+2152|оглядываться|Осматривать вокруг; поворачивать взгляд назад|sich umschauen|verb; imperfective; infinitive; reflexive
+2153|сигнал|Условный знак для передачи сведений на расстояние|Signal|noun; neuter
+2154|больной|Человек, страдающий болезнью|Kranker|noun; masculine
+2155|сыграть|Исполнить роль или выполнить игровое действие|spielen|verb; perfective; infinitive
+2156|библиотека|Учреждение для хранения и использования книжных фондов|Bibliothek|noun; feminine
+2157|услать|Послав куда-нибудь, удалить|wegschicken|verb; perfective; infinitive
+2158|махать|Делать взмахи чем-либо|winken|verb; imperfective; infinitive
+2159|ЦК|Центральный комитет (аббревиатура)|ZK|noun; masculine; abbreviation
+2160|предполагать|Иметь намерение; допускать возможность|annehmen|verb; imperfective; infinitive
+2161|заметно|Явно; ощутимо; видно|merklich|adverb
+2162|сеть|Изделие из перекрещивающихся нитей или проволоки|Netz|noun; neuter
+2163|коричневый|Буро-жёлтый, цвета жареного кофе|braun|adjective
+2164|тщательно|Старательно, с большим вниманием|sorgfältig|adverb
+2165|нерв|Волокно, связывающее мозг с органами тела|Nerv|noun; masculine
+2166|вертолет|Летательный аппарат с горизонтальным несущим винтом|Hubschrauber|noun; masculine
+2167|сладкий|Имеющий вкус сахара или мёда|süß|adjective
+2168|лекарство|Природное или синтетическое лечебное средство|Medikament|noun; neuter
+2169|рассчитывать|Производить исчисление; учитывать данные|berechnen|verb; imperfective; infinitive
+2170|запретить|Не позволить делать что-либо|verbieten|verb; perfective; infinitive
+2171|кладбище|Место погребения умерших|Friedhof|noun; masculine
+2172|переход|Место для пешеходов; перемещение из одного места в другое|Übergang|noun; masculine
+2173|сообщать|Передавать информацию или сообщение|mitteilen|verb; imperfective; infinitive
+2174|функция|Работа, выполняемая органом или системой|Funktion|noun; feminine
+2175|перебить|Убить многих|niedermachen|verb; perfective; infinitive
+2176|пулемет|Скорострельное автоматическое огнестрельное оружие|Maschinengewehr|noun; neuter
+2177|металлический|Сделанный из металла|metallisch|adjective
+2178|батальон|Войсковое подразделение из нескольких рот|Bataillon|noun; neuter
+2179|грузовик|Грузовой автомобиль|Lastwagen|noun; masculine
+2180|радостно|С радостью; испытывая радость|freudig|adverb
+2181|император|Монарх, носящий императорский титул|Kaiser|noun; masculine
+2182|обидеться|Почувствовать обиду; оскорбиться|sich kränken|verb; perfective; infinitive; reflexive
+2183|башня|Высокое узкое архитектурное сооружение|Turm|noun; masculine
+2184|сырой|Влажный; не высохший|feucht|adjective
+2185|инструмент|Орудие для выполнения работ|Werkzeug|noun; neuter
+2186|вынести|Доставить наружу, неся|hinausbringen|verb; perfective; infinitive
+2187|мелочь|Незначительные мелкие предметы или детали|Kleinigkeit|noun; feminine
+2188|жесткий|Твёрдый, плотный на ощупь|hart|adjective
+2189|присутствие|Нахождение в каком-либо месте|Anwesenheit|noun; feminine
+2190|разбитый|Утомлённый, обессиленный|erschöpft|adjective
+2191|поглядывать|Время от времени посматривать; следить взглядом|hinschauen|verb; imperfective; infinitive
+2192|структура|Строение; внутреннее устройство|Struktur|noun; feminine
+2193|отозваться|Откликнуться; дать ответ|sich melden|verb; perfective; infinitive; reflexive
+2194|непонятно|Неясно; нельзя понять|unklar|adverb
+2195|бесконечный|Не имеющий конца или предела|unendlich|adjective
+2196|ружье|Ручное огнестрельное оружие с длинным стволом|Gewehr|noun; neuter
+2197|обрадоваться|Почувствовать радость|sich freuen|verb; perfective; infinitive; reflexive
+2198|участник|Тот, кто принимает участие в чём-либо|Teilnehmer|noun; masculine
+2199|попасться|Оказаться в каких-либо условиях или обстоятельствах|geraten|verb; perfective; infinitive
+2200|задание|Поручение; то, что назначено для выполнения|Aufgabe|noun; feminine

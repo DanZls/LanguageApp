@@ -1,0 +1,50 @@
+4201|копыто|Роговое образование на концах пальцев у некоторых животных|Huf|noun; masculine
+4202|утверждение|Мысль или положение, которое доказывают|Behauptung|noun; feminine
+4203|денежный|Связанный с деньгами; имущий|geldlich|adjective
+4204|конкурс|Соревнование для выявления лучших участников|Wettbewerb|noun; masculine
+4205|толчок|Резкий короткий удар, импульс|Stoß|noun; masculine
+4206|увести|Уходя, взять с собой, повести за собой|wegführen|verb; perfective; infinitive
+4207|сводить|Вести, постепенно сближать|zusammenführen|verb; imperfective; infinitive
+4208|береза|Лиственное дерево с белой корой|Birke|noun; feminine
+4209|приобретать|Становиться обладателем чего-либо|erwerben|verb; imperfective; infinitive
+4210|удалиться|Отдалиться, уйти|sich entfernen|verb; perfective; infinitive; reflexive
+4211|батюшка|Православный священник; обращение к нему|Pater|noun; masculine
+4212|вспыхивать|Внезапно загораться|aufflackern|verb; imperfective; infinitive
+4213|благополучно|Без проблем, успешно|wohlbehalten|adverb
+4214|змей|Сказочное крылатое чудовище|Drache|noun; masculine
+4215|тощий|Исхудалый, очень худой|mager|adjective
+4216|нахмуриться|Придать лицу хмурое выражение|die Stirn runzeln|verb; perfective; infinitive; reflexive
+4217|доступный|Имеющий свободный доступ; понятный|zugänglich|adjective
+4218|салон|Пассажирский отсек транспортного средства|Salon|noun; masculine
+4219|наливать|Заполнять сосуд жидкостью|einschenken|verb; imperfective; infinitive
+4220|бак|Большой сосуд для хранения жидкостей|Tank|noun; masculine
+4221|сантиметр|Единица длины, равная одной сотой метра|Zentimeter|noun; masculine
+4222|секретарша|Женщина-секретарь, ведущая деловую переписку|Sekretärin|noun; feminine
+4223|прошедший|Минувший, относящийся к прошлому|vergangen|adjective
+4224|печаль|Чувство грусти и душевной горести|Trauer|noun; feminine
+4225|подтверждать|Засвидетельствовать правильность чего-либо|bestätigen|verb; imperfective; infinitive
+4226|грамм|Единица массы, равная одной тысячной килограмма|Gramm|noun; neuter
+4227|пропасть|Крутой глубокий обрыв, бездна|Abgrund|noun; masculine
+4228|пилот|Специалист, управляющий летательным аппаратом|Pilot|noun; masculine
+4229|привлекать|Вызывать интерес, притягивать|anziehen|verb; imperfective; infinitive
+4230|брюхо|Живот животного|Bauch|noun; masculine
+4231|семя|Орган размножения растений, зерно|Samen|noun; masculine
+4232|трезвый|Не находящийся в состоянии опьянения|nüchtern|adjective
+4233|полоска|Узкая длинная полоса|Streifen|noun; masculine
+4234|рабочий|Наёмный работник физического труда|Arbeiter|noun; masculine
+4235|залезть|Взобраться наверх|hinaufklettern|verb; perfective; infinitive
+4236|предположение|Догадка, предварительное суждение|Annahme|noun; feminine
+4237|капитализм|Общественный строй, основанный на частной собственности|Kapitalismus|noun; masculine
+4238|пусто|Пустое состояние, ничего нет|leer|adverb
+4239|умолять|Упрашивать, просить с мольбой|anflehen|verb; imperfective; infinitive
+4240|поднести|Приблизить, протянуть что-либо кому-либо|hinreichen|verb; perfective; infinitive
+4241|покупатель|Тот, кто совершает покупку|Käufer|noun; masculine
+4242|пожить|Прожить какое-либо время|eine Weile leben|verb; perfective; infinitive
+4243|неважно|Посредственно, не особенно хорошо|nicht so gut|adverb
+4244|выкинуть|Выбросить, избавиться|wegwerfen|verb; perfective; infinitive
+4245|выводить|Ведя, направлять наружу; удалять|herausführen|verb; imperfective; infinitive
+4246|податься|Направиться куда-либо, отправиться|sich aufmachen|verb; perfective; infinitive; reflexive
+4247|чистить|Удалять грязь, делать чистым|putzen|verb; imperfective; infinitive
+4248|телега|Четырёхколёсная повозка для грузов|Wagen|noun; masculine
+4249|градус|Единица измерения угла или температуры|Grad|noun; masculine
+4250|сверкающий|Ярко блестящий, сияющий|glitzernd|adjective

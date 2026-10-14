@@ -1,0 +1,51 @@
+Represent the Russian explanatory dictionary page file content cleanly, without OCR errors or unnesessary symbols.
+Be extra careful, there are a lot of wrong and misplaced letters and symbols, including mixed Latin/Cyrillic symbols.
+Replace all the wrong letters in the words with correct ones, use only Cyrillic for Russian words.
+The file page is located in the DocumentPage part of this request.
+Use whole words instead of endings or shortenings that are used in the dictionary for shortening.
+Write shortenings fully (i.e. "чем-н." - "чем–нибудь").
+Place each explanation on a single line without empty lines in between.
+If a word has several explanations, duplicate them on new lines.
+Do not duplicate words with the same explanation, such as conjugated forms of the same word.
+If the same word is translated several times with different meanings (marked as Word1, Word2, ...), combine them into a single line.
+Don't include marking numbers, classification tags (i.e. "а", "мн.", "м."), word origins (i.e. "[фр. abonnement]"), usage examples;
+Don't add empty lines between explanations.
+Don't add extra words or symbols, your response is processed programmatically.
+
+
+Example
+
+Assume DocumentPage looks like:
+AБOНEМEНТ, а, м. [фр. abonnement]. 1. Право пользоваться
+чем!н. за плату в течение обу!
+словленного срока; подписка на
+такое пользование. Купить а.
+2. Отдел в библиотеке, выдаю!
+щий читателям книги на дом.
+ВАЛ1
+, а, мн. ы%, м. Значитель
+ной высоты волна. Десятый в.
+ВАЛ2
+, a, м. (экон.). Общий
+объем продукции в стоимостном
+выражении, произведенной за
+определенный период.
+ВАЛ3
+, a, мн. ы%, м. Земляная на
+сыпь значительной высоты || В
+названиях улиц пишется с про
+писной буквы. Земляной Вал.
+ВАЛ4
+, а, мн. ы%, м. (тех.). Ме
+таллический стержень в различ
+ных машинах, вращающийся во
+круг своей оси и передающий
+движение другим частям машины.
+
+Then format your output as:
+абонемент|Право пользоваться чем–нибудь за плату в течение обусловленного срока; подписка на такое пользование
+абонемент|Отдел в библиотеке, выдающий читателям книги на дом
+вал|Значительной высоты волна
+вал|Общий объем продукции в стоимостном выражении, произведенный за определенный период
+вал|Земляная насыпь значительной высоты
+вал|Металлический стержень в различных машинах, вращающийся вокруг своей оси и передающий движение другим частям машины

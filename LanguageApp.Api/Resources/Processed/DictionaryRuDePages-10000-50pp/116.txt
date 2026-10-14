@@ -1,0 +1,50 @@
+5801|исполниться|Осуществиться; воплотиться в жизнь|in Erfüllung gehen|verb; perfective; infinitive
+5802|срезать|Отрезать сверху или с краёв|abschneiden|verb; perfective; infinitive
+5803|обработка|Процесс доработки, отделки или анализа чего-либо|Verarbeitung|noun; feminine
+5804|сработать|Произвести нужное действие; сработаться|funktionieren|verb; perfective; infinitive
+5805|канцелярия|Отдел учреждения по документообороту|Kanzlei|noun; feminine
+5806|стойкий|Прочный, устойчивый; не поддающийся воздействию|standhaft|adjective
+5807|дернуться|Внезапно резко двинуться|zucken|verb; perfective; infinitive
+5808|парочка|Два однородных предмета или человека|Pärchen|noun; neuter
+5809|птичка|Маленькая птица|Vögelchen|noun; neuter
+5810|рассеянно|Без должного внимания и сосредоточенности|zerstreut|adverb
+5811|полосатый|Покрытый параллельными полосами|gestreift|adjective
+5812|субъект|Познающий и действующий человек; отдельная особа|Subjekt|noun; neuter
+5813|изменять|Делать другим; менять|verändern|verb; imperfective; infinitive
+5814|га|Гектар (сокр.)|ha|noun; masculine; abbreviation
+5815|опереться|Воспользоваться чем-либо как опорой|sich stützen|verb; perfective; infinitive; reflexive
+5816|дико|Странно, не по-человечески|wild|adverb
+5817|охватывать|Обнимать со всех сторон; охватывать|umfassen|verb; imperfective; infinitive
+5818|физик|Специалист в области физики|Physiker|noun; masculine
+5819|укрепить|Сделать более прочным или крепким|festigen|verb; perfective; infinitive
+5820|наружный|Внешний; обращённый наружу|äußerlich|adjective
+5821|независимость|Политическая самостоятельность; суверенитет|Unabhängigkeit|noun; feminine
+5822|эксплуатация|Использование ресурсов или средств производства|Ausbeutung|noun; feminine
+5823|канава|Неглубокий ров для отвода воды|Graben|noun; masculine
+5824|раздумывать|Долго размышлять, не приходя к решению|nachdenken|verb; imperfective; infinitive
+5825|переслать|Отправить по назначению|nachschicken|verb; perfective; infinitive
+5826|лгать|Говорить неправду; врать|lügen|verb; imperfective; infinitive
+5827|недоуменный|Выражающий недоумение|verständnislos|adjective
+5828|многозначительный|Имеющий глубокое значение; весомый|bedeutsam|adjective
+5829|занавес|Полотнища, закрывающие сцену|Vorhang|noun; masculine
+5830|цикл|Замкнутая последовательность явлений или событий|Zyklus|noun; masculine
+5831|шок|Тяжёлое расстройство организма от травмы или потрясения|Schock|noun; masculine
+5832|колебание|Неустойчивое движение; состояние нерешительности|Schwankung|noun; feminine
+5833|рыночный|Относящийся к рынку; рыночного типа|Markt-|adjective
+5834|сазан|Промысловая рыба семейства карповых|Karpfen|noun; masculine
+5835|важность|Значимость; важный, высокомерный вид|Wichtigkeit|noun; feminine
+5836|клинический|Относящийся к клинике или клиническому лечению|klinisch|adjective
+5837|лягушка|Бесхвостое земноводное с задними ногами для прыжков|Frosch|noun; masculine
+5838|заново|Снова, с самого начала|von vorn|adverb
+5839|блеснуть|Вспыхнуть светом; внезапно появиться|aufblitzen|verb; perfective; infinitive
+5840|угощать|Предлагать еду или напитки гостям|bewirten|verb; imperfective; infinitive
+5841|механика|Наука о движении тел и действующих силах|Mechanik|noun; feminine
+5842|радист|Специалист по радиосвязи|Funker|noun; masculine
+5843|сизый|Тёмно-серый с синеватым оттенком|graubläulich|adjective
+5844|распределение|Разделение и размещение между получателями|Verteilung|noun; feminine
+5845|отводить|Уводить в сторону; удалять|wegführen|verb; imperfective; infinitive
+5846|запомниться|Остаться в памяти|sich einprägen|verb; perfective; infinitive; reflexive
+5847|кружить|Двигаться по кругу|kreisen|verb; imperfective; infinitive
+5848|погрузиться|Опуститься в жидкость; углубиться во что-либо|eintauchen|verb; perfective; infinitive
+5849|натуральный|Природный, подлинный, не искусственный|natürlich|adjective
+5850|подобие|Нечто похожее на что-либо другое|Ähnlichkeit|noun; feminine

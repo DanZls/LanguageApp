@@ -1,0 +1,50 @@
+7501|цветочек|Небольшой цветок (уменьшительное)|Blümchen|noun; neuter
+7502|импортный|Ввозимый из-за границы; не отечественного производства|importiert|adjective
+7503|помалкивать|Намеренно молчать; воздерживаться от высказываний|schweigen|verb; imperfective; infinitive
+7504|алкоголик|Человек с зависимостью от алкоголя|Alkoholiker|noun; masculine
+7505|венец|Драгоценный головной убор; корона|Krone|noun; feminine
+7506|маневр|Передвижение войск с целью получить тактическое преимущество|Manöver|noun; neuter
+7507|пошевелить|Слегка сдвинуть с места|bewegen|verb; perfective; infinitive
+7508|изъять|Официально изъять или удалить; конфисковать|einziehen|verb; perfective; infinitive
+7509|постигнуть|Понять суть; глубоко уяснить|begreifen|verb; perfective; infinitive
+7510|оседать|Медленно опускаться; уходить вниз|absinken|verb; imperfective; infinitive
+7511|дрозд|Лесная певчая птица семейства дроздовых|Drossel|noun; feminine
+7512|бей|Феодальный и чиновничий титул в ряде стран Ближнего Востока|Bei|noun; masculine
+7513|жгучий|Вызывающий ощущение жжения; обжигающий|brennend|adjective
+7514|тягостный|Обременительный и мучительный; тяжело переносимый|beschwerlich|adjective
+7515|мафия|Преступная организованная группировка, действующая тайно|Mafia|noun; feminine
+7516|котлета|Блюдо из рубленого или отбивного мяса в виде лепёшки|Kotelett|noun; neuter
+7517|корона|Металлический венец с украшениями как символ монаршей власти|Krone|noun; feminine
+7518|казна|Государственные или общественные финансовые ресурсы|Staatskasse|noun; feminine
+7519|татарин|Представитель татарского народа|Tatare|noun; masculine
+7520|словечко|Маленькое или особое словцо (уменьшительное)|Wörtchen|noun; neuter
+7521|подобраться|Тихо и незаметно приблизиться|sich heranschleichen|verb; perfective; infinitive; reflexive
+7522|вероятный|Допустимый; имеющий высокую вероятность|wahrscheinlich|adjective
+7523|борец|Человек, активно сражающийся за что-либо|Kämpfer|noun; masculine
+7524|фронтовик|Солдат или ветеран, воевавший на передовой|Frontsoldat|noun; masculine
+7525|душно|С нехваткой свежего воздуха; в духоте|stickig|adverb
+7526|палить|Вести интенсивный огонь из оружия|schießen|verb; imperfective; infinitive
+7527|одеколон|Парфюмерное средство на спиртовой основе для освежения|Eau de Cologne|noun; neuter
+7528|переступить|Сделав шаг, перейти через преграду|überschreiten|verb; perfective; infinitive
+7529|промежуток|Пространство или время между двумя точками|Abstand|noun; masculine
+7530|ножик|Маленький нож (уменьшительное)|Messerchen|noun; neuter
+7531|почудиться|Привидеться; показаться нереальным (однократно)|erscheinen|verb; perfective; infinitive
+7532|задевать|Случайно касаться; зацепляться за что-либо|streifen|verb; imperfective; infinitive
+7533|теплоход|Судно, приводимое в движение двигателем внутреннего сгорания|Motorschiff|noun; neuter
+7534|веять|Дуть лёгким ветерком; провеивать зерно|wehen|verb; imperfective; infinitive
+7535|Грузия|Государство в Закавказье|Georgien|noun; neuter; proper
+7536|неинтересно|Без интереса; скучно|langweilig|adverb
+7537|снайпер|Специально подготовленный меткий стрелок|Scharfschütze|noun; masculine
+7538|излагать|Передавать содержание устно или письменно|darlegen|verb; imperfective; infinitive
+7539|батон|Белый хлеб продолговатой формы|Weißbrot|noun; neuter
+7540|горелый|Повреждённый или обугленный огнём|verbrannt|adjective
+7541|горлышко|Узкая верхняя часть сосуда или горло (уменьшительное)|Flaschenhals|noun; masculine
+7542|поэтический|Относящийся к поэзии; проникнутый поэзией|poetisch|adjective
+7543|влага|Вода в виде сырости или в составе чего-либо|Feuchtigkeit|noun; feminine
+7544|характерно|Являясь отличительным признаком; типично|charakteristisch|adverb
+7545|костлявый|Худощавый с выступающими костями|knochig|adjective
+7546|прославить|Создать широкую известность; сделать знаменитым|verherrlichen|verb; perfective; infinitive
+7547|предисловие|Вводный текст к литературному произведению|Vorwort|noun; neuter
+7548|увидать|Заметить взглядом; различить|erblicken|verb; perfective; infinitive
+7549|Греция|Государство на юге Европы|Griechenland|noun; neuter; proper
+7550|принадлежащий|Являющийся чьей-либо собственностью; свойственный кому-либо|zugehörig|adjective

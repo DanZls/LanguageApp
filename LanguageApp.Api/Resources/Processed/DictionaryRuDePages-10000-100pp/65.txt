@@ -1,0 +1,100 @@
+6401|карась|Пресноводная рыба семейства карповых|Karausche|noun; feminine
+6402|чувствительность|Способность воспринимать незначительные внешние воздействия|Empfindlichkeit|noun; feminine
+6403|поверхностный|Не входящий в суть; несерьёзный|oberflächlich|adjective
+6404|предстать|Появиться перед кем-либо|erscheinen|verb; perfective; infinitive
+6405|сие|То же, что это (устаревшее)|dieses|pronoun; neuter
+6406|подле|Около; рядом|neben|preposition
+6407|ссориться|Вступать в отношения взаимной неприязни|sich streiten|verb; imperfective; infinitive; reflexive
+6408|глиняный|Сделанный из глины|Ton-|adjective
+6409|секция|Подразделение организации или учреждения|Sektion|noun; feminine
+6410|маленько|Немного; недолго|ein bisschen|adverb
+6411|оправдание|Довод, объясняющий или извиняющий что-либо|Rechtfertigung|noun; feminine
+6412|сжаться|Плотно сдвинуться; уплотниться|sich zusammenziehen|verb; perfective; infinitive; reflexive
+6413|бегство|Тайный самовольный уход; побег|Flucht|noun; feminine
+6414|наизусть|По памяти, без обращения к тексту|auswendig|adverb
+6415|мамин|Принадлежащий маме|Mamas-|adjective
+6416|числиться|Считаться состоящим где-либо|geführt werden|verb; imperfective; infinitive
+6417|пальчик|Маленький палец|Fingerchen|noun; neuter
+6418|бабий|Относящийся к женщине (разговорное)|Weiber-|adjective
+6419|первичный|Первоначальный; исходный|primär|adjective
+6420|дыхательный|Связанный с дыханием|Atem-|adjective
+6421|выявить|Сделать явным; обнаружить|aufdecken|verb; perfective; infinitive
+6422|высказывание|Высказанное суждение или мнение|Aussage|noun; feminine
+6423|мент|Сотрудник полиции (разговорное)|Bulle|noun; masculine
+6424|диалог|Разговор между двумя лицами|Dialog|noun; masculine
+6425|раздеться|Снять с себя одежду|sich ausziehen|verb; perfective; infinitive; reflexive
+6426|дядька|Слуга-воспитатель при мальчике (устаревшее)|Erzieher|noun; masculine
+6427|застава|Воинское подразделение, несущее охранение|Vorposten|noun; masculine
+6428|соревнование|Форма деятельности, при которой участники стремятся превзойти друг друга|Wettkampf|noun; masculine
+6429|вялый|Лишённый бодрости и энергии|schlaff|adjective
+6430|зам|Заместитель (сокращение)|Stellvertreter|noun; masculine
+6431|жулик|Обманщик, мошенник|Gauner|noun; masculine
+6432|жутко|Очень страшно; ужасно|unheimlich|adverb
+6433|породить|Стать источником чего-либо; вызвать появление|hervorrufen|verb; perfective; infinitive
+6434|манер|Способ, образ действия|Art|noun; feminine
+6435|укладывать|Складывать и располагать упорядоченно|einpacken|verb; imperfective; infinitive
+6436|пролетариат|Рабочий класс|Proletariat|noun; neuter
+6437|условный|Имеющий силу при соблюдении определённых условий|bedingt|adjective
+6438|клинок|Режущая и колющая часть холодного оружия|Klinge|noun; feminine
+6439|усмехаться|Слегка смеяться с насмешкой|schmunzeln|verb; imperfective; infinitive
+6440|спецслужба|Организация, выполняющая разведывательные или контрразведывательные функции|Geheimdienst|noun; masculine
+6441|пулеметный|Относящийся к пулемёту|Maschinengewehr-|adjective
+6442|замена|То, что заменяет кого-либо или что-либо|Ersatz|noun; masculine
+6443|почесать|Слегка почесать|kratzen|verb; perfective; infinitive
+6444|частота|Количество повторений за единицу времени|Frequenz|noun; feminine
+6445|одиноко|В одиночестве; без других|einsam|adverb
+6446|пуща|Большой густой труднопроходимый лес|Dickicht|noun; neuter
+6447|беспощадный|Не знающий пощады; жестокий|gnadenlos|adjective
+6448|прицел|Устройство для наведения оружия на цель|Visier|noun; neuter
+6449|разыскивать|Искать с целью обнаружить|fahnden|verb; imperfective; infinitive
+6450|подъезжать|Приближаться или прибывать на транспорте|heranfahren|verb; imperfective; infinitive
+6451|пирамида|Монументальное каменное сооружение пирамидальной формы|Pyramide|noun; feminine
+6452|табачный|Относящийся к табаку|Tabak-|adjective
+6453|роскошь|Богатство и великолепие|Luxus|noun; masculine
+6454|светить|Излучать свет|leuchten|verb; imperfective; infinitive
+6455|наносить|Применять или причинять что-либо|zufügen|verb; imperfective; infinitive
+6456|вырастить|Ухаживая, дать вырасти растению или животному|aufziehen|verb; perfective; infinitive
+6457|распад|Разложение или распадение на части|Zerfall|noun; masculine
+6458|налететь|Быстро двигаясь, наброситься|herfallen|verb; perfective; infinitive
+6459|повествование|Связный рассказ о событиях|Erzählung|noun; feminine
+6460|прислониться|Опереться на кого-либо или что-либо вплотную|sich anlehnen|verb; perfective; infinitive; reflexive
+6461|неудачный|Закончившийся неудачей|erfolglos|adjective
+6462|связываться|Вступать в контакт или связь|sich einlassen|verb; imperfective; infinitive; reflexive
+6463|недобрый|Недружелюбно настроенный|böse|adjective
+6464|мгновенье|Очень короткий промежуток времени|Augenblick|noun; masculine
+6465|оскорбление|Слова или действия, унижающие достоинство|Beleidigung|noun; feminine
+6466|ворона|Всеядная птица семейства вороновых|Krähe|noun; feminine
+6467|брызги|Капли жидкости, разлетающиеся от удара|Spritzer|noun; plural
+6468|склонность|Постоянное влечение к чему-либо|Neigung|noun; feminine
+6469|штраф|Денежное взыскание в наказание|Geldstrafe|noun; feminine
+6470|убежище|Место, где можно найти укрытие|Zuflucht|noun; feminine
+6471|тысячелетие|Срок в тысячу лет|Jahrtausend|noun; neuter
+6472|оплата|Деньги, выплачиваемые за что-либо|Bezahlung|noun; feminine
+6473|проезд|Место или право проезда|Durchfahrt|noun; feminine
+6474|образовывать|Создавать или организовывать|bilden|verb; imperfective; infinitive
+6475|конюшня|Помещение для содержания лошадей|Stall|noun; masculine
+6476|коллективный|Основанный на общности интересов или труда|kollektiv|adjective
+6477|собачка|Спусковой крючок оружия|Abzug|noun; masculine
+6478|изумиться|Прийти в изумление|staunen|verb; perfective; infinitive
+6479|следственный|Относящийся к расследованию|Ermittlungs-|adjective
+6480|угостить|Радушно предложить еду или питьё|bewirten|verb; perfective; infinitive
+6481|заклинание|Магические слова, приписываемые особой силе|Beschwörung|noun; feminine
+6482|лечебный|Способствующий излечению|Heil-|adjective
+6483|урод|Человек с тяжёлым физическим уродством|Missgestalt|noun; feminine
+6484|транспортный|Относящийся к перевозке или транспорту|Transport-|adjective
+6485|манить|Привлекать и подзывать|locken|verb; imperfective; infinitive
+6486|недра|То, что находится под земной поверхностью|Eingeweide|noun; plural
+6487|добровольно|Без принуждения; по своей воле|freiwillig|adverb
+6488|плен|Состояние захваченного в ходе войны и лишённого свободы|Gefangenschaft|noun; feminine
+6489|потенциальный|Существующий в потенции; возможный|potenziell|adjective
+6490|взлетать|Подниматься в воздух|abheben|verb; imperfective; infinitive
+6491|телевизионный|Относящийся к телевидению|Fernseh-|adjective
+6492|стащить|Стянуть, переместить волоком|wegreißen|verb; perfective; infinitive
+6493|изобретение|То, что создано изобретателем|Erfindung|noun; feminine
+6494|смириться|Примириться; покориться|sich abfinden|verb; perfective; infinitive; reflexive
+6495|присущий|Характерный для кого-либо или чего-либо|eigen|adjective
+6496|сообщество|Объединение, имеющее общие интересы|Gemeinschaft|noun; feminine
+6497|приказание|Распоряжение, равносильное приказу|Befehl|noun; masculine
+6498|затрата|То, что израсходовано|Aufwand|noun; masculine
+6499|расслабиться|Снять мышечное или внутреннее напряжение|sich entspannen|verb; perfective; infinitive; reflexive
+6500|дуга|Часть кривой линии между двумя её точками|Bogen|noun; masculine

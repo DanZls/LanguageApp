@@ -1,0 +1,100 @@
+7001|грохотать|to rumble|verb; imperfective
+7002|пробраться|to make one's way|verb; perfective; reflexive
+7003|зажигать|to light|verb; imperfective
+7004|отвлекать|to distract|verb; imperfective
+7005|обои|wallpaper|noun; plural
+7006|пластмассовый|plastic|adjective
+7007|цитировать|to quote|verb; imperfective
+7008|вранье|lies|noun; plural
+7009|пилотка|garrison cap|noun; singular
+7010|позавчера|the day before yesterday|adverb
+7011|сирота|orphan|noun; singular
+7012|напоследок|finally|adverb
+7013|тускло|dimly|adverb
+7014|исключать|to exclude|verb; imperfective
+7015|надлежать|to be required|verb; impersonal; imperfective
+7016|милорд|my lord|noun; singular
+7017|лавочка|bench|noun; singular
+7018|парить|to soar|verb; imperfective
+7019|создатель|creator|noun; singular
+7020|продемонстрировать|to demonstrate|verb; perfective
+7021|беспорядок|disorder|noun; singular; uncountable
+7022|бешенство|rabies|noun; singular; uncountable
+7023|вырастать|to grow up|verb; imperfective
+7024|улетать|to fly away|verb; imperfective
+7025|невеликий|small|adjective
+7026|энтузиазм|enthusiasm|noun; singular; uncountable
+7027|сохраняться|to be preserved|verb; imperfective; reflexive
+7028|косточка|pit|noun; singular
+7029|подмигивать|to wink|verb; imperfective
+7030|зонтик|umbrella|noun; singular
+7031|полезно|usefully|adverb
+7032|рыть|to dig|verb; imperfective
+7033|глобальный|global|adjective
+7034|гарнизон|garrison|noun; singular
+7035|совхоз|state farm|noun; singular
+7036|наказывать|to punish|verb; imperfective
+7037|университетский|university|adjective
+7038|построение|construction|noun; singular
+7039|преодолевать|to overcome|verb; imperfective
+7040|вежливость|politeness|noun; singular; uncountable
+7041|спор|dispute|noun; singular
+7042|психиатр|psychiatrist|noun; singular
+7043|ширина|width|noun; singular
+7044|соратник|comrade-in-arms|noun; singular
+7045|горка|hill|noun; singular
+7046|познать|to come to know|verb; perfective
+7047|наедине|alone|adverb
+7048|императорский|imperial|adjective
+7049|сигара|cigar|noun; singular
+7050|перепутать|to confuse|verb; perfective
+7051|спотыкаться|to stumble|verb; imperfective; reflexive
+7052|крепостной|serf|noun; singular
+7053|безо|without|preposition
+7054|рукоятка|handle|noun; singular
+7055|конкурент|competitor|noun; singular
+7056|вертеть|to spin|verb; imperfective
+7057|салат|lettuce|noun; singular
+7058|футбольный|football|adjective
+7059|пособие|benefit|noun; singular
+7060|вытекать|to flow out|verb; imperfective
+7061|подолгу|for a long time|adverb
+7062|поступление|receipt|noun; singular
+7063|метель|blizzard|noun; singular
+7064|мадонна|madonna|noun; singular
+7065|вериться|to seem believable|verb; imperfective; impersonal; reflexive
+7066|избрать|to elect|verb; perfective
+7067|грузин|Georgian|noun; singular
+7068|мальчишеский|boyish|adjective
+7069|хлестать|to lash|verb; imperfective
+7070|ответный|responsive|adjective
+7071|растительный|plant|adjective
+7072|револьвер|revolver|noun; singular
+7073|выпадать|to fall out|verb; imperfective
+7074|чадо|child|noun; singular
+7075|подтолкнуть|to push|verb; perfective
+7076|моментально|instantly|adverb
+7077|колхозник|collective farmer|noun; singular
+7078|задумчивый|thoughtful|adjective
+7079|сторонка|little side|noun; singular
+7080|посоветоваться|to consult|verb; perfective; reflexive
+7081|сопеть|to sniffle|verb; imperfective
+7082|узелок|little knot|noun; singular
+7083|претендовать|to claim|verb; imperfective
+7084|трубочка|tube|noun; singular
+7085|производиться|to be produced|verb; imperfective; reflexive
+7086|избушка|hut|noun; singular
+7087|стебель|stem|noun; singular
+7088|насторожиться|to become wary|verb; perfective; reflexive
+7089|араб|Arab|noun; singular
+7090|драма|drama|noun; singular
+7091|растопырить|to spread out|verb; perfective
+7092|реализация|implementation|noun; singular; uncountable
+7093|свежесть|freshness|noun; singular; uncountable
+7094|вклад|deposit|noun; singular
+7095|речной|river|adjective
+7096|камешек|pebble|noun; singular
+7097|засада|ambush|noun; singular
+7098|жать|to squeeze|verb; imperfective
+7099|швырять|to fling|verb; imperfective
+7100|пишущий|writing|adjective

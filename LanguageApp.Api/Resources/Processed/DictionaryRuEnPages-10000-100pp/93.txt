@@ -1,0 +1,100 @@
+9201|хрип|wheeze|noun; singular
+9202|авось|perhaps|adverb
+9203|компромисс|compromise|noun; singular
+9204|поломать|to break|verb; perfective
+9205|переступать|to step over|verb; imperfective
+9206|престол|throne|noun; singular
+9207|пнуть|to kick|verb; perfective
+9208|антисоветский|anti-Soviet|adjective
+9209|недолгий|brief|adjective
+9210|жаться|to huddle|verb; imperfective; reflexive
+9211|почем|how much|adverb
+9212|тряпье|rags|noun; plural
+9213|грабеж|robbery|noun; singular
+9214|расхаживать|to pace|verb; imperfective; reflexive
+9215|грабитель|robber|noun; singular
+9216|полноценный|full-fledged|adjective
+9217|вага|weight|noun; singular; uncountable
+9218|перспективный|promising|adjective
+9219|капрал|corporal|noun; singular
+9220|вглядеться|to peer closely|verb; perfective; reflexive
+9221|пастись|to graze|verb; imperfective; reflexive
+9222|выскользнуть|to slip out|verb; perfective; reflexive
+9223|дефект|defect|noun; singular
+9224|субъективный|subjective|adjective
+9225|галактика|galaxy|noun; singular
+9226|камыш|reed|noun; singular
+9227|замполит|political officer|noun; singular
+9228|самосознание|self-awareness|noun; singular; uncountable
+9229|наскоро|hastily|adverb
+9230|обряд|ritual|noun; singular
+9231|резиденция|residence|noun; singular
+9232|дворцовый|palace|adjective
+9233|рабство|slavery|noun; singular; uncountable
+9234|публично|publicly|adverb
+9235|печенье|cookies|noun; plural
+9236|интенсивный|intensive|adjective
+9237|возбудитель|pathogen|noun; singular
+9238|перечитывать|to reread|verb; imperfective
+9239|урна|urn|noun; singular
+9240|ожирение|obesity|noun; singular; uncountable
+9241|обсуждаться|to be discussed|verb; imperfective; reflexive
+9242|предлагаться|to be offered|verb; imperfective; reflexive
+9243|навоз|manure|noun; singular; uncountable
+9244|великодушный|generous|adjective
+9245|грязно|dirtily|adverb
+9246|задумчивость|pensiveness|noun; singular; uncountable
+9247|бродячий|stray|adjective
+9248|ставень|shutter|noun; singular
+9249|отбиваться|to fend off|verb; imperfective; reflexive
+9250|сплетня|gossip|noun; singular
+9251|капризный|capricious|adjective
+9252|становление|formation|noun; singular; uncountable
+9253|трибунал|tribunal|noun; singular
+9254|рождество|Christmas|noun; singular; proper
+9255|подоспеть|to arrive in time|verb; perfective
+9256|прислонить|to lean against|verb; perfective
+9257|чемпионат|championship|noun; singular
+9258|спеть|to ripen|verb; imperfective
+9259|тура|rook|noun; singular
+9260|заманчивый|tempting|adjective
+9261|фиксировать|to record|verb; imperfective
+9262|хихикнуть|to giggle|verb; perfective; reflexive
+9263|расплыться|to spread out|verb; perfective; reflexive
+9264|баночка|small jar|noun; singular; diminutive
+9265|экспонат|exhibit|noun; singular
+9266|социолог|sociologist|noun; singular
+9267|провокация|provocation|noun; singular
+9268|продовольственный|food|adjective
+9269|ударный|shock|adjective
+9270|оторопеть|to be dumbfounded|verb; perfective; reflexive
+9271|обзор|overview|noun; singular
+9272|пристрелить|to shoot dead|verb; perfective
+9273|обрабатывать|to process|verb; imperfective
+9274|глазной|eye|adjective
+9275|сбиваться|to drift|verb; imperfective; reflexive
+9276|вредно|harmfully|adverb
+9277|сумасброд|hothead|noun; singular
+9278|осадить|to check|verb; perfective
+9279|шина|tire|noun; singular
+9280|давеча|recently|adverb
+9281|тлеть|to smolder|verb; imperfective
+9282|благой|good|adjective
+9283|замотать|to wind|verb; perfective
+9284|ободрать|to strip|verb; perfective
+9285|разбегаться|to scatter|verb; perfective; reflexive
+9286|бич|whip|noun; singular
+9287|клин|wedge|noun; singular
+9288|винный|wine|adjective
+9289|герб|coat of arms|noun; singular
+9290|установиться|to become established|verb; perfective; reflexive
+9291|рушиться|to collapse|verb; imperfective; reflexive
+9292|пятнышко|small spot|noun; singular; diminutive
+9293|разрабатывать|to develop|verb; imperfective
+9294|пижама|pajamas|noun; singular
+9295|закашляться|to start coughing|verb; perfective; reflexive
+9296|противоположность|opposite|noun; singular
+9297|нестерпимо|unbearably|adverb
+9298|Вергасов|Vergasov|noun; singular; proper
+9299|взад|backward|adverb
+9300|наглость|impudence|noun; singular; uncountable

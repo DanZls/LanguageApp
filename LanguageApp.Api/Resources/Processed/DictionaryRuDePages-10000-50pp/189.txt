@@ -1,0 +1,50 @@
+9451|отправка|Действие по отправке чего-либо|Versand|noun; masculine
+9452|неудобство|Недостаток комфорта; неудобное положение|Unannehmlichkeit|noun; feminine
+9453|дружина|Военизированный отряд; дружина|Trupp|noun; masculine
+9454|стенд|Устройство для испытания или демонстрации|Stand|noun; masculine
+9455|нескончаемый|Очень длительный; бесконечный|endlos|adjective
+9456|буханка|Формовой хлеб прямоугольной формы|Laib|noun; masculine
+9457|нездоровый|Испытывающий недомогание; больной|ungesund|adjective
+9458|коктейль|Смешанный напиток с добавками|Cocktail|noun; masculine
+9459|сдернуть|Резко стащить или стянуть|wegreißen|verb; perfective; infinitive
+9460|диковинный|Необычный; странный; диковинный|seltsam|adjective
+9461|обалдеть|Одуреть; утратить способность соображать|verdutzt sein|verb; perfective; infinitive
+9462|пронзительно|Остро; с резким пронизывающим звуком|durchdringend|adverb
+9463|кушетка|Мягкая мебель без спинки для лежания|Couch|noun; feminine
+9464|фундаментальный|Основательный; глубокий|grundlegend|adjective
+9465|метать|Бросать с размахом; кидать|werfen|verb; imperfective; infinitive
+9466|незнакомка|Незнакомая женщина|Unbekannte|noun; feminine
+9467|рыжий|Имеющий рыжие волосы или шерсть|rothaarig|adjective
+9468|разместить|Распределить по местам; разложить|unterbringen|verb; perfective; infinitive
+9469|безупречный|Ничем не опороченный; безукоризненный|tadellos|adjective
+9470|антенна|Устройство для приёма или передачи радиоволн|Antenne|noun; feminine
+9471|припоминать|Вспоминать; восстанавливать в памяти|sich erinnern|verb; imperfective; infinitive; reflexive
+9472|жратва|Разговорное: еда; пища|Futter|noun; neuter
+9473|бородач|Мужчина с большой бородой|Bärtiger|noun; masculine
+9474|выдаваться|Выделяться; отличаться|hervorstechen|verb; imperfective; infinitive
+9475|парализовать|Привести в состояние паралича|lähmen|verb; perfective; infinitive
+9476|буржуазия|Класс собственников средств производства|Bourgeoisie|noun; feminine
+9477|дырочка|Маленькое отверстие|Loch|noun; neuter; diminutive
+9478|привязанность|Чувство близости на основе преданности и симпатии|Zuneigung|noun; feminine
+9479|поссориться|Поругаться; рассориться|sich streiten|verb; perfective; infinitive; reflexive
+9480|иммигрант|Человек, переселившийся в другую страну|Einwanderer|noun; masculine
+9481|вырывать|Извлекать резким движением наружу|herausreißen|verb; imperfective; infinitive
+9482|регистрация|Официальная запись для учёта и придания законной силы|Registrierung|noun; feminine
+9483|монгол|Человек монгольской национальности|Mongole|noun; masculine
+9484|непостижимый|Недоступный пониманию; непонятный|unbegreiflich|adjective
+9485|кофта|Короткая женская одежда, надеваемая сверху|Bluse|noun; feminine
+9486|выпучить|Широко раскрыть или выпучить глаза|hervorquellen|verb; perfective; infinitive
+9487|отстаивать|Защищать; добиваться сохранения|verteidigen|verb; imperfective; infinitive
+9488|ромашка|Травянистое растение с белыми лепестками и жёлтой серединкой|Kamille|noun; feminine
+9489|утрата|Потеря; ущерб; чья-либо смерть|Verlust|noun; masculine
+9490|пересохнуть|Стать слишком сухим; пересохнуть|austrocknen|verb; perfective; infinitive
+9491|накрывать|Покрывать сверху; накрывать|abdecken|verb; imperfective; infinitive
+9492|противоречивый|Содержащий противоречие|widersprüchlich|adjective
+9493|нерешительность|Склонность к нерешительности; колебание|Unentschlossenheit|noun; feminine
+9494|победный|Связанный с победой; победный|Sieges-|adjective
+9495|живописный|Красивый; достойный художественного изображения|malerisch|adjective
+9496|крылышко|Маленькое крыло|Flügelchen|noun; neuter; diminutive
+9497|скорпион|Ядовитое паукообразное с хвостовым жалом|Skorpion|noun; masculine
+9498|рассыпать|Просыпать; рассеять по разным местам|verschütten|verb; perfective; infinitive
+9499|влезать|Входить внутрь или взбираться наверх|hineinsteigen|verb; imperfective; infinitive
+9500|нагло|Дерзко; беззастенчиво|frech|adverb

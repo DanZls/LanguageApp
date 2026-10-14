@@ -1,0 +1,100 @@
+7901|колокольчик|bluebell|noun; singular
+7902|колыхаться|to sway|verb; imperfective; reflexive
+7903|выдумывать|to make up|verb; imperfective
+7904|похмелье|hangover|noun; singular
+7905|выгодно|profitably|adverb
+7906|противоречить|to contradict|verb; imperfective
+7907|натворить|to do a lot|verb; perfective
+7908|сломаться|to break|verb; perfective; reflexive
+7909|звонко|resoundingly|adverb
+7910|бутылочка|small bottle|noun; singular; diminutive
+7911|светофор|traffic light|noun; singular
+7912|перемениться|to change|verb; perfective; reflexive
+7913|финал|finale|noun; singular
+7914|подсчитать|to calculate|verb; perfective
+7915|шедевр|masterpiece|noun; singular
+7916|зацепить|to hook|verb; perfective
+7917|голубоватый|bluish|adjective
+7918|возня|fuss|noun; singular; uncountable
+7919|интрига|intrigue|noun; singular
+7920|синева|blueness|noun; singular; uncountable
+7921|повеселеть|to cheer up|verb; perfective; reflexive
+7922|хлебный|bread|adjective
+7923|проститься|to say goodbye|verb; perfective; reflexive
+7924|чрезмерный|excessive|adjective
+7925|шестеро|six|numeral; collective
+7926|навес|canopy|noun; singular
+7927|парикмахерский|hairdressing|adjective
+7928|щетина|stubble|noun; singular; uncountable
+7929|завершиться|to conclude|verb; perfective; reflexive
+7930|относить|to carry|verb; imperfective
+7931|чернота|blackness|noun; singular; uncountable
+7932|потеряться|to get lost|verb; perfective; reflexive
+7933|заиграть|to start playing|verb; perfective
+7934|маргаритка|daisy|noun; singular
+7935|ангар|hangar|noun; singular
+7936|возглас|exclamation|noun; singular
+7937|тетушка|auntie|noun; singular; diminutive
+7938|приглядеться|to take a closer look|verb; perfective; reflexive
+7939|красить|to paint|verb; imperfective
+7940|вечеринка|party|noun; singular
+7941|кумир|idol|noun; singular
+7942|хлынуть|to gush|verb; perfective
+7943|любящий|loving|adjective; participle
+7944|подражать|to imitate|verb; imperfective
+7945|незадолго|shortly before|adverb
+7946|вареный|boiled|adjective
+7947|попадание|hit|noun; singular
+7948|грамотный|literate|adjective
+7949|деликатно|delicately|adverb
+7950|рациональный|rational|adjective
+7951|гряда|ridge|noun; singular
+7952|зеркальце|small mirror|noun; singular; diminutive
+7953|управа|way to handle|noun; singular; uncountable
+7954|террор|terror|noun; singular; uncountable
+7955|покорный|obedient|adjective
+7956|скрутить|to twist|verb; perfective
+7957|тонкость|subtlety|noun; singular
+7958|массаж|massage|noun; singular
+7959|фельдшер|paramedic|noun; singular
+7960|марксизм|Marxism|noun; singular; uncountable
+7961|замучить|to torment|verb; perfective
+7962|поддаться|to give in|verb; perfective; reflexive
+7963|гитлеровский|Hitler's|adjective
+7964|маяк|lighthouse|noun; singular
+7965|юношеский|youthful|adjective
+7966|задолго|long before|adverb
+7967|говно|shit|noun; singular; uncountable
+7968|крона|crown|noun; singular
+7969|папочка|folder|noun; singular
+7970|подол|hem|noun; singular
+7971|дачный|dacha|adjective
+7972|пьянство|drunkenness|noun; singular; uncountable
+7973|передвижение|movement|noun; singular
+7974|бедный|poor|adjective
+7975|перекрыть|to shut off|verb; perfective
+7976|отодвинуться|to move away|verb; perfective; reflexive
+7977|облегченно|with relief|adverb
+7978|приглушить|to muffle|verb; perfective
+7979|родственный|related|adjective
+7980|филиал|branch|noun; singular
+7981|говорящий|speaking|adjective; participle
+7982|алюминиевый|aluminum|adjective
+7983|раскинуть|to spread out|verb; perfective
+7984|хруст|crunch|noun; singular
+7985|починить|to repair|verb; perfective
+7986|приклад|butt|noun; singular
+7987|клевать|to peck|verb; imperfective
+7988|получка|paycheck|noun; singular
+7989|окошечко|little window|noun; singular; diminutive
+7990|гайка|nut|noun; singular
+7991|орбита|orbit|noun; singular
+7992|послушный|obedient|adjective
+7993|беженец|refugee|noun; singular
+7994|инженерный|engineering|adjective
+7995|щепка|splinter|noun; singular
+7996|турок|Turk|noun; singular
+7997|привидение|ghost|noun; singular
+7998|упоминаться|to be mentioned|verb; imperfective; reflexive
+7999|продвигаться|to advance|verb; imperfective; reflexive
+8000|потирать|to rub|verb; imperfective

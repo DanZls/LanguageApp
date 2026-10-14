@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "API (.NET)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-api",
+      "program": "${workspaceFolder}/LanguageApp.Api/bin/Debug/net10.0/LanguageApp.Dotnet.dll",
+      "cwd": "${workspaceFolder}/LanguageApp.Api",
+      "env": { "ASPNETCORE_ENVIRONMENT": "Development", "ASPNETCORE_URLS": "http://localhost:8080" },
+      "console": "internalConsole"
+    },
+    {
+      "name": "WebApp (Angular)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm install && npm start",
+      "cwd": "${workspaceFolder}/LanguageApp.WebApp"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Full Stack (API + WebApp)",
+      "configurations": ["API (.NET)", "WebApp (Angular)"],
+      "stopAll": true
+    }
+  ]
+}

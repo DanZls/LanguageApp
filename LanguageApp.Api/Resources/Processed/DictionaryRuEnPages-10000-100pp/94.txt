@@ -1,0 +1,100 @@
+9301|утихнуть|to calm down|verb; perfective
+9302|додуматься|to figure out|verb; perfective; reflexive
+9303|цыпленок|chick|noun; singular
+9304|отстоять|to defend|verb; perfective
+9305|блатной|criminal|adjective
+9306|поглаживать|to stroke|verb; imperfective
+9307|упрямство|stubbornness|noun; singular; uncountable
+9308|латинский|Latin|adjective
+9309|крашеный|painted|adjective
+9310|покинутый|abandoned|adjective
+9311|автоматный|assault rifle|adjective
+9312|унитаз|toilet|noun; singular
+9313|кондор|condor|noun; singular
+9314|теперешний|present|adjective
+9315|лауреат|laureate|noun; singular
+9316|подчиниться|to submit|verb; perfective; reflexive
+9317|дорожить|to value|verb; imperfective
+9318|расписать|to paint|verb; perfective
+9319|крестик|small cross|noun; singular; diminutive
+9320|передышка|breather|noun; singular
+9321|истерика|hysteria|noun; singular
+9322|слететь|to fly down|verb; perfective; reflexive
+9323|перебрать|to sort through|verb; perfective
+9324|подкатить|to roll up|verb; perfective
+9325|ушанка|fur hat|noun; singular
+9326|закрутить|to start twisting|verb; perfective
+9327|партийный|party|adjective
+9328|троица|trinity|noun; singular
+9329|капот|hood|noun; singular
+9330|отделить|to separate|verb; perfective
+9331|патриотический|patriotic|adjective
+9332|грунт|soil|noun; singular; uncountable
+9333|побеседовать|to have a chat|verb; perfective
+9334|огрызнуться|to snap back|verb; perfective; reflexive
+9335|нелегальный|illegal|adjective
+9336|украдкой|stealthily|adverb
+9337|показательный|exemplary|adjective
+9338|петушок|little rooster|noun; singular; diminutive
+9339|опоздание|delay|noun; singular
+9340|остроумный|witty|adjective
+9341|избыточный|excessive|adjective
+9342|взбираться|to climb up|verb; imperfective; reflexive
+9343|казино|casino|noun; singular
+9344|киллер|hitman|noun; singular
+9345|панорама|panorama|noun; singular
+9346|избить|to beat up|verb; perfective
+9347|цепкий|tenacious|adjective
+9348|сенсация|sensation|noun; singular
+9349|техникум|technical college|noun; singular
+9350|термос|thermos|noun; singular
+9351|закружиться|to start spinning|verb; perfective; reflexive
+9352|долл|dollar|noun; singular; abbreviation
+9353|отгонять|to drive away|verb; imperfective
+9354|ласкать|to caress|verb; imperfective
+9355|губка|sponge|noun; singular
+9356|восемнадцатый|eighteenth|numeral; ordinal
+9357|продолжительный|prolonged|adjective
+9358|паста|paste|noun; singular; uncountable
+9359|подсознание|subconscious|noun; singular; uncountable
+9360|наблюдательный|observant|adjective
+9361|сувенир|souvenir|noun; singular
+9362|соединиться|to unite|verb; perfective; reflexive
+9363|постельный|bed|adjective
+9364|сновать|to scurry|verb; imperfective
+9365|грузить|to load|verb; imperfective
+9366|таможня|customs|noun; singular
+9367|прекращать|to stop|verb; imperfective
+9368|ловкость|dexterity|noun; singular; uncountable
+9369|обгонять|to overtake|verb; imperfective
+9370|поклясться|to swear|verb; perfective; reflexive
+9371|шейк|shake|noun; singular
+9372|пояснять|to explain|verb; imperfective
+9373|пики|spades|noun; plural
+9374|навещать|to visit|verb; imperfective
+9375|взвесить|to weigh|verb; perfective
+9376|утомленный|tired|adjective
+9377|умеренный|moderate|adjective
+9378|дробь|fraction|noun; singular
+9379|возвышенный|elevated|adjective
+9380|предсказать|to predict|verb; perfective
+9381|горбатый|hunchbacked|adjective
+9382|выпалить|to blurt out|verb; perfective
+9383|протез|prosthesis|noun; singular
+9384|изрядный|considerable|adjective
+9385|гимназист|schoolboy|noun; singular
+9386|флажок|small flag|noun; singular; diminutive
+9387|перегрузка|overload|noun; singular
+9388|воротничок|collar|noun; singular
+9389|прощанье|farewell|noun; singular
+9390|хвоя|needles|noun; plural
+9391|невообразимый|unimaginable|adjective
+9392|разлететься|to scatter|verb; perfective; reflexive
+9393|дощечка|small board|noun; singular; diminutive
+9394|мавзолей|mausoleum|noun; singular
+9395|горевать|to grieve|verb; imperfective
+9396|неуклюже|clumsily|adverb
+9397|словесный|verbal|adjective
+9398|половинка|half|noun; singular
+9399|нечеловеческий|inhuman|adjective
+9400|грозиться|to threaten|verb; imperfective; reflexive

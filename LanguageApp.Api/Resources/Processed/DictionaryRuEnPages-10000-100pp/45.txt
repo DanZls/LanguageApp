@@ -1,0 +1,100 @@
+4401|одеться|to get dressed|verb; perfective; reflexive
+4402|преодолеть|to overcome|verb; perfective
+4403|Канада|Canada|noun; singular; proper
+4404|впрямь|indeed|adverb
+4405|подводной|underwater|adjective
+4406|горшок|pot|noun; singular
+4407|определяться|to be determined|verb; regular; reflexive
+4408|грань|edge|noun; singular
+4409|назначать|to appoint|verb; regular
+4410|курица|chicken|noun; singular
+4411|качаться|to swing|verb; regular; reflexive
+4412|прозвище|nickname|noun; singular
+4413|темп|pace|noun; singular
+4414|информационный|informational|adjective
+4415|тесно|tightly|adverb
+4416|глухо|muffled|adverb
+4417|посадка|landing|noun; singular
+4418|потерпеть|to endure|verb; perfective
+4419|обрыв|cliff|noun; singular
+4420|нитка|thread|noun; singular
+4421|внимательный|attentive|adjective
+4422|плакат|poster|noun; singular
+4423|банда|gang|noun; singular
+4424|вырезать|to cut out|verb; perfective
+4425|скучать|to miss|verb; regular
+4426|избежать|to avoid|verb; perfective
+4427|инфекция|infection|noun; singular
+4428|убеждение|belief|noun; singular
+4429|плоть|flesh|noun; singular; uncountable
+4430|деловитый|businesslike|adjective
+4431|кидать|to throw|verb; regular
+4432|стая|flock|noun; singular
+4433|немалый|considerable|adjective
+4434|уничтожение|destruction|noun; singular; uncountable
+4435|успешно|successfully|adverb
+4436|обочина|roadside|noun; singular
+4437|жадно|greedily|adverb
+4438|усадьба|estate|noun; singular
+4439|худо|bad|noun; singular
+4440|даваться|to come easily|verb; regular; reflexive
+4441|траншея|trench|noun; singular
+4442|затянуться|to become covered|verb; perfective; reflexive
+4443|табуретка|stool|noun; singular
+4444|задрать|to lift up|verb; perfective
+4445|объективный|objective|adjective
+4446|сбегать|to run|verb; perfective
+4447|пепел|ash|noun; singular; uncountable
+4448|болтаться|to dangle|verb; regular; reflexive
+4449|пробка|cork|noun; singular
+4450|связывать|to tie|verb; regular
+4451|РФ|Russian Federation|noun; abbreviation; proper
+4452|изучить|to learn|verb; perfective
+4453|проведение|conducting|noun; singular; uncountable
+4454|подать|to serve|verb; perfective
+4455|порядочный|decent|adjective
+4456|провинция|province|noun; singular
+4457|строчок|morel|noun; singular
+4458|уступать|to yield|verb; regular
+4459|прощение|forgiveness|noun; singular; uncountable
+4460|порция|portion|noun; singular
+4461|театральный|theatrical|adjective
+4462|отдаленный|remote|adjective
+4463|потребоваться|to be required|verb; perfective; reflexive
+4464|хохот|laughter|noun; singular; uncountable
+4465|сорт|sort|noun; singular
+4466|производственный|production|adjective
+4467|вплотную|closely|adverb
+4468|идеологический|ideological|adjective
+4469|сравнительно|comparatively|adverb
+4470|питаться|to feed|verb; regular; reflexive
+4471|командующий|commander|noun; singular
+4472|людской|human|adjective
+4473|угрожать|to threaten|verb; regular
+4474|рассуждение|reasoning|noun; singular
+4475|фонарик|flashlight|noun; singular
+4476|официально|officially|adverb
+4477|дрянь|junk|noun; singular; uncountable
+4478|понедельник|Monday|noun; singular
+4479|райком|district committee|noun; singular
+4480|мундир|uniform|noun; singular
+4481|пребывать|to be|verb; regular
+4482|подавить|to suppress|verb; perfective
+4483|Польша|Poland|noun; singular; proper
+4484|плясать|to dance|verb; irregular
+4485|удобно|conveniently|adverb
+4486|самостоятельно|independently|adverb
+4487|заявлять|to declare|verb; regular
+4488|висок|temple|noun; singular
+4489|падаль|carrion|noun; singular; uncountable
+4490|уговорить|to persuade|verb; perfective
+4491|глина|clay|noun; singular; uncountable
+4492|почка|bud|noun; singular
+4493|профессионал|professional|noun; singular
+4494|катер|boat|noun; singular
+4495|недостаточно|insufficiently|adverb
+4496|шарик|little ball|noun; singular
+4497|конфета|candy|noun; singular
+4498|сажать|to plant|verb; regular
+4499|виски|whiskey|noun; singular; uncountable
+4500|поплыть|to swim off|verb; perfective

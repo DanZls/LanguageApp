@@ -1,0 +1,50 @@
+3951|обвинение|Вменение вины, признание кого-либо виновным|Anklage|noun; feminine
+3952|мэр|Глава муниципального управления города|Bürgermeister|noun; masculine
+3953|школьник|Учащийся школы|Schüler|noun; masculine
+3954|НКВД|Советское ведомство государственной безопасности|NKWD|noun; neuter; proper
+3955|беречь|Охранять, защищать от повреждения или утраты|hüten|verb; imperfective; infinitive
+3956|молиться|Обращаться с молитвой к Богу|beten|verb; imperfective; infinitive
+3957|рюкзак|Заплечный мешок с лямками для переноски вещей|Rucksack|noun; masculine
+3958|проявляться|Обнаруживаться, становиться заметным|sich zeigen|verb; imperfective; infinitive; reflexive
+3959|сталинский|Относящийся к Сталину или его эпохе|stalinistisch|adjective
+3960|покупка|Приобретение чего-либо за деньги|Kauf|noun; masculine
+3961|осел|Домашнее животное семейства лошадиных с длинными ушами|Esel|noun; masculine
+3962|описывать|Излагать что-либо в письменной или устной форме|beschreiben|verb; imperfective; infinitive
+3963|баран|Самец домашней овцы|Widder|noun; masculine
+3964|безумный|Крайне неразумный, лишённый рассудка|wahnsinnig|adjective
+3965|ведать|Знать, быть осведомлённым|wissen|verb; imperfective; infinitive
+3966|Япония|Островное государство в Восточной Азии|Japan|noun; neuter; proper
+3967|пустынный|Безлюдный, необитаемый|verlassen|adjective
+3968|специальность|Отдельная отрасль знаний или профессиональной деятельности|Fachgebiet|noun; neuter
+3969|походка|Манера ходить, поступь|Gang|noun; masculine
+3970|увезти|Забрать с собой, уезжая|wegbringen|verb; perfective; infinitive
+3971|приветствовать|Обращаться с приветствием к кому-либо|begrüßen|verb; imperfective; infinitive
+3972|оборот|Обращение товаров и денег в хозяйственной деятельности|Umsatz|noun; masculine
+3973|бульвар|Широкая аллея посреди городской улицы|Boulevard|noun; masculine
+3974|скамья|Длинное сиденье без спинки|Bank|noun; feminine
+3975|презрительный|Выражающий презрение|verächtlich|adjective
+3976|буфет|Стойка или зал для продажи закусок и напитков|Buffet|noun; neuter
+3977|итальянский|Относящийся к Италии или итальянцам|italienisch|adjective
+3978|бумажный|Изготовленный из бумаги|Papier-|adjective
+3979|опираться|Прислоняться к чему-либо для поддержки|sich stützen|verb; imperfective; infinitive; reflexive
+3980|серия|Последовательный ряд объектов с общим признаком|Serie|noun; feminine
+3981|неожиданность|Неожиданное событие или обстоятельство|Überraschung|noun; feminine
+3982|купол|Выпуклая крыша или свод в форме полусферы|Kuppel|noun; feminine
+3983|наказать|Подвергнуть наказанию за проступок|bestrafen|verb; perfective; infinitive
+3984|развитый|Достигший высокой степени развития|entwickelt|adjective
+3985|копия|Точное воспроизведение оригинала|Kopie|noun; feminine
+3986|научно|С научной точки зрения, в соответствии с наукой|wissenschaftlich|adverb
+3987|тропинка|Узкая пешеходная дорожка|Pfad|noun; masculine
+3988|рама|Скрепление для обрамления картины или окна|Rahmen|noun; masculine
+3989|упомянуть|Кратко назвать или коснуться в речи|erwähnen|verb; perfective; infinitive
+3990|вздрагивать|Слегка вздрагивать от неожиданности или волнения|zucken|verb; imperfective; infinitive
+3991|расположение|Порядок размещения чего-либо|Anordnung|noun; feminine
+3992|приглашение|Просьба прийти или принять участие в чём-либо|Einladung|noun; feminine
+3993|башка|Голова (разговорное)|Kopf|noun; masculine
+3994|горько|С горьким вкусом; очень неприятно|bitter|adverb
+3995|буря|Сильный разрушительный ветер с ненастьем|Sturm|noun; masculine
+3996|пионер|Первопроходец, один из первых осваивающих новое|Pionier|noun; masculine
+3997|сухо|В сухом состоянии; без тепла и эмоций|trocken|adverb
+3998|неясный|Лишённый ясности, расплывчатый|unklar|adjective
+3999|философия|Наука о наиболее общих законах бытия и мышления|Philosophie|noun; feminine
+4000|шерсть|Волосяной покров животного|Wolle|noun; feminine

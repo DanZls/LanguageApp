@@ -1,0 +1,50 @@
+8851|сионизм|Еврейское национальное движение за создание государства на исторической родине|Zionismus|noun; masculine
+8852|похвала|Хороший отзыв, одобрение кого-либо или чего-либо|Lob|noun; neuter
+8853|сидение|Пребывание в сидячем положении|Sitzen|noun; neuter
+8854|разгораться|Начинать гореть сильнее; нарастать (о чувстве)|auflodern|verb; imperfective; infinitive
+8855|скатиться|Скользя, спуститься вниз|hinunterrollen|verb; perfective; infinitive
+8856|эпидемия|Широкое распространение инфекционной болезни|Epidemie|noun; feminine
+8857|электролит|Вещество, проводящее ток при растворении|Elektrolyt|noun; masculine
+8858|округлый|Имеющий круглую или близкую к ней форму|gerundet|adjective
+8859|каштан|Дерево семейства буковых с коричневыми плодами|Kastanie|noun; feminine
+8860|формально|Официально, по форме|formell|adverb
+8861|обрасти|Покрыться растительностью или слоем чего-либо|überwachsen|verb; perfective; infinitive
+8862|харя|Лицо (грубое, пренебр.)|Visage|noun; feminine
+8863|арестованный|Тот, кто подвергся аресту|Verhaftete|noun; masculine
+8864|выстроиться|Встать в строй или в ряд|sich aufstellen|verb; perfective; infinitive; reflexive
+8865|подсесть|Сесть рядом с кем-либо|sich dazusetzen|verb; perfective; infinitive; reflexive
+8866|бледно|Очень светло, со слабой окраской|blass|adverb
+8867|товарный|Относящийся к товару или торговле|Waren-|adjective
+8868|денежка|Маленькая монетка (разг., устар.)|Münzchen|noun; neuter; diminutive
+8869|грубость|Грубое слово или поступок|Grobheit|noun; feminine
+8870|зарядить|Вложить патрон или заряд в оружие|laden|verb; perfective; infinitive
+8871|бриллиант|Гранёный ювелирный алмаз|Brillant|noun; masculine
+8872|колода|Полный комплект игральных карт|Kartenstapel|noun; masculine
+8873|логично|Последовательно, согласно логике|logisch|adverb
+8874|пулеметчик|Стрелок из пулемёта|Maschinengewehrschütze|noun; masculine
+8875|пожелтеть|Стать жёлтым|vergilben|verb; perfective; infinitive
+8876|наемник|Военнослужащий наёмных войск|Söldner|noun; masculine
+8877|возврат|Действие по возвращению; отдача назад|Rückgabe|noun; feminine
+8878|напрямую|Прямо, без посредников|direkt|adverb
+8879|выситься|Возвышаться, стоять высоко|aufragen|verb; imperfective; infinitive
+8880|керосин|Горючая жидкость — продукт перегонки нефти|Kerosin|noun; neuter
+8881|переносица|Верхняя часть носа между глазами|Nasenrücken|noun; masculine
+8882|стопа|Нижняя часть ноги от голеностопа до пальцев|Fuß|noun; masculine
+8883|выпускник|Тот, кто окончил учебное заведение|Absolvent|noun; masculine
+8884|портвейн|Сладкое крепленое виноградное вино|Portwein|noun; masculine
+8885|рыбий|Относящийся к рыбе, из рыбы|Fisch-|adjective
+8886|искаженный|Изменённый до неузнаваемости|verzerrt|adjective
+8887|косвенный|Не прямой, с промежуточными звеньями|indirekt|adjective
+8888|бетон|Строительный материал на основе вяжущих веществ и заполнителей|Beton|noun; masculine
+8889|щелчок|Короткий резкий звук удара|Schnalzen|noun; neuter
+8890|пропитать|Насытить влагой или веществом насквозь|tränken|verb; perfective; infinitive
+8891|тесто|Густая масса из муки с жидкостью|Teig|noun; masculine
+8892|масляный|Относящийся к маслу; сделанный с маслом|Öl-|adjective
+8893|подданный|Гражданин государства, находящийся под властью монарха|Untertan|noun; masculine
+8894|качнуться|Немного отклониться и вернуться обратно|sich wiegen|verb; perfective; infinitive; reflexive
+8895|поразительно|Удивительно, вызывая изумление|erstaunlich|adverb
+8896|ревновать|Испытывать ревность|eifersüchtig sein|verb; imperfective; infinitive
+8897|фарфоровый|Сделанный из фарфора|Porzellan-|adjective
+8898|угнать|Угнать транспортное средство или животных|entführen|verb; perfective; infinitive
+8899|непохожий|Не имеющий сходства с кем-либо|unähnlich|adjective
+8900|поразиться|Сильно удивиться, прийти в изумление|staunen|verb; perfective; infinitive

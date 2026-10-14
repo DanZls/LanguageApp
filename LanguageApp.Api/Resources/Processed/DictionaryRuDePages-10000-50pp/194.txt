@@ -1,0 +1,50 @@
+9701|выползти|Выйти ползком наружу|herauskriechen|verb; perfective; infinitive
+9702|путаница|Нечто запутанное и неясное|Durcheinander|noun; neuter
+9703|сентиментальный|Легко поддающийся чувствам; сентиментальный|sentimental|adjective
+9704|разумно|Благоразумно; обдуманно|vernünftig|adverb
+9705|старание|Стремление выполнить что-либо добросовестно|Bemühung|noun; feminine
+9706|осознание|Понимание; постижение чего-либо|Erkenntnis|noun; feminine
+9707|растрепать|Привести в беспорядок; сделать взлохмаченным|zerzausen|verb; perfective; infinitive
+9708|настороженный|Напряжённо-внимательный; ожидающий опасности|misstrauisch|adjective
+9709|клапан|Регулирующий затвор в механизме|Ventil|noun; neuter
+9710|коробок|Маленькая коробочка|Schächtelchen|noun; neuter; diminutive
+9711|океанский|Относящийся к океану|Ozean-|adjective
+9712|мерещиться|Казаться; представляться в воображении|vorkommen|verb; imperfective; infinitive
+9713|увозить|Везти куда-либо; вывозить|wegfahren|verb; imperfective; infinitive
+9714|спазма|Судорожное сокращение мышц|Krampf|noun; masculine
+9715|каяться|Признавать свою ошибку с сожалением|bereuen|verb; imperfective; infinitive
+9716|слог|Звук или группа звуков, произносимые одним выдохом|Silbe|noun; feminine
+9717|губить|Приводить к гибели; уничтожать|vernichten|verb; imperfective; infinitive
+9718|бандитский|Характерный для бандита или преступника|Banditen-|adjective
+9719|завладеть|Взять в полное владение; захватить|sich bemächtigen|verb; perfective; infinitive; reflexive
+9720|расширяться|Становиться более широким; расширяться|sich ausdehnen|verb; imperfective; infinitive; reflexive
+9721|заливаться|Покрываться жидкостью; разливаться|sich überschwemmen|verb; imperfective; infinitive; reflexive
+9722|насильно|С применением силы; принудительно|gewaltsam|adverb
+9723|дремучий|О лесе: густой, тёмный, труднопроходимый|urwüchsig|adjective
+9724|включиться|Присоединиться; стать участником|sich einschalten|verb; perfective; infinitive; reflexive
+9725|безграничный|Не имеющий видимых границ; безбрежный|grenzenlos|adjective
+9726|заторопиться|Начать торопиться|sich beeilen|verb; perfective; infinitive; reflexive
+9727|девать|Помещать; класть куда-либо|hinstellen|verb; imperfective; infinitive
+9728|нагрудный|Носимый или расположенный на груди|Brust-|adjective
+9729|пролезть|Пройти сквозь узкое место|sich durchzwängen|verb; perfective; infinitive; reflexive
+9730|гнаться|Преследовать с целью настигнуть|nachjagen|verb; imperfective; infinitive
+9731|наркоман|Человек, страдающий наркоманией|Drogensüchtiger|noun; masculine
+9732|курортный|Относящийся к курорту|Kurort-|adjective
+9733|плеснуть|Быстро выплеснуть жидкость|schwappen|verb; perfective; infinitive
+9734|вбить|Ударами загнать что-либо вглубь|einschlagen|verb; perfective; infinitive
+9735|квалификация|Уровень профессиональной подготовки|Qualifikation|noun; feminine
+9736|веточка|Маленькая ветка|Ästchen|noun; neuter; diminutive
+9737|музейный|Относящийся к музею|Museums-|adjective
+9738|моща|Физическая сила; мощность|Kraft|noun; feminine
+9739|назойливый|Надоедливо навязчивый; пристающий|lästig|adjective
+9740|региональный|Относящийся к определённой области или региону|regional|adjective
+9741|пыхтеть|Тяжело дышать, напрягаясь|keuchen|verb; imperfective; infinitive
+9742|бездонный|Чрезвычайно глубокий; не имеющий дна|bodenlos|adjective
+9743|иврит|Современный государственный язык Израиля|Hebräisch|noun; neuter
+9744|выздоровление|Процесс восстановления здоровья|Genesung|noun; feminine
+9745|пытать|Подвергать пытке; мучить допросом|foltern|verb; imperfective; infinitive
+9746|передернуть|Резко дёрнуть, сдвинув в сторону|zerren|verb; perfective; infinitive
+9747|романтика|Возвышенные чувства и идеи; романтика|Romantik|noun; feminine
+9748|калифорний|Радиоактивный химический элемент|Californium|noun; neuter
+9749|фанера|Тонкие листы древесины для облицовки|Sperrholz|noun; neuter
+9750|высохший|Ставший сухим; засохший|vertrocknet|adjective

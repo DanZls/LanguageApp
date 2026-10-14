@@ -1,0 +1,100 @@
+6101|гадость|nasty thing|noun; singular
+6102|забыться|to doze off|verb; perfective; reflexive
+6103|специфический|specific|adjective
+6104|верность|loyalty|noun; singular; uncountable
+6105|развалиться|to fall apart|verb; perfective; reflexive
+6106|бубен|tambourine|noun; singular
+6107|упоминать|to mention|verb; imperfective
+6108|израильский|Israeli|adjective
+6109|лесок|small forest|noun; singular
+6110|рубка|wheelhouse|noun; singular
+6111|логик|logician|noun; singular
+6112|непрерывный|continuous|adjective
+6113|тошнота|nausea|noun; singular; uncountable
+6114|тринадцать|thirteen|numeral; cardinal
+6115|пожаловаться|to complain|verb; perfective; reflexive
+6116|путешественник|traveler|noun; singular
+6117|реально|really|adverb
+6118|чернила|ink|noun; plural
+6119|растаять|to melt|verb; perfective; reflexive
+6120|щелкать|to click|verb; imperfective
+6121|хранение|storage|noun; singular; uncountable
+6122|иуда|traitor|noun; singular
+6123|обучение|training|noun; singular; uncountable
+6124|наркотик|drug|noun; singular
+6125|бодро|cheerfully|adverb
+6126|сыпаться|to pour|verb; imperfective; reflexive
+6127|развестись|to divorce|verb; perfective; reflexive
+6128|близнец|twin|noun; singular
+6129|негде|nowhere|adverb
+6130|помидор|tomato|noun; singular
+6131|смущать|to embarrass|verb; imperfective
+6132|экологический|ecological|adjective
+6133|фантастика|fantasy|noun; singular; uncountable
+6134|забегать|to start running|verb; perfective
+6135|всяческий|all kinds of|adjective
+6136|сопровождение|accompaniment|noun; singular
+6137|настойчиво|persistently|adverb
+6138|отработать|to work off|verb; perfective
+6139|отзываться|to respond|verb; imperfective; reflexive
+6140|рекламный|advertising|adjective
+6141|залив|bay|noun; singular
+6142|бодрый|cheerful|adjective
+6143|звено|link|noun; singular
+6144|врожденный|innate|adjective
+6145|злобный|malicious|adjective
+6146|браслет|bracelet|noun; singular
+6147|свод|arch|noun; singular
+6148|автоматический|automatic|adjective
+6149|оборваться|to break off|verb; perfective; reflexive
+6150|хаос|chaos|noun; singular; uncountable
+6151|присяжный|juror|noun; singular
+6152|церемония|ceremony|noun; singular
+6153|натягивать|to stretch|verb; imperfective
+6154|глыба|block|noun; singular
+6155|деление|division|noun; singular
+6156|диссертация|dissertation|noun; singular
+6157|толпиться|to crowd|verb; imperfective; reflexive
+6158|несправедливый|unjust|adjective
+6159|обстоять|to stand|verb; imperfective
+6160|футбол|football|noun; singular; uncountable
+6161|Русь|Rus|noun; singular; proper
+6162|морщина|wrinkle|noun; singular
+6163|наклонить|to tilt|verb; perfective
+6164|изготовление|manufacturing|noun; singular; uncountable
+6165|всматриваться|to peer|verb; imperfective; reflexive
+6166|броня|armor|noun; singular; uncountable
+6167|поляк|Pole|noun; singular
+6168|рыбный|fish|adjective
+6169|каска|helmet|noun; singular
+6170|забитый|downtrodden|adjective
+6171|эксперт|expert|noun; singular
+6172|туберкулез|tuberculosis|noun; singular; uncountable
+6173|помещаться|to fit|verb; imperfective; reflexive
+6174|утешать|to comfort|verb; imperfective
+6175|профилактика|prevention|noun; singular; uncountable
+6176|посметь|to dare|verb; perfective
+6177|заинтересованный|interested|adjective
+6178|подводить|to bring up to|verb; imperfective
+6179|бизнесмен|businessman|noun; singular
+6180|начисто|cleanly|adverb
+6181|трогательный|touching|adjective
+6182|тракт|highway|noun; singular
+6183|сосудистый|vascular|adjective
+6184|смелость|courage|noun; singular; uncountable
+6185|клиника|clinic|noun; singular
+6186|упражнение|exercise|noun; singular
+6187|насекомое|insect|noun; singular
+6188|ронять|to drop|verb; imperfective
+6189|стандартный|standard|adjective
+6190|опустеть|to become empty|verb; perfective
+6191|потребление|consumption|noun; singular; uncountable
+6192|зачастую|often|adverb
+6193|прогнать|to chase away|verb; perfective
+6194|сука|bitch|noun; singular
+6195|взмахнуть|to wave|verb; perfective
+6196|хрупкий|fragile|adjective
+6197|причал|berth|noun; singular
+6198|частенько|quite often|adverb
+6199|бритва|razor|noun; singular
+6200|феномен|phenomenon|noun; singular

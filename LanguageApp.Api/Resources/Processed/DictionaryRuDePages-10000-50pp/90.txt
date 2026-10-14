@@ -1,0 +1,50 @@
+4501|делить|Разъединять на части, распределять между кем-либо|teilen|verb; imperfective; infinitive
+4502|сетка|Небольшая сеть; решётчатое изделие|Netz|noun; neuter
+4503|бассейн|Искусственный водоём для плавания|Schwimmbecken|noun; neuter
+4504|заря|Яркое свечение горизонта перед восходом или после захода солнца|Morgenrot|noun; neuter
+4505|студенческий|Относящийся к студентам|Studenten-|adjective
+4506|налоговый|Относящийся к налогам|Steuer-|adjective
+4507|метод|Способ исследования или практического осуществления|Methode|noun; feminine
+4508|человечек|Маленький человек (уменьш.)|Männchen|noun; neuter
+4509|призывать|Звать, требовать явиться или действовать|aufrufen|verb; imperfective; infinitive
+4510|протяжение|Расстояние, пространственная величина|Ausdehnung|noun; feminine
+4511|дымиться|Выделять дым, тлеть|qualmen|verb; imperfective; infinitive
+4512|королевский|Относящийся к королю|königlich|adjective
+4513|матка|Внутренний орган, в котором развивается зародыш|Gebärmutter|noun; feminine
+4514|инстинкт|Врождённая способность к целесообразным действиям|Instinkt|noun; masculine
+4515|поздороваться|Обменяться приветствием при встрече|sich begrüßen|verb; perfective; infinitive; reflexive
+4516|красавец|Человек с привлекательной внешностью|Schönheit|noun; masculine
+4517|минутка|Небольшой промежуток времени (уменьш.)|Minütchen|noun; neuter
+4518|равнодушный|Безразличный, безучастный|gleichgültig|adjective
+4519|правитель|Лицо, осуществляющее власть в государстве|Herrscher|noun; masculine
+4520|обнимать|Заключать в объятия|umarmen|verb; imperfective; infinitive
+4521|пополам|На две равные части|zur Hälfte|adverb
+4522|угодить|Сделать что-либо приятное, удовлетворить|gefallen|verb; perfective; infinitive
+4523|пяток|Пять штук одинаковых предметов|fünf Stück|noun; masculine
+4524|изучение|Процесс познания и исследования|Erlernen|noun; neuter
+4525|кататься|Двигаться, скользя или вращаясь|fahren|verb; imperfective; infinitive
+4526|сомнительный|Вызывающий сомнение, ненадёжный|zweifelhaft|adjective
+4527|пехота|Род войск, действующих в пешем строю|Infanterie|noun; feminine
+4528|районный|Относящийся к району|Bezirks-|adjective
+4529|выразиться|Передать мысль в словах|sich ausdrücken|verb; perfective; infinitive; reflexive
+4530|натянуть|Вытянуть и туго закрепить|spannen|verb; perfective; infinitive
+4531|лишить|Отнять что-либо у кого-либо|berauben|verb; perfective; infinitive
+4532|виновато|С чувством вины|schuldbewusst|adverb
+4533|удерживать|Не давать уйти; сохранять при себе|festhalten|verb; imperfective; infinitive
+4534|заряд|Количество взрывчатого вещества для выстрела|Ladung|noun; feminine
+4535|ребро|Дугообразная плоская кость грудной клетки|Rippe|noun; feminine
+4536|сустав|Подвижное сочленение костей|Gelenk|noun; neuter
+4537|привыкать|Постепенно осваивать привычку|sich gewöhnen|verb; imperfective; infinitive; reflexive
+4538|шумно|С большим шумом|laut|adverb
+4539|хребет|Позвоночник; горная цепь|Gebirgskamm|noun; masculine
+4540|багровый|Тёмно-красный цвет|purpurrot|adjective
+4541|пластинка|Плоская полоска из твёрдого материала|Scheibe|noun; feminine
+4542|потрясать|Производить большое впечатление; сильно волновать|erschüttern|verb; imperfective; infinitive
+4543|мотив|Побудительная причина действия|Motiv|noun; neuter
+4544|дневной|Относящийся к дню, происходящий днём|Tages-|adjective
+4545|рвануться|Резким движением броситься куда-либо|losrennen|verb; perfective; infinitive
+4546|воспитывать|Формировать характер и нравственные качества|erziehen|verb; imperfective; infinitive
+4547|заслуга|Достоинство и ценность поступка, вклада|Verdienst|noun; neuter
+4548|возбуждение|Состояние сильного волнения, эмоционального подъёма|Erregung|noun; feminine
+4549|съездить|Поехать и вернуться|hinfahren und zurückkommen|verb; perfective; infinitive
+4550|свалить|Уронить, обрушить вниз|umwerfen|verb; perfective; infinitive

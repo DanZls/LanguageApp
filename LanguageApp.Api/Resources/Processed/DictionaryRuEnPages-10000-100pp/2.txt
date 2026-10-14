@@ -1,0 +1,100 @@
+101|сейчас|now|adverb
+102|можно|it is possible|predicate; impersonal
+103|после|after|preposition
+104|слово|word|noun; singular
+105|здесь|here|adverb
+106|думать|to think|verb; irregular
+107|место|place|noun; singular
+108|спросить|to ask|verb; regular
+109|через|across|preposition
+110|лицо|face|noun; singular
+111|что|what|pronoun; interrogative
+112|тогда|then|adverb
+113|ведь|indeed|particle
+114|хороший|good|adjective; irregular comparison
+115|каждый|every|pronoun; determiner
+116|новый|new|adjective
+117|жить|to live|verb; regular
+118|должный|proper|adjective
+119|смотреть|to look|verb; regular
+120|почему|why|adverb; interrogative
+121|потому|because|adverb
+122|сторона|side|noun; singular
+123|просто|simply|adverb
+124|нога|leg|noun; singular
+125|сидеть|to sit|verb; irregular
+126|понять|to understand|verb; irregular
+127|иметь|to have|verb; irregular
+128|конечный|final|adjective
+129|делать|to do|verb; irregular
+130|вдруг|suddenly|adverb
+131|над|above|preposition
+132|взять|to take|verb; irregular
+133|никто|nobody|pronoun; negative
+134|сделать|to make|verb; irregular
+135|дверь|door|noun; singular
+136|перед|in front of|preposition
+137|нужный|necessary|adjective
+138|понимать|to understand|verb; regular
+139|казаться|to seem|verb; regular
+140|работа|work|noun; singular
+141|три|three|numeral; cardinal
+142|ваш|your|pronoun; possessive
+143|уж|indeed|particle
+144|земля|earth|noun; singular
+145|конец|end|noun; singular
+146|несколько|several|quantifier
+147|час|hour|noun; singular
+148|голос|voice|noun; singular
+149|город|city|noun; singular
+150|последний|last|adjective
+151|пока|while|adverb
+152|хорошо|well|adverb
+153|давать|to give|verb; irregular
+154|вода|water|noun; singular; uncountable
+155|более|more|adverb
+156|хотя|although|conjunction
+157|всегда|always|adverb
+158|второй|second|numeral; ordinal
+159|куда|where to|adverb; interrogative
+160|пойти|to go|verb; irregular
+161|стол|table|noun; singular
+162|ребенок|child|noun; singular; irregular plural
+163|увидеть|to see|verb; irregular
+164|сила|strength|noun; singular
+165|отец|father|noun; singular
+166|женщина|woman|noun; singular; irregular plural
+167|машина|car|noun; singular
+168|случай|case|noun; singular
+169|ночь|night|noun; singular
+170|сразу|at once|adverb
+171|мир|world|noun; singular
+172|совсем|completely|adverb
+173|остаться|to stay|verb; regular
+174|об|about|preposition
+175|вид|appearance|noun; singular
+176|выйти|to go out|verb; irregular
+177|дать|to give|verb; irregular
+178|работать|to work|verb; regular
+179|любить|to love|verb; regular
+180|старый|old|adjective
+181|почти|almost|adverb
+182|ряд|row|noun; singular
+183|оказаться|to turn out|verb; irregular
+184|начало|beginning|noun; singular
+185|твой|your|pronoun; possessive
+186|вопрос|question|noun; singular
+187|много|many|adverb
+188|война|war|noun; singular
+189|снова|again|adverb
+190|ответить|to answer|verb; regular
+191|между|between|preposition
+192|подумать|to think|verb; irregular
+193|опять|again|adverb
+194|белый|white|adjective
+195|деньги|money|noun; plural; uncountable
+196|значить|to mean|verb; irregular
+197|про|about|preposition
+198|лишь|only|particle
+199|минута|minute|noun; singular
+200|жена|wife|noun; singular; irregular plural

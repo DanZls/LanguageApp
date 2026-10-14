@@ -1,0 +1,100 @@
+1401|тепло|warmth|noun; singular; uncountable
+1402|занимать|to occupy|verb; regular
+1403|песок|sand|noun; singular; uncountable
+1404|больно|painfully|adverb
+1405|сомнение|doubt|noun; singular
+1406|территория|territory|noun; singular
+1407|тайна|secret|noun; singular
+1408|волк|wolf|noun; singular; irregular plural
+1409|терять|to lose|verb; regular
+1410|приятель|friend|noun; singular
+1411|рукав|sleeve|noun; singular
+1412|дедушка|grandfather|noun; singular
+1413|вскочить|to jump up|verb; perfective
+1414|прочитать|to read|verb; perfective
+1415|честно|honestly|adverb
+1416|масло|butter|noun; singular; uncountable
+1417|постоянный|constant|adjective
+1418|дорогой|dear|adjective
+1419|всякая|every|pronoun
+1420|существование|existence|noun; singular
+1421|лезть|to climb|verb; irregular
+1422|младший|younger|adjective; irregular comparison
+1423|отправить|to send|verb; perfective
+1424|построить|to build|verb; perfective
+1425|нервный|nervous|adjective
+1426|пустить|to let go|verb; perfective
+1427|рождение|birth|noun; singular
+1428|заглянуть|to peek|verb; perfective
+1429|проговорить|to utter|verb; perfective
+1430|воспоминание|memory|noun; singular
+1431|проверить|to check|verb; perfective
+1432|болеть|to be ill|verb; regular
+1433|тон|tone|noun; singular
+1434|понятие|concept|noun; singular
+1435|низкий|low|adjective
+1436|далее|further|adverb
+1437|вечный|eternal|adjective
+1438|песня|song|noun; singular
+1439|морской|sea|adjective
+1440|крыло|wing|noun; singular; irregular plural
+1441|поднимать|to lift|verb; regular
+1442|розовый|pink|adjective
+1443|нарушение|violation|noun; singular
+1444|осень|autumn|noun; singular
+1445|положенный|prescribed|adjective
+1446|туман|fog|noun; singular; uncountable
+1447|Ленинград|Leningrad|noun; singular; proper
+1448|платье|dress|noun; singular
+1449|представление|idea|noun; singular
+1450|важно|it is important|adverb
+1451|изменение|change|noun; singular
+1452|вариант|variant|noun; singular
+1453|шофер|driver|noun; singular
+1454|опасный|dangerous|adjective
+1455|означать|to mean|verb; regular
+1456|вход|entrance|noun; singular
+1457|практически|practically|adverb
+1458|нынешний|current|adjective
+1459|глупый|stupid|adjective
+1460|национальный|national|adjective
+1461|чиновник|official|noun; singular
+1462|поверхность|surface|noun; singular
+1463|приятно|pleasantly|adverb
+1464|каменный|stone|adjective
+1465|говориться|to be said|verb; regular; reflexive
+1466|прочий|other|pronoun
+1467|испытывать|to experience|verb; regular
+1468|рано|early|adverb
+1469|жениться|to marry|verb; perfective; reflexive
+1470|аппарат|apparatus|noun; singular
+1471|церковь|church|noun; singular; irregular plural
+1472|ручка|pen|noun; singular
+1473|оглянуться|to look back|verb; perfective; reflexive
+1474|пригласить|to invite|verb; perfective
+1475|хозяйка|hostess|noun; singular
+1476|строго|strictly|adverb
+1477|принадлежать|to belong|verb; regular
+1478|внезапно|suddenly|adverb
+1479|единый|unified|adjective
+1480|дворец|palace|noun; singular
+1481|водитель|driver|noun; singular
+1482|строить|to build|verb; regular
+1483|множество|multitude|noun; singular
+1484|перейти|to cross|verb; perfective
+1485|столик|small table|noun; singular
+1486|урок|lesson|noun; singular
+1487|древний|ancient|adjective
+1488|опасность|danger|noun; singular
+1489|повезти|to give a ride|verb; perfective
+1490|французский|French|adjective
+1491|поглядеть|to look|verb; perfective
+1492|горе|grief|noun; singular; uncountable
+1493|честной|honorable|adjective
+1494|способность|ability|noun; singular
+1495|повернуть|to turn|verb; perfective
+1496|остальное|the rest|noun; singular
+1497|добраться|to reach|verb; perfective; reflexive
+1498|серьезно|seriously|adverb
+1499|признать|to admit|verb; perfective
+1500|поступить|to act|verb; perfective

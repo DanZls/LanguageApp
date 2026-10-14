@@ -1,0 +1,100 @@
+4501|делить|to divide|verb; regular
+4502|сетка|net|noun; singular
+4503|бассейн|pool|noun; singular
+4504|заря|dawn|noun; singular
+4505|студенческий|student|adjective
+4506|налоговый|tax|adjective
+4507|метод|method|noun; singular
+4508|человечек|little man|noun; singular
+4509|призывать|to call|verb; regular
+4510|протяжение|extent|noun; singular
+4511|дымиться|to smoke|verb; regular; reflexive
+4512|королевский|royal|adjective
+4513|матка|uterus|noun; singular
+4514|инстинкт|instinct|noun; singular
+4515|поздороваться|to greet|verb; perfective; reflexive
+4516|красавец|handsome man|noun; singular
+4517|минутка|little minute|noun; singular
+4518|равнодушный|indifferent|adjective
+4519|правитель|ruler|noun; singular
+4520|обнимать|to hug|verb; regular
+4521|пополам|in half|adverb
+4522|угодить|to please|verb; perfective
+4523|пяток|five|noun; singular
+4524|изучение|study|noun; singular; uncountable
+4525|кататься|to ride|verb; regular; reflexive
+4526|сомнительный|dubious|adjective
+4527|пехота|infantry|noun; singular; uncountable
+4528|районный|district|adjective
+4529|выразиться|to express oneself|verb; perfective; reflexive
+4530|натянуть|to stretch|verb; perfective
+4531|лишить|to deprive|verb; perfective
+4532|виновато|guiltily|adverb
+4533|удерживать|to retain|verb; regular
+4534|заряд|charge|noun; singular
+4535|ребро|rib|noun; singular
+4536|сустав|joint|noun; singular
+4537|привыкать|to get used to|verb; regular
+4538|шумно|noisily|adverb
+4539|хребет|ridge|noun; singular
+4540|багровый|crimson|adjective
+4541|пластинка|plate|noun; singular
+4542|потрясать|to shake|verb; regular
+4543|мотив|motive|noun; singular
+4544|дневной|daily|adjective
+4545|рвануться|to lunge|verb; perfective; reflexive
+4546|воспитывать|to raise|verb; regular
+4547|заслуга|merit|noun; singular
+4548|возбуждение|excitement|noun; singular; uncountable
+4549|съездить|to go and come back|verb; perfective
+4550|свалить|to knock down|verb; perfective
+4551|газетный|newspaper|adjective
+4552|биологический|biological|adjective
+4553|малый|small|adjective
+4554|смуглый|dark-skinned|adjective
+4555|обломок|fragment|noun; singular
+4556|крестьянский|peasant|adjective
+4557|будка|booth|noun; singular
+4558|указанный|indicated|adjective
+4559|кустарник|shrub|noun; singular
+4560|застрять|to get stuck|verb; perfective; reflexive
+4561|диплом|diploma|noun; singular
+4562|обходиться|to manage|verb; regular; reflexive
+4563|фальшивый|fake|adjective
+4564|пена|foam|noun; singular; uncountable
+4565|скользить|to slide|verb; regular; reflexive
+4566|пробираться|to make one's way|verb; regular; reflexive
+4567|вертеться|to spin|verb; regular; reflexive
+4568|кипеть|to boil|verb; irregular
+4569|поручить|to entrust|verb; perfective
+4570|убеждать|to convince|verb; regular
+4571|восстановление|restoration|noun; singular
+4572|ничуть|not at all|adverb
+4573|злиться|to be angry|verb; regular; reflexive
+4574|молитва|prayer|noun; singular
+4575|попросту|simply|adverb
+4576|коммерческий|commercial|adjective
+4577|отвращение|disgust|noun; singular; uncountable
+4578|уступить|to give way|verb; perfective
+4579|избегать|to avoid|verb; regular
+4580|издалека|from afar|adverb
+4581|тронуться|to set off|verb; perfective; reflexive
+4582|вооружение|armament|noun; singular; uncountable
+4583|твориться|to go on|verb; regular; reflexive
+4584|склонный|prone|adjective
+4585|пазуха|bosom|noun; singular
+4586|религия|religion|noun; singular
+4587|недаром|not for nothing|adverb
+4588|пригодиться|to come in handy|verb; perfective; reflexive
+4589|существенный|significant|adjective
+4590|сопротивляться|to resist|verb; regular; reflexive
+4591|скакать|to gallop|verb; regular
+4592|кличка|nickname|noun; singular
+4593|офицерский|officer's|adjective
+4594|указ|decree|noun; singular
+4595|проглотить|to swallow|verb; perfective
+4596|прилавок|counter|noun; singular
+4597|отвратительный|disgusting|adjective
+4598|осматривать|to inspect|verb; regular
+4599|запустить|to launch|verb; perfective
+4600|местечко|small town|noun; singular

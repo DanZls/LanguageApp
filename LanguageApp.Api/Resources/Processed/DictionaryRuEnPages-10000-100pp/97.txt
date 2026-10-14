@@ -1,0 +1,100 @@
+9601|перечислить|to enumerate|verb; perfective
+9602|горком|city committee|noun; singular
+9603|достояние|possession|noun; singular; uncountable
+9604|усеять|to strew|verb; perfective
+9605|институтский|institute|adjective
+9606|крах|collapse|noun; singular
+9607|кромешный|utter|adjective
+9608|моргнуть|to blink|verb; perfective
+9609|диспетчер|dispatcher|noun; singular
+9610|убыток|loss|noun; singular
+9611|доцент|associate professor|noun; singular
+9612|братство|brotherhood|noun; singular; uncountable
+9613|пушка|cannon|noun; singular
+9614|уточнять|to clarify|verb; imperfective
+9615|тошно|sickening|adverb
+9616|бюджетный|budget|adjective
+9617|карать|to punish|verb; imperfective
+9618|хитро|cunningly|adverb
+9619|звездолет|starship|noun; singular
+9620|вулкан|volcano|noun; singular
+9621|ящерица|lizard|noun; singular
+9622|серьезность|seriousness|noun; singular; uncountable
+9623|завеса|curtain|noun; singular
+9624|тина|slime|noun; singular; uncountable
+9625|академический|academic|adjective
+9626|непроницаемый|impenetrable|adjective
+9627|гипноз|hypnosis|noun; singular; uncountable
+9628|кефир|kefir|noun; singular; uncountable
+9629|планирование|planning|noun; singular; uncountable
+9630|мировоззрение|worldview|noun; singular
+9631|гепатит|hepatitis|noun; singular; uncountable
+9632|кожух|sheepskin coat|noun; singular
+9633|кабы|if only|conjunction
+9634|богиня|goddess|noun; singular
+9635|водоем|reservoir|noun; singular
+9636|деревушка|small village|noun; singular; diminutive
+9637|тропка|path|noun; singular
+9638|белизна|whiteness|noun; singular; uncountable
+9639|гостеприимный|hospitable|adjective
+9640|разведывательный|reconnaissance|adjective
+9641|ведомость|statement|noun; singular
+9642|аналогия|analogy|noun; singular
+9643|тропический|tropical|adjective
+9644|костный|bone|adjective
+9645|раскрываться|to open up|verb; imperfective; reflexive
+9646|бессмертие|immortality|noun; singular; uncountable
+9647|присоединяться|to join|verb; imperfective; reflexive
+9648|приватизация|privatization|noun; singular; uncountable
+9649|уют|coziness|noun; singular; uncountable
+9650|свистнуть|to whistle|verb; perfective
+9651|безжизненный|lifeless|adjective
+9652|спутница|companion|noun; singular
+9653|аспирант|graduate student|noun; singular
+9654|добротный|solid|adjective
+9655|твердость|firmness|noun; singular; uncountable
+9656|голосование|voting|noun; singular; uncountable
+9657|втягивать|to drag in|verb; imperfective
+9658|достоверный|reliable|adjective
+9659|усердие|diligence|noun; singular; uncountable
+9660|одноклассник|classmate|noun; singular
+9661|поддержание|maintenance|noun; singular; uncountable
+9662|бюрократия|bureaucracy|noun; singular; uncountable
+9663|притормозить|to slow down|verb; perfective
+9664|рассудить|to judge|verb; perfective
+9665|давность|antiquity|noun; singular; uncountable
+9666|оптимальный|optimal|adjective
+9667|остывать|to cool down|verb; imperfective
+9668|ореховый|nutty|adjective
+9669|осужденный|convict|noun; singular
+9670|линза|lens|noun; singular
+9671|прочность|durability|noun; singular; uncountable
+9672|дотронуться|to touch|verb; perfective; reflexive
+9673|трюк|trick|noun; singular
+9674|взмах|swing|noun; singular
+9675|раскладывать|to lay out|verb; imperfective
+9676|истребить|to exterminate|verb; perfective
+9677|крупа|groats|noun; singular; uncountable
+9678|силовой|power|adjective
+9679|промахнуться|to miss|verb; perfective; reflexive
+9680|стрелковый|rifle|adjective
+9681|квас|kvass|noun; singular; uncountable
+9682|поговорка|saying|noun; singular
+9683|отвага|bravery|noun; singular; uncountable
+9684|нестерпимый|unbearable|adjective
+9685|сообщаться|to be connected|verb; imperfective; reflexive
+9686|доводиться|to happen|verb; imperfective; reflexive
+9687|накопление|accumulation|noun; singular
+9688|простейший|simplest|adjective
+9689|плитка|tile|noun; singular
+9690|лунка|hole|noun; singular
+9691|финка|Finnish knife|noun; singular
+9692|непростой|complicated|adjective
+9693|тактик|tactician|noun; singular
+9694|запущенный|neglected|adjective
+9695|наяву|in reality|adverb
+9696|разносить|to break in|verb; imperfective
+9697|Литва|Lithuania|noun; singular; proper
+9698|Беличенко|Belichenko|noun; singular; proper
+9699|формировать|to form|verb; imperfective
+9700|беспощадно|mercilessly|adverb

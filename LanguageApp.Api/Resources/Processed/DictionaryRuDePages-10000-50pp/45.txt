@@ -1,0 +1,50 @@
+2251|аккуратно|Осторожно, без ошибок и небрежности|sorgfältig|adverb
+2252|подушка|Мягкий чехол, набитый пухом, для подкладывания под голову|Kissen|noun; neuter
+2253|бег|Быстрое передвижение на ногах|Lauf|noun; masculine
+2254|тетка|Сестра отца или матери|Tante|noun; feminine
+2255|пропустить|Разрешить пройти; дать дорогу|durchlassen|verb; perfective; infinitive
+2256|высоко|На большой высоте или уровне|hoch|adverb
+2257|дивизия|Основное тактическое соединение вооружённых сил|Division|noun; feminine
+2258|коньяк|Крепкий алкогольный напиток из выдержанного виноградного спирта|Cognac|noun; masculine
+2259|др|Аббревиатура|—|abbreviation
+2260|распахнуть|Широко раскрыть или раздвинуть|aufreißen|verb; perfective; infinitive
+2261|исключительно|Лишь, только; единственно|ausschließlich|adverb
+2262|мягко|Деликатно; без жёсткости|sanft|adverb
+2263|горизонт|Видимая граница неба и земной поверхности|Horizont|noun; masculine
+2264|китайский|Относящийся к Китаю или китайцам|chinesisch|adjective
+2265|ползти|Передвигаться по поверхности всем телом|kriechen|verb; imperfective; infinitive
+2266|выбраться|С трудом выйти из какого-либо места|herauskommen|verb; perfective; infinitive
+2267|мрачный|Тёмный; угрюмый|düster|adjective
+2268|деталь|Часть механизма или изделия|Detail|noun; neuter
+2269|контакт|Соприкосновение; соединение|Kontakt|noun; masculine
+2270|жук|Насекомое с жёсткими надкрыльями|Käfer|noun; masculine
+2271|шеф|Начальник; глава|Chef|noun; masculine
+2272|Петербург|Город в России (Санкт-Петербург)|Petersburg|noun; masculine; proper
+2273|правильный|Верный; соответствующий норме|richtig|adjective
+2274|погодить|Помедлить; подождать с выполнением|warten|verb; perfective; infinitive
+2275|новость|Недавно полученное известие|Neuigkeit|noun; feminine
+2276|утренний|Относящийся к утру; происходящий утром|morgendlich|adjective
+2277|гений|Человек, обладающий высшей творческой способностью|Genie|noun; neuter
+2278|передача|Действие по передаче; радио- или телепрограмма|Sendung|noun; feminine
+2279|редакция|Группа работников, редактирующих издание|Redaktion|noun; feminine
+2280|опуститься|Переместиться в более низкое положение|sich senken|verb; perfective; infinitive; reflexive
+2281|декабрь|Двенадцатый месяц календарного года|Dezember|noun; masculine
+2282|публика|Зрители, слушатели; аудитория|Publikum|noun; neuter
+2283|колхоз|Коллективное сельскохозяйственное предприятие|Kolchos|noun; masculine
+2284|свадьба|Брачный обряд; свадебное торжество|Hochzeit|noun; feminine
+2285|лук|Огородное растение с луковицей и съедобными листьями|Zwiebel|noun; feminine
+2286|городок|Небольшой город|Städtchen|noun; neuter
+2287|немало|В довольно большом количестве|nicht wenig|adverb
+2288|бандит|Вооружённый грабитель; участник банды|Bandit|noun; masculine
+2289|москвич|Житель Москвы|Moskauer|noun; masculine
+2290|лаборатория|Учреждение для проведения научных опытов и исследований|Labor|noun; neuter
+2291|прекратить|Положить конец чему-либо; перестать делать|aufhören|verb; perfective; infinitive
+2292|согласно|В соответствии с чем-либо; сообразно|gemäß|adverb
+2293|справиться|Суметь сделать; выполнить|bewältigen|verb; perfective; infinitive
+2294|молодежь|Молодое поколение; молодые люди|Jugend|noun; feminine
+2295|ноябрь|Одиннадцатый месяц календарного года|November|noun; masculine
+2296|строительство|Возведение зданий и сооружений|Bau|noun; masculine
+2297|прислушиваться|Вслушиваться; воспринимать слухом внимательно|lauschen|verb; imperfective; infinitive
+2298|пакет|Бумажный свёрток или упаковка|Paket|noun; neuter
+2299|пенсия|Денежное обеспечение за выслугу лет или по инвалидности|Rente|noun; feminine
+2300|постараться|Приложить усилие; сделать всё возможное|sich bemühen|verb; perfective; infinitive; reflexive

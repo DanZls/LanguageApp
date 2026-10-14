@@ -1,0 +1,100 @@
+3401|покидать|to leave|verb; regular
+3402|приезд|arrival|noun; singular
+3403|табак|tobacco|noun; singular; uncountable
+3404|переговоры|negotiations|noun; plural
+3405|гараж|garage|noun; singular
+3406|книжный|bookish|adjective
+3407|сталкер|stalker|noun; singular
+3408|неудобно|uncomfortably|adverb
+3409|сельский|rural|adjective
+3410|протягивать|to extend|verb; regular
+3411|торговать|to trade|verb; regular
+3412|классический|classic|adjective
+3413|отстать|to fall behind|verb; perfective
+3414|слизистый|mucous|adjective
+3415|осторожный|cautious|adjective
+3416|исполнить|to perform|verb; perfective
+3417|таковой|such|pronoun
+3418|слышный|audible|adjective
+3419|кризис|crisis|noun; singular
+3420|набитый|stuffed|adjective
+3421|ответственный|responsible|adjective
+3422|подобно|like|adverb
+3423|совещание|meeting|noun; singular
+3424|раздаваться|to resound|verb; regular; reflexive
+3425|мучиться|to suffer|verb; regular; reflexive
+3426|риск|risk|noun; singular
+3427|живой|alive|adjective
+3428|мыло|soap|noun; singular; uncountable
+3429|забросить|to abandon|verb; perfective
+3430|счесть|to consider|verb; perfective
+3431|котелок|pot|noun; singular
+3432|повышенный|increased|adjective
+3433|ремонт|repair|noun; singular
+3434|авторитет|authority|noun; singular; uncountable
+3435|провод|wire|noun; singular
+3436|использоваться|to be used|verb; regular; reflexive
+3437|извиняться|to apologize|verb; regular; reflexive
+3438|представиться|to introduce oneself|verb; perfective; reflexive
+3439|англичанин|Englishman|noun; singular; irregular plural
+3440|уверять|to assure|verb; regular
+3441|наступление|offensive|noun; singular
+3442|объем|volume|noun; singular
+3443|отнять|to take away|verb; perfective
+3444|рев|roar|noun; singular
+3445|щит|shield|noun; singular
+3446|стадо|herd|noun; singular
+3447|растерянно|in confusion|adverb
+3448|некого|no one|pronoun
+3449|прогулка|walk|noun; singular
+3450|натура|nature|noun; singular
+3451|фуражка|cap|noun; singular
+3452|рассмотреть|to examine|verb; perfective
+3453|учитывать|to take into account|verb; regular
+3454|признание|confession|noun; singular
+3455|демократический|democratic|adjective
+3456|окраина|outskirts|noun; plural
+3457|греметь|to thunder|verb; irregular
+3458|оглядеться|to look around|verb; perfective; reflexive
+3459|гениальный|brilliant|adjective
+3460|пыльный|dusty|adjective
+3461|маг|magician|noun; singular
+3462|ступать|to tread|verb; regular
+3463|сгореть|to burn down|verb; perfective
+3464|плотно|tightly|adverb
+3465|обращение|treatment|noun; singular
+3466|командировка|business trip|noun; singular
+3467|подозрение|suspicion|noun; singular
+3468|ген|gene|noun; singular
+3469|погаснуть|to go out|verb; perfective
+3470|торговый|trade|adjective
+3471|злость|anger|noun; singular; uncountable
+3472|пузырь|bubble|noun; singular
+3473|испытание|test|noun; singular
+3474|нанести|to inflict|verb; perfective
+3475|прохожий|passerby|noun; singular
+3476|прыжок|jump|noun; singular
+3477|вена|vein|noun; singular
+3478|вытирать|to wipe|verb; regular
+3479|включая|including|preposition
+3480|неподвижно|motionlessly|adverb
+3481|осознать|to realize|verb; perfective
+3482|пройтись|to take a walk|verb; perfective; reflexive
+3483|обидно|it's a shame|adverb
+3484|палочка|small stick|noun; singular
+3485|ленинградский|Leningrad|adjective
+3486|годиться|to be suitable|verb; regular; reflexive
+3487|мысленно|mentally|adverb
+3488|КГБ|KGB|noun; abbreviation; proper
+3489|заполнить|to fill in|verb; perfective
+3490|взор|gaze|noun; singular
+3491|раздражать|to irritate|verb; regular
+3492|нары|bunks|noun; plural
+3493|катастрофа|catastrophe|noun; singular
+3494|коллектив|team|noun; singular
+3495|новенький|newcomer|noun; singular
+3496|хор|choir|noun; singular
+3497|отказать|to refuse|verb; perfective
+3498|отложить|to postpone|verb; perfective
+3499|свести|to bring down|verb; perfective
+3500|зарабатывать|to earn|verb; regular

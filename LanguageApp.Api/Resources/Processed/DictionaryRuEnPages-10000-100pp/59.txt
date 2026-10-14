@@ -1,0 +1,100 @@
+5801|исполниться|to come true|verb; perfective; reflexive
+5802|срезать|to cut off|verb; perfective
+5803|обработка|processing|noun; singular
+5804|сработать|to work|verb; perfective
+5805|канцелярия|office|noun; singular
+5806|стойкий|resilient|adjective
+5807|дернуться|to jerk|verb; perfective; reflexive
+5808|парочка|couple|noun; singular
+5809|птичка|little bird|noun; singular
+5810|рассеянно|absentmindedly|adverb
+5811|полосатый|striped|adjective
+5812|субъект|subject|noun; singular
+5813|изменять|to change|verb; imperfective
+5814|га|hectare|noun; singular; abbreviation
+5815|опереться|to lean on|verb; perfective; reflexive
+5816|дико|wildly|adverb
+5817|охватывать|to encompass|verb; imperfective
+5818|физик|physicist|noun; singular
+5819|укрепить|to strengthen|verb; perfective
+5820|наружный|external|adjective
+5821|независимость|independence|noun; singular; uncountable
+5822|эксплуатация|exploitation|noun; singular; uncountable
+5823|канава|ditch|noun; singular
+5824|раздумывать|to ponder|verb; imperfective
+5825|переслать|to forward|verb; perfective
+5826|лгать|to lie|verb; imperfective
+5827|недоуменный|puzzled|adjective
+5828|многозначительный|meaningful|adjective
+5829|занавес|curtain|noun; singular
+5830|цикл|cycle|noun; singular
+5831|шок|shock|noun; singular
+5832|колебание|fluctuation|noun; singular
+5833|рыночный|market|adjective
+5834|сазан|carp|noun; singular
+5835|важность|importance|noun; singular; uncountable
+5836|клинический|clinical|adjective
+5837|лягушка|frog|noun; singular
+5838|заново|anew|adverb
+5839|блеснуть|to flash|verb; perfective
+5840|угощать|to treat|verb; imperfective
+5841|механика|mechanics|noun; singular; uncountable
+5842|радист|radio operator|noun; singular
+5843|сизый|blue-gray|adjective
+5844|распределение|distribution|noun; singular
+5845|отводить|to lead away|verb; imperfective
+5846|запомниться|to be remembered|verb; perfective; reflexive
+5847|кружить|to circle|verb; imperfective
+5848|погрузиться|to plunge|verb; perfective; reflexive
+5849|натуральный|natural|adjective
+5850|подобие|likeness|noun; singular
+5851|захват|seizure|noun; singular
+5852|зеленоватый|greenish|adjective
+5853|посыпаться|to start falling|verb; perfective; reflexive
+5854|потереть|to rub|verb; perfective
+5855|наладить|to fix|verb; perfective
+5856|степной|steppe|adjective
+5857|предать|to betray|verb; perfective
+5858|выручить|to help out|verb; perfective
+5859|вырываться|to break free|verb; imperfective; reflexive
+5860|артиллерийский|artillery|adjective
+5861|бравый|dashing|adjective
+5862|защитный|khaki|adjective
+5863|охотничий|hunting|adjective
+5864|треугольник|triangle|noun; singular
+5865|свободный|free|adjective
+5866|северо|north|prefix
+5867|влететь|to fly in|verb; perfective
+5868|беззвучно|silently|adverb
+5869|энергетический|energy|adjective
+5870|гранат|pomegranate|noun; singular
+5871|немолодой|elderly|adjective
+5872|заливать|to flood|verb; imperfective
+5873|понемногу|little by little|adverb
+5874|посередине|in the middle|adverb
+5875|сниматься|to come off|verb; imperfective; reflexive
+5876|единственно|solely|adverb
+5877|сливаться|to merge|verb; imperfective; reflexive
+5878|химия|chemistry|noun; singular; uncountable
+5879|намереваться|to intend|verb; imperfective; reflexive
+5880|дядюшка|uncle|noun; singular
+5881|шипеть|to hiss|verb; imperfective
+5882|употребление|use|noun; singular; uncountable
+5883|слесарь|locksmith|noun; singular
+5884|оскорбить|to insult|verb; perfective
+5885|наметить|to outline|verb; perfective
+5886|невроз|neurosis|noun; singular
+5887|срываться|to break off|verb; imperfective; reflexive
+5888|теряться|to get lost|verb; imperfective; reflexive
+5889|бесчисленный|countless|adjective
+5890|Мерседес|Mercedes|noun; singular; proper
+5891|разочарование|disappointment|noun; singular
+5892|наследник|heir|noun; singular
+5893|обиженный|offended|adjective
+5894|здороваться|to greet|verb; imperfective; reflexive
+5895|девичий|girlish|adjective
+5896|блокада|blockade|noun; singular
+5897|простота|simplicity|noun; singular; uncountable
+5898|коленка|knee|noun; singular
+5899|нетрудно|not hard|adverb
+5900|прожектор|searchlight|noun; singular

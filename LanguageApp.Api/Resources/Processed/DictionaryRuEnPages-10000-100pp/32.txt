@@ -1,0 +1,100 @@
+3101|аж|even|particle
+3102|стальной|steel|adjective
+3103|лечить|to treat|verb; regular
+3104|подъем|ascent|noun; singular
+3105|ругаться|to swear|verb; regular; reflexive
+3106|издательство|publishing house|noun; singular
+3107|сопротивление|resistance|noun; singular; uncountable
+3108|раздражение|irritation|noun; singular; uncountable
+3109|уложить|to lay down|verb; perfective
+3110|сочинение|composition|noun; singular
+3111|наверх|upward|adverb
+3112|завидовать|to envy|verb; regular
+3113|треск|crack|noun; singular
+3114|уголь|coal|noun; singular; uncountable
+3115|хлопать|to clap|verb; regular
+3116|вытереть|to wipe|verb; perfective
+3117|масштаб|scale|noun; singular
+3118|заслужить|to deserve|verb; perfective
+3119|стойка|stance|noun; singular
+3120|довести|to bring|verb; perfective
+3121|нападение|attack|noun; singular
+3122|плита|slab|noun; singular
+3123|пляж|beach|noun; singular
+3124|трястись|to shake|verb; regular; reflexive
+3125|подросток|teenager|noun; singular
+3126|присутствовать|to be present|verb; regular
+3127|спальня|bedroom|noun; singular
+3128|экипаж|crew|noun; singular
+3129|слуга|servant|noun; singular
+3130|лампочка|light bulb|noun; singular
+3131|скучно|boring|adverb
+3132|тупой|blunt|adjective
+3133|поцелуй|kiss|noun; singular
+3134|уважаемый|respected|adjective
+3135|туфля|shoe|noun; singular
+3136|вырвать|to tear out|verb; perfective
+3137|пуговица|button|noun; singular
+3138|шампанский|champagne|adjective
+3139|мелькнуть|to flash|verb; perfective
+3140|благодарность|gratitude|noun; singular; uncountable
+3141|череп|skull|noun; singular
+3142|перспектива|prospect|noun; singular
+3143|последующий|subsequent|adjective
+3144|наклониться|to lean|verb; perfective; reflexive
+3145|стесняться|to be shy|verb; regular; reflexive
+3146|дружок|buddy|noun; singular
+3147|превратить|to turn into|verb; perfective
+3148|обижаться|to be offended|verb; regular; reflexive
+3149|накрыть|to cover|verb; perfective
+3150|таскать|to drag|verb; regular
+3151|вставить|to insert|verb; perfective
+3152|гад|scoundrel|noun; singular
+3153|застыть|to freeze|verb; perfective
+3154|пьеса|play|noun; singular
+3155|примета|sign|noun; singular
+3156|залить|to flood|verb; perfective
+3157|разумный|reasonable|adjective
+3158|сено|hay|noun; singular; uncountable
+3159|нередко|often|adverb
+3160|мчаться|to rush|verb; irregular; reflexive
+3161|недовольный|dissatisfied|adjective
+3162|внезапный|sudden|adjective
+3163|игрушка|toy|noun; singular
+3164|стоимость|cost|noun; singular
+3165|учреждение|institution|noun; singular
+3166|воротник|collar|noun; singular
+3167|сжечь|to burn|verb; perfective
+3168|опасаться|to fear|verb; regular; reflexive
+3169|спинка|backrest|noun; singular
+3170|проверка|check|noun; singular
+3171|курсант|cadet|noun; singular
+3172|уход|departure|noun; singular
+3173|удержаться|to hold on|verb; perfective; reflexive
+3174|подослать|to send|verb; perfective
+3175|эксперимент|experiment|noun; singular
+3176|барин|master|noun; singular
+3177|пообещать|to promise|verb; perfective
+3178|Англия|England|noun; singular; proper
+3179|заболеть|to fall ill|verb; perfective
+3180|потрясти|to shake|verb; perfective
+3181|падение|fall|noun; singular
+3182|девятый|ninth|numeral; ordinal
+3183|поворачиваться|to turn|verb; regular; reflexive
+3184|петух|rooster|noun; singular
+3185|записывать|to write down|verb; regular
+3186|любитель|amateur|noun; singular
+3187|щелкнуть|to click|verb; perfective
+3188|медный|copper|adjective
+3189|наверху|above|adverb
+3190|точность|accuracy|noun; singular; uncountable
+3191|чеченец|Chechen|noun; singular
+3192|ценный|valuable|adjective
+3193|глупо|foolishly|adverb
+3194|передовой|advanced|adjective
+3195|тесный|cramped|adjective
+3196|исполнение|execution|noun; singular
+3197|хронический|chronic|adjective
+3198|стремление|aspiration|noun; singular
+3199|наполнить|to fill|verb; perfective
+3200|неподвижный|motionless|adjective

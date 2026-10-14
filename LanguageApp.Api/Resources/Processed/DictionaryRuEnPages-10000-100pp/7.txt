@@ -1,0 +1,100 @@
+601|трудно|difficult|adverb
+602|условие|condition|noun; singular
+603|прежде|before|adverb
+604|ум|mind|noun; singular
+605|улыбнуться|to smile|verb; perfective
+606|процесс|process|noun; singular
+607|картина|picture|noun; singular
+608|вместо|instead of|preposition
+609|старший|elder|adjective
+610|легко|easily|adverb
+611|центр|center|noun; singular
+612|подобный|similar|adjective
+613|возможно|maybe|adverb
+614|около|near|preposition
+615|смеяться|to laugh|verb; regular
+616|сто|hundred|numeral; cardinal
+617|будущее|future|noun; singular
+618|хватать|to grab|verb; regular
+619|число|number|noun; singular
+620|всякое|any|pronoun
+621|рубль|ruble|noun; singular
+622|почувствовать|to feel|verb; perfective
+623|принести|to bring|verb; perfective
+624|вера|faith|noun; singular
+625|вовсе|at all|adverb
+626|удар|blow|noun; singular
+627|телефон|telephone|noun; singular
+628|колено|knee|noun; singular; irregular plural
+629|согласиться|to agree|verb; perfective
+630|мало|little|pronoun; adverb
+631|коридор|corridor|noun; singular
+632|мужик|peasant|noun; singular
+633|правый|right|adjective
+634|автор|author|noun; singular
+635|холодный|cold|adjective
+636|хватить|to grab|verb; perfective
+637|многие|many|pronoun
+638|встреча|meeting|noun; singular
+639|кабинет|office|noun; singular
+640|документ|document|noun; singular
+641|самолет|airplane|noun; singular
+642|вниз|down|adverb
+643|принимать|to accept|verb; regular
+644|игра|game|noun; singular
+645|рассказ|story|noun; singular
+646|хлеб|bread|noun; singular; uncountable
+647|развитие|development|noun; singular
+648|убить|to kill|verb; perfective
+649|родной|native|adjective
+650|открытый|open|adjective
+651|менее|less|adverb; irregular comparison
+652|предложить|to offer|verb; perfective
+653|желтый|yellow|adjective
+654|приходиться|to have to|verb; regular; impersonal
+655|выпить|to drink|verb; perfective
+656|крикнуть|to shout|verb; perfective
+657|трубка|tube|noun; singular
+658|враг|enemy|noun; singular
+659|показывать|to show|verb; regular
+660|двое|two|numeral; collective
+661|доктор|doctor|noun; singular
+662|ладонь|palm|noun; singular
+663|вызвать|to call|verb; perfective
+664|спокойно|calmly|adverb
+665|попросить|to ask|verb; perfective
+666|наука|science|noun; singular
+667|лейтенант|lieutenant|noun; singular
+668|служба|service|noun; singular
+669|оказываться|to turn out|verb; regular
+670|привести|to bring|verb; perfective
+671|сорок|forty|numeral; cardinal
+672|счет|bill|noun; singular
+673|возвращаться|to return|verb; regular
+674|золотой|golden|adjective
+675|местный|local|adjective
+676|кухня|kitchen|noun; singular
+677|крупный|large|adjective
+678|решение|decision|noun; singular
+679|молодая|young|adjective; feminine
+680|тридцать|thirty|numeral; cardinal
+681|роман|novel|noun; singular
+682|требовать|to demand|verb; regular
+683|компания|company|noun; singular
+684|частый|frequent|adjective
+685|российский|Russian|adjective
+686|рабочий|worker|noun; singular
+687|потерять|to lose|verb; perfective
+688|течение|current|noun; singular
+689|синий|blue|adjective
+690|столько|so much|adverb
+691|теплый|warm|adjective
+692|метр|meter|noun; singular
+693|достать|to get|verb; perfective
+694|железный|iron|adjective
+695|институт|institute|noun; singular
+696|сообщить|to inform|verb; perfective
+697|интерес|interest|noun; singular
+698|обычный|usual|adjective
+699|появляться|to appear|verb; regular
+700|упасть|to fall|verb; perfective

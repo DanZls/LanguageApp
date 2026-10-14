@@ -1,0 +1,50 @@
+1201|заговорить|Начать говорить|anfangen zu sprechen|verb; perfective; infinitive
+1202|мальчишка|Мальчик или подросток (разг.)|Junge|noun; masculine
+1203|пользоваться|Применять что-либо для своих нужд|benutzen|verb; imperfective; infinitive
+1204|научный|Основанный на принципах науки; соответствующий научным требованиям|wissenschaftlich|adjective
+1205|повторять|Делать что-либо снова; воспроизводить|wiederholen|verb; imperfective; infinitive
+1206|яркий|Дающий сильный свет; насыщенный по цвету|hell|adjective
+1207|несколько|Небольшое количество|einige|numeral; cardinal
+1208|учить|Передавать знания или навыки кому-либо|lehren|verb; imperfective; infinitive
+1209|взяться|Приступить к выполнению чего-либо|sich daranmachen|verb; perfective; infinitive; reflexive
+1210|бегать|Многократно бежать; передвигаться бегом|laufen|verb; imperfective; infinitive
+1211|господь|В христианстве: Бог|Herr|noun; masculine; proper
+1212|общественный|Относящийся к обществу или общественной деятельности|gesellschaftlich|adjective
+1213|устроить|Организовать; создать; наладить|einrichten|verb; perfective; infinitive
+1214|дышать|Вдыхать воздух и выдыхать его|atmen|verb; imperfective; infinitive
+1215|лечь|Принять лежачее положение|sich legen|verb; perfective; infinitive; reflexive
+1216|сша|Соединённые Штаты Америки|USA|noun; plural; abbreviation
+1217|камера|Помещение особого назначения; тюремная комната|Kammer|noun; feminine
+1218|победа|Успех в бою или соревновании при поражении противника|Sieg|noun; masculine
+1219|учёный|Специалист в области науки|Wissenschaftler|noun; masculine
+1220|состоять|Включать в свой состав; быть составленным из чего-либо|bestehen|verb; imperfective; infinitive
+1221|заходить|Посещать по пути; приходить|vorbeikommen|verb; imperfective; infinitive
+1222|человечество|Все люди; человеческий род|Menschheit|noun; feminine
+1223|фраза|Законченное высказывание; предложение|Satz|noun; masculine
+1224|внимательно|Сосредоточенно; с вниманием|aufmerksam|adverb
+1225|гот|Представитель субкультуры готов|Gote|noun; masculine
+1226|считаться|Принимать во внимание; уважать кого-либо|berücksichtigen|verb; imperfective; infinitive
+1227|вероятно|По всей вероятности; возможно|wahrscheinlich|adverb
+1228|соседний|Расположенный рядом; соседствующий|benachbart|adjective
+1229|замок|Приспособление для запирания на ключ|Schloss|noun; neuter
+1230|рыжий|Красно-жёлтого цвета (о волосах)|rothaarig|adjective
+1231|ездить|Передвигаться на транспортном средстве; совершать поездки|fahren|verb; imperfective; infinitive
+1232|господи|Восклицание при обращении к Богу или удивлении|Herrgott|interjection
+1233|остановить|Прекратить движение или развитие чего-либо|anhalten|verb; perfective; infinitive
+1234|встретиться|Сойтись; оказаться в одном месте|sich treffen|verb; perfective; infinitive; reflexive
+1235|явиться|Прийти или прибыть куда-либо|erscheinen|verb; perfective; infinitive
+1236|рынок|Место розничной торговли; базар|Markt|noun; masculine
+1237|тяжело|С большим трудом; в тяжёлой степени|schwer|adverb
+1238|злой|Полный злобы; желающий зла|böse|adjective
+1239|клуб|Организация, объединяющая людей по общим интересам|Klub|noun; masculine
+1240|привезти|Доставить на транспортном средстве|herbringen|verb; perfective; infinitive
+1241|платить|Отдавать деньги в возмещение чего-либо|bezahlen|verb; imperfective; infinitive
+1242|кость|Твёрдая часть скелета человека или животного|Knochen|noun; masculine
+1243|дикий|Не прирученный; находящийся в природном состоянии|wild|adjective
+1244|личность|Человек как носитель определённых свойств; индивид|Persönlichkeit|noun; feminine
+1245|столица|Главный город государства|Hauptstadt|noun; feminine
+1246|спасть|Уменьшиться; снизиться (о воде, температуре и т.д.)|sinken|verb; perfective; infinitive
+1247|здоровье|Нормальное физическое и психическое состояние организма|Gesundheit|noun; feminine
+1248|здравствовать|Пребывать в здравии; благополучно существовать|gesund sein|verb; imperfective; infinitive
+1249|попытка|Действие с целью что-либо осуществить без полной уверенности в успехе|Versuch|noun; masculine
+1250|позволять|Давать право делать что-либо; разрешать|erlauben|verb; imperfective; infinitive

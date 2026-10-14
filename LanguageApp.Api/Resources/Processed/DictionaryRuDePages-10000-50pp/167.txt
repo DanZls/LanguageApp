@@ -1,0 +1,50 @@
+8351|относительный|Не абсолютный, сравнительный|relativ|adjective
+8352|мартышка|Маленькая узконосая обезьяна с длинным хвостом|Meerkatze|noun; feminine
+8353|неудачник|Человек, которому постоянно не везёт|Versager|noun; masculine
+8354|пощупать|Потрогать руками, определяя наощупь|betasten|verb; perfective; infinitive
+8355|голенище|Часть сапога, охватывающая голень|Schaftstiefel-Schaft|noun; masculine
+8356|помиловать|Отменить приговор, освободить от наказания|begnadigen|verb; perfective; infinitive
+8357|протирать|Очищать поверхность, проводя тряпкой|abwischen|verb; imperfective; infinitive
+8358|урка|Уголовный преступник, вор (жарг.)|Gauner|noun; masculine
+8359|затаить|Скрыть чувство, сохранить его в душе|hegen|verb; perfective; infinitive
+8360|осмыслить|Понять смысл, значение чего-либо|begreifen|verb; perfective; infinitive
+8361|тамбур|Входной тамбур или закрытая площадка вагона|Vorraum|noun; masculine
+8362|листочек|Маленький лист (уменьш.)|Blättchen|noun; neuter; diminutive
+8363|враз|Одновременно, все вместе|auf einmal|adverb
+8364|взобраться|С усилием забраться на что-либо|hinaufklettern|verb; perfective; infinitive
+8365|полигон|Специально оборудованный участок для военных испытаний или учений|Testgelände|noun; neuter
+8366|абстрактный|Основанный на отвлечении, не конкретный|abstrakt|adjective
+8367|столбик|Небольшой столб или колонка чисел|Säulchen|noun; neuter; diminutive
+8368|аллах|В исламе: Бог|Allah|noun; masculine; proper
+8369|паралич|Утрата двигательных функций вследствие поражения нервов|Lähmung|noun; feminine
+8370|разлить|Перелить из большой ёмкости в меньшие|eingießen|verb; perfective; infinitive
+8371|обзавестись|Приобрести необходимое для жизни|sich anschaffen|verb; perfective; infinitive; reflexive
+8372|сосок|Выступающая часть молочной железы|Brustwarze|noun; feminine
+8373|несомненный|Не вызывающий сомнений, бесспорный|zweifellos|adjective
+8374|пьяный|Находящийся в состоянии опьянения|betrunken|adjective
+8375|СМИ|Средства массовой информации|Massenmedien|noun; plural; abbreviation
+8376|дикарь|Человек первобытной культуры; нелюдимый человек|Wilder|noun; masculine
+8377|повседневный|Происходящий каждый день, обычный|alltäglich|adjective
+8378|тан|Кисломолочный напиток, разновидность айрана|Tan|noun; masculine
+8379|белорусский|Относящийся к Белоруссии или белорусам|weißrussisch|adjective
+8380|паршивый|Плохой, никудышный (разг.)|miserabel|adjective
+8381|неразборчивый|Нечёткий, плохо читаемый|unleserlich|adjective
+8382|вдаль|На большое расстояние, в даль|in die Ferne|adverb
+8383|запыхаться|Начать тяжело дышать от усталости|außer Atem kommen|verb; perfective; infinitive
+8384|еж|Небольшое насекомоядное млекопитающее с иглами|Igel|noun; masculine
+8385|черепаха|Медленное пресмыкающееся с костным панцирем|Schildkröte|noun; feminine
+8386|промелькнуть|Появиться на миг и исчезнуть|aufblitzen|verb; perfective; infinitive
+8387|порох|Взрывчатое вещество или смесь|Schießpulver|noun; neuter
+8388|доставала|Тот, кто добывает дефицитное (разг.); надоеда|Beschaffer|noun; masculine
+8389|упоминание|Краткое замечание о ком-либо или чём-либо|Erwähnung|noun; feminine
+8390|иллюминатор|Герметичное окно на корабле или летательном аппарате|Bullauge|noun; neuter
+8391|затягиваться|Втягиваться, становиться захваченным чем-либо|sich hinziehen|verb; imperfective; infinitive; reflexive
+8392|девчата|Девушки (разг., мн.ч.)|Mädels|noun; plural
+8393|звякнуть|Издать резкий короткий звон|klirren|verb; perfective; infinitive
+8394|рогатый|Имеющий рога|gehörnt|adjective
+8395|допить|Выпить до конца|austrinken|verb; perfective; infinitive
+8396|потерянный|Растерянный, расстроенный|verloren|adjective
+8397|семнадцатый|Порядковый номер 17|siebzehnte|numeral; ordinal
+8398|шершавый|Шероховатый, с мелкими неровностями|rau|adjective
+8399|разок|Один раз (разг.)|einmal|adverb
+8400|педаль|Ножной рычаг в машине или инструменте|Pedal|noun; neuter

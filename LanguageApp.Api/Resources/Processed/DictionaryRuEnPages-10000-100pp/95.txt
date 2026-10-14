@@ -1,0 +1,100 @@
+9401|виктория|water lily|noun; singular
+9402|каменистый|rocky|adjective
+9403|свиданье|date|noun; singular
+9404|тотальный|total|adjective
+9405|нависнуть|to loom|verb; perfective
+9406|профессионально|professionally|adverb
+9407|вычислить|to calculate|verb; perfective
+9408|плац|parade ground|noun; singular
+9409|огорчение|distress|noun; singular
+9410|расстраиваться|to get upset|verb; imperfective; reflexive
+9411|евангелие|gospel|noun; singular
+9412|наперед|in advance|adverb
+9413|оккупировать|to occupy|verb; imperfective; perfective
+9414|перекреститься|to cross oneself|verb; perfective; reflexive
+9415|чакра|chakra|noun; singular
+9416|разместиться|to settle in|verb; perfective; reflexive
+9417|шланг|hose|noun; singular
+9418|пианино|piano|noun; singular; indeclinable
+9419|отрубить|to chop off|verb; perfective
+9420|подуматься|to occur to one|verb; perfective; reflexive
+9421|мерзость|abomination|noun; singular
+9422|фармазон|swindler|noun; singular
+9423|копошиться|to putter around|verb; imperfective; reflexive
+9424|обогнуть|to go around|verb; perfective
+9425|давило|press|noun; singular
+9426|полномочие|authority|noun; singular
+9427|развлекаться|to have fun|verb; imperfective; reflexive
+9428|наследственный|hereditary|adjective
+9429|исписать|to fill with writing|verb; perfective
+9430|створка|leaf|noun; singular
+9431|ориентир|landmark|noun; singular
+9432|заявиться|to show up|verb; perfective; reflexive
+9433|перечень|list|noun; singular
+9434|разбор|analysis|noun; singular; uncountable
+9435|сессия|session|noun; singular
+9436|волшебство|magic|noun; singular; uncountable
+9437|застенчивый|shy|adjective
+9438|развиться|to develop|verb; perfective; reflexive
+9439|пролежать|to lie for a while|verb; perfective
+9440|кп|checkpoint|noun; singular; abbreviation
+9441|заботливо|caringly|adverb
+9442|морг|morgue|noun; singular
+9443|подполье|basement|noun; singular
+9444|игнорировать|to ignore|verb; imperfective; perfective
+9445|тончайший|finest|adjective; superlative
+9446|преследование|persecution|noun; singular; uncountable
+9447|Швеция|Sweden|noun; singular; proper
+9448|впредь|henceforth|adverb
+9449|вступление|introduction|noun; singular
+9450|гестапо|Gestapo|noun; singular; indeclinable; proper
+9451|отправка|dispatch|noun; singular; uncountable
+9452|неудобство|inconvenience|noun; singular
+9453|дружина|militia|noun; singular
+9454|стенд|stand|noun; singular
+9455|нескончаемый|endless|adjective
+9456|буханка|loaf|noun; singular
+9457|нездоровый|unhealthy|adjective
+9458|коктейль|cocktail|noun; singular
+9459|сдернуть|to pull off|verb; perfective
+9460|диковинный|strange|adjective
+9461|обалдеть|to be stunned|verb; perfective; reflexive
+9462|пронзительно|piercingly|adverb
+9463|кушетка|couch|noun; singular
+9464|фундаментальный|fundamental|adjective
+9465|метать|to throw|verb; imperfective
+9466|незнакомка|stranger|noun; singular
+9467|рыжий|redheaded|adjective
+9468|разместить|to place|verb; perfective
+9469|безупречный|impeccable|adjective
+9470|антенна|antenna|noun; singular
+9471|припоминать|to recall|verb; imperfective
+9472|жратва|grub|noun; singular; uncountable
+9473|бородач|bearded man|noun; singular
+9474|выдаваться|to stand out|verb; imperfective; reflexive
+9475|парализовать|to paralyze|verb; perfective; imperfective
+9476|буржуазия|bourgeoisie|noun; singular; uncountable
+9477|дырочка|small hole|noun; singular; diminutive
+9478|привязанность|attachment|noun; singular
+9479|поссориться|to quarrel|verb; perfective; reflexive
+9480|иммигрант|immigrant|noun; singular
+9481|вырывать|to tear out|verb; imperfective
+9482|регистрация|registration|noun; singular; uncountable
+9483|монгол|Mongol|noun; singular
+9484|непостижимый|incomprehensible|adjective
+9485|кофта|blouse|noun; singular
+9486|выпучить|to bulge|verb; perfective
+9487|отстаивать|to defend|verb; imperfective
+9488|ромашка|chamomile|noun; singular
+9489|утрата|loss|noun; singular
+9490|пересохнуть|to dry out|verb; perfective; reflexive
+9491|накрывать|to cover|verb; imperfective
+9492|противоречивый|contradictory|adjective
+9493|нерешительность|indecisiveness|noun; singular; uncountable
+9494|победный|victorious|adjective
+9495|живописный|picturesque|adjective
+9496|крылышко|little wing|noun; singular; diminutive
+9497|скорпион|scorpion|noun; singular
+9498|рассыпать|to spill|verb; perfective
+9499|влезать|to climb in|verb; imperfective
+9500|нагло|impudently|adverb

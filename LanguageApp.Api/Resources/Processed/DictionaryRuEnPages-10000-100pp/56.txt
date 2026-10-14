@@ -1,0 +1,100 @@
+5501|делегация|delegation|noun; singular
+5502|избранный|chosen|adjective
+5503|лень|laziness|noun; singular; uncountable
+5504|хмыкнуть|to snort|verb; perfective
+5505|наглый|impudent|adjective
+5506|прекратиться|to stop|verb; perfective; reflexive
+5507|робкий|timid|adjective
+5508|накинуть|to raise the price|verb; perfective
+5509|неоднократно|repeatedly|adverb
+5510|сдаться|to surrender|verb; perfective; reflexive
+5511|опухоль|tumor|noun; singular
+5512|яростно|furiously|adverb
+5513|палач|executioner|noun; singular
+5514|нехотя|reluctantly|adverb
+5515|контролировать|to control|verb; imperfective
+5516|подбирать|to pick up|verb; imperfective
+5517|сотник|centurion|noun; singular
+5518|расширение|expansion|noun; singular
+5519|зашагать|to start walking|verb; perfective
+5520|чайный|tea|adjective
+5521|рискнуть|to risk|verb; perfective
+5522|округа|surrounding area|noun; singular
+5523|целоваться|to kiss|verb; imperfective; reflexive
+5524|препятствие|obstacle|noun; singular
+5525|возвращать|to return|verb; imperfective
+5526|ляля|baby|noun; singular
+5527|ранение|wound|noun; singular
+5528|бес|demon|noun; singular
+5529|шуршать|to rustle|verb; imperfective
+5530|выгода|benefit|noun; singular
+5531|стража|guard|noun; singular; uncountable
+5532|вдобавок|in addition|adverb
+5533|официантка|waitress|noun; singular
+5534|тогдашний|then-current|adjective
+5535|обрывок|scrap|noun; singular
+5536|невозмутимый|imperturbable|adjective
+5537|анкета|questionnaire|noun; singular
+5538|выть|to howl|verb; imperfective
+5539|электричество|electricity|noun; singular; uncountable
+5540|миссис|Mrs.|noun; singular
+5541|обрушиться|to attack|verb; perfective; reflexive
+5542|здравый|sensible|adjective
+5543|соблюдать|to observe|verb; imperfective
+5544|предпринять|to undertake|verb; perfective
+5545|подошва|sole|noun; singular
+5546|иллюзия|illusion|noun; singular
+5547|статуя|statue|noun; singular
+5548|английски|in English|adverb
+5549|серебро|silver|noun; singular; uncountable
+5550|безумие|madness|noun; singular; uncountable
+5551|яхта|yacht|noun; singular
+5552|пронестись|to rush past|verb; perfective; reflexive
+5553|комбинезон|overalls|noun; singular
+5554|комедия|comedy|noun; singular
+5555|юридический|legal|adjective
+5556|предварительный|preliminary|adjective
+5557|жечь|to burn|verb; imperfective
+5558|уткнуться|to bury oneself|verb; perfective; reflexive
+5559|классовый|class|adjective
+5560|очертание|outline|noun; singular
+5561|старина|olden times|noun; singular; uncountable
+5562|галерея|gallery|noun; singular
+5563|сионистский|Zionist|adjective
+5564|любовный|love|adjective
+5565|доехать|to reach|verb; perfective
+5566|мигать|to blink|verb; imperfective
+5567|познание|cognition|noun; singular; uncountable
+5568|ограничение|restriction|noun; singular
+5569|держава|power|noun; singular
+5570|предшествовать|to precede|verb; imperfective
+5571|чугунный|cast-iron|adjective
+5572|носилки|stretcher|noun; plural
+5573|выругаться|to swear|verb; perfective; reflexive
+5574|ведомство|agency|noun; singular
+5575|наплевать|to spit on|verb; perfective
+5576|файл|file|noun; singular
+5577|преданный|devoted|adjective
+5578|сборный|composite|adjective
+5579|заполнять|to fill|verb; imperfective
+5580|продавщица|saleswoman|noun; singular
+5581|побледнеть|to turn pale|verb; perfective
+5582|пепельница|ashtray|noun; singular
+5583|парад|parade|noun; singular
+5584|жилище|dwelling|noun; singular
+5585|выдерживать|to withstand|verb; imperfective
+5586|скользкий|slippery|adjective
+5587|возвратиться|to return|verb; perfective; reflexive
+5588|сражаться|to fight|verb; imperfective; reflexive
+5589|агентство|agency|noun; singular
+5590|поклонник|admirer|noun; singular
+5591|сундук|chest|noun; singular
+5592|осуществлять|to carry out|verb; imperfective
+5593|диета|diet|noun; singular
+5594|свисать|to hang down|verb; imperfective
+5595|любопытно|curiously|adverb
+5596|кора|bark|noun; singular; uncountable
+5597|президентский|presidential|adjective
+5598|развлечение|entertainment|noun; singular
+5599|шапочка|little hat|noun; singular
+5600|административный|administrative|adjective

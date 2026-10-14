@@ -1,0 +1,50 @@
+2501|отечественный|Относящийся к родной стране; не иностранный|inländisch|adjective
+2502|снизу|С нижней стороны|von unten|adverb
+2503|прокурор|Должностное лицо прокуратуры|Staatsanwalt|noun; masculine
+2504|карандаш|Пишущий инструмент с графитовым стержнем|Bleistift|noun; masculine
+2505|принц|Нецарствующий член королевской семьи|Prinz|noun; masculine
+2506|слышаться|Воспринимать звуки; звучать|klingen|verb; imperfective; infinitive
+2507|лидер|Руководитель; авторитетный человек в группе|Anführer|noun; masculine
+2508|представляться|Называть своё имя при знакомстве|sich vorstellen|verb; imperfective; infinitive; reflexive
+2509|спирт|Горючая опьяняющая жидкость|Alkohol|noun; masculine
+2510|обеспечить|Снабдить необходимым; гарантировать выполнение|sicherstellen|verb; perfective; infinitive
+2511|бизнес|Коммерческая деятельность с целью получения прибыли|Geschäft|noun; neuter
+2512|иностранец|Гражданин иной страны|Ausländer|noun; masculine
+2513|биться|Сражаться; ударяться|kämpfen|verb; imperfective; infinitive
+2514|достигнуть|Добраться до цели; добиться чего-либо|erreichen|verb; perfective; infinitive
+2515|выпускать|Освобождать; давать выход|herauslassen|verb; imperfective; infinitive
+2516|поп|Православный священнослужитель|Priester|noun; masculine
+2517|койка|Спальное место в казарме, больнице или на судне|Koje|noun; feminine
+2518|приготовить|Сделать готовым к использованию|vorbereiten|verb; perfective; infinitive
+2519|жестокий|Крайне суровый; беспощадный|grausam|adjective
+2520|руль|Устройство для управления транспортным средством|Lenkrad|noun; neuter
+2521|требование|Категорическая просьба; условие|Forderung|noun; feminine
+2522|сволочь|Подлый, низкий человек|Schuft|noun; masculine
+2523|развиваться|Совершенствоваться; прогрессировать|sich entwickeln|verb; imperfective; infinitive; reflexive
+2524|увы|Выражает сожаление или сетование|leider|interjection
+2525|меж|Предлог со значением нахождения между кем-либо|zwischen|preposition
+2526|пожалеть|Испытать жалость или сочувствие|bedauern|verb; perfective; infinitive
+2527|вызов|Приглашение или требование явиться|Aufforderung|noun; feminine
+2528|спутник|Попутчик; тот, кто путешествует вместе|Begleiter|noun; masculine
+2529|обойти|Пройти вокруг или мимо чего-либо|umgehen|verb; perfective; infinitive
+2530|оторвать|Отделить резким движением|abreißen|verb; perfective; infinitive
+2531|отчаяние|Состояние безнадёжности|Verzweiflung|noun; feminine
+2532|применение|Использование на практике|Anwendung|noun; feminine
+2533|заключаться|Состоять в чём-либо; иметь своей сутью|bestehen|verb; imperfective; infinitive
+2534|организовать|Создать, учредить; наладить деятельность|organisieren|verb; perfective; infinitive
+2535|мука|Тяжёлое физическое или душевное страдание|Qual|noun; feminine
+2536|приглашать|Звать кого-либо куда-либо|einladen|verb; imperfective; infinitive
+2537|распоряжение|Приказ; распорядительное указание|Anordnung|noun; feminine
+2538|еврейский|Относящийся к евреям|jüdisch|adjective
+2539|галстук|Тканевая повязка на шею, завязываемая узлом|Krawatte|noun; feminine
+2540|поддержать|Оказать помощь; выразить согласие|unterstützen|verb; perfective; infinitive
+2541|сбить|Повалить или сдвинуть ударом|abschlagen|verb; perfective; infinitive
+2542|заработать|Получить деньги трудом|verdienen|verb; perfective; infinitive
+2543|госпиталь|Военная больница|Lazarett|noun; neuter
+2544|течь|Двигаться потоком (о жидкости)|fließen|verb; imperfective; infinitive
+2545|материальный|Относящийся к вещественной стороне; не духовный|materiell|adjective
+2546|училище|Среднее или начальное специальное учебное заведение|Fachschule|noun; feminine
+2547|последовать|Пойти вслед за кем-либо или по чьему-либо примеру|folgen|verb; perfective; infinitive
+2548|отличный|Превосходный; очень хорошего качества|ausgezeichnet|adjective
+2549|стук|Резкий звук от удара|Klopfen|noun; neuter
+2550|гигантский|Очень большой; огромный|riesig|adjective

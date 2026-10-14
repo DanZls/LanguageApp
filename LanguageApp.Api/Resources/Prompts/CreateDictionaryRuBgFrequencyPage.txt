@@ -1,0 +1,52 @@
+Combine provided data for a translation app according to the instructions and example below.
+
+For each line in [DictionaryFrequencyRu] do the following:
+- from [DictionaryFrequencyRu], take the [word index number] of a word (the first value in the line) and the corresponding [word in russian].
+- from [DictionaryExplanatoryRu], take a single [word meaning] for the previously chosen [word in russian].
+- from [DictionaryRuBg], take a single [word in bulgarian] for the previously chosen [word in russian] and [word meaning].
+- from any source, take [linguistic tags] related to [word in bulgarian].
+- compose the chosen values into a single line as "[word index number]|[word in russian]|[word meaning]|[word in bulgarian]|[linguistic tags]".
+
+While working, also follow these important rules:
+- preserve language for each part of the line: [word in russian] is in russian, [word meaning] is in russian, [word in bulgarian] is in bulgarian.
+- the [linguistic tags] are tags, determining word as a language part, useful for conjugation (i.e. noun, verb, masculine, perfective etc.).
+- skip other tags, related to word meaning (i.e. "geography", "marine", "sports" etc.).
+- the [linguistic tags] should be in english, in full form (i.e. "masculine", not "m."), separated by ";" if there are several of them.
+- if there are several word meanings (homographs, usually marked as 1, 2, 3, I, II, III, etc.), choose only one, the most used.
+- if there are several translations for a word meaning (synonyms, usually separated with "," or ";"), choose only one, the most relevant for the chosen word and its meaning.
+- do not copy blindly, the provided data may contain ocr errors, correct them in your output.
+- place each translation on a single line.
+- do not add empty lines between translations.
+- do not include sentence, phrase or idiom usage examples from DictionaryRuBg.
+- do not add extra words or symbols, your response is processed programmatically.
+
+
+Example: assume the input looks like:
+
+[DictionaryFrequencyRu]:
+1813 61.27 выбор noun
+1832 60.54 выбирать verb
+4908 20.26 выбежать verb
+
+[DictionaryExplanatoryRu]:
+выбежать|Удалиться откуда–нибудь бегом
+выбежать|Двигаясь бегом, появиться
+выбор|То, из чего можно выбрать
+выбор|О том, кто или что выбран
+выбирать|Отбирать, извлекать
+выбирать|Взять, отобрать, определять для себя нужное, предпочитаемое
+выбирать|Избирать голосованием
+выбирать|Извлекать откуда–нибудь все без остатка
+выбирать|Вытягивать, поднимать якорь, снасть
+выбирать|О времени: находить, освобождать для какой–нибудь цели
+
+
+[DictionaryRuBg]:
+выбежать сов. изтичам, изскоча, изляза тичешком.
+выбирать несов. 1. (голосованием) избирам; 2. (отбирать) подбирам, отбирам; 3. (вынимать, извлекать) извличам, изтеглям (котва, мрежа); 4. (находить) намирам, улучвам (време, момент).
+выбор м. 1. (действие) избиране; выбор профессии избиране на професия; 2. избор; все одобрили мой выбор всички одобриха моя избор; на выбор по избор; 3. (ассортимент) избор, асортимент; большой выбор вин голям избор на вина.
+
+Then format your output as:
+1813|выбор|О том, кто или что выбран|избор|noun; masculine
+1832|выбирать|Взять, отобрать, определять для себя нужное, предпочитаемое|подбирам|verb; imperfective
+4908|выбежать|Удалиться откуда–нибудь бегом|изтичам|verb; perfective

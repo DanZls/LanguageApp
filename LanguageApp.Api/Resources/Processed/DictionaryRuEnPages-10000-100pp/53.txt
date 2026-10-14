@@ -1,0 +1,99 @@
+5201|Азия|Asia|noun; singular; proper
+5202|автоматически|automatically|adverb
+5203|фиолетовый|purple|adjective
+5204|кафедра|department|noun; singular
+5205|свитер|sweater|noun; singular
+5206|поселиться|to settle|verb; perfective; reflexive
+5207|клок|tuft|noun; singular
+5208|разрушение|destruction|noun; singular; uncountable
+5209|удивленный|surprised|adjective
+5210|жареный|fried|adjective
+5211|осмотр|examination|noun; singular
+5212|именовать|to name|verb; imperfective
+5213|бокс|boxing|noun; singular; uncountable
+5214|игла|needle|noun; singular
+5215|юрист|lawyer|noun; singular
+5216|худший|worst|adjective; superlative
+5217|вывеска|sign|noun; singular
+5218|профиль|profile|noun; singular
+5219|скрип|creak|noun; singular
+5220|тугой|tight|adjective
+5221|столикий|many-faced|adjective
+5222|проворчать|to grumble|verb; perfective
+5223|чужой|someone else's|adjective
+5224|послушно|obediently|adverb
+5225|солома|straw|noun; singular; uncountable
+5226|сдача|change|noun; singular; uncountable
+5227|мировой|world|adjective
+5228|лак|varnish|noun; singular; uncountable
+5229|философский|philosophical|adjective
+5230|подозрительно|suspiciously|adverb
+5231|виновный|guilty|adjective
+5232|унылый|gloomy|adjective
+5233|приемник|receiver|noun; singular
+5234|прибегать|to resort|verb; imperfective
+5235|пятерка|five|noun; singular
+5236|справедливо|fairly|adverb
+5237|Испания|Spain|noun; singular; proper
+5238|удариться|to hit oneself|verb; perfective; reflexive
+5239|ущелье|gorge|noun; singular
+5240|зять|son-in-law|noun; singular
+5241|пульс|pulse|noun; singular
+5242|миска|bowl|noun; singular
+5243|доступ|access|noun; singular; uncountable
+5244|кирпичный|brick|adjective
+5245|ветеран|veteran|noun; singular
+5246|хриплый|hoarse|adjective
+5247|бородатый|bearded|adjective
+5248|сохранение|preservation|noun; singular; uncountable
+5249|чех|Czech|noun; singular
+5250|клещ|tick|noun; singular
+5251|гвардия|guard|noun; singular
+5252|беременность|pregnancy|noun; singular; uncountable
+5253|коляска|stroller|noun; singular
+5254|установленный|established|adjective
+5255|сосредоточить|to concentrate|verb; perfective
+5256|обижать|to offend|verb; imperfective
+5257|заинтересовать|to interest|verb; perfective
+5258|чародей|sorcerer|noun; singular
+5259|поблагодарить|to thank|verb; perfective
+5260|воинский|military|adjective
+5261|связать|to tie|verb; perfective
+5262|соавтор|co-author|noun; singular
+5263|издавать|to publish|verb; imperfective
+5264|гаснуть|to go out|verb; imperfective
+5265|коса|braid|noun; singular
+5266|повредить|to damage|verb; perfective
+5267|превышать|to exceed|verb; imperfective
+5268|оформить|to arrange|verb; perfective
+5269|обнаженный|naked|adjective
+5270|автомобильный|automobile|adjective
+5271|входной|entrance|adjective
+5272|доброта|kindness|noun; singular; uncountable
+5273|танковый|tank|adjective
+5274|выдвинуть|to push forward|verb; perfective
+5275|знакомиться|to get acquainted|verb; imperfective; reflexive
+5276|снести|to demolish|verb; perfective
+5277|комсомолец|Komsomol member|noun; singular
+5278|поработать|to work for a while|verb; perfective
+5279|логика|logic|noun; singular; uncountable
+5280|критический|critical|adjective
+5281|предъявить|to present|verb; perfective
+5282|черно|black|adverb
+5283|творение|creation|noun; singular
+5284|ухаживать|to take care|verb; imperfective
+5285|солнышко|sun|noun; singular
+5286|любовник|lover|noun; singular
+5287|обильный|abundant|adjective
+5288|дворник|janitor|noun; singular
+5289|лишиться|to lose|verb; perfective; reflexive
+5290|наложить|to impose|verb; perfective
+5291|белеть|to turn white|verb; imperfective
+5292|замечательно|wonderfully|adverb
+5294|осуществить|to carry out|verb; perfective
+5295|красноармеец|Red Army soldier|noun; singular
+5296|начальный|initial|adjective
+5297|бутерброд|sandwich|noun; singular
+5298|скелет|skeleton|noun; singular
+5299|былой|former|adjective
+5300|стройка|construction site|noun; singular

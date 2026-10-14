@@ -1,0 +1,50 @@
+2601|агент|Уполномоченное лицо для выполнения деловых поручений|Agent|noun; masculine
+2602|супруг|Муж; мужчина в браке|Ehemann|noun; masculine
+2603|январь|Первый месяц года|Januar|noun; masculine
+2604|соль|Белое кристаллическое вещество с острым вкусом|Salz|noun; neuter
+2605|роза|Кустарниковое растение с красивыми душистыми цветками|Rose|noun; feminine
+2606|развести|Расторгнуть брак|scheiden|verb; perfective; infinitive
+2607|опытный|Обладающий опытом|erfahren|adjective
+2608|комиссар|Руководящее лицо с административными полномочиями|Kommissar|noun; masculine
+2609|свидание|Условленная встреча двух людей|Verabredung|noun; feminine
+2610|воздушный|Очень лёгкий и нежный|luftig|adjective
+2611|вооружённый|Несущий оружие; связанный с применением оружия|bewaffnet|adjective
+2612|негромко|Тихо; не громко|leise|adverb
+2613|питание|Пища; её характер и качество|Ernährung|noun; feminine
+2614|неловко|Неуклюже; стеснённо|unbeholfen|adverb
+2615|деловой|Знающий своё дело; практичный|geschäftsmäßig|adjective
+2616|кролик|Грызун семейства зайцевых|Kaninchen|noun; neuter
+2617|шкура|Снятая с животного кожа|Fell|noun; neuter
+2618|политик|Политический деятель|Politiker|noun; masculine
+2619|грохот|Сильный раскатистый шум|Getöse|noun; neuter
+2620|переживать|Испытывать беспокойство о ком-либо|sich sorgen|verb; imperfective; infinitive; reflexive
+2621|финансовый|Относящийся к финансам|finanziell|adjective
+2622|украсть|Присвоить чужое|stehlen|verb; perfective; infinitive
+2623|слыхать|Воспринимать звуки; слышать|hören|verb; imperfective; infinitive
+2624|неприятность|Неприятное событие|Unannehmlichkeit|noun; feminine
+2625|достойный|Заслуживающий чего-либо|würdig|adjective
+2626|шестьдесят|Число 60|sechzig|numeral; cardinal
+2627|электрический|Действующий с помощью электричества|elektrisch|adjective
+2628|успевать|Хорошо учиться; выполнять в срок|vorankommen|verb; imperfective; infinitive
+2629|пережить|Прожить дольше кого-либо; вынести испытание|überleben|verb; perfective; infinitive
+2630|контора|Административно-канцелярское отделение учреждения|Büro|noun; neuter
+2631|русски|На русском языке|auf Russisch|adverb
+2632|возражать|Выражать несогласие|widersprechen|verb; imperfective; infinitive
+2633|суп|Жидкое блюдо из отвара с приправами|Suppe|noun; feminine
+2634|европейский|Относящийся к Европе|europäisch|adjective
+2635|палата|Отдельная комната в больнице|Krankenzimmer|noun; neuter
+2636|сплошной|Идущий без перерывов; непрерывный|ununterbrochen|adjective
+2637|мода|Господствующие в определённое время вкусы и взгляды|Mode|noun; feminine
+2638|кусочек|Небольшая часть; маленький кусок|Stückchen|noun; neuter
+2639|понятный|Доступный пониманию|verständlich|adjective
+2640|старичок|Немолодой мужчина (ласкательно)|Greis|noun; masculine
+2641|потянуть|Тянуть с усилием; рвануть|ziehen|verb; perfective; infinitive
+2642|сорвать|Отделить рывком; снять|abreißen|verb; perfective; infinitive
+2643|июнь|Шестой месяц года|Juni|noun; masculine
+2644|порт|Место стоянки и обслуживания судов|Hafen|noun; masculine
+2645|комплекс|Совокупность; сочетание элементов|Komplex|noun; masculine
+2646|спортивный|Относящийся к спорту; атлетически сложённый|sportlich|adjective
+2647|поддержка|Оказание помощи или содействия|Unterstützung|noun; feminine
+2648|блеск|Яркий искрящийся свет|Glanz|noun; masculine
+2649|уснуть|Погрузиться в сон|einschlafen|verb; perfective; infinitive
+2650|потребность|Нужда, требующая удовлетворения|Bedürfnis|noun; neuter

@@ -1,0 +1,99 @@
+9901|настойка|tincture|noun; singular
+9902|угасать|to fade away|verb; imperfective
+9903|шкатулка|box|noun; singular
+9904|хлебнуть|to take a sip|verb; perfective
+9905|оживленно|animatedly|adverb
+9906|устранение|elimination|noun; singular; uncountable
+9907|раскрасить|to color|verb; perfective
+9908|выжать|to squeeze out|verb; perfective
+9909|исповедь|confession|noun; singular
+9910|кашлянуть|to cough once|verb; perfective; reflexive
+9911|средь|amidst|preposition
+9912|заход|attempt|noun; singular
+9913|цельный|whole|adjective
+9914|провозить|to transport|verb; imperfective
+9915|заражение|infection|noun; singular; uncountable
+9916|деревцо|small tree|noun; singular; diminutive
+9917|египетский|Egyptian|adjective
+9918|узбек|Uzbek|noun; singular
+9919|зиять|to gape|verb; imperfective
+9920|отделиться|to separate|verb; perfective; reflexive
+9921|закрытие|closing|noun; singular
+9923|вещмешок|kitbag|noun; singular
+9924|обаятельный|charming|adjective
+9925|трофей|trophy|noun; singular
+9926|директива|directive|noun; singular
+9927|калека|cripple|noun; singular
+9928|срубить|to chop down|verb; perfective
+9929|перебежать|to run across|verb; perfective
+9930|навязать|to impose|verb; perfective
+9931|процветать|to thrive|verb; imperfective
+9932|пакт|pact|noun; singular
+9933|находчивый|resourceful|adjective
+9934|разоблачить|to expose|verb; perfective
+9935|плацдарм|bridgehead|noun; singular
+9936|шторм|storm|noun; singular
+9937|мерзлый|frozen|adjective
+9938|бросок|throw|noun; singular
+9939|Египет|Egypt|noun; singular; proper
+9940|наугад|at random|adverb
+9941|пожрать|to devour|verb; perfective
+9942|пришить|to sew on|verb; perfective
+9943|неутомимый|tireless|adjective
+9944|придурок|idiot|noun; singular
+9945|пешеход|pedestrian|noun; singular
+9946|ломоть|slice|noun; singular
+9947|подножка|step|noun; singular
+9948|отважный|brave|adjective
+9949|перечитать|to reread|verb; perfective
+9950|разрушительный|destructive|adjective
+9951|темень|darkness|noun; singular; uncountable
+9952|размахнуться|to swing back|verb; perfective; reflexive
+9953|раскинуться|to sprawl|verb; perfective; reflexive
+9954|легион|legion|noun; singular
+9955|романтик|romantic|noun; singular
+9956|бессонный|sleepless|adjective
+9957|обнажить|to bare|verb; perfective
+9958|примесь|admixture|noun; singular
+9959|перевезти|to transport|verb; perfective
+9960|гранит|granite|noun; singular; uncountable
+9961|безразличие|indifference|noun; singular; uncountable
+9962|кассирша|cashier|noun; singular
+9963|многократно|repeatedly|adverb
+9964|связист|signalman|noun; singular
+9965|выходец|native|noun; singular
+9966|нарваться|to run into|verb; perfective; reflexive
+9967|автоматчик|submachine gunner|noun; singular
+9968|запирать|to lock|verb; imperfective
+9969|прохрипеть|to wheeze out|verb; perfective
+9970|уменьшиться|to decrease|verb; perfective; reflexive
+9971|контрразведка|counterintelligence|noun; singular; uncountable
+9972|решимость|determination|noun; singular; uncountable
+9973|шлепнуть|to slap|verb; perfective
+9974|писание|writing|noun; singular; uncountable
+9975|хрустнуть|to crunch|verb; perfective
+9976|искусственно|artificially|adverb
+9977|всемогущий|omnipotent|adjective
+9978|пощечина|slap|noun; singular
+9979|Гарри|Harry|noun; singular; proper
+9980|талон|coupon|noun; singular
+9981|изначально|initially|adverb
+9982|сачок|net|noun; singular
+9983|заварить|to brew|verb; perfective
+9984|юнец|youth|noun; singular
+9985|программист|programmer|noun; singular
+9986|расспрос|questioning|noun; singular
+9987|глушь|backwoods|noun; singular; uncountable
+9988|проигрывать|to lose|verb; imperfective
+9989|вдогонку|in pursuit|adverb
+9990|ухудшение|deterioration|noun; singular
+9991|расплываться|to spread out|verb; imperfective; reflexive
+9992|вдалеке|in the distance|adverb
+9993|верующий|believer|adjective
+9994|загар|suntan|noun; singular; uncountable
+9995|потомство|offspring|noun; singular; uncountable
+9996|пенек|small stump|noun; singular; diminutive
+9997|неделька|little week|noun; singular; diminutive
+9998|поманить|to beckon|verb; perfective
+9999|радиус|radius|noun; singular
+10000|разорить|to ruin|verb; perfective

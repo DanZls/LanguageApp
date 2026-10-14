@@ -1,0 +1,49 @@
+8552|кофточка|Лёгкая женская кофта (уменьш.)|Blüschen|noun; neuter; diminutive
+8553|дюжина|Двенадцать штук|Dutzend|noun; neuter
+8554|увеличивать|Делать больше по размеру или количеству|vergrößern|verb; imperfective; infinitive
+8555|поводок|Ремень для выгула собаки|Leine|noun; feminine
+8556|характеризоваться|Обладать характерными чертами|sich auszeichnen|verb; imperfective; reflexive
+8557|африканский|Относящийся к Африке или африканцам|afrikanisch|adjective
+8558|подносить|Приближать, неся к кому-либо|reichen|verb; imperfective; infinitive
+8559|подставлять|Помещать под что-либо; подвергать опасности|unterschieben|verb; imperfective; infinitive
+8560|бесстрашный|Не испытывающий страха, храбрый|furchtlos|adjective
+8561|шеренга|Военный строй, в котором люди стоят в одну линию|Reihe|noun; feminine
+8562|атаковать|Совершать атаку|angreifen|verb; perfective; imperfective; infinitive
+8563|одобрительно|С одобрением|zustimmend|adverb
+8564|гильза|Трубка-стакан для пули в огнестрельном оружии|Patronenhülse|noun; feminine
+8565|звуковой|Относящийся к звуку|Ton-|adjective
+8566|толковый|Дельный, разумный; хорошо соображающий|verständig|adjective
+8567|лада|Возлюбленный или возлюбленная (в народной поэзии)|Liebste|noun; feminine
+8568|лоток|Открытый уличный прилавок для торговли|Stand|noun; masculine
+8569|пробыть|Провести определённое время где-либо|verbringen|verb; perfective; infinitive
+8570|отлететь|Улететь, удалиться в полёте|wegfliegen|verb; perfective; infinitive
+8571|позавтракать|Поесть утром, позавтракать|frühstücken|verb; perfective; infinitive
+8572|расплачиваться|Рассчитываться по долгам, платить|bezahlen|verb; imperfective; infinitive
+8573|переполненный|Заполненный сверх меры|überfüllt|adjective
+8574|идейный|Связанный с идеями или идеологией|ideell|adjective
+8575|галька|Мелкий гладкий округлый камень|Kieselstein|noun; masculine
+8576|вторичный|Происходящий второй раз, производный|sekundär|adjective
+8577|следопыт|Охотник, выслеживающий зверя по следам|Fährtenleser|noun; masculine
+8578|лабиринт|Запутанная сеть ходов и помещений|Labyrinth|noun; neuter
+8579|склоняться|Изменяться по падежам (в грамматике)|deklinieren|verb; imperfective; infinitive
+8580|носитель|Тот, кто является выразителем чего-либо|Träger|noun; masculine
+8581|добряк|Добродушный человек|Gutmensch|noun; masculine
+8582|бомбить|Атаковать с воздуха, сбрасывая бомбы|bombardieren|verb; imperfective; infinitive
+8583|перерезать|Разрезав, разделить надвое|durchschneiden|verb; perfective; infinitive
+8584|ансамбль|Согласованность частей; музыкальный коллектив|Ensemble|noun; neuter
+8585|соблазн|Нечто привлекательное, искушение|Versuchung|noun; feminine
+8586|сгинуть|Пропасть, исчезнуть бесследно|verschwinden|verb; perfective; infinitive
+8587|репрессия|Карательная мера государственных органов|Repression|noun; feminine
+8588|погрозить|Погрозить, сделать угрожающий жест|drohen|verb; perfective; infinitive
+8589|уборка|Очистка и наведение порядка|Putzen|noun; neuter
+8590|почтение|Глубокое уважение|Hochachtung|noun; feminine
+8591|гражданка|Женщина — гражданин государства|Bürgerin|noun; feminine
+8592|воз|Повозка или сани с грузом|Wagen|noun; masculine
+8593|трусливый|Легко поддающийся страху|feige|adjective
+8594|смущаться|Приходить в замешательство|sich schämen|verb; imperfective; infinitive; reflexive
+8595|меню|Набор блюд; листок с перечнем блюд|Speisekarte|noun; feminine
+8596|преграда|То, что преграждает путь, препятствие|Hindernis|noun; neuter
+8597|упрекать|Делать упрёки, высказывать неодобрение|vorwerfen|verb; imperfective; infinitive
+8598|голосок|Небольшой голос (уменьш.)|Stimmchen|noun; neuter; diminutive
+8599|мотаться|Болтаться, двигаться из стороны в сторону|schaukeln|verb; imperfective; infinitive
+8600|полумрак|Слабое освещение, почти темнота|Halbdunkel|noun; neuter

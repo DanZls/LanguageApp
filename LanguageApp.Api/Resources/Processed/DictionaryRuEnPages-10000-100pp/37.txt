@@ -1,0 +1,100 @@
+3601|маршал|marshal|noun; singular
+3602|приступить|to begin|verb; perfective
+3603|интеллигент|intellectual|noun; singular
+3604|фабрика|factory|noun; singular
+3605|делиться|to share|verb; regular; reflexive
+3606|показание|testimony|noun; singular
+3607|выносить|to endure|verb; perfective
+3608|небрежно|carelessly|adverb
+3609|безусловно|certainly|adverb
+3610|пустяк|trifle|noun; singular
+3611|разноцветный|multicolored|adjective
+3612|прилететь|to arrive by air|verb; perfective
+3613|растение|plant|noun; singular
+3614|гул|hum|noun; singular; uncountable
+3615|вступать|to enter|verb; regular
+3616|стройный|slender|adjective
+3617|одеваться|to dress|verb; regular; reflexive
+3618|ценить|to value|verb; regular
+3619|стыд|shame|noun; singular; uncountable
+3620|бюро|bureau|noun; singular
+3621|завернуть|to wrap|verb; perfective
+3622|воспринимать|to perceive|verb; regular
+3623|дока|expert|noun; singular
+3624|избавиться|to get rid of|verb; perfective; reflexive
+3625|германский|Germanic|adjective
+3626|унести|to carry away|verb; perfective
+3627|зажечь|to light|verb; perfective
+3628|квадратный|square|adjective
+3629|советник|advisor|noun; singular
+3630|башмак|shoe|noun; singular
+3631|жажда|thirst|noun; singular; uncountable
+3632|популярный|popular|adjective
+3633|преимущество|advantage|noun; singular
+3634|направо|to the right|adverb
+3635|лет|years|noun; plural
+3636|проза|prose|noun; singular; uncountable
+3637|имущество|property|noun; singular; uncountable
+3638|премия|bonus|noun; singular
+3639|влюбленный|in love|adjective
+3640|казарма|barracks|noun; plural
+3641|поверх|over|preposition
+3642|привлечь|to attract|verb; perfective
+3643|внешность|appearance|noun; singular
+3644|приход|arrival|noun; singular
+3645|очутиться|to find oneself|verb; perfective; reflexive
+3646|чудовищный|monstrous|adjective
+3647|ставка|rate|noun; singular
+3648|уголовный|criminal|adjective
+3649|прощаться|to say goodbye|verb; regular; reflexive
+3650|провалиться|to fail|verb; perfective; reflexive
+3651|располагаться|to settle|verb; regular; reflexive
+3652|рис|rice|noun; singular; uncountable
+3653|манера|manner|noun; singular
+3654|мелькать|to flash|verb; regular; reflexive
+3655|обычай|custom|noun; singular
+3656|перевернуть|to turn over|verb; perfective
+3657|пасть|maw|noun; singular
+3658|медаль|medal|noun; singular
+3659|крутиться|to spin|verb; regular; reflexive
+3660|биография|biography|noun; singular
+3661|Украина|Ukraine|noun; singular; proper
+3662|Лондон|London|noun; singular; proper
+3663|крохотный|tiny|adjective
+3664|тетрадь|notebook|noun; singular
+3665|стремительно|swiftly|adverb
+3666|обедать|to have lunch|verb; regular
+3667|нарушать|to violate|verb; regular
+3668|велосипед|bicycle|noun; singular
+3669|колодец|well|noun; singular
+3670|противный|disgusting|adjective
+3671|кончик|tip|noun; singular
+3672|ванна|bathtub|noun; singular
+3673|густо|thickly|adverb
+3674|жалоба|complaint|noun; singular
+3675|традиционный|traditional|adjective
+3676|благодарный|grateful|adjective
+3677|убедить|to convince|verb; perfective
+3678|стрельба|shooting|noun; singular; uncountable
+3679|холодильник|refrigerator|noun; singular
+3680|бешеный|furious|adjective
+3681|исход|outcome|noun; singular
+3682|ласковый|affectionate|adjective
+3683|воспитание|upbringing|noun; singular; uncountable
+3684|награда|reward|noun; singular
+3685|печень|liver|noun; singular
+3686|развернуться|to unfold|verb; perfective; reflexive
+3687|типичный|typical|adjective
+3688|часовой|sentry|noun; singular
+3689|стихотворение|poem|noun; singular
+3690|характеристика|characteristic|noun; singular
+3691|торжественно|solemnly|adverb
+3692|огненный|fiery|adjective
+3693|повязка|bandage|noun; singular
+3694|праздничный|festive|adjective
+3695|учет|accounting|noun; singular; uncountable
+3696|крепость|fortress|noun; singular
+3697|проявлять|to show|verb; regular
+3698|качать|to swing|verb; regular
+3699|добыча|extraction|noun; singular; uncountable
+3700|трудность|difficulty|noun; singular

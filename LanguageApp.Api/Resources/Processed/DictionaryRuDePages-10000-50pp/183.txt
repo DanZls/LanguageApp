@@ -1,0 +1,50 @@
+9151|уменьшить|Сделать меньше по величине или количеству|verringern|verb; perfective; infinitive
+9152|дружелюбный|Доброжелательный; дружески настроенный|freundlich|adjective
+9153|оскорбительный|Содержащий оскорбление; унижающий|beleidigend|adjective
+9154|улика|Доказательство вины; обличающее обстоятельство|Beweismittel|noun; neuter
+9155|заскрипеть|Начать издавать скрип|knarren|verb; perfective; infinitive
+9156|цирковой|Относящийся к цирку|Zirkus-|adjective
+9157|проложить|Провести дорогу или путь|anlegen|verb; perfective; infinitive
+9158|оберегать|Бережно охранять; защищать|behüten|verb; imperfective; infinitive
+9159|ручеёк|Маленький ручей|Bächlein|noun; neuter; diminutive
+9160|закопать|Выкопать и засыпать в землю|eingraben|verb; perfective; infinitive
+9161|сигнализация|Система устройств для подачи сигналов|Alarmanlage|noun; feminine
+9162|мерка|Определённый размер; мерило|Maß|noun; neuter
+9163|мишень|Предмет, служащий целью для стрельбы|Zielscheibe|noun; feminine
+9164|микроскоп|Прибор для рассматривания мелких предметов|Mikroskop|noun; neuter
+9165|реализовать|Осуществить; воплотить в жизнь|realisieren|verb; perfective; infinitive
+9166|вдохнуть|Сделать вдох; вдохнуть|einatmen|verb; perfective; infinitive
+9167|вырыть|Выкопать яму или углубление|ausgraben|verb; perfective; infinitive
+9168|опаска|Осторожность при предвидении опасности|Vorsicht|noun; feminine
+9169|зашипеть|Начать издавать шипящий звук|zischen|verb; perfective; infinitive
+9170|Варшава|Столица Польши|Warschau|noun; neuter; proper
+9171|конгресс|Крупный съезд по вопросам международного значения|Kongress|noun; masculine
+9172|компенсация|Возмещение; вознаграждение за ущерб|Entschädigung|noun; feminine
+9173|воспитанник|Тот, кого воспитал или обучает кто-либо|Zögling|noun; masculine
+9174|гранитный|Изготовленный из гранита|Granit-|adjective
+9175|зайчик|Световое пятно от отражённого луча|Lichtfleck|noun; masculine
+9176|блюдце|Небольшая тарелочка под чашку|Untertasse|noun; feminine
+9177|тошнить|Ощущать тошноту; испытывать позывы к рвоте|sich übergeben müssen|verb; imperfective; infinitive; reflexive
+9178|ввалиться|Упасть внутрь; обвалиться|hineinstürzen|verb; perfective; infinitive
+9179|пластина|Плоская полоса из твёрдого материала|Platte|noun; feminine
+9180|всплеснуть|Плеснуть вверх; плеснуть руками|aufspritzen|verb; perfective; infinitive
+9181|прощальный|Относящийся к прощанию|Abschieds-|adjective
+9182|искоса|Не прямо; скосив взгляд|schräg|adverb
+9183|неповторимый|Уникальный по своим качествам; исключительный|einzigartig|adjective
+9184|воровство|Преступное хищение чужого имущества|Diebstahl|noun; masculine
+9185|сносить|Переносить к одному месту|abtragen|verb; imperfective; infinitive
+9186|пересчитать|Посчитать заново; сосчитать повторно|nachzählen|verb; perfective; infinitive
+9187|дегенерат|Человек с признаками физической или нравственной дегенерации|Degenerierter|noun; masculine
+9188|старт|Начальный момент соревнования или взлёта|Start|noun; masculine
+9189|понос|Расстройство кишечника с жидкими испражнениями|Durchfall|noun; masculine
+9190|горох|Бобовое растение и его круглые семена|Erbse|noun; feminine
+9191|испугать|Вызвать страх; напугать|erschrecken|verb; perfective; infinitive
+9192|устье|Место впадения реки в море или другую реку|Mündung|noun; feminine
+9193|формация|Определённая стадия развития общества|Formation|noun; feminine
+9194|скважина|Глубокое цилиндрическое отверстие, сделанное бурением|Bohrloch|noun; neuter
+9195|шнурок|Тонкий шнур; тесьма|Schnürsenkel|noun; masculine
+9196|цыган|Представитель цыганской этнической группы|Zigeuner|noun; masculine
+9197|плюхнуться|Шумно упасть, распластавшись|plumpsen|verb; perfective; infinitive
+9198|включаться|Начать участвовать; присоединяться|sich einschalten|verb; imperfective; infinitive; reflexive
+9199|произвол|Своеволие; самовластное действие|Willkür|noun; feminine
+9200|бестолковый|Непонятливый; несообразительный|begriffsstutzig|adjective

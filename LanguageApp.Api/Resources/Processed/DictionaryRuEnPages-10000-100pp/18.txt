@@ -1,0 +1,100 @@
+1701|крепко|firmly|adverb
+1702|песнь|song|noun; singular
+1703|облако|cloud|noun; singular
+1704|морда|muzzle|noun; singular
+1705|записка|note|noun; singular
+1706|иностранный|foreign|adjective
+1707|незнакомый|unfamiliar|adjective
+1708|установить|to install|verb; perfective
+1709|забывать|to forget|verb; regular
+1710|позвать|to call|verb; perfective
+1711|физический|physical|adjective
+1712|ус|whisker|noun; singular
+1713|помещение|premises|noun; singular
+1714|испугаться|to get scared|verb; perfective; reflexive
+1715|плащ|raincoat|noun; singular
+1716|еле|barely|adverb
+1717|темно|dark|adverb
+1718|подъезд|entrance|noun; singular
+1719|съесть|to eat|verb; perfective
+1720|прочесть|to read|verb; perfective
+1721|следователь|investigator|noun; singular
+1722|двенадцать|twelve|numeral; cardinal
+1723|задуматься|to ponder|verb; perfective; reflexive
+1724|решать|to decide|verb; regular
+1725|особенный|special|adjective
+1726|подарить|to give|verb; perfective
+1727|измениться|to change|verb; perfective; reflexive
+1728|платок|handkerchief|noun; singular
+1729|мощный|powerful|adjective
+1730|середина|middle|noun; singular
+1731|сумасшедший|crazy|adjective
+1732|наверняка|for sure|adverb
+1733|здорово|great|adverb
+1734|напряжение|tension|noun; singular
+1735|могила|grave|noun; singular
+1736|тоска|longing|noun; singular
+1737|приводить|to bring|verb; regular
+1738|удивляться|to be surprised|verb; regular; reflexive
+1739|буквально|literally|adverb
+1740|борт|side|noun; singular
+1741|забрать|to take away|verb; perfective
+1742|грех|sin|noun; singular
+1743|несчастный|unhappy|adjective
+1744|строй|system|noun; singular
+1745|занять|to borrow|verb; perfective
+1746|исследование|research|noun; singular
+1747|доказать|to prove|verb; perfective
+1748|буква|letter|noun; singular
+1749|реакция|reaction|noun; singular
+1750|варить|to cook|verb; regular
+1751|мужской|male|adjective
+1752|резкий|sharp|adjective
+1753|пила|saw|noun; singular
+1754|литературный|literary|adjective
+1755|изменить|to change|verb; perfective
+1756|обезьяна|monkey|noun; singular
+1757|бригада|brigade|noun; singular
+1758|ловить|to catch|verb; irregular
+1759|остаток|remainder|noun; singular
+1760|стремиться|to strive|verb; regular; reflexive
+1761|пункт|point|noun; singular
+1762|тянуться|to stretch|verb; regular; reflexive
+1763|локоть|elbow|noun; singular; irregular plural
+1764|обязанный|obliged|adjective
+1765|краска|paint|noun; singular; uncountable
+1766|разница|difference|noun; singular
+1767|расстояние|distance|noun; singular
+1768|кружок|small circle|noun; singular
+1769|пожилой|elderly|adjective
+1770|непонятный|incomprehensible|adjective
+1771|окончательно|finally|adverb
+1772|Дон|Don|noun; singular; proper
+1773|заставлять|to force|verb; regular
+1774|удивительный|amazing|adjective
+1775|страдать|to suffer|verb; regular
+1776|седой|gray-haired|adjective
+1777|политика|politics|noun; singular; uncountable
+1778|поколение|generation|noun; singular
+1779|ожидание|expectation|noun; singular
+1780|записать|to write down|verb; perfective
+1781|фонарь|lantern|noun; singular
+1782|куча|pile|noun; singular
+1783|полоса|stripe|noun; singular
+1784|страсть|passion|noun; singular
+1785|сержант|sergeant|noun; singular
+1786|святой|holy|adjective
+1787|повесть|story|noun; singular
+1788|шепот|whisper|noun; singular
+1789|теория|theory|noun; singular
+1790|интересовать|to interest|verb; regular
+1791|чисто|purely|adverb
+1792|пояс|belt|noun; singular
+1793|близко|close|adverb
+1794|включить|to include|verb; perfective
+1795|поразить|to amaze|verb; perfective
+1796|вокзал|station|noun; singular
+1797|вещество|substance|noun; singular
+1798|частный|private|adjective
+1799|корень|root|noun; singular; irregular plural
+1800|помолчать|to be silent|verb; perfective

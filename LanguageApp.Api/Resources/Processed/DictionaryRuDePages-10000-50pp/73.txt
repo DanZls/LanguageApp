@@ -1,0 +1,50 @@
+3651|располагаться|Занимать определённое место|sich befinden|verb; imperfective; infinitive; reflexive
+3652|рис|Злак с белыми продолговатыми зёрнами|Reis|noun; masculine
+3653|манера|Способ делать что-либо; особенность поведения|Manier|noun; feminine
+3654|мелькать|Появляться и исчезать на короткое время|aufblitzen|verb; imperfective; infinitive
+3655|обычай|Традиционно установившиеся правила поведения|Brauch|noun; masculine
+3656|перевернуть|Повернуть противоположной стороной|umkehren|verb; perfective; infinitive
+3657|пасть|Рот зверя или рыбы|Maul|noun; neuter
+3658|медаль|Металлический знак в награду|Medaille|noun; feminine
+3659|крутиться|Вращаться; вертеться|sich drehen|verb; imperfective; infinitive; reflexive
+3660|биография|Описание чьей-либо жизни|Biografie|noun; feminine
+3661|Украина|Страна в Восточной Европе|Ukraine|noun; feminine; proper
+3662|Лондон|Столица Великобритании|London|noun; neuter; proper
+3663|крохотный|Очень маленький|winzig|adjective
+3664|тетрадь|Сшитые листы бумаги в обложке|Heft|noun; neuter
+3665|стремительно|С большой быстротой|rasant|adverb
+3666|обедать|Есть обед; принимать пищу|speisen|verb; imperfective; infinitive
+3667|нарушать|Не соблюдать порядок|verletzen|verb; imperfective; infinitive
+3668|велосипед|Двухколёсная машина для езды на педалях|Fahrrad|noun; neuter
+3669|колодец|Глубокая яма для получения воды|Brunnen|noun; masculine
+3670|противный|Очень неприятный|widerlich|adjective
+3671|кончик|Конечная, крайняя часть предмета|Spitze|noun; feminine
+3672|ванна|Большой сосуд для купания|Badewanne|noun; feminine
+3673|густо|Плотно; без промежутков|dicht|adverb
+3674|жалоба|Выражение неудовольствия или страдания|Beschwerde|noun; feminine
+3675|традиционный|Основанный на традиции|traditionell|adjective
+3676|благодарный|Чувствующий или выражающий благодарность|dankbar|adjective
+3677|убедить|Склонить к чему-либо; заставить поверить|überzeugen|verb; perfective; infinitive
+3678|стрельба|Производство выстрелов; ведение огня|Schießen|noun; neuter
+3679|холодильник|Шкаф с холодильным устройством|Kühlschrank|noun; masculine
+3680|бешеный|Необузданный; крайне раздражительный|rasend|adjective
+3681|исход|Завершение; конец|Ausgang|noun; masculine
+3682|ласковый|Полный ласки; нежный|zärtlich|adjective
+3683|воспитание|Навыки поведения, привитые семьей и школой|Erziehung|noun; feminine
+3684|награда|То, что дается в знак благодарности|Belohnung|noun; feminine
+3685|печень|Крупная железа, вырабатывающая желчь|Leber|noun; feminine
+3686|развернуться|Раскрыться из свёрнутого состояния|sich entfalten|verb; perfective; infinitive; reflexive
+3687|типичный|Характерный; обладающий свойственными типу особенностями|typisch|adjective
+3688|часовой|Военнослужащий, стоящий на посту|Wächter|noun; masculine
+3689|стихотворение|Небольшое поэтическое произведение|Gedicht|noun; neuter
+3690|характеристика|Описание отличительных качеств|Charakteristik|noun; feminine
+3691|торжественно|С особой торжественностью|feierlich|adverb
+3692|огненный|Оранжево-красный; цвета огня|feurig|adjective
+3693|повязка|Кусок ткани, повязываемый на что-либо|Verband|noun; masculine
+3694|праздничный|Радостный; торжественный|festlich|adjective
+3695|учёт|Установление наличия и количества путём подсчётов|Erfassung|noun; feminine
+3696|крепость|Укреплённое место с оборонительными сооружениями|Festung|noun; feminine
+3697|проявлять|Обнаруживать; делать явным|zeigen|verb; imperfective; infinitive
+3698|качать|Приводить в колебательное движение|schaukeln|verb; imperfective; infinitive
+3699|добыча|То, что добыто; приобретённое|Beute|noun; feminine
+3700|трудность|Затруднение; препятствие|Schwierigkeit|noun; feminine

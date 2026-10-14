@@ -1,0 +1,100 @@
+8801|нагреть|to heat|verb; perfective
+8802|общественно|socially|adverb
+8803|купля|purchase|noun; singular
+8804|впустить|to let in|verb; perfective
+8805|подрагивать|to tremble slightly|verb; imperfective
+8806|вырубить|to cut down|verb; perfective
+8807|вывозить|to export|verb; imperfective
+8808|праздновать|to celebrate|verb; imperfective
+8809|беленький|whitish|adjective
+8810|переписать|to rewrite|verb; perfective
+8811|Иерусалим|Jerusalem|noun; singular; proper
+8812|канадский|Canadian|adjective
+8813|повлиять|to influence|verb; perfective
+8814|скорбный|sorrowful|adjective
+8815|резинка|eraser|noun; singular
+8816|отогнать|to drive away|verb; perfective
+8817|Никитич|Nikitich|noun; singular; proper
+8818|отбивать|to beat off|verb; imperfective
+8819|вша|louse|noun; singular
+8820|соблюдение|compliance|noun; singular; uncountable
+8821|пластиковый|plastic|adjective
+8822|настигнуть|to catch up with|verb; perfective
+8823|пошевелиться|to stir|verb; perfective; reflexive
+8824|Веня|Venya|noun; singular; proper
+8825|приветливый|friendly|adjective
+8826|брик|brig|noun; singular
+8827|окинуть|to glance over|verb; perfective
+8828|апостол|apostle|noun; singular
+8829|позавидовать|to envy|verb; perfective
+8830|совершаться|to take place|verb; imperfective; reflexive
+8831|просвещение|enlightenment|noun; singular; uncountable
+8832|волосок|hairspring|noun; singular
+8833|подружиться|to become friends|verb; perfective; reflexive
+8834|вторник|Tuesday|noun; singular
+8835|знатный|noble|adjective
+8836|крайность|extreme|noun; singular
+8837|льгота|privilege|noun; singular
+8838|неуместный|inappropriate|adjective
+8839|хищный|predatory|adjective
+8840|соус|sauce|noun; singular
+8841|подвижной|mobile|adjective
+8842|забираться|to climb|verb; imperfective; reflexive
+8843|пик|peak|noun; singular
+8844|тронутый|touched|adjective
+8845|хохол|tuft|noun; singular
+8846|помянуть|to mention|verb; perfective
+8847|лошадиный|horse's|adjective
+8848|засуетиться|to start bustling|verb; perfective; reflexive
+8849|грести|to row|verb; imperfective
+8850|благородство|nobility|noun; singular; uncountable
+8851|сионизм|Zionism|noun; singular; uncountable
+8852|похвала|praise|noun; singular
+8853|сидение|sitting|noun; singular; uncountable
+8854|разгораться|to flare up|verb; imperfective; reflexive
+8855|скатиться|to roll down|verb; perfective; reflexive
+8856|эпидемия|epidemic|noun; singular
+8857|электролит|electrolyte|noun; singular
+8858|округлый|rounded|adjective
+8859|каштан|chestnut|noun; singular
+8860|формально|formally|adverb
+8861|обрасти|to become overgrown|verb; perfective
+8862|харя|mug|noun; singular
+8863|арестованный|arrested person|noun; singular
+8864|выстроиться|to line up|verb; perfective; reflexive
+8865|подсесть|to sit down next to|verb; perfective; reflexive
+8866|бледно|palely|adverb
+8867|товарный|commodity|adjective
+8868|денежка|coin|noun; singular
+8869|грубость|rudeness|noun; singular
+8870|зарядить|to load|verb; perfective
+8871|бриллиант|diamond|noun; singular
+8872|колода|deck of cards|noun; singular
+8873|логично|logically|adverb
+8874|пулеметчик|machine gunner|noun; singular
+8875|пожелтеть|to turn yellow|verb; perfective
+8876|наемник|mercenary|noun; singular
+8877|возврат|return|noun; singular; uncountable
+8878|напрямую|directly|adverb
+8879|выситься|to tower|verb; imperfective; reflexive
+8880|керосин|kerosene|noun; singular; uncountable
+8881|переносица|bridge of the nose|noun; singular
+8882|стопа|foot|noun; singular
+8883|выпускник|graduate|noun; singular
+8884|портвейн|port wine|noun; singular; uncountable
+8885|рыбий|fish|adjective
+8886|искаженный|distorted|adjective
+8887|косвенный|indirect|adjective
+8888|бетон|concrete|noun; singular; uncountable
+8889|щелчок|click|noun; singular
+8890|пропитать|to soak|verb; perfective
+8891|тесто|dough|noun; singular; uncountable
+8892|масляный|oil|adjective
+8893|подданный|subject|noun; singular
+8894|качнуться|to sway|verb; perfective; reflexive
+8895|поразительно|strikingly|adverb
+8896|ревновать|to be jealous|verb; imperfective
+8897|фарфоровый|porcelain|adjective
+8898|угнать|to steal|verb; perfective
+8899|непохожий|dissimilar|adjective
+8900|поразиться|to be astonished|verb; perfective; reflexive

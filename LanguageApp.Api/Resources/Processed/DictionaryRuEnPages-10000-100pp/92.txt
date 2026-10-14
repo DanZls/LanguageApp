@@ -1,0 +1,100 @@
+9101|зеленеть|to turn green|verb; imperfective
+9102|гоняться|to chase|verb; imperfective; reflexive
+9103|опасливый|wary|adjective
+9104|отыскивать|to seek out|verb; imperfective
+9105|повеситься|to hang oneself|verb; perfective; reflexive
+9106|укреплять|to strengthen|verb; imperfective
+9107|изголовье|head of the bed|noun; singular
+9108|забываться|to forget oneself|verb; imperfective; reflexive
+9109|экскурсовод|tour guide|noun; singular
+9110|комплимент|compliment|noun; singular
+9111|клубиться|to billow|verb; imperfective; reflexive
+9112|пищевой|food|adjective
+9113|отзыв|review|noun; singular
+9114|цинковый|zinc|adjective
+9115|откровенность|candor|noun; singular
+9116|немногие|few|pronoun; plural
+9117|неприличный|indecent|adjective
+9118|резолюция|resolution|noun; singular
+9119|вишневый|cherry|adjective
+9120|угу|uh-huh|interjection
+9121|невольный|involuntary|adjective
+9122|переложить|to move|verb; perfective
+9123|казах|Kazakh|noun; singular
+9124|пинок|kick|noun; singular
+9125|грохнуть|to crash|verb; perfective
+9126|обтянутый|tight-fitting|adjective
+9127|умерший|deceased|adjective
+9128|кулиса|wing|noun; singular
+9129|капиталист|capitalist|noun; singular
+9130|ускорить|to speed up|verb; perfective
+9131|поручик|lieutenant|noun; singular
+9132|покрываться|to become covered|verb; imperfective; reflexive
+9133|похоронный|funeral|adjective
+9134|носик|little nose|noun; singular; diminutive
+9135|правящий|ruling|adjective
+9136|восторженно|enthusiastically|adverb
+9137|раздвинуть|to move apart|verb; perfective
+9138|пассажирский|passenger|adjective
+9139|навязчивый|intrusive|adjective
+9140|восстанавливать|to restore|verb; imperfective
+9141|компот|compote|noun; singular
+9142|профсоюз|trade union|noun; singular
+9143|коллективизация|collectivization|noun; singular; uncountable
+9144|мираж|mirage|noun; singular
+9145|щука|pike|noun; singular
+9146|настольный|table|adjective
+9147|кивок|nod|noun; singular
+9148|залог|pledge|noun; singular
+9149|лепесток|petal|noun; singular
+9150|гласить|to state|verb; imperfective
+9151|уменьшить|to reduce|verb; perfective
+9152|дружелюбный|friendly|adjective
+9153|оскорбительный|insulting|adjective
+9154|улика|evidence|noun; singular
+9155|заскрипеть|to start creaking|verb; perfective
+9156|цирковой|circus|adjective
+9157|проложить|to lay|verb; perfective
+9158|оберегать|to protect|verb; imperfective
+9159|ручеёк|little stream|noun; singular; diminutive
+9160|закопать|to bury|verb; perfective
+9161|сигнализация|signaling|noun; singular; uncountable
+9162|мерка|measurement|noun; singular
+9163|мишень|target|noun; singular
+9164|микроскоп|microscope|noun; singular
+9165|реализовать|to implement|verb; perfective; imperfective
+9166|вдохнуть|to inhale|verb; perfective
+9167|вырыть|to dig out|verb; perfective
+9168|опаска|caution|noun; singular; uncountable
+9169|зашипеть|to start hissing|verb; perfective
+9170|Варшава|Warsaw|noun; singular; proper
+9171|конгресс|congress|noun; singular
+9172|компенсация|compensation|noun; singular
+9173|воспитанник|pupil|noun; singular
+9174|гранитный|granite|adjective
+9175|зайчик|light spot|noun; singular; diminutive
+9176|блюдце|saucer|noun; singular
+9177|тошнить|to feel sick|verb; imperfective; impersonal
+9178|ввалиться|to sink in|verb; perfective; reflexive
+9179|пластина|plate|noun; singular
+9180|всплеснуть|to throw up|verb; perfective
+9181|прощальный|farewell|adjective
+9182|искоса|sideways|adverb
+9183|неповторимый|unique|adjective
+9184|воровство|theft|noun; singular; uncountable
+9185|сносить|to carry back|verb; imperfective
+9186|пересчитать|to recount|verb; perfective
+9187|дегенерат|degenerate|noun; singular
+9188|старт|start|noun; singular
+9189|понос|diarrhea|noun; singular; uncountable
+9190|горох|peas|noun; singular; uncountable
+9191|испугать|to frighten|verb; perfective
+9192|устье|mouth|noun; singular
+9193|формация|formation|noun; singular
+9194|скважина|borehole|noun; singular
+9195|шнурок|shoelace|noun; singular
+9196|цыган|Gypsy|noun; singular
+9197|плюхнуться|to plop down|verb; perfective; reflexive
+9198|включаться|to join in|verb; imperfective; reflexive
+9199|произвол|arbitrariness|noun; singular; uncountable
+9200|бестолковый|dim-witted|adjective

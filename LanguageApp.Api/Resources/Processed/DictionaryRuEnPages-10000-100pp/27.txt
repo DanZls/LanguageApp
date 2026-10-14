@@ -1,0 +1,100 @@
+2601|агент|agent|noun; singular
+2602|супруг|spouse|noun; singular
+2603|январь|January|noun; singular
+2604|соль|salt|noun; singular; uncountable
+2605|роза|rose|noun; singular
+2606|развести|to divorce|verb; perfective
+2607|опытный|experienced|adjective
+2608|комиссар|commissar|noun; singular
+2609|свидание|date|noun; singular
+2610|воздушный|airy|adjective
+2611|вооруженный|armed|adjective
+2612|негромко|quietly|adverb
+2613|питание|nutrition|noun; singular; uncountable
+2614|неловко|awkwardly|adverb
+2615|деловой|business|adjective
+2616|кролик|rabbit|noun; singular
+2617|шкура|hide|noun; singular
+2618|политик|politician|noun; singular
+2619|грохот|rumble|noun; singular
+2620|переживать|to worry|verb; regular
+2621|финансовый|financial|adjective
+2622|украсть|to steal|verb; perfective
+2623|слыхать|to hear|verb; irregular
+2624|неприятность|trouble|noun; singular
+2625|достойный|worthy|adjective
+2626|шестьдесят|sixty|numeral; cardinal
+2627|электрический|electric|adjective
+2628|успевать|to keep up|verb; regular
+2629|пережить|to survive|verb; perfective
+2630|контора|office|noun; singular
+2631|русски|in Russian|adverb
+2632|возражать|to object|verb; regular
+2633|суп|soup|noun; singular; uncountable
+2634|европейский|European|adjective
+2635|палата|ward|noun; singular
+2636|сплошной|continuous|adjective
+2637|мода|fashion|noun; singular; uncountable
+2638|кусочек|small piece|noun; singular
+2639|понятный|understandable|adjective
+2640|старичок|old man|noun; singular
+2641|потянуть|to pull|verb; perfective
+2642|сорвать|to tear off|verb; perfective
+2643|июнь|June|noun; singular
+2644|порт|port|noun; singular
+2645|комплекс|complex|noun; singular
+2646|спортивный|sports|adjective
+2647|поддержка|support|noun; singular; uncountable
+2648|блеск|shine|noun; singular; uncountable
+2649|уснуть|to fall asleep|verb; perfective
+2650|потребность|need|noun; singular
+2651|лента|ribbon|noun; singular
+2652|громадный|huge|adjective
+2653|сопровождать|to accompany|verb; regular
+2654|открываться|to open|verb; regular; reflexive
+2655|бочок|side|noun; singular
+2656|музыкант|musician|noun; singular
+2657|договор|contract|noun; singular
+2658|поход|hike|noun; singular
+2659|подготовить|to prepare|verb; perfective
+2660|мастерская|workshop|noun; singular
+2661|защищать|to defend|verb; regular
+2662|происхождение|origin|noun; singular
+2663|спора|spore|noun; singular
+2664|ломать|to break|verb; regular
+2665|пушок|fluff|noun; singular; uncountable
+2666|рубаха|shirt|noun; singular
+2667|оболочка|shell|noun; singular
+2668|нормально|normally|adverb
+2669|вступить|to join|verb; perfective
+2670|недалеко|not far|adverb
+2671|выставить|to put forward|verb; perfective
+2672|прижать|to press|verb; perfective
+2673|препарат|preparation|noun; singular
+2674|передавать|to convey|verb; regular
+2675|догадываться|to guess|verb; regular; reflexive
+2676|заметный|noticeable|adjective
+2677|недостаток|flaw|noun; singular
+2678|министерство|ministry|noun; singular
+2679|выступить|to speak|verb; perfective
+2680|отрезать|to cut off|verb; perfective
+2681|искра|spark|noun; singular
+2682|дурной|bad|adjective
+2683|трус|coward|noun; singular
+2684|заключение|conclusion|noun; singular
+2685|экзамен|exam|noun; singular
+2686|скамейка|bench|noun; singular
+2687|хохотать|to guffaw|verb; regular
+2688|охотник|hunter|noun; singular
+2689|разглядеть|to make out|verb; perfective
+2690|пустыня|desert|noun; singular
+2691|разбираться|to understand|verb; regular; reflexive
+2692|понимание|understanding|noun; singular; uncountable
+2693|дважды|twice|adverb
+2694|пресса|press|noun; singular; uncountable
+2695|молния|lightning|noun; singular
+2696|воспользоваться|to take advantage|verb; perfective; reflexive
+2697|психический|mental|adjective
+2698|достаться|to fall to|verb; perfective; reflexive
+2699|сахар|sugar|noun; singular; uncountable
+2700|реальность|reality|noun; singular

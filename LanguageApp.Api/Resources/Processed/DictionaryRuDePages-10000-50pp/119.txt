@@ -1,0 +1,50 @@
+5951|обожать|Очень сильно любить; питать страсть к чему-либо|verehren|verb; imperfective; infinitive
+5952|штучка|Небольшой предмет; мелочь|Ding|noun; neuter
+5953|некрасивый|Лишённый красоты; некрасивый|unattraktiv|adjective
+5954|курорт|Местность с природными лечебными ресурсами для отдыха и лечения|Kurort|noun; masculine
+5955|одолеть|Пересилить; победить после трудной борьбы|überwältigen|verb; perfective; infinitive
+5956|сравнить|Сопоставить для выявления сходства или различия|vergleichen|verb; perfective; infinitive
+5957|упрек|Выражение неодобрения или обвинения|Vorwurf|noun; masculine
+5958|гнилой|Испорченный гниением; затхлый|faul|adjective
+5959|исправить|Устранить недостатки; привести в надлежащее состояние|verbessern|verb; perfective; infinitive
+5960|климат|Устойчивый многолетний режим погоды местности|Klima|noun; neuter
+5961|цитата|Дословная выдержка из текста или высказывания|Zitat|noun; neuter
+5962|придумывать|Изобретать; находить решение|ausdenken|verb; imperfective; infinitive
+5963|организатор|Тот, кто организует мероприятие или дело|Organisator|noun; masculine
+5964|благоприятный|Способствующий чему-либо; хороший|günstig|adjective
+5965|летучий|Способный летать или быстро испаряться|flüchtig|adjective
+5966|литератор|Писатель; человек, занимающийся литературным трудом|Literat|noun; masculine
+5967|проноситься|Быстро проходить мимо; мчаться|vorbeirasen|verb; imperfective; infinitive
+5968|подтверждение|Признание правильности; подтверждающее свидетельство|Bestätigung|noun; feminine
+5969|романтический|Проникнутый романтикой; романтичный|romantisch|adjective
+5970|безжалостный|Неспособный к жалости; жестокий|gnadenlos|adjective
+5971|брезент|Плотная водонепроницаемая ткань|Plane|noun; feminine
+5972|недоступный|Недостижимый; не имеющий доступа|unzugänglich|adjective
+5973|визжать|Издавать пронзительные визгливые звуки|quietschen|verb; imperfective; infinitive
+5974|сионист|Последователь сионизма|Zionist|noun; masculine
+5975|теоретический|Основанный на теории; относящийся к теории|theoretisch|adjective
+5976|беременный|Находящийся в состоянии беременности|schwanger|adjective
+5977|запасной|Находящийся в запасе для замены|Ersatz-|adjective
+5978|предпочесть|Признать лучшим по сравнению с другим|bevorzugen|verb; perfective; infinitive
+5979|очистить|Освободить от загрязнений или примесей|reinigen|verb; perfective; infinitive
+5980|лохматый|С густой взъерошенной шерстью или волосами|zottig|adjective
+5981|садовый|Относящийся к саду|Garten-|adjective
+5982|современник|Человек, живущий в одно время с другими|Zeitgenosse|noun; masculine
+5983|жара|Сильная жаркая погода|Hitze|noun; feminine
+5984|глубь|Глубина; внутренняя часть|Tiefe|noun; feminine
+5985|совпадать|Приходиться на одно и то же время или место|übereinstimmen|verb; imperfective; infinitive
+5986|порвать|Разорвать; прервать отношения|zerreißen|verb; perfective; infinitive
+5987|погулять|Совершить прогулку|spazieren gehen|verb; perfective; infinitive
+5988|квадрат|Равносторонний прямоугольник; предмет такой формы|Quadrat|noun; neuter
+5989|догонять|Настигать движущегося впереди|einholen|verb; imperfective; infinitive
+5990|надвигаться|Медленно приближаться|herannahen|verb; imperfective; infinitive
+5991|подбросить|Бросить вверх или тайно подложить|hochwerfen|verb; perfective; infinitive
+5992|притворяться|Делать вид, что является кем-либо|sich verstellen|verb; imperfective; infinitive; reflexive
+5993|леди|Жена лорда; женщина из аристократии|Lady|noun; feminine
+5994|поджать|Подтянуть, подогнуть под себя|einziehen|verb; perfective; infinitive
+5995|паутина|Тонкая сеть из нитей, сплетаемая пауком|Spinnennetz|noun; neuter
+5996|стадион|Спортивный комплекс с трибунами|Stadion|noun; neuter
+5997|нелепо|Несообразно; неуместно и глупо|absurd|adverb
+5998|факел|Светильник на рукоятке с горящим концом|Fackel|noun; feminine
+5999|вопить|Громко и протяжно кричать|schreien|verb; imperfective; infinitive
+6000|опера|Музыкально-драматическое произведение с вокальным исполнением|Oper|noun; feminine

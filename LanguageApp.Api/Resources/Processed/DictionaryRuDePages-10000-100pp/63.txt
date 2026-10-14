@@ -1,0 +1,100 @@
+6201|батя|Отец (разговорное)|Vater|noun; masculine
+6202|география|Комплекс наук, изучающих поверхность Земли|Geographie|noun; feminine
+6203|забить|Вбить до конца или до упора|einschlagen|verb; perfective; infinitive
+6204|огневой|Пылкий, страстный|feurig|adjective
+6205|отрасль|Отдельная область деятельности или производства|Branche|noun; feminine
+6206|увлечь|Сильно заинтересовать или захватить|begeistern|verb; perfective; infinitive
+6207|розыск|Поиск кого-либо или чего-либо|Fahndung|noun; feminine
+6208|таз|Широкий неглубокий сосуд|Becken|noun; neuter
+6209|перевернуться|Повернуться противоположной стороной|sich umdrehen|verb; perfective; infinitive; reflexive
+6210|завтракать|Принимать утренний приём пищи|frühstücken|verb; imperfective; infinitive
+6211|городской|Относящийся к городу или городской жизни|städtisch|adjective
+6212|корка|Наружный твёрдый слой хлеба|Kruste|noun; feminine
+6213|кишечник|Отдел пищеварительной системы, следующий за желудком|Darm|noun; masculine
+6214|комсомол|Советская молодёжная коммунистическая организация|Komsomol|noun; masculine
+6215|кашлять|Издавать кашель|husten|verb; imperfective; infinitive
+6216|ухватиться|Крепко схватиться за что-либо|sich festhalten|verb; perfective; infinitive; reflexive
+6217|отступление|Вставка в изложении, отклоняющаяся от основной темы|Abschweifung|noun; feminine
+6218|ожог|Повреждение ткани от воздействия высокой температуры|Verbrennung|noun; feminine
+6219|уменьшаться|Становиться меньше по размеру или количеству|abnehmen|verb; imperfective; infinitive
+6220|грозно|Выглядя угрожающе|drohend|adverb
+6221|стопка|Маленький стакан для спиртного|Schnapsglas|noun; neuter
+6222|ревность|Мучительное сомнение в чьей-либо верности|Eifersucht|noun; feminine
+6223|сырость|Избыточная влажность|Feuchtigkeit|noun; feminine
+6224|бал|Большой торжественный танцевальный вечер|Ball|noun; masculine
+6225|мужественный|Обладающий мужеством и решительностью|mutig|adjective
+6226|невский|Относящийся к Неве или Невскому проспекту|Newski-|adjective
+6227|демонстрация|Массовое шествие для выражения общественных настроений|Demonstration|noun; feminine
+6228|радовать|Вызывать радость в ком-либо|erfreuen|verb; imperfective; infinitive
+6229|Абалкин|Русская фамилия|Abalkin|noun; masculine; proper
+6230|послужить|Пробыть некоторое время на службе|dienen|verb; perfective; infinitive
+6231|хитрость|Ловкий приём; хитрый поступок|List|noun; feminine
+6232|применить|Осуществить на практике|anwenden|verb; perfective; infinitive
+6233|надобность|Состояние, при котором что-либо необходимо|Notwendigkeit|noun; feminine
+6234|послезавтра|На следующий день после завтрашнего|übermorgen|adverb
+6235|вылезти|Выйти наружу, карабкаясь или ползя|herauskriechen|verb; perfective; infinitive
+6236|тупо|Без умственных усилий; бессмысленно|stumpfsinnig|adverb
+6237|кабан|Дикая свинья|Wildschwein|noun; neuter
+6238|гигант|Существо или предмет громадных размеров|Riese|noun; masculine
+6239|клетчатый|С рисунком в клетку|kariert|adjective
+6240|божественный|Восхитительный; прекрасный|göttlich|adjective
+6241|провинциальный|Относящийся к провинции|provinziell|adjective
+6242|зажмуриться|Плотно закрыть глаза|die Augen zusammenkneifen|verb; perfective; infinitive
+6243|улочка|Маленькая улица|Gässchen|noun; neuter
+6244|конституция|Основной закон государства|Verfassung|noun; feminine
+6245|извиниться|Попросить прощения|sich entschuldigen|verb; perfective; infinitive; reflexive
+6246|озабоченный|Поглощённый заботами; выражающий беспокойство|besorgt|adjective
+6247|жестко|Твёрдо и сурово|hart|adverb
+6248|перегородка|Лёгкая стенка, разделяющая помещение|Trennwand|noun; feminine
+6249|распустить|Освободить многих от обязанностей или занятий|entlassen|verb; perfective; infinitive
+6250|примитивный|Простейший по устройству или выполнению|primitiv|adjective
+6251|ладошка|Внутренняя сторона кисти руки|Handinnenfläche|noun; feminine
+6252|элементарный|Простейший, известный каждому|elementar|adjective
+6253|вскрыть|Открыть, сломав или разорвав что-либо|aufbrechen|verb; perfective; infinitive
+6254|кувшин|Высокий округлый сосуд с горлышком и ручкой|Krug|noun; masculine
+6255|гм|Выражает сомнение, нерешительность или иронию|hm|interjection
+6256|дежурный|Тот, кто несёт дежурство|Wachhabender|noun; masculine
+6257|президиум|Руководящий орган выборной организации или учреждения|Präsidium|noun; neuter
+6258|бугор|Небольшое возвышение, холм|Hügel|noun; masculine
+6259|раковина|Твёрдый внешний покров некоторых беспозвоночных животных|Muschel|noun; feminine
+6260|осуществляться|Приводиться в исполнение; воплощаться|sich verwirklichen|verb; imperfective; infinitive; reflexive
+6261|закусывать|Есть закуску; заедать выпитое|snacken|verb; imperfective; infinitive
+6262|стихия|Природная разрушительная сила|Naturgewalt|noun; feminine
+6263|шнур|Крученая или плетёная тесьма; провод|Schnur|noun; feminine
+6264|тоскливо|С печалью и тоской|trübselig|adverb
+6265|расширить|Сделать более широким или обширным|erweitern|verb; perfective; infinitive
+6266|застывший|Ставший неподвижным; замерший|erstarrt|adjective
+6267|посмеиваться|Слегка насмехаться; посмеиваться|schmunzeln|verb; imperfective; infinitive
+6268|покурить|Провести некоторое время, куря|rauchen|verb; perfective; infinitive
+6269|обслуживание|Предоставление услуг; уход|Service|noun; masculine
+6270|преподавать|Систематически обучать учебному предмету|unterrichten|verb; imperfective; infinitive
+6271|повышать|Делать более высоким; улучшать|erhöhen|verb; imperfective; infinitive
+6272|сколь|Насколько; как|wie|adverb
+6273|сеанс|Исполнение чего-либо в определённый промежуток без перерыва|Sitzung|noun; feminine
+6274|срывать|Рывком отделять или снимать|abreißen|verb; imperfective; infinitive
+6275|колея|Углубление от колёс на дороге|Spur|noun; feminine
+6276|трон|Кресло монарха во время церемоний; символ власти|Thron|noun; masculine
+6277|предательство|Вероломный поступок; измена|Verrat|noun; masculine
+6278|равнодушие|Состояние безразличия к окружающему|Gleichgültigkeit|noun; feminine
+6279|агрессивный|Враждебный и вызывающий|aggressiv|adjective
+6280|попить|Выпить немного жидкости|trinken|verb; perfective; infinitive
+6281|дракон|Сказочное крылатое огнедышащее существо|Drache|noun; masculine
+6282|мемуар|Воспоминания как литературный жанр|Memoiren|noun; plural
+6283|наградить|Дать что-либо в знак признательности|belohnen|verb; perfective; infinitive
+6284|путешествовать|Совершать путешествие|reisen|verb; imperfective; infinitive
+6285|обозначить|Отметить что-либо; сделать заметным|bezeichnen|verb; perfective; infinitive
+6286|столкновение|Стычка или столкновение противоборствующих сторон|Zusammenstoß|noun; masculine
+6287|диаметр|Отрезок, соединяющий две точки окружности через её центр|Durchmesser|noun; masculine
+6288|сотрудничество|Совместная деятельность|Zusammenarbeit|noun; feminine
+6289|сдержанный|Умеющий сдерживать себя; владеющий собой|zurückhaltend|adjective
+6290|смертельно|Настолько, что может привести к смерти|tödlich|adverb
+6291|добираться|Достигать какого-либо места|gelangen|verb; imperfective; infinitive
+6292|эмигрант|Человек, покинувший родину ради другой страны|Emigrant|noun; masculine
+6293|изобилие|Полное и щедрое обилие|Überfluss|noun; masculine
+6294|застегнуть|Скрепить края при помощи застёжки|zuknöpfen|verb; perfective; infinitive
+6295|звездочка|Небольшая звезда или символ в виде звезды|Sternchen|noun; neuter
+6296|бархатный|Сделанный из бархата; мягкий и нежный|Samt-|adjective
+6297|донос|Тайное обвинительное сообщение представителю власти|Denunziation|noun; feminine
+6298|хрустеть|Издавать хрустящий звук|knuspern|verb; imperfective; infinitive
+6299|лестничный|Относящийся к лестнице|Treppen-|adjective
+6300|бармен|Работник бара, приготовляющий и подающий напитки|Barmann|noun; masculine

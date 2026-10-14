@@ -1,0 +1,100 @@
+8001|переделать|Сделать заново или иным образом|umarbeiten|verb; perfective; infinitive
+8002|раздавать|Давать по частям разным людям|austeilen|verb; imperfective; infinitive
+8003|леший|В славянской мифологии: дух леса, враждебный людям|Waldgeist|noun; masculine
+8004|гасить|Тушить, прекращать горение|löschen|verb; imperfective; infinitive
+8005|воплощение|Олицетворение характерных черт или свойств|Verkörperung|noun; feminine
+8006|бриться|Сбривать волосы на лице или голове|sich rasieren|verb; imperfective; infinitive; reflexive
+8007|Шмаков|Фамилия|Schmakow|noun; masculine; proper
+8008|лужайка|Небольшой открытый луг, полянка|Wiese|noun; feminine
+8009|скрестить|Положить или поместить крест-накрест|kreuzen|verb; perfective; infinitive
+8010|валютный|Относящийся к иностранной валюте|Devisen-|adjective
+8011|застучать|Начать стучать|anfangen zu klopfen|verb; perfective; infinitive
+8012|сползти|Медленно или ползком спуститься вниз|herunterrutschen|verb; perfective; infinitive
+8013|ножницы|Режущий инструмент из двух лезвий с кольцевыми ручками|Schere|noun; feminine
+8014|проспать|Провести время в состоянии сна|verschlafen|verb; perfective; infinitive
+8015|политрук|Политический руководитель в частях Красной Армии (до 1942 г.)|Politoffizier|noun; masculine
+8016|желчный|Раздражительный, злобный|gallig|adjective
+8017|цвести|Распускать цветки, находиться в цвету|blühen|verb; imperfective; infinitive
+8018|сметана|Кисломолочный продукт из сливок|Sauerrahm|noun; masculine
+8019|отклонение|Ненормальность или отступление от нормы|Abweichung|noun; feminine
+8020|любимец|Тот, кого особенно любят|Liebling|noun; masculine
+8021|фракция|Группа членов партии в законодательном органе|Fraktion|noun; feminine
+8022|рождать|Производить на свет, давать жизнь|gebären|verb; imperfective; infinitive
+8023|насмерть|До наступления смерти|zu Tode|adverb
+8024|очкарик|Человек в очках (разг., обычно о мужчине)|Brillenträger|noun; masculine
+8025|выцветший|Утративший окраску, поблёкший|verblasst|adjective; past participle
+8026|ль|Вопросительная частица (после гласного), то же, что «ли»|ob|particle
+8027|близ|Рядом, вблизи от кого-либо или чего-либо|nahe|preposition
+8028|девятьсот|Число 900|neunhundert|numeral; cardinal
+8029|седина|Седые волосы|graues Haar|noun; neuter
+8030|крокодил|Крупное водное пресмыкающееся тропических стран|Krokodil|noun; neuter
+8031|ловля|Процесс поимки животных или рыбы|Fangen|noun; neuter
+8032|разливать|Лить жидкость по отдельным ёмкостям|einschenken|verb; imperfective; infinitive
+8033|дымить|Пускать дым, выделять дым|rauchen|verb; imperfective; infinitive
+8034|смущенный|Испытывающий замешательство, растерянный|verlegen|adjective; past participle
+8035|барахло|Старые или ненужные вещи|Kram|noun; masculine
+8036|авторитетный|Пользующийся признанием и доверием|angesehen|adjective
+8037|уговор|Взаимная договорённость о чём-либо|Abmachung|noun; feminine
+8038|безобидный|Не причиняющий вреда или обиды|harmlos|adjective
+8039|ребеночек|Ребёнок в раннем возрасте (уменьш.)|Kindchen|noun; neuter; diminutive
+8040|монитор|Устройство визуального контроля или отображения|Monitor|noun; masculine
+8041|акула|Крупная хищная морская рыба|Hai|noun; masculine
+8042|странник|Человек, скитающийся без постоянного жилья|Wanderer|noun; masculine
+8043|вздор|Нелепость, бессмыслица|Unsinn|noun; masculine
+8044|компартия|Коммунистическая партия|Kommunistische Partei|noun; feminine
+8045|забавно|Смешно, доставляя веселье|amüsant|adverb
+8046|отбой|Сигнал окончания действий или отхода ко сну|Abpfiff|noun; masculine
+8047|стихнуть|Стать тише, утихнуть|verstummen|verb; perfective; infinitive
+8048|кооператив|Организация, основанная на совместном участии пайщиков|Genossenschaft|noun; feminine
+8049|вилла|Богатый загородный дом с садом|Villa|noun; feminine
+8050|хихикать|Смеяться тихо или исподтишка|kichern|verb; imperfective; infinitive
+8051|дуэль|Поединок между двумя лицами|Duell|noun; neuter
+8052|добром|По доброй воле, без принуждения|freiwillig|adverb
+8053|подпольный|Нелегальный, конспиративный|illegal|adjective
+8054|укрытие|Место или сооружение, защищающее от чего-либо|Unterstand|noun; masculine
+8055|ураган|Ветер разрушительной силы|Orkan|noun; masculine
+8056|причинить|Стать причиной чего-либо неприятного|verursachen|verb; perfective; infinitive
+8057|си|Нота си (в музыке)|H|noun; neuter; indeclinable
+8058|затвор|Запирающий механизм, устройство|Verschluss|noun; masculine
+8059|элегантный|Изысканный, изящный|elegant|adjective
+8060|прокатиться|Совершить короткую поездку для удовольствия|eine Spritztour machen|verb; perfective; infinitive
+8061|помедлить|Немного подождать, не торопиться с действием|zögern|verb; perfective; infinitive
+8062|насыпь|Искусственное возвышение из земли или сыпучих материалов|Damm|noun; masculine
+8063|аптекарь|Специалист, работающий в аптеке|Apotheker|noun; masculine
+8064|вбежать|Войти куда-либо бегом|hereinlaufen|verb; perfective; infinitive
+8065|хвастаться|Говорить о себе с самовосхвалением|prahlen|verb; imperfective; infinitive
+8066|завалиться|Потерпеть неудачу, провалиться|scheitern|verb; perfective; infinitive
+8067|хромой|Имеющий повреждённую ногу, хромающий|lahm|adjective
+8068|отстранить|Освободить от исполнения обязанностей|absetzen|verb; perfective; infinitive
+8069|нутро|Внутренняя часть, внутренности|Inneres|noun; neuter
+8070|подача|Процесс или результат подачи чего-либо|Zufuhr|noun; feminine
+8071|сверх|Указывает на превышение меры или нормы|über|preposition
+8072|доброволец|Тот, кто добровольно вступил в армию|Freiwilliger|noun; masculine
+8073|перекинуть|Бросить через что-либо или в другое место|hinüberwerfen|verb; perfective; infinitive
+8074|свисток|Приспособление для производства свиста|Pfeife|noun; feminine
+8075|рассеянный|Невнимательный, не умеющий сосредоточиться|zerstreut|adjective
+8076|грузчик|Рабочий, занимающийся погрузкой и выгрузкой|Ladearbeiter|noun; masculine
+8077|мах|Один взмах или оборот|Schwung|noun; masculine
+8078|болван|Тупица, невежда|Trottel|noun; masculine
+8079|вверху|В верхней части, на высоте|oben|adverb
+8080|фланг|Боковая часть воинского строя|Flanke|noun; feminine
+8081|печатный|Напечатанный, опубликованный в печати|gedruckt|adjective
+8082|заключать|Делать вывод, делать умозаключение|schlussfolgern|verb; imperfective; infinitive
+8083|безразличный|Равнодушный, безучастный|gleichgültig|adjective
+8084|попятиться|Начать двигаться назад|zurückweichen|verb; perfective; infinitive
+8085|карниз|Выступ вдоль верхней части стены над окном или дверью|Gesims|noun; neuter
+8086|рыхлый|Неплотный, пористый, рассыпчатый|locker|adjective
+8087|настежь|Полностью распахнув|weit offen|adverb
+8088|утешить|Успокоить, облегчить горе или страдание|trösten|verb; perfective; infinitive
+8089|забежать|Зайти куда-либо на короткое время|kurz vorbeikommen|verb; perfective; infinitive
+8090|инерция|Свойство тел сохранять состояние движения или покоя|Trägheit|noun; feminine
+8091|бар|Небольшое заведение с барной стойкой|Bar|noun; feminine
+8092|переливаться|Блестеть переливчатым светом|schimmern|verb; imperfective; infinitive
+8093|веник|Связка веток или сухих стеблей для подметания|Besen|noun; masculine
+8094|подталкивать|Побуждать к действиям, торопить|antreiben|verb; imperfective; infinitive
+8095|поделить|Разделить на части, распределить|aufteilen|verb; perfective; infinitive
+8096|пурга|Сильная снежная буря|Schneesturm|noun; masculine
+8097|впиться|Крепко вонзиться во что-либо|sich festbeißen|verb; perfective; infinitive; reflexive
+8098|ближний|Наиболее близкий по расстоянию|nächste|adjective
+8099|отбор|Выделение кого-либо из общей среды по определённым критериям|Auswahl|noun; feminine
+8100|отвлекаться|Уклоняться от основной темы или дела|sich ablenken|verb; imperfective; infinitive; reflexive

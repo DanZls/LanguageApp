@@ -1,0 +1,100 @@
+2801|лавка|shop|noun; singular
+2802|ласково|gently|adverb
+2803|поцеловать|to kiss|verb; perfective
+2804|блюдо|dish|noun; singular
+2805|арестовать|to arrest|verb; perfective
+2806|оглядеть|to look over|verb; perfective
+2807|ток|current|noun; singular
+2808|славный|glorious|adjective
+2809|окоп|trench|noun; singular
+2810|демократия|democracy|noun; singular; uncountable
+2811|рвать|to tear|verb; irregular
+2812|шевелиться|to move|verb; regular; reflexive
+2813|свойство|property|noun; singular
+2814|рухнуть|to collapse|verb; perfective
+2815|посторонний|outsider|adjective
+2816|кончаться|to end|verb; regular; reflexive
+2817|успокоить|to calm|verb; perfective
+2818|рассуждать|to reason|verb; regular
+2819|секретный|secret|adjective
+2820|приключение|adventure|noun; singular
+2821|искусственный|artificial|adjective
+2822|получение|receipt|noun; singular
+2823|ступенька|step|noun; singular
+2824|поза|pose|noun; singular
+2825|постучать|to knock|verb; perfective
+2826|штат|staff|noun; singular; uncountable
+2827|выборы|elections|noun; plural
+2828|носок|sock|noun; singular
+2829|сосна|pine|noun; singular
+2830|олень|deer|noun; singular; irregular plural
+2831|сидя|sitting|adverb
+2832|доказывать|to prove|verb; regular
+2833|перемена|change|noun; singular
+2834|вытянуть|to pull out|verb; perfective
+2835|бригадир|foreman|noun; singular
+2836|впоследствии|subsequently|adverb
+2837|уверенность|confidence|noun; singular; uncountable
+2838|сложить|to fold|verb; perfective
+2839|акция|share|noun; singular
+2840|чрезвычайно|extremely|adverb
+2841|ранить|to wound|verb; perfective
+2842|половый|dun-colored|adjective
+2843|засыпать|to fill up|verb; perfective
+2844|доходить|to reach|verb; regular
+2845|космический|cosmic|adjective
+2846|жених|groom|noun; singular
+2847|неподалеку|nearby|adverb
+2848|командовать|to command|verb; regular
+2849|Китай|China|noun; singular; proper
+2850|сломать|to break|verb; perfective
+2851|орел|eagle|noun; singular
+2852|сорваться|to break loose|verb; perfective; reflexive
+2853|развернуть|to unfold|verb; perfective
+2854|дневник|diary|noun; singular
+2855|музыкальный|musical|adjective
+2856|суббота|Saturday|noun; singular
+2857|повышение|increase|noun; singular
+2858|гимнастерка|tunic|noun; singular
+2859|грозить|to threaten|verb; regular
+2860|обмануть|to deceive|verb; perfective
+2861|статус|status|noun; singular
+2862|посоветовать|to advise|verb; perfective
+2863|папироса|cigarette|noun; singular
+2864|разойтись|to disperse|verb; perfective; reflexive
+2865|восьмой|eighth|numeral; ordinal
+2866|убежать|to run away|verb; perfective
+2867|культурный|cultural|adjective
+2868|воскресенье|Sunday|noun; singular
+2869|собачий|canine|adjective
+2870|сохраниться|to be preserved|verb; perfective; reflexive
+2871|помешать|to interfere|verb; perfective
+2872|проводник|guide|noun; singular
+2873|рюмка|shot glass|noun; singular
+2874|свеча|candle|noun; singular
+2875|рассмеяться|to burst out laughing|verb; perfective; reflexive
+2876|красиво|beautifully|adverb
+2877|светиться|to glow|verb; regular
+2878|белок|protein|noun; singular; uncountable
+2879|поначалу|at first|adverb
+2880|вдвоем|together|adverb
+2881|помимо|besides|preposition
+2882|вспыхнуть|to flare up|verb; perfective
+2883|решетка|grille|noun; singular
+2884|фактор|factor|noun; singular
+2885|слепой|blind|adjective
+2886|целовать|to kiss|verb; regular
+2887|отказ|refusal|noun; singular
+2888|волшебник|wizard|noun; singular
+2889|изредка|occasionally|adverb
+2890|нажать|to press|verb; perfective
+2891|заказать|to order|verb; perfective
+2892|соответствовать|to correspond|verb; regular
+2893|решаться|to decide|verb; regular; reflexive
+2894|болтать|to chat|verb; regular
+2895|указание|instruction|noun; singular
+2896|доклад|report|noun; singular
+2897|нестись|to rush|verb; regular; reflexive
+2898|прочь|away|adverb
+2899|страдание|suffering|noun; singular
+2900|окончание|ending|noun; singular

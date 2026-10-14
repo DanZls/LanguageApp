@@ -1,0 +1,100 @@
+9001|проникновение|penetration|noun; singular
+9002|возбуждать|to excite|verb; imperfective
+9003|плестись|to trudge|verb; imperfective; reflexive
+9004|слезать|to climb down|verb; imperfective
+9005|долететь|to reach by flight|verb; perfective
+9006|отключить|to disconnect|verb; perfective
+9007|завещание|will|noun; singular
+9008|нежелательный|undesirable|adjective
+9009|подбегать|to run up|verb; imperfective
+9010|отдельность|separateness|noun; singular; uncountable
+9011|подрасти|to grow a bit|verb; perfective
+9012|балет|ballet|noun; singular
+9013|недалекий|dim-witted|adjective
+9014|Британия|Britain|noun; singular; proper
+9015|инстинктивный|instinctive|adjective
+9016|физкультура|physical education|noun; singular; uncountable
+9017|континент|continent|noun; singular
+9018|жандарм|gendarme|noun; singular
+9019|ямка|small hole|noun; singular
+9020|ожидаться|to be expected|verb; imperfective; reflexive
+9021|денек|little day|noun; singular; diminutive
+9022|заготовить|to prepare|verb; perfective
+9023|травинка|blade of grass|noun; singular; diminutive
+9024|перепугать|to scare badly|verb; perfective
+9025|царица|queen|noun; singular
+9026|снижать|to lower|verb; imperfective
+9027|карп|carp|noun; singular
+9028|баланс|balance|noun; singular
+9029|поселение|settlement|noun; singular
+9030|зарыть|to bury|verb; perfective
+9031|низший|lowest|adjective
+9032|драть|to tear|verb; imperfective
+9033|сбыться|to come true|verb; perfective; reflexive
+9034|капюшон|hood|noun; singular
+9035|дородный|stout|adjective
+9036|карманный|pocket|adjective
+9037|парной|fresh|adjective
+9038|выживание|survival|noun; singular; uncountable
+9039|картонный|cardboard|adjective
+9040|выигрыш|winnings|noun; singular
+9041|индустриальный|industrial|adjective
+9042|хвостик|little tail|noun; singular; diminutive
+9043|засесть|to hole up|verb; perfective
+9044|нива|field|noun; singular
+9045|биология|biology|noun; singular; uncountable
+9046|пригрозить|to threaten|verb; perfective
+9047|социология|sociology|noun; singular; uncountable
+9048|полянка|small clearing|noun; singular; diminutive
+9049|замяться|to falter|verb; perfective; reflexive
+9050|надежность|reliability|noun; singular; uncountable
+9051|рефлекс|reflex|noun; singular
+9052|взмолиться|to beg|verb; perfective; reflexive
+9053|шест|pole|noun; singular
+9054|лакированный|lacquered|adjective
+9055|земляной|earthen|adjective
+9056|изысканный|refined|adjective
+9057|веревочка|little rope|noun; singular; diminutive
+9058|послание|message|noun; singular
+9059|преувеличивать|to exaggerate|verb; imperfective
+9060|учительский|teacher's|adjective
+9061|увеличиться|to increase|verb; perfective; reflexive
+9062|бледнеть|to turn pale|verb; imperfective
+9063|стаж|seniority|noun; singular; uncountable
+9064|выигрывать|to win|verb; imperfective
+9065|страховка|insurance|noun; singular
+9066|графин|carafe|noun; singular
+9067|корыто|trough|noun; singular
+9068|неясно|unclearly|adverb
+9069|дорн|mandrel|noun; singular
+9070|таить|to conceal|verb; imperfective
+9071|взрываться|to explode|verb; imperfective; reflexive
+9072|автомашина|car|noun; singular
+9073|затягивать|to tighten|verb; imperfective
+9074|сроду|never|adverb
+9075|вездеход|all-terrain vehicle|noun; singular
+9076|дружески|amicably|adverb
+9077|нянька|nanny|noun; singular
+9078|доспех|armor|noun; singular
+9079|выступ|protrusion|noun; singular
+9080|телесный|bodily|adjective
+9081|сморщиться|to wrinkle|verb; perfective; reflexive
+9082|интоксикация|intoxication|noun; singular; uncountable
+9083|трюм|hold|noun; singular
+9084|покрытие|coating|noun; singular
+9085|ходьба|walking|noun; singular; uncountable
+9086|кустик|small bush|noun; singular; diminutive
+9087|сосиска|sausage|noun; singular
+9088|шелест|rustle|noun; singular; uncountable
+9089|вконец|completely|adverb
+9090|ключевой|key|adjective
+9091|щадить|to spare|verb; imperfective
+9092|аванс|advance|noun; singular
+9093|гуманитарный|humanitarian|adjective
+9094|бабуся|granny|noun; singular
+9095|зек|prisoner|noun; singular
+9096|прекращение|cessation|noun; singular; uncountable
+9097|дубинка|club|noun; singular
+9098|рык|roar|noun; singular
+9099|излучение|radiation|noun; singular; uncountable
+9100|правдивый|truthful|adjective

@@ -1,0 +1,50 @@
+6101|гадость|Отвратительный поступок или слова|Scheußlichkeit|noun; feminine
+6102|забыться|Впасть в забытье; задремать|einnicken|verb; perfective; infinitive
+6103|специфический|Особенный, свойственный только данному явлению|spezifisch|adjective
+6104|верность|Стойкость и неизменность в чувствах и отношениях|Treue|noun; feminine
+6105|развалиться|Рассыпаться или распасться на части|auseinanderfallen|verb; perfective; infinitive
+6106|бубен|Ударный инструмент из обода с натянутой кожей|Tamburin|noun; neuter
+6107|упоминать|Называть или касаться кого-либо в речи|erwähnen|verb; imperfective; infinitive
+6108|израильский|Относящийся к Израилю или израильтянам|israelisch|adjective
+6109|лесок|Небольшой лес|Wäldchen|noun; neuter
+6110|рубка|Надстройка на палубе для управления судном|Brücke|noun; feminine
+6111|логик|Специалист в области логики|Logiker|noun; masculine
+6112|непрерывный|Не имеющий перерывов или промежутков|kontinuierlich|adjective
+6113|тошнота|Неприятное ощущение, предшествующее рвоте|Übelkeit|noun; feminine
+6114|тринадцать|Число 13|dreizehn|numeral; cardinal
+6115|пожаловаться|Обратиться к кому-либо с жалобой|sich beschweren|verb; perfective; infinitive; reflexive
+6116|путешественник|Человек, совершающий путешествие|Reisender|noun; masculine
+6117|реально|На самом деле; действительно|realistisch|adverb
+6118|чернила|Красящая жидкость для писания|Tinte|noun; feminine
+6119|растаять|Стать жидким от нагревания (о снеге, льде)|schmelzen|verb; perfective; infinitive
+6120|щелкать|Производить короткие отрывистые звуки|knacken|verb; imperfective; infinitive
+6121|хранение|Содержание чего-либо в сохранности|Aufbewahrung|noun; feminine
+6122|иуда|Предатель, изменник|Verräter|noun; masculine
+6123|обучение|Процесс передачи знаний и навыков|Ausbildung|noun; feminine
+6124|наркотик|Вещество, вызывающее наркотическое опьянение|Droge|noun; feminine
+6125|бодро|Энергично и живо|munter|adverb
+6126|сыпаться|Падать сыпучей массой|rieseln|verb; imperfective; infinitive
+6127|развестись|Расторгнуть брак|sich scheiden lassen|verb; perfective; infinitive; reflexive
+6128|близнец|Один из двух детей, рождённых одновременно|Zwilling|noun; masculine
+6129|негде|Нет места для осуществления чего-либо|nirgends|adverb
+6130|помидор|Сочный плод растения паслёновых красного или жёлтого цвета|Tomate|noun; feminine
+6131|смущать|Приводить в замешательство; беспокоить|verwirren|verb; imperfective; infinitive
+6132|экологический|Относящийся к экологии и природной среде|ökologisch|adjective
+6133|фантастика|Жанр, основанный на творческом воображении и вымысле|Fantasie|noun; feminine
+6134|забегать|Начать суетливо бегать|herumlaufen|verb; perfective; infinitive
+6135|всяческий|Всякий, любой возможный|jeglicher|adjective
+6136|сопровождение|То, что сопутствует явлению или действию|Begleitung|noun; feminine
+6137|настойчиво|С постоянством, не ослабевая|beharrlich|adverb
+6138|отработать|Возместить трудом; отслужить установленное время|abarbeiten|verb; perfective; infinitive
+6139|отзываться|Откликаться; высказывать мнение|sich äußern|verb; imperfective; infinitive; reflexive
+6140|рекламный|Связанный с рекламой|Werbe-|adjective
+6141|залив|Часть водоёма, вдавшаяся в сушу|Bucht|noun; feminine
+6142|бодрый|Полный сил и энергии|munter|adjective
+6143|звено|Одно из колец, составляющих цепь|Glied|noun; neuter
+6144|врожденный|Свойственный от рождения|angeboren|adjective
+6145|злобный|Преисполненный злобы|bösartig|adjective
+6146|браслет|Украшение в виде кольца или цепочки на запястье|Armband|noun; neuter
+6147|свод|Арочная конструкция в виде изогнутой поверхности|Gewölbe|noun; neuter
+6148|автоматический|Осуществляющийся без участия человека|automatisch|adjective
+6149|оборваться|Оторваться и отделиться от чего-либо|abreißen|verb; perfective; infinitive
+6150|хаос|Полное отсутствие порядка|Chaos|noun; neuter

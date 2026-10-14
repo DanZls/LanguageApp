@@ -1,0 +1,100 @@
+2701|одиночество|loneliness|noun; singular; uncountable
+2702|социализм|socialism|noun; singular; uncountable
+2703|судно|vessel|noun; singular
+2704|туалет|toilet|noun; singular
+2705|окружающее|surroundings|noun; plural
+2706|якобы|allegedly|particle
+2707|атмосфера|atmosphere|noun; singular
+2708|удача|luck|noun; singular; uncountable
+2709|бросаться|to rush|verb; regular; reflexive
+2710|оценка|assessment|noun; singular
+2711|Волга|Volga|noun; singular; proper
+2712|пароход|steamship|noun; singular
+2713|служебный|official|adjective
+2714|вне|outside|preposition
+2715|остановка|stop|noun; singular
+2716|рыцарь|knight|noun; singular
+2717|академик|academician|noun; singular
+2718|пустота|emptiness|noun; singular; uncountable
+2719|копейка|kopeck|noun; singular
+2720|версия|version|noun; singular
+2721|ножка|leg|noun; singular
+2722|деревенский|rural|adjective
+2723|аккумулятор|battery|noun; singular
+2724|исключить|to exclude|verb; perfective
+2725|провожать|to see off|verb; regular
+2726|собеседник|interlocutor|noun; singular
+2727|триста|three hundred|numeral; cardinal
+2728|прошептать|to whisper|verb; perfective
+2729|плоский|flat|adjective
+2730|зритель|viewer|noun; singular
+2731|нынче|nowadays|adverb
+2732|осмотреть|to inspect|verb; perfective
+2733|характерный|characteristic|adjective
+2734|военный|serviceman|noun; singular
+2735|вздрогнуть|to flinch|verb; perfective
+2736|старость|old age|noun; singular; uncountable
+2737|цивилизация|civilization|noun; singular
+2738|посвятить|to dedicate|verb; perfective
+2739|перенести|to carry over|verb; perfective
+2740|драка|fight|noun; singular
+2741|лифт|elevator|noun; singular
+2742|тряпка|rag|noun; singular
+2743|колбаса|sausage|noun; singular
+2744|прервать|to interrupt|verb; perfective
+2745|отчет|report|noun; singular
+2746|каша|porridge|noun; singular; uncountable
+2747|освободить|to free|verb; perfective
+2748|дьявол|devil|noun; singular
+2749|сарай|shed|noun; singular
+2750|использование|use|noun; singular; uncountable
+2751|творчество|creativity|noun; singular; uncountable
+2752|неторопливый|unhurried|adjective
+2753|проход|passage|noun; singular
+2754|Чечня|Chechnya|noun; singular; proper
+2755|воробей|sparrow|noun; singular
+2756|учесть|to take into account|verb; perfective
+2757|походить|to resemble|verb; regular
+2758|относительно|regarding|adverb
+2759|подвести|to let down|verb; perfective
+2760|рваться|to tear|verb; regular; reflexive
+2761|мышца|muscle|noun; singular
+2762|жирный|fatty|adjective
+2763|дожидаться|to wait for|verb; regular; reflexive
+2764|рассвет|dawn|noun; singular
+2765|всерьез|seriously|adverb
+2766|кивать|to nod|verb; regular
+2767|коммунизм|communism|noun; singular; uncountable
+2768|сбежать|to run away|verb; perfective
+2769|глоток|sip|noun; singular
+2770|доказательство|proof|noun; singular
+2771|ввести|to introduce|verb; perfective
+2772|крайне|extremely|adverb
+2773|нация|nation|noun; singular
+2774|сердито|angrily|adverb
+2775|узел|knot|noun; singular
+2776|грустно|sadly|adverb
+2777|зависимость|dependence|noun; singular
+2778|груз|cargo|noun; singular
+2779|империя|empire|noun; singular
+2780|определять|to determine|verb; regular
+2781|комбат|battalion commander|noun; singular
+2782|величина|magnitude|noun; singular
+2783|крышка|lid|noun; singular
+2784|воздействие|impact|noun; singular
+2785|допустить|to allow|verb; perfective
+2786|сбросить|to drop|verb; perfective
+2787|кирпич|brick|noun; singular
+2788|полюбить|to fall in love|verb; perfective
+2789|глазок|peephole|noun; singular
+2790|содержать|to support|verb; regular
+2791|турист|tourist|noun; singular
+2792|де|allegedly|particle
+2793|обмен|exchange|noun; singular
+2794|всеобщий|universal|adjective
+2795|перевод|translation|noun; singular
+2796|четверо|four|numeral; cardinal
+2797|стрела|arrow|noun; singular
+2798|уголок|corner|noun; singular
+2799|лишенный|deprived|adjective
+2800|превращаться|to turn into|verb; regular; reflexive

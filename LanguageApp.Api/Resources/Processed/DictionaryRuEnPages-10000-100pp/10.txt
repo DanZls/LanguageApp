@@ -1,0 +1,100 @@
+901|американский|American|adjective
+902|дым|smoke|noun; singular; uncountable
+903|гореть|to burn|verb; regular
+904|плакать|to cry|verb; irregular
+905|весьма|quite|adverb
+906|факт|fact|noun; singular
+907|двигаться|to move|verb; regular
+908|рыба|fish|noun; singular; irregular plural
+909|добавить|to add|verb; perfective
+910|удивиться|to be surprised|verb; perfective
+911|бабушка|grandmother|noun; singular
+912|вино|wine|noun; singular; uncountable
+913|ибо|because|conjunction
+914|учитель|teacher|noun; singular; irregular plural
+915|действовать|to act|verb; regular
+916|осторожно|carefully|adverb
+917|круг|circle|noun; singular
+918|папа|dad|noun; singular
+919|правильно|correctly|adverb
+920|недавно|recently|adverb
+921|держаться|to hold on|verb; irregular; reflexive
+922|причем|moreover|conjunction
+923|лететь|to fly|verb; irregular
+924|носить|to carry|verb; irregular
+925|повод|reason|noun; singular
+926|лагерь|camp|noun; singular
+927|птица|bird|noun; singular
+928|корабль|ship|noun; singular
+929|мнение|opinion|noun; singular
+930|ночной|nightly|adjective
+931|здоровый|healthy|adjective
+932|зима|winter|noun; singular
+933|сухой|dry|adjective
+934|километр|kilometer|noun; singular
+935|кровать|bed|noun; singular
+936|привыкнуть|to get used to|verb; perfective
+937|прочее|other|pronoun; plural
+938|свободный|free|adjective
+939|лестница|stairs|noun; plural
+940|неужели|really|particle; interrogative
+941|обязательно|necessarily|adverb
+942|вверх|up|adverb
+943|детство|childhood|noun; singular
+944|остров|island|noun; singular
+945|статья|article|noun; singular
+946|позвонить|to call|verb; perfective
+947|столь|so|adverb
+948|мешать|to hinder|verb; regular
+949|водка|vodka|noun; singular; uncountable
+950|темнота|darkness|noun; singular; uncountable
+951|возникнуть|to arise|verb; perfective
+952|способный|capable|adjective
+953|станция|station|noun; singular
+954|желать|to wish|verb; regular
+955|попробовать|to try|verb; perfective
+956|получаться|to turn out|verb; regular
+957|гражданин|citizen|noun; singular; irregular plural
+958|странно|strangely|adverb
+959|вскоре|soon|adverb
+960|интересный|interesting|adjective
+961|команда|command|noun; singular
+962|заболевание|disease|noun; singular
+963|живот|belly|noun; singular
+964|ставить|to place|verb; regular
+965|ради|for the sake of|preposition
+966|тишина|silence|noun; singular; uncountable
+967|понятно|clear|adverb
+968|фронт|front|noun; singular
+969|щека|cheek|noun; singular
+970|страшно|terribly|adverb
+971|район|district|noun; singular
+972|наверно|probably|adverb
+973|проводить|to conduct|verb; regular
+974|выражение|expression|noun; singular
+975|слегка|slightly|adverb
+976|мешок|sack|noun; singular
+977|обещать|to promise|verb; regular
+978|дорогой|expensive|adjective
+979|судить|to judge|verb; regular
+980|большинство|majority|noun; singular
+981|собраться|to gather|verb; perfective
+982|управление|management|noun; singular
+983|колоть|to chop|verb; irregular
+984|мокрый|wet|adjective
+985|приказ|order|noun; singular
+986|прямой|straight|adjective
+987|закричать|to scream|verb; perfective
+988|кончиться|to end|verb; perfective
+989|куст|bush|noun; singular
+990|стрелять|to shoot|verb; regular
+991|художник|artist|noun; singular
+992|знак|sign|noun; singular
+993|завод|factory|noun; singular
+994|кулак|fist|noun; singular
+995|использовать|to use|verb; regular
+996|стакан|glass|noun; singular
+997|пахнуть|to smell|verb; irregular
+998|отсюда|from here|adverb
+999|рот|mouth|noun; singular
+1000|пора|time|noun; singular

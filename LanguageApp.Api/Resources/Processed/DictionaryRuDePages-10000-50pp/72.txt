@@ -1,0 +1,50 @@
+3601|маршал|Воинское звание выше генеральского|Marschall|noun; masculine
+3602|приступить|Начать; приняться за что-либо|anfangen|verb; perfective; infinitive
+3603|интеллигент|Образованный человек умственного труда|Intellektueller|noun; masculine
+3604|фабрика|Промышленное предприятие|Fabrik|noun; feminine
+3605|делиться|Распадаться на части; делить с другими|sich aufteilen|verb; imperfective; infinitive; reflexive
+3606|показание|Свидетельство; рассказ о чём-либо|Aussage|noun; feminine
+3607|выносить|Прийти к выводу; принять решение|schlussfolgern|verb; perfective; infinitive
+3608|небрежно|Без старания; неряшливо|nachlässig|adverb
+3609|безусловно|Без всяких условий; непременно|unbedingt|adverb
+3610|пустяк|Мелкое, ничтожное обстоятельство|Kleinigkeit|noun; feminine
+3611|разноцветный|С окраской разных цветов|bunt|adjective
+3612|прилететь|Летя, прибыть|einfliegen|verb; perfective; infinitive
+3613|растение|Организм, получающий питание из воздуха и почвы|Pflanze|noun; feminine
+3614|гул|Неясный сливающийся шум|Summen|noun; neuter
+3615|вступать|Начинать участие в чём-либо|eintreten|verb; imperfective; infinitive
+3616|стройный|Красиво и правильно сложенный|schlank|adjective
+3617|одеваться|Покрывать себя одеждой|sich anziehen|verb; imperfective; infinitive; reflexive
+3618|ценить|Признавать ценность кого-либо или чего-либо|schätzen|verb; imperfective; infinitive
+3619|стыд|Чувство смущения от осознания предосудительности поступка|Scham|noun; feminine
+3620|бюро|Название некоторых учреждений|Büro|noun; neuter
+3621|завернуть|Покрыть со всех сторон; упаковать|einwickeln|verb; perfective; infinitive
+3622|воспринимать|Принимать к сведению; осмысливать|wahrnehmen|verb; imperfective; infinitive
+3623|дока|Знаток; мастер своего дела|Könner|noun; masculine
+3624|избавиться|Освободиться; избежать чего-либо|sich befreien|verb; perfective; infinitive; reflexive
+3625|германский|Относящийся к германцам или Германии|germanisch|adjective
+3626|унести|Уходя, взять с собой|wegtragen|verb; perfective; infinitive
+3627|зажечь|Заставить гореть|anzünden|verb; perfective; infinitive
+3628|квадратный|Имеющий форму квадрата|quadratisch|adjective
+3629|советник|Должностное лицо, дающее советы|Berater|noun; masculine
+3630|башмак|Ботинок или полуботинок|Schuh|noun; masculine
+3631|жажда|Потребность пить; сильное желание|Durst|noun; masculine
+3632|популярный|Пользующийся широкой известностью|beliebt|adjective
+3633|преимущество|Выгода; превосходство над другим|Vorteil|noun; masculine
+3634|направо|В правую сторону|nach rechts|adverb
+3635|лет|Годы; длительность жизни|Jahre|noun; plural
+3636|проза|Нестихотворная литература|Prosa|noun; feminine
+3637|имущество|То, что принадлежит кому-либо|Eigentum|noun; neuter
+3638|премия|Денежное или иное поощрение в награду|Prämie|noun; feminine
+3639|влюблённый|Испытывающий страстную любовь|verliebt|adjective
+3640|казарма|Специальное здание для воинских частей|Kaserne|noun; feminine
+3641|поверх|Сверху кого-либо или чего-либо|über|preposition
+3642|привлечь|Побудить обратить внимание; вызвать интерес|anziehen|verb; perfective; infinitive
+3643|внешность|Наружный облик человека|Äußeres|noun; neuter
+3644|приход|Достижение цели движения; поступление|Ankunft|noun; feminine
+3645|очутиться|Неожиданно оказаться где-либо|sich wiederfinden|verb; perfective; infinitive; reflexive
+3646|чудовищный|Крайне большой; значительный|ungeheuerlich|adjective
+3647|ставка|Размер заработной платы|Tarif|noun; masculine
+3648|уголовный|Относящийся к преступности и её наказуемости|strafrechtlich|adjective
+3649|прощаться|Обмениваться приветствиями при расставании|sich verabschieden|verb; imperfective; infinitive; reflexive
+3650|провалиться|Потерпеть неудачу|scheitern|verb; perfective; infinitive

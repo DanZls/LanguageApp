@@ -1,0 +1,100 @@
+8101|кромка|edge|noun; singular
+8102|милостивый|merciful|adjective
+8103|машинист|train driver|noun; singular
+8104|неполный|incomplete|adjective
+8105|доверчивый|trusting|adjective
+8106|греться|to warm oneself|verb; imperfective; reflexive
+8107|сатана|Satan|noun; singular
+8108|незаконный|illegal|adjective
+8109|пленум|plenum|noun; singular
+8110|десантник|paratrooper|noun; singular
+8111|ведение|management|noun; singular; uncountable
+8112|побеждать|to win|verb; imperfective
+8113|сиреневый|lilac|adjective
+8114|сулить|to promise|verb; imperfective
+8115|бегемот|hippopotamus|noun; singular
+8116|памятный|memorable|adjective
+8117|ограбить|to rob|verb; perfective
+8118|окончиться|to end|verb; perfective; reflexive
+8119|законодательство|legislation|noun; singular; uncountable
+8120|вирус|virus|noun; singular
+8121|откровение|revelation|noun; singular
+8122|сожалеть|to regret|verb; imperfective
+8123|бдительность|vigilance|noun; singular; uncountable
+8124|последовательность|consistency|noun; singular; uncountable
+8125|коломбина|Columbine|noun; singular
+8126|сослуживец|colleague|noun; singular
+8127|исчерпать|to exhaust|verb; perfective
+8128|шелк|silk|noun; singular; uncountable
+8129|нехитрый|simple|adjective
+8130|шляпка|little hat|noun; singular; diminutive
+8131|воспитать|to raise|verb; perfective
+8132|безлюдный|deserted|adjective
+8133|обидный|offensive|adjective
+8134|серо|grayly|adverb
+8135|доставаться|to fall to|verb; imperfective; reflexive
+8136|струиться|to stream|verb; imperfective; reflexive
+8137|бесследно|without a trace|adverb
+8138|гармошка|accordion|noun; singular
+8139|покрутить|to twirl|verb; perfective
+8140|оживленный|lively|adjective
+8141|натрий|sodium|noun; singular; uncountable
+8142|уполномоченный|authorized representative|noun; singular
+8143|объединять|to unite|verb; imperfective
+8144|щуриться|to squint|verb; imperfective; reflexive
+8145|поглотить|to absorb|verb; perfective
+8146|скромность|modesty|noun; singular; uncountable
+8147|ватный|padded|adjective
+8148|едкий|caustic|adjective
+8149|таксист|taxi driver|noun; singular
+8150|пятачок|five-kopeck coin|noun; singular
+8151|изгородь|fence|noun; singular
+8152|футляр|case|noun; singular
+8153|довоенный|prewar|adjective
+8154|чесать|to scratch|verb; imperfective
+8155|катушка|spool|noun; singular
+8156|приз|prize|noun; singular
+8157|сунуться|to poke oneself in|verb; perfective; reflexive
+8158|покрывало|bedspread|noun; singular
+8159|наклоняться|to bend down|verb; imperfective; reflexive
+8160|безобразный|hideous|adjective
+8161|свадебный|wedding|adjective
+8162|осесть|to settle|verb; perfective; reflexive
+8163|захлебываться|to choke|verb; imperfective; reflexive
+8164|работяга|hard worker|noun; singular
+8165|побелеть|to turn white|verb; perfective
+8166|олимпийский|Olympic|adjective
+8167|голодать|to starve|verb; imperfective
+8168|храпеть|to snore|verb; imperfective
+8169|абориген|aborigine|noun; singular
+8170|спутать|to mix up|verb; perfective
+8171|преодоление|overcoming|noun; singular; uncountable
+8172|кровообращение|blood circulation|noun; singular; uncountable
+8173|подхватывать|to pick up|verb; imperfective
+8174|воспитанный|well-mannered|adjective
+8175|бушлат|pea coat|noun; singular
+8176|бунт|rebellion|noun; singular
+8177|арена|arena|noun; singular
+8178|проклятие|curse|noun; singular
+8179|курносый|snub-nosed|adjective
+8180|ненавистный|hateful|adjective
+8181|послевоенный|postwar|adjective
+8182|эстрада|stage|noun; singular
+8183|бомж|homeless person|noun; singular
+8184|вертикальный|vertical|adjective
+8185|извинение|apology|noun; singular
+8186|оконный|window|adjective
+8187|шарф|scarf|noun; singular
+8188|смазать|to lubricate|verb; perfective
+8189|проступать|to show through|verb; imperfective; reflexive
+8190|выставлять|to put on display|verb; imperfective
+8191|книжечка|little book|noun; singular; diminutive
+8192|приучить|to accustom|verb; perfective
+8193|условно|conditionally|adverb
+8194|штамп|stamp|noun; singular
+8195|уголовный|criminal|adjective
+8196|сладость|sweetness|noun; singular; uncountable
+8197|житься|to live|verb; imperfective; impersonal; reflexive
+8198|сойтись|to come together|verb; perfective; reflexive
+8199|отворить|to open|verb; perfective
+8200|затихать|to quiet down|verb; imperfective

@@ -1,0 +1,50 @@
+3751|плач|Голосовые звуки со слезами, выражающие боль или горе|Weinen|noun; neuter
+3752|тревожный|Выражающий или вызывающий тревогу|beunruhigend|adjective
+3753|природный|Естественный, существующий в природе|natürlich|adjective
+3754|трактор|Самоходная машина для тяги сельскохозяйственных орудий|Traktor|noun; masculine
+3755|отдельно|Обособленно, не вместе с другими|getrennt|adverb
+3756|допускать|Разрешать, признавать возможным|zulassen|verb; imperfective; infinitive
+3757|рассчитать|Произвести вычисление; учесть возможности|berechnen|verb; perfective; infinitive
+3758|таять|Переходить в жидкое состояние под действием тепла|schmelzen|verb; imperfective; infinitive
+3759|возмутиться|Испытать сильное негодование|empört sein|verb; perfective; infinitive; reflexive
+3760|модный|Соответствующий актуальной моде|modisch|adjective
+3761|задыхаться|Испытывать затруднение в дыхании|ersticken|verb; imperfective; infinitive
+3762|расстаться|Прекратить отношения или расстаться с кем-либо|sich trennen|verb; perfective; infinitive; reflexive
+3763|покончить|Завершить дело или прекратить отношения|beenden|verb; perfective; infinitive
+3764|гитара|Струнный щипковый инструмент с корпусом в форме восьмёрки|Gitarre|noun; feminine
+3765|замечание|Краткое суждение или критическое высказывание|Bemerkung|noun; feminine
+3766|совершенный|Лишённый недостатков, превосходный|vollkommen|adjective
+3767|проводиться|Осуществляться, иметь место|stattfinden|verb; imperfective; infinitive
+3768|корточки|Поза с сильно согнутыми коленями|Hocke|noun; feminine
+3769|раб|Человек, являющийся собственностью другого лица|Sklave|noun; masculine
+3770|заведение|Предприятие или учреждение|Einrichtung|noun; feminine
+3771|знамя|Полотнище на древке, символ воинской части или государства|Fahne|noun; feminine
+3772|бедро|Часть ноги от таза до колена|Oberschenkel|noun; masculine
+3773|вспышка|Внезапное проявление сильного чувства или явления|Ausbruch|noun; masculine
+3774|фрукт|Сочный съедобный плод садового дерева|Frucht|noun; feminine
+3775|скрыть|Спрятать, сделать незаметным|verbergen|verb; perfective; infinitive
+3776|мотоцикл|Двухколёсная моторная транспортная машина|Motorrad|noun; neuter
+3777|невысокий|Небольшого роста или высоты|niedrig|adjective
+3778|мероприятие|Совокупность действий для достижения общей цели|Veranstaltung|noun; feminine
+3779|чин|Служебный разряд военного или гражданского служащего|Dienstgrad|noun; masculine
+3780|действующий|Реально функционирующий, осуществляющий деятельность|aktiv|adjective
+3781|администрация|Органы исполнительной власти и управления|Verwaltung|noun; feminine
+3782|опоздать|Прибыть позже установленного времени|sich verspäten|verb; perfective; infinitive; reflexive
+3783|пожарный|Относящийся к тушению и предотвращению пожаров|Feuerwehr-|adjective
+3784|перехватить|Захватить кого-либо или что-либо на пути|abfangen|verb; perfective; infinitive
+3785|петля|Кольцо из верёвки или нити|Schlinge|noun; feminine
+3786|неопределенный|Точно не установленный, расплывчатый|unbestimmt|adjective
+3787|ненужный|Не имеющий надобности, лишний|unnötig|adjective
+3788|простыня|Постельное бельё в виде широкого полотнища|Laken|noun; neuter
+3789|витрина|Застеклённый шкаф или витражное окно для показа товаров|Schaufenster|noun; neuter
+3790|аппетит|Желание есть|Appetit|noun; masculine
+3791|потихоньку|Медленно, без спешки|langsam|adverb
+3792|успокаивать|Приводить в спокойное состояние|beruhigen|verb; imperfective; infinitive
+3793|обеспечивать|Снабжать, предоставлять необходимое; делать возможным|gewährleisten|verb; imperfective; infinitive
+3794|уточнить|Сделать более точным|präzisieren|verb; perfective; infinitive
+3795|опасно|С возможностью опасности|gefährlich|adverb
+3796|ресница|Короткий волосок по краю века|Wimper|noun; feminine
+3797|обрести|Найти, получить|erlangen|verb; perfective; infinitive
+3798|погладить|Провести рукой по поверхности, лаская|streicheln|verb; perfective; infinitive
+3799|критика|Разбор и оценка чего-либо с выявлением недостатков|Kritik|noun; feminine
+3800|чертовый|Очень большой, чрезвычайный (усилит.)|verdammt|adjective

@@ -1,0 +1,100 @@
+1901|молодец|good fellow|noun; singular
+1902|замолчать|to fall silent|verb; perfective
+1903|завести|to acquire|verb; perfective
+1904|прибыть|to arrive|verb; perfective
+1905|собрание|meeting|noun; singular
+1906|девять|nine|numeral; cardinal
+1907|слон|elephant|noun; singular
+1908|подтвердить|to confirm|verb; perfective
+1909|глубоко|deeply|adverb
+1910|естественный|natural|adjective
+1911|юноша|youth|noun; singular
+1912|сойти|to get off|verb; perfective
+1913|поступать|to act|verb; regular
+1914|крутой|steep|adjective
+1915|валить|to knock down|verb; regular
+1916|объект|object|noun; singular
+1917|убитый|killed|adjective
+1918|сравнение|comparison|noun; singular
+1919|справа|on the right|adverb
+1920|благородный|noble|adjective
+1921|океан|ocean|noun; singular
+1922|поселок|settlement|noun; singular
+1923|тайга|taiga|noun; singular
+1924|борода|beard|noun; singular
+1925|пачка|pack|noun; singular
+1926|надоесть|to bore|verb; perfective
+1927|привычка|habit|noun; singular
+1928|сумма|sum|noun; singular
+1929|вывести|to lead out|verb; perfective
+1930|прыгать|to jump|verb; regular
+1931|создавать|to create|verb; regular
+1932|грубый|rude|adjective
+1933|поездка|trip|noun; singular
+1934|убедиться|to make sure|verb; perfective; reflexive
+1935|ненавидеть|to hate|verb; irregular
+1936|заявление|statement|noun; singular
+1937|поражение|defeat|noun; singular
+1938|август|August|noun; singular
+1939|привычный|habitual|adjective
+1940|официальный|official|adjective
+1941|передний|front|adjective
+1942|север|north|noun; singular
+1943|шляпа|hat|noun; singular
+1944|изо|from|preposition
+1945|молчание|silence|noun; singular; uncountable
+1946|исчезать|to disappear|verb; regular
+1947|эй|hey|interjection
+1948|топор|axe|noun; singular
+1949|ощущать|to sense|verb; regular
+1950|тащить|to drag|verb; irregular
+1951|брюки|trousers|noun; plural
+1952|соответствующий|corresponding|adjective
+1953|элемент|element|noun; singular
+1954|одеяло|blanket|noun; singular
+1955|мотор|motor|noun; singular
+1956|везде|everywhere|adverb
+1957|дружба|friendship|noun; singular
+1958|безопасность|safety|noun; singular; uncountable
+1959|скрывать|to hide|verb; regular
+1960|совершить|to commit|verb; perfective
+1961|крест|cross|noun; singular
+1962|земной|earthly|adjective
+1963|школьный|school|adjective
+1964|замереть|to freeze|verb; perfective
+1965|прозрачный|transparent|adjective
+1966|подавать|to serve|verb; regular
+1967|истинный|true|adjective
+1968|кабина|cabin|noun; singular
+1969|пальто|coat|noun; singular
+1970|восторг|delight|noun; singular
+1971|экономика|economy|noun; singular
+1972|забота|care|noun; singular
+1973|произвести|to produce|verb; perfective
+1974|дождаться|to wait for|verb; perfective; reflexive
+1975|талант|talent|noun; singular
+1976|плыть|to swim|verb; irregular
+1977|запись|record|noun; singular
+1978|ведро|bucket|noun; singular
+1979|крестьянин|peasant|noun; singular; irregular plural
+1980|поворот|turn|noun; singular
+1981|подробность|detail|noun; singular
+1982|столб|pillar|noun; singular
+1983|канал|channel|noun; singular
+1984|пассажир|passenger|noun; singular
+1985|выполнить|to fulfill|verb; perfective
+1986|устройство|device|noun; singular
+1987|благодаря|thanks to|preposition
+1988|направиться|to head|verb; perfective; reflexive
+1989|влияние|influence|noun; singular
+1990|ракета|rocket|noun; singular
+1991|гражданский|civil|adjective
+1992|шутить|to joke|verb; regular; reflexive
+1993|смена|shift|noun; singular
+1994|случаться|to happen|verb; regular
+1995|спрятать|to hide|verb; perfective
+1996|предстоять|to be ahead|verb; regular
+1997|затылок|back of the head|noun; singular
+1998|юг|south|noun; singular
+1999|эпоха|era|noun; singular
+2000|товар|goods|noun; singular

@@ -1,0 +1,50 @@
+5601|совпадение|Случайное совмещение событий или явлений|Zufall|noun; masculine
+5602|захлопнуть|Резко закрыть, хлопнув|zuschlagen|verb; perfective; infinitive
+5603|ясность|Чёткость и понятность; отсутствие неопределённости|Klarheit|noun; feminine
+5604|трибуна|Возвышение для выступающего оратора|Tribüne|noun; feminine
+5605|частица|Небольшая часть чего-либо; лингвистическая частица|Teilchen|noun; neuter
+5606|румяный|Покрытый здоровым румянцем|rotbackig|adjective
+5607|ловкий|Обладающий физической сноровкой; искусный|geschickt|adjective
+5608|пионерский|Относящийся к пионерам или пионерской организации|Pionier-|adjective
+5609|наместник|Правитель, управляющий от имени высшей власти|Statthalter|noun; masculine
+5610|скот|Сельскохозяйственные животные (собир.)|Vieh|noun; neuter
+5611|общественность|Общество; общественное мнение|Öffentlichkeit|noun; feminine
+5612|кланяться|Делать поклон в знак приветствия или уважения|sich verbeugen|verb; imperfective; infinitive; reflexive
+5613|шибко|Очень сильно (прост.)|sehr|adverb
+5614|отцовский|Свойственный отцу; принадлежащий отцу|väterlich|adjective
+5615|прическа|Форма укладки волос|Frisur|noun; feminine
+5616|инструктор|Должностное лицо, обучающее или инструктирующее|Instruktor|noun; masculine
+5617|рявкнуть|Резко, грубо крикнуть|anbrüllen|verb; perfective; infinitive
+5618|сравнивать|Сопоставлять для выявления сходства или различия|vergleichen|verb; imperfective; infinitive
+5619|дожить|Прожить до определённого момента или возраста|erleben|verb; perfective; infinitive
+5620|парламент|Высший законодательный представительный орган|Parlament|noun; neuter
+5621|вблизи|На небольшом расстоянии; рядом|in der Nähe|adverb
+5622|недостаточность|Нехватка, неполнота|Unzulänglichkeit|noun; feminine
+5623|планировать|Составлять план; намечать|planen|verb; imperfective; infinitive
+5624|закрыться|Стать закрытым|sich schließen|verb; perfective; infinitive; reflexive
+5625|резерв|Запас ресурсов для восполнения|Reserve|noun; feminine
+5626|подлец|Человек, совершающий бесчестные поступки|Schurke|noun; masculine
+5627|сюрприз|Неожиданный подарок или событие|Überraschung|noun; feminine
+5628|поистине|Действительно, в самом деле|wahrhaftig|adverb
+5629|пень|Нижняя часть срубленного дерева|Baumstumpf|noun; masculine
+5630|текущий|Происходящий в данный момент; нынешний|aktuell|adjective
+5631|вывезти|Вывезти за пределы; переместить транспортом|herausfahren|verb; perfective; infinitive
+5632|косить|Срезать траву косой или косилкой|mähen|verb; imperfective; infinitive
+5633|посол|Дипломатический представитель высшего ранга|Botschafter|noun; masculine
+5634|гадать|Пытаться предсказать будущее или угадать|rätseln|verb; imperfective; infinitive
+5635|Швейцария|Государство в Центральной Европе|Schweiz|noun; feminine; proper
+5636|млрд|Миллиард (сокр.)|Mrd.|noun; masculine; abbreviation
+5637|предварительно|Заранее, до основного действия|im Voraus|adverb
+5638|довестись|Случиться; выпасть на долю|sich ergeben|verb; perfective; infinitive
+5639|хмуро|Мрачно и угрюмо|finster|adverb
+5640|выделение|Отделение части; распределение ресурсов|Zuteilung|noun; feminine
+5641|мощь|Большая сила и способность воздействовать|Macht|noun; feminine
+5642|ого|Восклицание, выражающее удивление|oh|interjection
+5643|тревожить|Вызывать тревогу или беспокойство|beunruhigen|verb; imperfective; infinitive
+5644|финский|Относящийся к Финляндии или финнам|finnisch|adjective
+5645|напряженно|С большим напряжением сил|angespannt|adverb
+5646|вытянутый|Имеющий продолговатую форму|gestreckt|adjective
+5647|санаторий|Учреждение для лечения и отдыха|Sanatorium|noun; neuter
+5648|мостик|Небольшой мост|Brückchen|noun; neuter
+5649|знаток|Человек, обладающий глубокими знаниями в чём-либо|Kenner|noun; masculine
+5650|сторонник|Приверженец определённых взглядов или учения|Anhänger|noun; masculine

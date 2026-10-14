@@ -1,0 +1,100 @@
+3201|четко|clearly|adverb
+3202|проехать|to pass by|verb; perfective
+3203|отобрать|to take away|verb; perfective
+3204|вина|guilt|noun; singular
+3205|ведьма|witch|noun; singular
+3206|подлинный|genuine|adjective
+3207|адвокат|lawyer|noun; singular
+3208|апрель|April|noun; singular
+3209|бюджет|budget|noun; singular
+3210|боцман|boatswain|noun; singular
+3211|разрушить|to destroy|verb; perfective
+3212|барак|barrack|noun; singular
+3213|алый|scarlet|adjective
+3214|архив|archive|noun; singular
+3215|выслушать|to listen to|verb; perfective
+3216|цветной|colored|adjective
+3217|прыгнуть|to jump|verb; perfective
+3218|палуба|deck|noun; singular
+3219|кровавый|bloody|adjective
+3220|вольный|free|adjective
+3221|доверять|to trust|verb; regular
+3222|юность|youth|noun; singular; uncountable
+3223|сбор|collection|noun; singular
+3224|базар|bazaar|noun; singular
+3225|нарушить|to violate|verb; perfective
+3226|готовность|readiness|noun; singular; uncountable
+3227|рубеж|border|noun; singular
+3228|искренне|sincerely|adverb
+3229|ай|ow|interjection
+3230|прибыль|profit|noun; singular
+3231|передо|before|preposition
+3232|дескать|allegedly|particle
+3233|интеллигенция|intelligentsia|noun; singular; uncountable
+3234|почта|post office|noun; singular
+3235|сдавать|to hand in|verb; regular
+3236|монастырь|monastery|noun; singular
+3237|практика|practice|noun; singular
+3238|тратить|to spend|verb; regular
+3239|ярость|fury|noun; singular; uncountable
+3240|совершать|to commit|verb; regular
+3241|нарисовать|to draw|verb; perfective
+3242|сниться|to dream|verb; regular; reflexive
+3243|академия|academy|noun; singular
+3244|грустный|sad|adjective
+3245|физиономия|face|noun; singular
+3246|струя|jet|noun; singular
+3247|столичный|capital|adjective
+3248|подземный|underground|adjective
+3249|головной|leading|adjective
+3250|попалить|to burn|verb; perfective
+3251|переставать|to stop|verb; regular
+3252|теща|mother-in-law|noun; singular
+3253|пришелец|newcomer|noun; singular
+3254|гнома|gnome|noun; singular
+3255|конверт|envelope|noun; singular
+3256|процедура|procedure|noun; singular
+3257|понести|to carry|verb; perfective
+3258|нуждаться|to need|verb; regular; reflexive
+3259|лужа|puddle|noun; singular
+3260|выпилить|to saw out|verb; perfective
+3261|необычный|unusual|adjective
+3262|сердиться|to be angry|verb; regular; reflexive
+3263|юбка|skirt|noun; singular
+3264|звон|ringing|noun; singular
+3265|соединить|to connect|verb; perfective
+3266|люк|hatch|noun; singular
+3267|ошибаться|to be wrong|verb; regular; reflexive
+3268|нехорошо|badly|adverb
+3269|недавний|recent|adjective
+3270|аэропорт|airport|noun; singular
+3271|задать|to set|verb; perfective
+3272|наблюдаться|to be observed|verb; regular; reflexive
+3273|подполковник|lieutenant colonel|noun; singular
+3274|растеряться|to get confused|verb; perfective; reflexive
+3275|промолчать|to remain silent|verb; perfective
+3276|выражаться|to express oneself|verb; regular; reflexive
+3277|богатство|wealth|noun; singular; uncountable
+3278|мудрый|wise|adjective
+3279|налог|tax|noun; singular
+3280|всюду|everywhere|adverb
+3281|минимум|minimum|noun; singular
+3282|издали|from afar|adverb
+3283|ад|hell|noun; singular; uncountable
+3284|полотенце|towel|noun; singular
+3285|воспаление|inflammation|noun; singular
+3286|наслаждение|enjoyment|noun; singular; uncountable
+3287|продажа|sale|noun; singular
+3288|фашист|fascist|noun; singular
+3289|колючий|prickly|adjective
+3290|выиграть|to win|verb; perfective
+3291|полость|cavity|noun; singular
+3292|проволока|wire|noun; singular
+3293|удивить|to surprise|verb; perfective
+3294|флот|fleet|noun; singular
+3295|уверенно|confidently|adverb
+3296|маска|mask|noun; singular
+3297|включать|to include|verb; regular
+3298|удивленно|with surprise|adverb
+3299|атака|attack|noun; singular
+3300|согласие|consent|noun; singular; uncountable

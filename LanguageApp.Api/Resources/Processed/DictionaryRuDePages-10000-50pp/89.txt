@@ -1,0 +1,50 @@
+4451|РФ|Российская Федерация (аббр.)|RF|noun; neuter; proper
+4452|изучить|Усвоить, постичь в процессе обучения|erlernen|verb; perfective; infinitive
+4453|проведение|Осуществление, реализация чего-либо|Durchführung|noun; feminine
+4454|подать|Подвинуть ближе, протянуть|reichen|verb; perfective; infinitive
+4455|порядочный|Честный, соответствующий нормам поведения|anständig|adjective
+4456|провинция|Административно-территориальная единица; отдалённая область|Provinz|noun; feminine
+4457|строчок|Весенний съедобный гриб, похожий на сморчок|Lorchel|noun; feminine
+4458|уступать|Соглашаться отдать или уступить место|nachgeben|verb; imperfective; infinitive
+4459|прощение|Отпущение вины, помилование|Vergebung|noun; feminine
+4460|порция|Определённое количество чего-либо, доля|Portion|noun; feminine
+4461|театральный|Неестественный, показной, рассчитанный на эффект|theatralisch|adjective
+4462|отдаленный|Находящийся далеко в пространстве или времени|entfernt|adjective
+4463|потребоваться|Оказаться необходимым|benötigt werden|verb; perfective; infinitive
+4464|хохот|Громкий смех|lautes Lachen|noun; neuter
+4465|сорт|Категория товара по уровню качества|Sorte|noun; feminine
+4466|производственный|Относящийся к производству|Produktions-|adjective
+4467|вплотную|Очень близко, почти вплотную|direkt|adverb
+4468|идеологический|Относящийся к идеологии|ideologisch|adjective
+4469|сравнительно|В сопоставлении с чем-либо; относительно|vergleichsweise|adverb
+4470|питаться|Получать и усваивать пищу|sich ernähren|verb; imperfective; infinitive; reflexive
+4471|командующий|Высший начальник воинского соединения|Befehlshaber|noun; masculine
+4472|людской|Относящийся к людям, человеческий|menschlich|adjective
+4473|угрожать|Создавать угрозу, грозить опасностью|drohen|verb; imperfective; infinitive
+4474|рассуждение|Логически последовательный ряд мыслей|Überlegung|noun; feminine
+4475|фонарик|Небольшой переносной фонарь|Taschenlampe|noun; feminine
+4476|официально|В официальном порядке|offiziell|adverb
+4477|дрянь|Нечто скверное или ничтожное|Schrott|noun; masculine
+4478|понедельник|Первый день недели|Montag|noun; masculine
+4479|райком|Районный партийный комитет (ист.)|Rayonkomitee|noun; neuter
+4480|мундир|Форменная военная или гражданская одежда|Uniform|noun; feminine
+4481|пребывать|Находиться в каком-либо месте или состоянии|sich befinden|verb; imperfective; infinitive; reflexive
+4482|подавить|Силой прекратить, заглушить|unterdrücken|verb; perfective; infinitive
+4483|Польша|Государство в Центральной Европе|Polen|noun; neuter; proper
+4484|плясать|Танцевать, преимущественно народный танец|tanzen|verb; imperfective; infinitive
+4485|удобно|Без затруднений, в подходящих условиях|bequem|adverb
+4486|самостоятельно|Независимо, без посторонней помощи|selbstständig|adverb
+4487|заявлять|Официально объявлять, высказывать|erklären|verb; imperfective; infinitive
+4488|висок|Боковая часть черепа между ухом и лбом|Schläfe|noun; feminine
+4489|падаль|Труп павшего животного|Aas|noun; neuter
+4490|уговорить|Убеждениями склонить к чему-либо|überreden|verb; perfective; infinitive
+4491|глина|Осадочная порода, используемая в гончарстве|Ton|noun; masculine
+4492|почка|Нераскрывшийся побег растения|Knospe|noun; feminine
+4493|профессионал|Специалист в своей области|Fachmann|noun; masculine
+4494|катер|Небольшое моторное судно|Kutter|noun; masculine
+4495|недостаточно|Не в полной мере, меньше нужного|unzureichend|adverb
+4496|шарик|Маленький круглый предмет|Kügelchen|noun; neuter
+4497|конфета|Кондитерское изделие из сахара|Bonbon|noun; neuter
+4498|сажать|Помещать растение в землю для выращивания|pflanzen|verb; imperfective; infinitive
+4499|виски|Крепкий алкогольный напиток из зерна|Whisky|noun; masculine
+4500|поплыть|Начать движение вплавь|losschwimmen|verb; perfective; infinitive

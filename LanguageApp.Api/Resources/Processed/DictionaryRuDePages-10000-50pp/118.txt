@@ -1,0 +1,50 @@
+5901|мазь|Наружное лекарственное средство мягкой консистенции|Salbe|noun; feminine
+5902|развивать|Доводить до более высокой степени развития|entwickeln|verb; imperfective; infinitive
+5903|усадить|Заставить или помочь сесть|setzen|verb; perfective; infinitive
+5904|складывать|Укладывать в стопки; суммировать|zusammenlegen|verb; imperfective; infinitive
+5905|эльф|Сказочное существо в германской мифологии|Elf|noun; masculine
+5906|горожанин|Житель города|Stadtbewohner|noun; masculine
+5907|выстроить|Построить; возвести|errichten|verb; perfective; infinitive
+5908|подскочить|Резко вскочить вверх; внезапно приблизиться|hochspringen|verb; perfective; infinitive
+5909|троллейбус|Электрический безрельсовый общественный транспорт|Oberleitungsbus|noun; masculine
+5910|выговорить|Произнести слово или фразу|aussprechen|verb; perfective; infinitive
+5911|похвалить|Выразить одобрение и похвалу|loben|verb; perfective; infinitive
+5912|усталь|Усталость (устар.)|Müdigkeit|noun; feminine
+5913|исследовать|Подвергнуть научному изучению|untersuchen|verb; perfective; infinitive
+5914|совершенство|Высшая степень достоинства; безупречность|Vollkommenheit|noun; feminine
+5915|погибать|Гибнуть; терпеть гибель|umkommen|verb; imperfective; infinitive
+5916|лавина|Масса снега, низвергающаяся с гор|Lawine|noun; feminine
+5917|хрипло|С хрипотой, сиплым голосом|heiser|adverb
+5918|набраться|Приобрести что-либо; накопить|sich aneignen|verb; perfective; infinitive; reflexive
+5919|выучить|Выучить наизусть; научиться|auswendig lernen|verb; perfective; infinitive
+5920|варенье|Ягоды или фрукты, сваренные с сахаром|Konfitüre|noun; feminine
+5921|рычаг|Приспособление для передачи усилия с опорной точкой|Hebel|noun; masculine
+5922|неизменный|Не подвергающийся изменениям; постоянный|unveränderlich|adjective
+5923|тост|Короткая речь с предложением выпить за кого-либо|Toast|noun; masculine
+5924|собранный|Сосредоточенный и подтянутый|konzentriert|adjective
+5925|ловушка|Устройство для поимки или западня|Falle|noun; feminine
+5926|насмешка|Обидная издевательская шутка|Spott|noun; masculine
+5927|чулок|Трикотажное изделие, облегающее ногу до бедра|Strumpf|noun; masculine
+5928|прах|Мелкие частицы чего-либо рассыпавшегося или сгоревшего|Staub|noun; masculine
+5929|скворец|Певчая перелётная птица с тёмным оперением|Star|noun; masculine
+5930|карета|Закрытый четырёхколёсный конный экипаж на рессорах|Kutsche|noun; feminine
+5931|террорист|Участник террористической деятельности|Terrorist|noun; masculine
+5932|полярный|Относящийся к полюсу; арктический или антарктический|polar|adjective
+5933|сознавать|Понимать и осмысливать|sich bewusst sein|verb; imperfective; infinitive
+5934|повысить|Сделать более высоким; увеличить|erhöhen|verb; perfective; infinitive
+5935|жилой|Предназначенный для проживания|Wohn-|adjective
+5936|сторожа|Люди, охраняющие что-либо|Wächter|noun; plural
+5937|пухлый|Мягкий и округлый; несколько вздутый|dick|adjective
+5938|чердак|Нежилое пространство между потолком и кровлей|Dachboden|noun; masculine
+5939|витамин|Органическое вещество, необходимое для здоровья|Vitamin|noun; neuter
+5940|владыка|Властелин; правитель|Herrscher|noun; masculine
+5941|гибнуть|Погибать; подвергаться уничтожению|umkommen|verb; imperfective; infinitive
+5942|вестибюль|Входной холл в общественном здании|Vestibül|noun; neuter
+5943|юго|Часть сложных слов со значением «южный»|Süd-|adjective
+5944|голубь|Птица с сероватым или белым оперением|Taube|noun; feminine
+5945|единство|Полная общность; сплочённость|Einheit|noun; feminine
+5946|мышление|Познавательный процесс работы ума|Denken|noun; neuter
+5947|новик|Юноша, начинающий военную службу (ист.)|Neuling|noun; masculine
+5948|любовница|Женщина во внебрачных отношениях с мужчиной|Geliebte|noun; feminine
+5949|лагуна|Мелководный залив, отделённый от моря косой|Lagune|noun; feminine
+5950|верблюд|Крупное вьючное животное с одним или двумя горбами|Kamel|noun; neuter

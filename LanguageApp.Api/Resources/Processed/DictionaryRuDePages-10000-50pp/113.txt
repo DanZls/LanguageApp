@@ -1,0 +1,50 @@
+5651|пылать|Ярко гореть, излучая сильный жар|lodern|verb; imperfective; infinitive
+5652|дитя|Маленький ребёнок|Kind|noun; neuter
+5653|захватывать|Брать, овладевать; увлекать|erfassen|verb; imperfective; infinitive
+5654|жестокость|Безжалостное, жестокое обращение|Grausamkeit|noun; feminine
+5655|иголка|Тонкий острый предмет для шитья|Nadel|noun; feminine
+5656|заграничный|Относящийся к зарубежным странам|ausländisch|adjective
+5657|спускать|Перемещать сверху вниз|herunterlassen|verb; imperfective; infinitive
+5658|повалить|Заставить упасть; обрушить|umwerfen|verb; perfective; infinitive
+5659|заменять|Ставить вместо другого; замещать|ersetzen|verb; imperfective; infinitive
+5660|Наполеон|Имя собственное: французский полководец и emperor|Napoleon|noun; masculine; proper
+5661|улечься|Принять удобное лежачее положение|sich hinlegen|verb; perfective; infinitive; reflexive
+5662|вымыть|Очистить водой с мылом|abwaschen|verb; perfective; infinitive
+5663|неужто|Выражение недоверия или удивления (разг.)|wirklich|miscellaneous
+5664|равнина|Ровная земная поверхность без возвышенностей|Ebene|noun; feminine
+5665|поправлять|Исправлять; делать лучше|verbessern|verb; imperfective; infinitive
+5666|ученый|Много знающий; занимающийся научной деятельностью|Wissenschaftler|noun; masculine
+5667|топать|Громко бить ногами по поверхности|stampfen|verb; imperfective; infinitive
+5668|сжатый|Очень краткий; сжатый по объёму|komprimiert|adjective
+5669|превосходство|Преимущество перед кем-либо в каком-либо отношении|Überlegenheit|noun; feminine
+5670|заслуживать|Быть достойным чего-либо|verdienen|verb; imperfective; infinitive
+5671|полночь|Середина ночи; 24:00|Mitternacht|noun; feminine
+5672|кухонный|Относящийся к кухне|Küchen-|adjective
+5673|костыль|Опора для ходьбы, подпираемая под мышку|Krücke|noun; feminine
+5674|окликнуть|Окрикнуть, подозвать криком|anrufen|verb; perfective; infinitive
+5675|открытка|Почтовая карточка без конверта|Postkarte|noun; feminine
+5676|привозить|Доставлять транспортом|mitbringen|verb; imperfective; infinitive
+5677|крошка|Очень маленький ребёнок (ласк.)|Kleines|noun; neuter
+5678|вовсю|Изо всех сил; на полную мощь|mit voller Kraft|adverb
+5679|охотиться|Заниматься охотой на животных|jagen|verb; imperfective; infinitive
+5680|намеренный|Совершённый с умыслом, сознательно|absichtlich|adjective
+5681|вред|Ущерб, причинённый кому-либо|Schaden|noun; masculine
+5682|гарантия|Поручительство, обеспечение|Garantie|noun; feminine
+5683|двигать|Перемещать, приводить в движение|bewegen|verb; imperfective; infinitive
+5684|окрестность|Прилегающая местность|Umgebung|noun; feminine
+5685|пальма|Тропическое дерево с прямым стволом и крупными листьями|Palme|noun; feminine
+5686|присоединиться|Вступить в состав; примкнуть|sich anschließen|verb; perfective; infinitive; reflexive
+5687|песчаный|Состоящий из песка или покрытый им|sandig|adjective
+5688|загореться|Начать гореть; воспламениться|anfangen zu brennen|verb; perfective; infinitive
+5689|гудок|Устройство или звук для подачи сигнала|Hupe|noun; feminine
+5690|космонавт|Специалист, совершающий полёт в космос|Kosmonaut|noun; masculine
+5691|чекист|Сотрудник органов государственной безопасности (ист.)|Geheimdienstler|noun; masculine
+5692|путаться|Приходить в беспорядок; запутываться|sich verwirren|verb; imperfective; infinitive; reflexive
+5693|разбиться|Расколоться от удара на куски|zerbrechen|verb; perfective; infinitive
+5694|поразительный|Производящий сильное впечатление своей необычностью|verblüffend|adjective
+5695|стариков|Принадлежащий старикам (форма прил.)|der Alten|adjective
+5696|социально|В социальном отношении; применительно к обществу|sozial|adverb
+5697|неизбежно|С неотвратимостью; не поддаваясь предотвращению|unvermeidlich|adverb
+5698|свинцовый|Синевато-серый, цвета свинца; тяжёлый|bleiern|adjective
+5699|обвести|Провести вокруг или мимо чего-либо|umführen|verb; perfective; infinitive
+5700|освещать|Делать видимым с помощью света|beleuchten|verb; imperfective; infinitive

@@ -1,0 +1,100 @@
+7601|педагог|educator|noun; singular
+7602|банальный|banal|adjective
+7603|сделка|deal|noun; singular
+7604|раздобыть|to obtain|verb; perfective
+7605|производительный|productive|adjective
+7606|вынырнуть|to surface|verb; perfective
+7607|осуществление|implementation|noun; singular; uncountable
+7608|христианский|Christian|adjective
+7609|увидеться|to meet|verb; perfective; reflexive
+7610|внучек|little grandson|noun; singular; diminutive
+7611|паркет|parquet|noun; singular; uncountable
+7612|арбуз|watermelon|noun; singular
+7613|ощупь|touch|noun; singular; uncountable
+7614|волочить|to drag|verb; imperfective
+7615|шелестеть|to rustle|verb; imperfective
+7616|полон|captivity|noun; singular; archaic
+7617|детектив|detective|noun; singular
+7618|тундра|tundra|noun; singular
+7619|санкт|saint|prefix
+7620|прикидывать|to estimate|verb; imperfective
+7621|мозговой|brain|adjective
+7622|донесение|dispatch|noun; singular
+7623|прошлогодний|last year's|adjective
+7624|заткнуть|to plug|verb; perfective
+7625|объектив|lens|noun; singular
+7626|вертел|spit|noun; singular
+7627|выпуклый|convex|adjective
+7628|соскочить|to jump off|verb; perfective
+7629|удрать|to run away|verb; perfective
+7630|сырье|raw material|noun; plural
+7631|родительский|parental|adjective
+7632|пропалить|to burn through|verb; perfective
+7633|кормило|helm|noun; singular
+7634|одиннадцатый|eleventh|numeral; ordinal
+7635|сатин|sateen|noun; singular; uncountable
+7636|тираж|print run|noun; singular
+7637|энергично|energetically|adverb
+7638|кнут|whip|noun; singular
+7639|сорочка|shirt|noun; singular
+7640|дворик|little yard|noun; singular; diminutive
+7641|впасть|to fall into|verb; perfective
+7642|прикрепить|to attach|verb; perfective
+7643|усик|whisker|noun; singular
+7644|островок|small island|noun; singular; diminutive
+7645|личико|little face|noun; singular; diminutive
+7646|внушить|to instill|verb; perfective
+7647|объявиться|to turn up|verb; perfective; reflexive
+7648|тормозить|to brake|verb; imperfective
+7649|жарить|to fry|verb; imperfective
+7650|стресс|stress|noun; singular; uncountable
+7651|наподобие|like|preposition
+7652|постукивать|to tap|verb; imperfective
+7653|бомбежка|bombing|noun; singular
+7654|поэма|poem|noun; singular
+7655|сучок|twig|noun; singular
+7656|многолетний|long-standing|adjective
+7657|ливень|downpour|noun; singular
+7658|прибрать|to tidy up|verb; perfective
+7659|старомодный|old-fashioned|adjective
+7660|мужичок|little peasant|noun; singular; diminutive
+7661|поганый|nasty|adjective
+7662|лишать|to deprive|verb; imperfective
+7663|кг|kg|noun; singular; abbreviation
+7664|зрительный|visual|adjective
+7665|настороженно|warily|adverb
+7666|ломаться|to break|verb; imperfective; reflexive
+7667|ощупывать|to feel around|verb; imperfective
+7668|сожрать|to devour|verb; perfective
+7669|заподозрить|to suspect|verb; perfective
+7670|умело|skillfully|adverb
+7671|сосредоточиться|to concentrate|verb; perfective; reflexive
+7672|показываться|to appear|verb; imperfective; reflexive
+7673|финансы|finances|noun; plural
+7674|яга|Baba Yaga|noun; singular; proper
+7675|одобрять|to approve|verb; imperfective
+7676|медик|medic|noun; singular
+7677|рига|barn|noun; singular
+7678|валун|boulder|noun; singular
+7679|увольнение|dismissal|noun; singular
+7680|переменить|to change|verb; perfective
+7681|линейка|ruler|noun; singular
+7682|пологий|gentle|adjective
+7683|пообедать|to have lunch|verb; perfective; reflexive
+7684|отчетливый|distinct|adjective
+7685|консервный|canning|adjective
+7686|радуга|rainbow|noun; singular
+7687|танкист|tank crewman|noun; singular
+7688|универсальный|universal|adjective
+7689|сквер|square|noun; singular
+7690|хмуриться|to frown|verb; imperfective; reflexive
+7691|пайка|soldering|noun; singular; uncountable
+7692|метла|broom|noun; singular
+7693|доверить|to entrust|verb; perfective
+7694|завал|blockage|noun; singular
+7695|дощатый|plank|adjective
+7696|пристроиться|to settle in|verb; perfective; reflexive
+7697|технологический|technological|adjective
+7698|дотянуться|to reach|verb; perfective
+7699|освещение|lighting|noun; singular; uncountable
+7700|ликвидация|liquidation|noun; singular; uncountable

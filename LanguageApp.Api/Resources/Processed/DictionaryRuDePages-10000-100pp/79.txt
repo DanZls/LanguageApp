@@ -1,0 +1,100 @@
+7801|вслушиваться|Внимательно и напряжённо прислушиваться|lauschen|verb; imperfective; infinitive
+7802|принципиально|Исходя из принципов; по существу|grundsätzlich|adverb
+7803|прикоснуться|Слегка дотронуться до чего-либо|berühren|verb; perfective; infinitive
+7804|съехать|Спуститься, движась вниз по поверхности|herunterfahren|verb; perfective; infinitive
+7805|томиться|Мучиться ожиданием или томлением|schmachten|verb; imperfective; infinitive
+7806|выбегать|Выходить бегом; убегать наружу|herauslaufen|verb; imperfective; infinitive
+7807|разразиться|Внезапно и стремительно возникнуть (о буре, скандале)|ausbrechen|verb; perfective; infinitive
+7808|помойка|Место для выброса мусора и отбросов|Müllhaufen|noun; masculine
+7809|продолжительность|Временной промежуток действия чего-либо|Dauer|noun; feminine
+7810|зеркальный|Гладкий и блестящий, как зеркальная поверхность|Spiegel-|adjective
+7811|разыгрывать|Исполнять произведение; разыгрывать сцену|aufführen|verb; imperfective; infinitive
+7812|несчастный|Переживающий несчастье; глубоко несчастливый|unglücklich|adjective
+7813|присаживаться|Ненадолго садиться для краткого отдыха|sich setzen|verb; imperfective; infinitive; reflexive
+7814|спелый|Вполне созревший; готовый к употреблению|ausgereift|adjective
+7815|мешочек|Небольшой мягкий мешок (уменьшительное)|Säckchen|noun; neuter
+7816|оформление|Внешний вид; художественное оформление; регистрация|Gestaltung|noun; feminine
+7817|экспертиза|Профессиональное исследование и оценка специалистами|Gutachten|noun; neuter
+7818|невнятный|Плохо различимый на слух; неразборчивый|undeutlich|adjective
+7819|прекращаться|Заканчиваться; переставать происходить|aufhören|verb; imperfective; infinitive
+7820|благополучный|Успешный и удовлетворительный; протекающий без проблем|erfolgreich|adjective
+7821|отказывать|Не давать согласия; лишать чего-либо|verweigern|verb; imperfective; infinitive
+7822|протереть|Очистить поверхность вытиранием|abwischen|verb; perfective; infinitive
+7823|посредине|В середине; в центральном месте|in der Mitte|adverb
+7824|сударь|Вежливое или ироническое обращение к мужчине|mein Herr|noun; masculine
+7825|растянуться|Лечь, вытянув тело; стать длиннее|sich ausstrecken|verb; perfective; infinitive; reflexive
+7826|сползать|Скользить вниз по наклонной поверхности|herunterrutschen|verb; imperfective; infinitive
+7827|посматривать|Периодически бросать взгляд в ту или иную сторону|hinblicken|verb; imperfective; infinitive
+7828|сменяться|Периодически заменять друг друга|sich ablösen|verb; imperfective; infinitive; reflexive
+7829|смотреться|Смотреть на собственное отражение|sich betrachten|verb; imperfective; infinitive; reflexive
+7830|шакал|Хищник семейства псовых, питающийся падалью|Schakal|noun; masculine
+7831|композиция|Структура и расположение частей произведения или конструкции|Komposition|noun; feminine
+7832|сабля|Рубящее холодное оружие с изогнутым клинком|Säbel|noun; masculine
+7833|демонстративно|Намеренно и подчёркнуто; напоказ|demonstrativ|adverb
+7834|тоскливый|Наводящий уныние; пронизанный тоской|trostlos|adjective
+7835|напасть|Беда или неприятность, внезапно обрушившаяся|Unheil|noun; neuter
+7836|диктовать|Медленно произносить текст для записи|diktieren|verb; imperfective; infinitive
+7837|сукно|Плотная шерстяная ткань с гладкой поверхностью|Tuch|noun; neuter
+7838|бедность|Состояние нужды; крайний недостаток средств|Armut|noun; feminine
+7839|воткнуть|Вонзить острый или тонкий предмет|einstechen|verb; perfective; infinitive
+7840|завыть|Начать выть протяжно|aufheulen|verb; perfective; infinitive
+7841|упорство|Твёрдость и настойчивость в достижении цели|Beharrlichkeit|noun; feminine
+7842|извозчик|Кучер наёмного экипажа|Kutscher|noun; masculine
+7843|плескаться|Производить плещущие звуки; тихо колыхаться|plätschern|verb; imperfective; infinitive
+7844|гулкий|Отдающийся эхом; издающий гулкий звук|hallend|adjective
+7845|щедрый|Охотно и много дающий другим; не скупой|großzügig|adjective
+7846|брюшной|Относящийся к брюшной полости|abdominal|adjective
+7847|краешек|Небольшой край или кромка (уменьшительное)|Rand|noun; masculine
+7848|обдумывать|Тщательно взвешивать; продумывать детали|überlegen|verb; imperfective; infinitive
+7849|студентка|Женщина, обучающаяся в высшем учебном заведении|Studentin|noun; feminine
+7850|сумрак|Неполная темнота; состояние между светлым и тёмным|Dämmerung|noun; feminine
+7851|задремать|Погрузиться в лёгкий сон; начать дремать|einnicken|verb; perfective; infinitive
+7852|сема|—|—|—
+7853|косо|Наклонно; под углом; не прямо|schief|adverb
+7854|зацепиться|Зацепить частью тела или одеждой за что-либо|sich verhaken|verb; perfective; infinitive; reflexive
+7855|постареть|Стать старше по виду или состоянию|altern|verb; perfective; infinitive
+7856|престижный|Обладающий высоким социальным статусом|prestigeträchtig|adjective
+7857|зашуметь|Начать издавать шум|lärmen|verb; perfective; infinitive
+7858|диссидент|Инакомыслящий человек, противостоящий официальной идеологии|Dissident|noun; masculine
+7859|ЦРУ|Центральное разведывательное управление США|CIA|noun; neuter; abbreviation
+7860|приготовление|Процесс подготовки к чему-либо|Vorbereitung|noun; feminine
+7861|тайком|Скрытно; не привлекая чужого внимания|heimlich|adverb
+7862|звериный|Жестокий и свирепый, как у дикого животного|bestialisch|adjective
+7863|повелитель|Тот, кто обладает верховной властью; властелин|Herrscher|noun; masculine
+7864|бушевать|Неистовствовать; бурно проявлять силу|toben|verb; imperfective; infinitive
+7865|тезис|Кратко сформулированное положение или основная мысль|These|noun; feminine
+7866|нарезать|Разделить ножом на куски|aufschneiden|verb; perfective; infinitive
+7867|пристальный|Неотрывный и сосредоточенный (о взгляде)|eindringlich|adjective
+7868|сверстник|Человек того же возраста; ровесник|Altersgenosse|noun; masculine
+7869|женитьба|Вступление мужчины в брак|Heirat|noun; feminine
+7870|побаиваться|Испытывать лёгкий страх; опасаться|fürchten|verb; imperfective; infinitive
+7871|недостойный|Не заслуживающий чего-либо; не отвечающий требованиям|unwürdig|adjective
+7872|лакей|Слуга в господском доме или ресторане|Lakai|noun; masculine
+7873|порождать|Быть причиной возникновения чего-либо|erzeugen|verb; imperfective; infinitive
+7874|форменный|Самый настоящий; подлинный (разговорное усилительное)|regelrecht|adjective
+7875|водоросль|Низшее водное растение без корней и листьев|Alge|noun; feminine
+7876|колечко|Маленькое кольцо (уменьшительное)|Ringlein|noun; neuter
+7877|откос|Покатый боковой склон насыпи, дороги или берега|Böschung|noun; feminine
+7878|локоток|Небольшой локоть; уменьшительное к «локоть»|Ellbogen|noun; masculine
+7879|куриный|Относящийся к курице или изготовленный из курятины|Hühner-|adjective
+7880|нерешительный|Не способный быстро принимать решения; колеблющийся|unentschlossen|adjective
+7881|титул|Почётное звание, указывающее на ранг или заслуги|Titel|noun; masculine
+7882|нанять|Взять на работу за вознаграждение|einstellen|verb; perfective; infinitive
+7883|Маринка|Уменьшительная форма имени Марина|Marinka|noun; feminine; proper
+7884|дубина|Тяжёлая толстая деревянная дубина|Knüppel|noun; masculine
+7885|достичь|Добиться желаемого результата своими усилиями|erreichen|verb; perfective; infinitive
+7886|убираться|Приводить помещение в порядок|aufräumen|verb; imperfective; infinitive
+7887|фотограф|Специалист по съёмке и обработке фотографий|Fotograf|noun; masculine
+7888|пленник|Человек, захваченный в плен|Gefangener|noun; masculine
+7889|злодей|Преступник, совершающий жестокие злодеяния|Bösewicht|noun; masculine
+7890|чашечка|Небольшая чашка (уменьшительное)|Tässchen|noun; neuter
+7891|требовательный|Предъявляющий высокие требования; взыскательный|anspruchsvoll|adjective
+7892|дамский|Предназначенный для женщин|Damen-|adjective
+7893|экономия|Бережливое расходование ресурсов|Einsparung|noun; feminine
+7894|жестяной|Изготовленный из листового металла — жести|Blech-|adjective
+7895|нейтральный|Не примыкающий ни к одной стороне; беспристрастный|neutral|adjective
+7896|головокружение|Ощущение вращения окружающего пространства; потеря равновесия|Schwindel|noun; masculine
+7897|почуять|Начать воспринимать запах или ощущение|spüren|verb; perfective; infinitive
+7898|полировать|Шлифовать и натирать поверхность до блеска|polieren|verb; imperfective; infinitive
+7899|землетрясение|Подземные толчки, вызывающие колебание земной поверхности|Erdbeben|noun; neuter
+7900|ласточка|Маленькая быстрокрылая перелётная птица|Schwalbe|noun; feminine

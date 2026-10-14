@@ -1,0 +1,100 @@
+1501|работник|worker|noun; singular
+1502|долг|duty|noun; singular
+1503|специалист|specialist|noun; singular
+1504|торопиться|to hurry|verb; regular; reflexive
+1505|итак|so|conjunction
+1506|центральный|central|adjective
+1507|телевизор|television|noun; singular
+1508|зло|evil|noun; singular; uncountable
+1509|вкус|taste|noun; singular
+1510|муха|fly|noun; singular
+1511|поиск|search|noun; singular
+1512|старшина|sergeant major|noun; singular
+1513|озеро|lake|noun; singular
+1514|чемодан|suitcase|noun; singular
+1515|вынуть|to take out|verb; perfective
+1516|сзади|from behind|adverb
+1517|приятный|pleasant|adjective
+1518|стоить|to cost|verb; regular
+1519|предел|limit|noun; singular
+1520|музей|museum|noun; singular
+1521|пятно|stain|noun; singular
+1522|зона|zone|noun; singular
+1523|ученик|pupil|noun; singular
+1524|навсегда|forever|adverb
+1525|толк|sense|noun; singular
+1526|полагать|to suppose|verb; regular
+1527|родственник|relative|noun; singular
+1528|источник|source|noun; singular
+1529|угодный|pleasing|adjective
+1530|послушать|to listen|verb; perfective
+1531|колесо|wheel|noun; singular; irregular plural
+1532|грязь|mud|noun; singular; uncountable
+1533|отметить|to mark|verb; perfective
+1534|стена|wall|noun; singular
+1535|добро|good|noun; singular; uncountable
+1536|капля|drop|noun; singular
+1537|экран|screen|noun; singular
+1538|руководитель|leader|noun; singular
+1539|инспектор|inspector|noun; singular
+1540|удивление|surprise|noun; singular
+1541|утверждать|to assert|verb; regular
+1542|молоко|milk|noun; singular; uncountable
+1543|очевидно|obviously|adverb
+1544|отличаться|to differ|verb; regular; reflexive
+1545|предложение|proposal|noun; singular
+1546|нету|there is no|particle
+1547|среда|environment|noun; singular
+1548|выскочить|to jump out|verb; perfective
+1549|одетый|dressed|adjective
+1550|площадка|playground|noun; singular
+1551|приезжать|to arrive|verb; regular
+1552|катить|to roll|verb; irregular
+1553|совесть|conscience|noun; singular; uncountable
+1554|кофе|coffee|noun; singular; uncountable; indeclinable
+1555|штаны|pants|noun; plural
+1556|охота|hunting|noun; singular; uncountable
+1557|бровь|eyebrow|noun; singular
+1558|расти|to grow|verb; irregular
+1559|список|list|noun; singular
+1560|ниже|lower|adverb
+1561|вернуть|to return|verb; perfective
+1562|зависеть|to depend|verb; regular
+1563|ствол|trunk|noun; singular
+1564|основание|basis|noun; singular
+1565|северный|northern|adjective
+1566|познакомиться|to get acquainted|verb; perfective; reflexive
+1567|поведение|behavior|noun; singular; uncountable
+1568|жалить|to sting|verb; regular
+1569|найтись|to be found|verb; perfective; reflexive
+1570|делаться|to become|verb; regular
+1571|догадаться|to guess|verb; perfective; reflexive
+1572|дальнейший|further|adjective
+1573|прожить|to live through|verb; perfective
+1574|усилие|effort|noun; singular
+1575|гулять|to walk|verb; regular; reflexive
+1576|клетка|cell|noun; singular
+1577|разобраться|to figure out|verb; perfective; reflexive
+1578|обращать|to turn|verb; regular
+1579|верхний|upper|adjective
+1580|обстановка|situation|noun; singular
+1581|температура|temperature|noun; singular
+1582|вывод|conclusion|noun; singular
+1583|абсолютно|absolutely|adverb
+1584|предприятие|enterprise|noun; singular
+1585|принятый|accepted|adjective
+1586|отдавать|to give off|verb; regular
+1587|сходить|to go down|verb; regular
+1588|подарок|gift|noun; singular
+1589|звучать|to sound|verb; irregular
+1590|отделение|department|noun; singular
+1591|волноваться|to worry|verb; regular; reflexive
+1592|нижний|lower|adjective
+1593|штука|piece|noun; singular
+1594|защита|defense|noun; singular; uncountable
+1595|вряд|hardly|particle
+1596|выстрел|shot|noun; singular
+1597|тотчас|immediately|adverb
+1598|суть|essence|noun; singular
+1599|труп|corpse|noun; singular
+1600|основа|basis|noun; singular

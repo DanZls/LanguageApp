@@ -1,0 +1,100 @@
+8701|исподлобья|from under one's brow|adverb
+8702|влиятельный|influential|adjective
+8703|молвить|to utter|verb; imperfective
+8704|изменяться|to change|verb; imperfective; reflexive
+8705|разговориться|to strike up a conversation|verb; perfective; reflexive
+8706|чекушка|small bottle|noun; singular
+8707|ограничиваться|to limit oneself|verb; imperfective; reflexive
+8708|грипп|flu|noun; singular; uncountable
+8709|курточка|little jacket|noun; singular; diminutive
+8710|охранный|security|adjective
+8711|почет|honor|noun; singular; uncountable
+8712|ветхий|dilapidated|adjective
+8713|новорожденный|newborn|adjective
+8714|предшественник|predecessor|noun; singular
+8715|отдаление|distance|noun; singular; uncountable
+8716|тамошний|local|adjective
+8717|кентавр|centaur|noun; singular
+8718|горб|hump|noun; singular
+8719|распространять|to spread|verb; imperfective
+8720|выработать|to develop|verb; perfective
+8721|пронести|to carry|verb; perfective
+8722|Калашникова|Kalashnikov|adjective
+8723|кордон|cordon|noun; singular
+8724|лазить|to climb|verb; imperfective
+8725|теленок|calf|noun; singular
+8726|плетень|wattle fence|noun; singular
+8727|болотный|marsh|adjective
+8728|выгореть|to burn out|verb; perfective
+8729|цензура|censorship|noun; singular; uncountable
+8730|корявый|crooked|adjective
+8731|выручка|proceeds|noun; singular
+8732|аквариум|aquarium|noun; singular
+8733|телохранитель|bodyguard|noun; singular
+8734|газон|lawn|noun; singular
+8735|детски|childishly|adverb
+8736|кучер|coachman|noun; singular
+8737|розочка|little rose|noun; singular; diminutive
+8738|простоять|to stand for a while|verb; perfective
+8739|воистину|truly|adverb
+8740|горбун|hunchback|noun; singular
+8741|детдом|orphanage|noun; singular
+8742|экономист|economist|noun; singular
+8743|размеренный|measured|adjective
+8744|именоваться|to be called|verb; imperfective; reflexive
+8745|успокаиваться|to calm down|verb; imperfective; reflexive
+8746|комплект|set|noun; singular
+8747|артерия|artery|noun; singular
+8748|просматривать|to look through|verb; imperfective
+8749|вонь|stench|noun; singular; uncountable
+8750|селедка|herring|noun; singular
+8751|портсигар|cigarette case|noun; singular
+8752|преобразование|transformation|noun; singular
+8753|шестьсот|six hundred|numeral; cardinal
+8754|колдунья|sorceress|noun; singular
+8755|хозяйский|masterful|adjective
+8756|пролетарский|proletarian|adjective
+8757|приземлиться|to land|verb; perfective; reflexive
+8758|проситься|to ask for permission|verb; imperfective; reflexive
+8759|управиться|to manage|verb; perfective; reflexive
+8760|храбрость|bravery|noun; singular; uncountable
+8761|противостоять|to withstand|verb; imperfective
+8762|оскорблять|to insult|verb; imperfective
+8763|правота|rightness|noun; singular; uncountable
+8764|лопух|burdock|noun; singular
+8765|корешок|spine|noun; singular
+8766|привилегия|privilege|noun; singular
+8767|добровольный|voluntary|adjective
+8768|колючка|thorn|noun; singular
+8769|походный|field|adjective
+8770|мара|phantom|noun; singular
+8771|Финляндия|Finland|noun; singular; proper
+8772|являть|to display|verb; imperfective
+8773|иней|frost|noun; singular; uncountable
+8774|свинец|lead|noun; singular; uncountable
+8775|трофейный|trophy|adjective
+8776|гастроль|guest performance|noun; singular
+8777|заикаться|to stutter|verb; imperfective
+8778|проработать|to work for a while|verb; perfective
+8779|вышибить|to knock out|verb; perfective
+8780|гулко|resoundingly|adverb
+8781|нырять|to dive|verb; imperfective; reflexive
+8782|умываться|to wash oneself|verb; imperfective; reflexive
+8783|продержаться|to hold out|verb; perfective; reflexive
+8784|ограничивать|to limit|verb; imperfective
+8785|подложить|to put underneath|verb; perfective
+8786|прогуливаться|to stroll|verb; imperfective; reflexive
+8787|раздражить|to irritate|verb; perfective
+8788|собрат|colleague|noun; singular
+8789|тулуп|sheepskin coat|noun; singular
+8790|жаба|toad|noun; singular
+8791|монолог|monologue|noun; singular
+8792|картофель|potato|noun; plural
+8793|возглавить|to head|verb; perfective
+8794|анализировать|to analyze|verb; imperfective; perfective
+8795|скопление|accumulation|noun; singular
+8796|поражаться|to be amazed|verb; imperfective; reflexive
+8797|чум|yurt|noun; singular
+8798|снеговой|snow|adjective
+8799|сказаться|to manifest|verb; perfective; reflexive
+8800|синеватый|bluish|adjective

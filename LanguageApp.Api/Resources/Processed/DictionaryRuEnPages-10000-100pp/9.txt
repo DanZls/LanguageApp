@@ -1,0 +1,100 @@
+801|улыбка|smile|noun; singular
+802|борьба|struggle|noun; singular
+803|ворот|collar|noun; singular
+804|ящик|box|noun; singular
+805|этаж|floor|noun; singular
+806|служить|to serve|verb; regular
+807|вновь|again|adverb
+808|голубой|light blue|adjective
+809|нечего|nothing|pronoun; negative
+810|революция|revolution|noun; singular
+811|впервые|for the first time|adverb
+812|сосед|neighbor|noun; singular
+813|сестра|sister|noun; singular; irregular plural
+814|долгий|long|adjective
+815|чей|whose|pronoun; interrogative; possessive
+816|поверить|to believe|verb; perfective
+817|ситуация|situation|noun; singular
+818|взглянуть|to glance|verb; perfective
+819|слабый|weak|adjective
+820|количество|quantity|noun; singular
+821|вызывать|to cause|verb; regular
+822|уверенный|confident|adjective
+823|выход|exit|noun; singular
+824|совет|advice|noun; singular; uncountable
+825|дурак|fool|noun; singular
+826|любимый|favorite|adjective
+827|союз|union|noun; singular
+828|лето|summer|noun; singular
+829|ожидать|to expect|verb; regular
+830|пришлый|newcomer|adjective
+831|висеть|to hang|verb; irregular
+832|граница|border|noun; singular
+833|цвет|color|noun; singular
+834|серьезный|serious|adjective
+835|создать|to create|verb; perfective
+836|интересно|interesting|adverb
+837|свобода|freedom|noun; singular
+838|зато|but|conjunction
+839|стул|chair|noun; singular
+840|уехать|to leave|verb; perfective
+841|поезд|train|noun; singular
+842|музыка|music|noun; singular; uncountable
+843|быстрый|fast|adjective
+844|тень|shadow|noun; singular
+845|лошадь|horse|noun; singular
+846|поле|field|noun; singular
+847|выглядеть|to look|verb; irregular
+848|учиться|to study|verb; regular
+849|левый|left|adjective
+850|разговаривать|to talk|verb; regular
+851|детский|children's|adjective
+852|тип|type|noun; singular
+853|суд|court|noun; singular
+854|связанный|constrained|adjective
+855|горячий|hot|adjective
+856|площадь|square|noun; singular
+857|помогать|to help|verb; regular
+858|счастливый|happy|adjective
+859|повернуться|to turn|verb; perfective; reflexive
+860|позволить|to allow|verb; perfective
+861|встретить|to meet|verb; perfective
+862|радость|joy|noun; singular
+863|острый|sharp|adjective
+864|возраст|age|noun; singular
+865|орган|organ|noun; singular
+866|карта|map|noun; singular
+867|входить|to enter|verb; regular
+868|обнаружить|to discover|verb; perfective
+869|король|king|noun; singular
+870|слава|glory|noun; singular
+871|полковник|colonel|noun; singular
+872|мелкий|small|adjective
+873|бок|side|noun; singular
+874|цена|price|noun; singular
+875|информация|information|noun; singular; uncountable
+876|мозг|brain|noun; singular
+877|удовольствие|pleasure|noun; singular
+878|воля|will|noun; singular
+879|область|region|noun; singular
+880|крыша|roof|noun; singular
+881|нести|to carry|verb; irregular
+882|обратно|back|adverb
+883|современный|modern|adjective
+884|дама|lady|noun; singular
+885|семь|seven|numeral; cardinal
+886|веселый|cheerful|adjective
+887|прислать|to send|verb; perfective
+888|сад|garden|noun; singular
+889|правительство|government|noun; singular
+890|милый|nice|adjective
+891|относиться|to relate|verb; regular; reflexive
+892|возникать|to arise|verb; regular
+893|мол|pier|noun; singular
+894|повторить|to repeat|verb; perfective
+895|название|name|noun; singular
+896|средний|average|adjective
+897|пример|example|noun; singular
+898|невозможно|impossible|adverb
+899|зеркало|mirror|noun; singular
+900|погибнуть|to perish|verb; perfective

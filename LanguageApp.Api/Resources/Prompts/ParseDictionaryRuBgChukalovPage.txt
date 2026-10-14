@@ -1,0 +1,41 @@
+Represent the Russian-Bulgarian dictionary page file content cleanly, without OCR errors or unnesessary symbols.
+Be extra careful, there are a lot of wrong and misplaced letters and symbols.
+Replace all the wrong letters in the words with correct ones.
+The file page is located in CurrentPage part of this request.
+If a word is missed for shortening (marked with ^, %, ~ symbols), replace this symbol with the missing word according to context.
+Use whole words instead of endings that are used in the dictionary for shortening.
+Some translations have wrongly placed "0" or "О", skip them if they do not match context.
+Use ";" to separate different meanings inside a translation.
+Place each translation on a single line.
+If the same word is translated several times with different meanings (marked as I, II, III, ...), combine them into a single line.
+Don't add empty lines between translations.
+Do not include into your response the last translation on the page since it can be incomplete.
+Don't add extra words or symbols, your response is processed programmatically.
+
+
+Example
+
+Assume file page looks like:
+аванпост м. воен. аванпост, прёден 
+пост. 
+аванс м. аванс; выдавать *%* да вам 
+аванс; 0 делать ^ы (кому-л.) разг. 
+правя аванси (някому). 
+авансировать сов. и несов. авансйрам.
+авансом нареч. разг. като аванс, във 
+вид на аванс: получать ^ получавам 
+в аванс. 
+мат I м. шахм. мат. 
+мат II м. 1. рогбзка ж.; 2. спорт. 
+гимнастйческа постёлка, тёпих. 
+мат III м.: кричать благим ~ом 
+разг. вйкам до бога; пищя кански. 
+мат IV м. (брань) псуване с; псувнй 
+мн. 
+
+Then format your output as:
+аванпост м. воен. аванпост, преден пост.
+аванс м. аванс; выдавать аванс давам аванс; делать авансы (кому-л.) разг. правя аванси (някому).
+авансировать сов. и несов. авансирам.
+авансом нареч. разг. като аванс, във вид на аванс; получать аванс получавам в аванс.
+мат м. I шахм. мат; II 1. рогозка ж.; 2. спорт. гимнастическа постелка, тепих; III кричать благим матом разг. викам до бога, пищя кански; IV (брань) псуване, псувни мн.

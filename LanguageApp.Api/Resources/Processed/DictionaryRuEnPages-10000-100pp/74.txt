@@ -1,0 +1,99 @@
+7301|приложение|appendix|noun; singular
+7302|хищник|predator|noun; singular
+7303|явственно|clearly|adverb
+7304|разгром|rout|noun; singular
+7305|зевнуть|to yawn|verb; perfective; reflexive
+7306|приветствие|greeting|noun; singular
+7307|таиться|to lurk|verb; imperfective; reflexive
+7308|шхуна|schooner|noun; singular
+7309|грузинский|Georgian|adjective
+7310|менеджер|manager|noun; singular
+7311|извлекать|to extract|verb; imperfective
+7312|подвесить|to hang|verb; perfective
+7313|ворочаться|to toss and turn|verb; imperfective; reflexive
+7314|прикрытие|cover|noun; singular
+7315|улучшение|improvement|noun; singular
+7316|подействовать|to have an effect|verb; perfective
+7317|артериальный|arterial|adjective
+7318|персональный|personal|adjective
+7319|нарком|people's commissar|noun; singular
+7320|валиться|to fall|verb; imperfective; reflexive
+7321|изобретатель|inventor|noun; singular
+7322|разозлиться|to get angry|verb; perfective; reflexive
+7323|вата|cotton wool|noun; singular; uncountable
+7324|минувший|past|adjective
+7325|напарник|partner|noun; singular
+7326|шашка|checker|noun; singular
+7327|мусорный|garbage|adjective
+7328|отомстить|to take revenge|verb; perfective
+7329|община|community|noun; singular
+7330|предусмотреть|to foresee|verb; perfective
+7331|родимый|native|adjective
+7332|умыться|to wash oneself|verb; perfective; reflexive
+7333|пугало|scarecrow|noun; singular
+7334|прелестный|charming|adjective
+7335|острота|witticism|noun; singular
+7336|узор|pattern|noun; singular
+7337|шерстяной|woolen|adjective
+7338|пресловутый|notorious|adjective
+7339|протестовать|to protest|verb; imperfective; reflexive
+7340|оплатить|to pay for|verb; perfective
+7341|отдалить|to distance|verb; perfective
+7342|исполнительный|diligent|adjective
+7343|чистка|purge|noun; singular
+7344|родовой|ancestral|adjective
+7345|клоун|clown|noun; singular
+7346|осмелиться|to dare|verb; perfective; reflexive
+7347|гармония|harmony|noun; singular; uncountable
+7348|шайка|gang|noun; singular
+7349|сеять|to sow|verb; imperfective
+7350|тахта|couch|noun; singular
+7351|негодование|indignation|noun; singular; uncountable
+7352|пенсне|pince-nez|noun; singular; invariable
+7353|клубок|ball of yarn|noun; singular
+7354|фанерный|plywood|adjective
+7355|волосатый|hairy|adjective
+7356|пир|feast|noun; singular
+7357|орда|horde|noun; singular
+7358|различить|to distinguish|verb; perfective
+7360|незачем|no point|adverb
+7361|уютно|cozily|adverb
+7362|отдышаться|to catch one's breath|verb; perfective; reflexive
+7363|парикмахер|hairdresser|noun; singular
+7364|честность|honesty|noun; singular; uncountable
+7365|пугаться|to get scared|verb; imperfective; reflexive
+7366|набок|to one side|adverb
+7367|ввиду|in view of|preposition
+7368|куб|cube|noun; singular
+7369|призвать|to call upon|verb; perfective
+7370|сережка|earring|noun; singular
+7371|бумажник|wallet|noun; singular
+7372|четверг|Thursday|noun; singular
+7373|уважительный|respectful|adjective
+7374|коммерсант|merchant|noun; singular
+7375|рыться|to rummage|verb; imperfective; reflexive
+7376|копаться|to dig around|verb; imperfective; reflexive
+7377|возрастать|to increase|verb; imperfective; reflexive
+7378|экс|ex-|noun; prefixal; invariable
+7379|высказаться|to speak out|verb; perfective; reflexive
+7380|кожный|skin|adjective
+7381|прибывать|to arrive|verb; imperfective
+7382|справочник|reference book|noun; singular
+7383|кайф|kick|noun; singular; uncountable
+7384|маньяк|maniac|noun; singular
+7385|смирно|quietly|adverb
+7386|русло|riverbed|noun; singular
+7387|прохлада|coolness|noun; singular; uncountable
+7388|таракан|cockroach|noun; singular
+7389|обретать|to acquire|verb; imperfective
+7390|шах|shah|noun; singular
+7391|побыть|to stay for a while|verb; perfective
+7392|березка|little birch|noun; singular
+7393|ком|lump|noun; singular
+7394|виноград|grapes|noun; singular; uncountable
+7395|чайка|seagull|noun; singular
+7396|кинотеатр|cinema|noun; singular
+7397|спаситель|savior|noun; singular
+7398|волшебница|sorceress|noun; singular
+7399|персонал|staff|noun; singular; uncountable
+7400|хорошенько|thoroughly|adverb

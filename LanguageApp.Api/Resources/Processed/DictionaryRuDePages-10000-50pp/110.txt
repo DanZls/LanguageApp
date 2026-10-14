@@ -1,0 +1,50 @@
+5501|делегация|Группа официальных представителей государства или организации|Delegation|noun; feminine
+5502|избранный|Лучший, выделяющийся среди других; привилегированный|auserwählt|adjective
+5503|лень|Склонность к безделью; нежелание трудиться|Faulheit|noun; feminine
+5504|хмыкнуть|Произнести «хм» в знак недоумения или иронии|hmm machen|verb; perfective; infinitive
+5505|наглый|Дерзкий и бесстыдный|frech|adjective
+5506|прекратиться|Прийти к концу; завершиться|aufhören|verb; perfective; infinitive
+5507|робкий|Несмелый, боязливый|schüchtern|adjective
+5508|накинуть|Набросить сверху; прибавить к цене|aufschlagen|verb; perfective; infinitive
+5509|неоднократно|Многократно, более одного раза|mehrmals|adverb
+5510|сдаться|Признать себя побеждённым; прекратить сопротивление|sich ergeben|verb; perfective; infinitive; reflexive
+5511|опухоль|Болезненное разрастание тканей организма|Tumor|noun; masculine
+5512|яростно|С сильной яростью|wütend|adverb
+5513|палач|Человек, приводящий в исполнение смертный приговор|Henker|noun; masculine
+5514|нехотя|Без желания, неохотно|widerwillig|adverb
+5515|контролировать|Осуществлять контроль или надзор|kontrollieren|verb; imperfective; infinitive
+5516|подбирать|Поднимать с земли; отбирать|aufsammeln|verb; imperfective; infinitive
+5517|сотник|Командир сотни (ист.)|Hauptmann|noun; masculine
+5518|расширение|Увеличение объёма или охвата|Erweiterung|noun; feminine
+5519|зашагать|Начать шагать, двинуться пешком|losmarschieren|verb; perfective; infinitive
+5520|чайный|Относящийся к чаю|Tee-|adjective
+5521|рискнуть|Подвергнуться риску; осмелиться|riskieren|verb; perfective; infinitive
+5522|округа|Окружающая местность; прилегающие территории|Umgebung|noun; feminine
+5523|целоваться|Обмениваться поцелуями|sich küssen|verb; imperfective; infinitive; reflexive
+5524|препятствие|Помеха, затрудняющая действия|Hindernis|noun; neuter
+5525|возвращать|Отдавать обратно прежнему владельцу|zurückgeben|verb; imperfective; infinitive
+5526|ляля|Маленький ребёнок (разг., ласк.)|Baby|noun; neuter
+5527|ранение|Нанесение или наличие раны|Verletzung|noun; feminine
+5528|бес|Злой дух в религии и народных поверьях|Teufel|noun; masculine
+5529|шуршать|Производить тихий шорох|rascheln|verb; imperfective; infinitive
+5530|выгода|Польза или прибыль от чего-либо|Vorteil|noun; masculine
+5531|стража|Вооружённая охрана|Wache|noun; feminine
+5532|вдобавок|В добавление к уже сказанному или сделанному|obendrein|adverb
+5533|официантка|Работница, обслуживающая клиентов в заведении|Kellnerin|noun; feminine
+5534|тогдашний|Относившийся к тому времени в прошлом|damalig|adjective
+5535|обрывок|Оторванный кусок; незаконченный отрывок|Fetzen|noun; masculine
+5536|невозмутимый|Сохраняющий спокойствие и самообладание|unerschütterlich|adjective
+5537|анкета|Опросный лист для сбора сведений|Fragebogen|noun; masculine
+5538|выть|Издавать протяжный вой|heulen|verb; imperfective; infinitive
+5539|электричество|Физическое явление, связанное с зарядами; электрическая энергия|Elektrizität|noun; feminine
+5540|миссис|Вежливое обращение к замужней женщине (англ.)|Mrs.|noun; feminine
+5541|обрушиться|Внезапно напасть; обвалиться|stürzen|verb; perfective; infinitive
+5542|здравый|Разумный; основанный на здравом смысле|vernünftig|adjective
+5543|соблюдать|Строго придерживаться правил или норм|einhalten|verb; imperfective; infinitive
+5544|предпринять|Начать осуществлять; приступить к действию|unternehmen|verb; perfective; infinitive
+5545|подошва|Нижняя часть обуви под ступнёй|Schuhsohle|noun; feminine
+5546|иллюзия|Обманчивое восприятие; ложное представление|Illusion|noun; feminine
+5547|статуя|Скульптурное изображение человека или животного|Statue|noun; feminine
+5548|английски|На английском языке|auf Englisch|adverb
+5549|серебро|Благородный металл серовато-белого цвета|Silber|noun; neuter
+5550|безумие|Крайняя неразумность; помешательство|Wahnsinn|noun; masculine

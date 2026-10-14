@@ -1,0 +1,50 @@
+5851|захват|Захватывание, насильственное присвоение|Übernahme|noun; feminine
+5852|зеленоватый|Имеющий лёгкий зеленоватый оттенок|grünlich|adjective
+5853|посыпаться|Начать сыпаться, посыпаться|rieseln|verb; perfective; infinitive
+5854|потереть|Потереть несколько раз|reiben|verb; perfective; infinitive
+5855|наладить|Привести в исправное состояние; наладить работу|einrichten|verb; perfective; infinitive
+5856|степной|Относящийся к степи|Steppen-|adjective
+5857|предать|Изменнически выдать; совершить предательство|verraten|verb; perfective; infinitive
+5858|выручить|Помочь кому-либо в трудной ситуации|helfen|verb; perfective; infinitive
+5859|вырываться|Высвобождаться с усилием|sich losreißen|verb; imperfective; infinitive; reflexive
+5860|артиллерийский|Относящийся к артиллерии|Artillerie-|adjective
+5861|бравый|Мужественный и молодцеватый|tapfer|adjective
+5862|защитный|Предназначенный для защиты; защитного цвета|Schutz-|adjective
+5863|охотничий|Относящийся к охоте|Jagd-|adjective
+5864|треугольник|Геометрическая фигура с тремя углами|Dreieck|noun; neuter
+5865|свободный|Пользующийся свободой; не занятый|frei|adjective
+5866|северо|Часть сложных слов со значением «северный»|Nord-|prefix
+5867|влететь|Залететь внутрь; стремительно войти|hineinfliegen|verb; perfective; infinitive
+5868|беззвучно|Не издавая звука|lautlos|adverb
+5869|энергетический|Относящийся к энергетике|Energie-|adjective
+5870|гранат|Плод граnatового дерева|Granatapfel|noun; masculine
+5871|немолодой|Уже не молодой; средних лет|nicht mehr jung|adjective
+5872|заливать|Покрывать жидкостью|übergießen|verb; imperfective; infinitive
+5873|понемногу|Небольшими порциями; постепенно|nach und nach|adverb
+5874|посередине|В центре, в середине чего-либо|in der Mitte|adverb
+5875|сниматься|Отделяться; сниматься на фото или видео|sich abheben|verb; imperfective; infinitive; reflexive
+5876|единственно|Только лишь; исключительно|einzig|adverb
+5877|сливаться|Соединяться в единое целое|sich vereinen|verb; imperfective; infinitive; reflexive
+5878|химия|Наука о составе, строении и превращениях веществ|Chemie|noun; feminine
+5879|намереваться|Иметь намерение; собираться сделать|beabsichtigen|verb; imperfective; infinitive
+5880|дядюшка|Брат отца или матери (ласк.)|Onkel|noun; masculine
+5881|шипеть|Издавать глухой звук, похожий на «ш»|zischen|verb; imperfective; infinitive
+5882|употребление|Использование чего-либо по назначению|Verwendung|noun; feminine
+5883|слесарь|Рабочий по обработке и ремонту металлических изделий|Schlosser|noun; masculine
+5884|оскорбить|Нанести тяжёлую обиду; унизить|beleidigen|verb; perfective; infinitive
+5885|наметить|Предварительно определить; выбрать|planen|verb; perfective; infinitive
+5886|невроз|Расстройство нервной системы психологического характера|Neurose|noun; feminine
+5887|срываться|Отрываться резким движением; срываться|sich losreißen|verb; imperfective; infinitive; reflexive
+5888|теряться|Пропадать; не знать, что делать|sich verlieren|verb; imperfective; infinitive; reflexive
+5889|бесчисленный|Очень большой по числу; неисчислимый|zahllos|adjective
+5890|Мерседес|Марка немецкого автомобиля|Mercedes|noun; masculine; proper
+5891|разочарование|Чувство неудовлетворённости из-за несбывшегося|Enttäuschung|noun; feminine
+5892|наследник|Тот, кто получает наследство|Erbe|noun; masculine
+5893|обиженный|Выражающий чувство обиды|beleidigt|adjective
+5894|здороваться|Приветствовать при встрече|sich begrüßen|verb; imperfective; infinitive; reflexive
+5895|девичий|Относящийся к девушке или девичеству|Mädchen-|adjective
+5896|блокада|Окружение и изоляция войск или территории|Blockade|noun; feminine
+5897|простота|Качество быть простым и незамысловатым|Einfachheit|noun; feminine
+5898|коленка|Сустав, соединяющий бедро и голень (разг.)|Knie|noun; neuter
+5899|нетрудно|Легко, без особого труда|leicht|adverb
+5900|прожектор|Осветительный прибор с направленным пучком света|Scheinwerfer|noun; masculine

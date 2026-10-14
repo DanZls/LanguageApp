@@ -1,0 +1,100 @@
+9601|перечислить|Назвать всех или всё по порядку|aufzählen|verb; perfective; infinitive
+9602|горком|Городской партийный комитет|Stadtkomitee|noun; neuter
+9603|достояние|Имущество; собственность|Eigentum|noun; neuter
+9604|усеять|Покрыть множеством чего-либо|übersäen|verb; perfective; infinitive
+9605|институтский|Относящийся к институту или высшему учебному заведению|Instituts-|adjective
+9606|крах|Разорение; банкротство|Zusammenbruch|noun; masculine
+9607|кромешный|О невыносимой обстановке или непроглядной тьме|finster|adjective
+9608|моргнуть|Быстро закрыть и открыть глаз|blinzeln|verb; perfective; infinitive
+9609|диспетчер|Работник, координирующий движение или производственный процесс|Disponent|noun; masculine
+9610|убыток|Потеря; ущерб|Verlust|noun; masculine
+9611|доцент|Учёное звание преподавателя вуза ниже профессора|Dozent|noun; masculine
+9612|братство|Содружество; объединение|Bruderschaft|noun; feminine
+9613|пушка|Длинноствольное артиллерийское орудие|Kanone|noun; feminine
+9614|уточнять|Делать более точным; конкретизировать|präzisieren|verb; imperfective; infinitive
+9615|тошно|Противно; отвратительно|ekelhaft|adverb
+9616|бюджетный|Относящийся к бюджету|Haushalts-|adjective
+9617|карать|Наказывать; подвергать каре|bestrafen|verb; imperfective; infinitive
+9618|хитро|Лукаво; с хитростью|listig|adverb
+9619|звездолет|Космический аппарат для межзвёздных путешествий|Raumschiff|noun; neuter
+9620|вулкан|Коническая гора с кратером, извергающая лаву и пепел|Vulkan|noun; masculine
+9621|ящерица|Небольшое пресмыкающееся с длинным хвостом|Eidechse|noun; feminine
+9622|серьезность|Строгость и вдумчивость; несерьёзность|Ernst|noun; masculine
+9623|завеса|Большая занавеска; завеса|Vorhang|noun; masculine
+9624|тина|Водоросли, плавающие густой массой в стоячей воде|Schlamm|noun; masculine
+9625|академический|Соблюдающий установившиеся традиции|akademisch|adjective
+9626|непроницаемый|Не пропускающий сквозь себя воду, свет или звук|undurchdringlich|adjective
+9627|гипноз|Психофизиологическое состояние, похожее на сон, вызванное внушением|Hypnose|noun; feminine
+9628|кефир|Кисломолочный напиток из перебродившего молока|Kefir|noun; masculine
+9629|планирование|Разработка и составление планов|Planung|noun; feminine
+9630|мировоззрение|Система взглядов на природу и общество|Weltanschauung|noun; feminine
+9631|гепатит|Воспалительное заболевание печени|Hepatitis|noun; feminine
+9632|кожух|Верхняя одежда из кожи; кожух|Ledermantel|noun; masculine
+9633|кабы|Разговорное: если бы|wenn nur|conjunction
+9634|богиня|Женское божество|Göttin|noun; feminine
+9635|водоем|Место скопления воды: озеро, пруд, водохранилище|Gewässer|noun; neuter
+9636|деревушка|Небольшая деревня|Dörfchen|noun; neuter; diminutive
+9637|тропка|Узкая дорожка, протоптанная людьми|Pfädchen|noun; neuter; diminutive
+9638|белизна|Яркий чистый белый цвет|Weiße|noun; feminine
+9639|гостеприимный|Радушный к гостям|gastfreundlich|adjective
+9640|разведывательный|Связанный с разведкой или исследованием|Aufklärungs-|adjective
+9641|ведомость|Сводка или список данных|Liste|noun; feminine
+9642|аналогия|Сходство между явлениями или понятиями|Analogie|noun; feminine
+9643|тропический|Относящийся к тропикам|tropisch|adjective
+9644|костный|Относящийся к костям|Knochen-|adjective
+9645|раскрываться|Открываться; разворачиваться|sich öffnen|verb; imperfective; infinitive; reflexive
+9646|бессмертие|Вечное существование; нетленность|Unsterblichkeit|noun; feminine
+9647|присоединяться|Соединяться; примыкать к кому-либо|sich anschließen|verb; imperfective; infinitive; reflexive
+9648|приватизация|Передача государственной собственности в частную|Privatisierung|noun; feminine
+9649|уют|Приятная устроенность обстановки|Gemütlichkeit|noun; feminine
+9650|свистнуть|Издать свист|pfeifen|verb; perfective; infinitive
+9651|безжизненный|Лишённый признаков жизни; мёртвый|leblos|adjective
+9652|спутница|Женщина, сопровождающая кого-либо|Begleiterin|noun; feminine
+9653|аспирант|Специалист, готовящийся к защите диссертации|Doktorand|noun; masculine
+9654|добротный|Качественный; прочный|solide|adjective
+9655|твердость|Стойкость; внутренняя сила|Festigkeit|noun; feminine
+9656|голосование|Процесс выбора путём подачи голосов|Abstimmung|noun; feminine
+9657|втягивать|Вводить внутрь; втаскивать|hineinziehen|verb; imperfective; infinitive
+9658|достоверный|Не вызывающий сомнений; проверенный|zuverlässig|adjective
+9659|усердие|Большое старание; прилежность|Eifer|noun; masculine
+9660|одноклассник|Ученик одного класса с кем-либо|Klassenkamerad|noun; masculine
+9661|поддержание|Действие по поддержанию чего-либо в нужном состоянии|Aufrechterhaltung|noun; feminine
+9662|бюрократия|Система чиновнического управления|Bürokratie|noun; feminine
+9663|притормозить|Немного замедлить скорость|abbremsen|verb; perfective; infinitive
+9664|рассудить|Вынести решение, разобрав обстоятельства|urteilen|verb; perfective; infinitive
+9665|давность|Отдалённость по времени возникновения|Verjährung|noun; feminine
+9666|оптимальный|Наиболее благоприятный; оптимальный|optimal|adjective
+9667|остывать|Терять тепло; становиться холодным|abkühlen|verb; imperfective; infinitive
+9668|ореховый|Относящийся к ореху|Nuss-|adjective
+9669|осужденный|Человек, осуждённый судом|Verurteilter|noun; masculine
+9670|линза|Оптическое тело для преломления света|Linse|noun; feminine
+9671|прочность|Степень сопротивляемости разрушению|Festigkeit|noun; feminine
+9672|дотронуться|Коснуться кого-либо или чего-либо|berühren|verb; perfective; infinitive
+9673|трюк|Ловкий искусный приём|Trick|noun; masculine
+9674|взмах|Маховое движение вверх|Schwung|noun; masculine
+9675|раскладывать|Размещать; распределять по местам|auslegen|verb; imperfective; infinitive
+9676|истребить|Уничтожить; погубить полностью|vernichten|verb; perfective; infinitive
+9677|крупа|Цельное или дроблёное зерно для приготовления пищи|Grütze|noun; feminine
+9678|силовой|Относящийся к силе или силовым структурам|Kraft-|adjective
+9679|промахнуться|Не попасть в цель|danebenschießen|verb; perfective; infinitive
+9680|стрелковый|Относящийся к стрельбе из оружия|Schützen-|adjective
+9681|квас|Кисловатый напиток на основе хлеба и дрожжей|Kwas|noun; masculine
+9682|поговорка|Краткое образное устойчивое выражение|Redewendung|noun; feminine
+9683|отвага|Смелость; бесстрашие|Tapferkeit|noun; feminine
+9684|нестерпимый|Невыносимый; невозможный для терпения|unerträglich|adjective
+9685|сообщаться|Иметь связь; быть соединённым|kommunizieren|verb; imperfective; infinitive
+9686|доводиться|Случаться; приходиться|sich ergeben|verb; imperfective; infinitive; reflexive
+9687|накопление|Процесс постепенного сбора и накопления|Ansammlung|noun; feminine
+9688|простейший|Самый простой; элементарный|einfachst|adjective; superlative
+9689|плитка|Небольшой плоский четырёхугольный предмет; плитка|Kachel|noun; feminine
+9690|лунка|Небольшое углубление; ямка|Grübchen|noun; neuter; diminutive
+9691|финка|Нож с толстым коротким лезвием финского типа|Fahrtenmesser|noun; neuter
+9692|непростой|Непростой; сложный|schwierig|adjective
+9693|тактик|Специалист по тактике|Taktiker|noun; masculine
+9694|запущенный|Находящийся в запустении; в упадке|vernachlässigt|adjective
+9695|наяву|В реальности; не во сне|im Wachleben|adverb
+9696|разносить|Разнашивать обувь; разносить по местам|austragen|verb; imperfective; infinitive
+9697|Литва|Государство на севере Европы|Litauen|noun; neuter; proper
+9698|Беличенко|Русская фамилия|Belichenko|noun; masculine; proper
+9699|формировать|Придавать форму; создавать|formen|verb; imperfective; infinitive
+9700|беспощадно|Без пощады; крайне жестоко|gnadenlos|adverb

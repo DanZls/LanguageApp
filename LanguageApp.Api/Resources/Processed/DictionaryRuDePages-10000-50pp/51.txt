@@ -1,0 +1,50 @@
+2551|скандал|Событие, позорящее его участников|Skandal|noun; masculine
+2552|ледяной|Покрытый льдом; холодный как лёд|eisig|adjective
+2553|отпуск|Временное освобождение от работы для отдыха|Urlaub|noun; masculine
+2554|полагаться|Быть принятым, должным; зависеть от кого-либо|sich verlassen|verb; imperfective; infinitive; reflexive
+2555|доставать|Дотягиваться до чего-либо; добывать|erreichen|verb; imperfective; infinitive
+2556|продолжить|Продолжать начатое дело|fortsetzen|verb; perfective; infinitive
+2557|суровый|Строгий; жёсткий|streng|adjective
+2558|рукопись|Текст, написанный от руки|Manuskript|noun; neuter
+2559|дура|Глупая женщина|Dummkopf|noun; masculine
+2560|полицейский|Служащий полиции|Polizist|noun; masculine
+2561|кадр|Отдельное изображение на фото- или киноплёнке|Einstellung|noun; feminine
+2562|сиденье|Предмет или часть мебели для сидения|Sitz|noun; masculine
+2563|ныне|В настоящее время|heutzutage|adverb
+2564|указывать|Показывать; обращать внимание на что-либо|hinweisen|verb; imperfective; infinitive
+2565|экспедиция|Поездка группы лиц со специальным заданием|Expedition|noun; feminine
+2566|спичка|Тонкая палочка для получения огня|Streichholz|noun; neuter
+2567|сложиться|Образоваться; сформироваться|entstehen|verb; perfective; infinitive
+2568|таинственный|Загадочный; содержащий тайну|geheimnisvoll|adjective
+2569|брак|Супружеские отношения между мужчиной и женщиной|Ehe|noun; feminine
+2570|посуда|Хозяйственная утварь для еды и хранения|Geschirr|noun; neuter
+2571|снежный|Покрытый снегом; относящийся к снегу|verschneit|adjective
+2572|горный|Относящийся к горам|gebirgig|adjective
+2573|справедливость|Беспристрастное отношение; честность|Gerechtigkeit|noun; feminine
+2574|лопата|Ручное орудие для копания|Schaufel|noun; feminine
+2575|набрать|Собрать определённое количество чего-либо|sammeln|verb; perfective; infinitive
+2576|кнопка|Кнопка для замыкания цепи или нажатия|Knopf|noun; masculine
+2577|предпочитать|Отдавать предпочтение кому-либо или чему-либо|bevorzugen|verb; imperfective; infinitive
+2578|необыкновенный|Редко встречающийся; необычный|außergewöhnlich|adjective
+2579|научить|Передать знания, умения или навыки|lehren|verb; perfective; infinitive
+2580|мистер|Вежливое обращение к мужчине в англоязычных странах|Mister|noun; masculine
+2581|дорожка|Узкая полоса земли для передвижения|Pfad|noun; masculine
+2582|проявление|Обнаружение; выражение чего-либо|Äußerung|noun; feminine
+2583|такси|Автомобиль с оплатой по счётчику|Taxi|noun; neuter
+2584|внутрь|Во внутреннюю часть|hinein|adverb
+2585|ловко|С большим умением; искусно|geschickt|adverb
+2586|хрен|Растение с острым корнем, используемым как приправа|Meerrettich|noun; masculine
+2587|владелец|Человек, обладающий чем-либо|Eigentümer|noun; masculine
+2588|свинья|Домашнее животное семейства свиных|Schwein|noun; neuter
+2589|плод|Часть растения с семенами, развившаяся из цветка|Frucht|noun; feminine
+2590|интересоваться|Проявлять интерес к чему-либо|sich interessieren|verb; imperfective; infinitive; reflexive
+2591|расстрелять|Казнить выстрелами|erschießen|verb; perfective; infinitive
+2592|побывать|Посетить какое-либо место|besuchen|verb; perfective; infinitive
+2593|вовремя|Своевременно; в назначенный срок|rechtzeitig|adverb
+2594|заплакать|Начать плакать|losweinen|verb; perfective; infinitive
+2595|окружить|Расположиться вокруг кого-либо или чего-либо|umringen|verb; perfective; infinitive
+2596|заседание|Собрание для обсуждения вопросов|Sitzung|noun; feminine
+2597|патрон|Пуля с зарядом, заключённая в гильзе|Patrone|noun; feminine
+2598|охотно|С желанием; добровольно|gern|adverb
+2599|раскрыть|Обнаружить; сделать известным|enthüllen|verb; perfective; infinitive
+2600|надел|Участок земли, выделенный в пользование|Parzelle|noun; feminine

@@ -1,0 +1,100 @@
+4601|поделиться|to share|verb; perfective; reflexive
+4602|обещание|promise|noun; singular
+4603|вестись|to be conducted|verb; regular; reflexive
+4604|веранда|veranda|noun; singular
+4605|стон|moan|noun; singular
+4606|равновесие|balance|noun; singular; uncountable
+4607|скука|boredom|noun; singular; uncountable
+4608|прорваться|to break through|verb; perfective; reflexive
+4609|отставать|to fall behind|verb; regular
+4610|пятьсот|five hundred|numeral; cardinal
+4611|отмечаться|to be noted|verb; regular; reflexive
+4612|торжество|celebration|noun; singular
+4613|прокуратура|prosecutor's office|noun; singular
+4614|проникать|to penetrate|verb; regular
+4615|чудак|eccentric|noun; singular
+4616|неизбежный|inevitable|adjective
+4617|видимость|visibility|noun; singular; uncountable
+4618|паренек|lad|noun; singular
+4619|погрузить|to load|verb; perfective
+4620|семейство|family|noun; singular
+4621|царство|kingdom|noun; singular
+4622|употреблять|to use|verb; regular
+4623|вскричать|to cry out|verb; perfective
+4624|устав|charter|noun; singular
+4625|погон|shoulder strap|noun; singular
+4626|мудрость|wisdom|noun; singular; uncountable
+4627|высунуться|to lean out|verb; perfective; reflexive
+4628|смело|boldly|adverb
+4629|фонтан|fountain|noun; singular
+4630|битва|battle|noun; singular
+4631|жилец|tenant|noun; singular
+4632|наткнуться|to stumble upon|verb; perfective; reflexive
+4633|горечь|bitterness|noun; singular; uncountable
+4634|трещать|to crackle|verb; regular
+4635|паника|panic|noun; singular; uncountable
+4636|возникновение|emergence|noun; singular
+4637|мыть|to wash|verb; irregular
+4638|смутиться|to be embarrassed|verb; perfective; reflexive
+4639|удачный|successful|adjective
+4640|печатать|to print|verb; regular
+4641|сексуальный|sexual|adjective
+4642|насмешливо|mockingly|adverb
+4643|публикация|publication|noun; singular
+4644|демонстрировать|to demonstrate|verb; regular
+4645|римский|Roman|adjective
+4646|оправдать|to justify|verb; perfective
+4647|расследование|investigation|noun; singular
+4648|оборудование|equipment|noun; singular; uncountable
+4649|вредный|harmful|adjective
+4650|пульт|remote control|noun; singular
+4651|прихватить|to take along|verb; perfective
+4652|язва|ulcer|noun; singular
+4653|рок|fate|noun; singular; uncountable
+4654|распространить|to spread|verb; perfective
+4655|ишь|look at that|particle
+4656|сытый|full|adjective
+4657|разбирать|to sort out|verb; regular
+4658|груша|pear|noun; singular
+4659|переглянуться|to exchange glances|verb; perfective; reflexive
+4660|старенький|elderly|adjective
+4661|гроза|thunderstorm|noun; singular
+4662|кислород|oxygen|noun; singular; uncountable
+4663|шахта|mine|noun; singular
+4664|прохладный|cool|adjective
+4665|протекать|to proceed|verb; regular
+4666|удав|boa|noun; singular
+4667|выпуск|graduating class|noun; singular
+4668|ля|la|noun; singular
+4669|хирург|surgeon|noun; singular
+4670|брезгливый|squeamish|adjective
+4671|объединить|to unite|verb; perfective
+4672|символ|symbol|noun; singular
+4673|хозяйственный|economic|adjective
+4674|магия|magic|noun; singular; uncountable
+4675|убирать|to clean up|verb; regular
+4676|расставаться|to part|verb; regular; reflexive
+4677|прибежать|to come running|verb; perfective
+4678|развод|divorce|noun; singular
+4679|звонкий|ringing|adjective
+4680|звездный|starry|adjective
+4681|неправда|untruth|noun; singular
+4682|перестройка|restructuring|noun; singular
+4683|стратегический|strategic|adjective
+4684|непривычный|unusual|adjective
+4685|просидеть|to sit through|verb; perfective
+4686|заведующий|manager|noun; singular
+4687|творить|to create|verb; regular
+4688|мерцать|to flicker|verb; regular
+4689|инициатива|initiative|noun; singular
+4690|КПСС|CPSU|noun; abbreviation; proper
+4691|индивидуальный|individual|adjective
+4692|единица|unit|noun; singular
+4693|трагический|tragic|adjective
+4694|излишний|excessive|adjective
+4695|загнать|to drive in|verb; perfective
+4696|подчеркивать|to emphasize|verb; regular
+4697|регион|region|noun; singular
+4698|защитник|defender|noun; singular
+4699|немой|mute|adjective
+4700|напасть|to attack|verb; perfective

@@ -1,0 +1,50 @@
+4901|староста|Выборное лицо для ведения дел коллектива|Gruppenleiter|noun; masculine
+4902|нетерпение|Отсутствие терпения в ожидании|Ungeduld|noun; feminine
+4903|помахать|Помахать несколько раз рукой|winken|verb; perfective; infinitive
+4904|кодекс|Свод законов или правил|Kodex|noun; masculine
+4905|копье|Колющее или метательное оружие на длинном древке|Speer|noun; masculine
+4906|матч|Спортивное состязание|Spiel|noun; neuter
+4907|бесконечно|Очень долго, без конца|unendlich|adverb
+4908|выбежать|Выбежать, покинуть место бегом|herauslaufen|verb; perfective; infinitive
+4909|поддаваться|Уступать под чьим-либо давлением|nachgeben|verb; imperfective; infinitive
+4910|вскинуть|Быстро поднять вверх|hochwerfen|verb; perfective; infinitive
+4911|зажигалка|Устройство для получения огня|Feuerzeug|noun; neuter
+4912|тюремный|Относящийся к тюрьме, к заключению|Gefängnis-|adjective
+4913|акцент|Ударение в слове; также иноязычный выговор|Akzent|noun; masculine
+4914|лиловый|Фиолетово-синий, цвета фиалки|lila|adjective
+4915|вероятность|Степень возможности осуществления|Wahrscheinlichkeit|noun; feminine
+4916|плавно|Без резких движений, плавно|sanft|adverb
+4917|призыв|Обращение с требованием или зов на военную службу|Aufruf|noun; masculine
+4918|утонуть|Погрузиться и исчезнуть под водой|ertrinken|verb; perfective; infinitive
+4919|уничтожать|Приводить к полному разрушению|vernichten|verb; imperfective; infinitive
+4920|крупнейший|Самый большой по масштабу|größte|adjective
+4921|щенок|Детёныш собаки или волчицы|Welpe|noun; masculine
+4922|выхватить|Резко вынуть, вырвать|herausreißen|verb; perfective; infinitive
+4923|тигр|Крупная полосатая дикая кошка тропических лесов|Tiger|noun; masculine
+4924|претензия|Притязание на что-либо; жалоба|Anspruch|noun; masculine
+4925|распространение|Расширение охвата; процесс распространения|Verbreitung|noun; feminine
+4926|обувь|Изделие для защиты ног|Schuhe|noun; feminine; plural
+4927|влюбиться|Страстно полюбить кого-либо|sich verlieben|verb; perfective; infinitive; reflexive
+4928|аргумент|Довод, доказательство в споре|Argument|noun; neuter
+4929|норовить|Настойчиво стремиться что-либо сделать|darauf aus sein|verb; imperfective; infinitive
+4930|полотно|Гладкая льняная или хлопчатобумажная ткань|Leinwand|noun; feminine
+4931|пропуск|Документ на право прохода или въезда|Ausweis|noun; masculine
+4932|смола|Липкий сок хвойных деревьев|Harz|noun; neuter
+4933|недовольно|С выражением неудовольствия|unzufrieden|adverb
+4934|мучительно|С причинением страданий, мучительно|qualvoll|adverb
+4935|стоянка|Место временного пребывания транспорта|Parkplatz|noun; masculine
+4936|содержаться|Иметься, находиться внутри|enthalten sein|verb; imperfective; infinitive
+4937|вследствие|По причине, из-за чего-либо|infolge|preposition
+4938|тупик|Безвыходное положение; улица без выхода|Sackgasse|noun; feminine
+4939|овощ|Плод или часть растения, употребляемая в пищу|Gemüse|noun; neuter
+4940|нехороший|Лишённый положительных качеств, плохой|schlecht|adjective
+4941|отрываться|Отделяться; прекращать что-либо делать|sich losreißen|verb; imperfective; infinitive; reflexive
+4942|микрофон|Устройство для преобразования звука в электрический сигнал|Mikrofon|noun; neuter
+4943|пышный|Лёгкий, воздушный, взбитый|üppig|adjective
+4944|стадия|Этап, ступень в развитии|Stadium|noun; neuter
+4945|перебраться|Переехать или перейти через что-либо|umziehen|verb; perfective; infinitive
+4946|создаваться|Возникать в результате создания|entstehen|verb; imperfective; infinitive
+4947|машинальный|Бессознательный, непроизвольный|mechanisch|adjective
+4948|легкость|Отсутствие тяжести; простота|Leichtigkeit|noun; feminine
+4949|молот|Тяжёлый инструмент для ручной ковки|Hammer|noun; masculine
+4950|скромно|Без претензий, сдержанно|bescheiden|adverb

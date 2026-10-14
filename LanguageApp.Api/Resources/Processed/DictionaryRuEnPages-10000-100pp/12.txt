@@ -1,0 +1,100 @@
+1101|отправиться|to set off|verb; perfective; reflexive
+1102|побежать|to start running|verb; perfective
+1103|вагон|carriage|noun; singular
+1104|культура|culture|noun; singular
+1105|курить|to smoke|verb; regular
+1106|боец|fighter|noun; singular
+1107|западный|western|adjective
+1108|фильм|film|noun; singular
+1109|восемь|eight|numeral; cardinal
+1110|открывать|to open|verb; regular
+1111|зайти|to drop by|verb; perfective
+1112|немедленно|immediately|adverb
+1113|замечать|to notice|verb; regular
+1114|верно|correctly|adverb
+1115|пыль|dust|noun; singular; uncountable
+1116|закончить|to finish|verb; perfective
+1117|мягкий|soft|adjective
+1118|труба|pipe|noun; singular
+1119|редкий|rare|adjective
+1120|миллион|million|numeral; cardinal
+1121|следить|to watch|verb; irregular
+1122|масса|mass|noun; singular
+1123|пятьдесят|fifty|numeral; cardinal
+1124|обстоятельство|circumstance|noun; singular
+1125|всякий|any|pronoun
+1126|одновременно|simultaneously|adverb
+1127|броситься|to rush|verb; perfective; reflexive
+1128|пошлый|vulgar|adjective
+1129|круглый|round|adjective
+1130|штаб|headquarters|noun; singular
+1131|слух|hearing|noun; singular; uncountable
+1132|голый|naked|adjective
+1133|закрыть|to close|verb; perfective
+1134|линия|line|noun; singular
+1135|лодка|boat|noun; singular
+1136|наоборот|on the contrary|adverb
+1137|даль|distance|noun; singular
+1138|председатель|chairman|noun; singular; irregular plural
+1139|понравиться|to like|verb; perfective; reflexive
+1140|обратиться|to turn to|verb; perfective; reflexive
+1141|период|period|noun; singular
+1142|организм|organism|noun; singular
+1143|отдел|department|noun; singular
+1144|весна|spring|noun; singular
+1145|обед|lunch|noun; singular
+1146|значение|meaning|noun; singular
+1147|дно|bottom|noun; singular
+1148|фотография|photo|noun; singular
+1149|некий|certain|pronoun
+1150|успех|success|noun; singular; uncountable
+1151|грязный|dirty|adjective
+1152|естественно|naturally|adverb
+1153|велеть|to order|verb; irregular
+1154|сцена|stage|noun; singular
+1155|билет|ticket|noun; singular
+1156|состав|composition|noun; singular
+1157|знаменитый|famous|adjective
+1158|лишний|extra|adjective
+1159|честь|honor|noun; singular; uncountable
+1160|иметься|to be available|verb; irregular; impersonal
+1161|смех|laughter|noun; singular; uncountable
+1162|СССР|USSR|noun; abbreviation
+1163|деревянный|wooden|adjective
+1164|опустить|to lower|verb; perfective
+1165|родиться|to be born|verb; irregular; reflexive
+1166|способ|method|noun; singular
+1167|спасти|to save|verb; perfective
+1168|зрение|eyesight|noun; singular; uncountable
+1169|английский|English|adjective
+1170|отдельный|separate|adjective
+1171|извинить|to excuse|verb; perfective
+1172|громко|loudly|adverb
+1173|объявить|to announce|verb; perfective
+1174|запад|west|noun; singular
+1175|Германия|Germany|noun; singular; proper
+1176|обращаться|to address|verb; regular; reflexive
+1177|население|population|noun; singular; uncountable
+1178|беда|misfortune|noun; singular
+1179|спешить|to hurry|verb; regular
+1180|еда|food|noun; singular; uncountable
+1181|поздно|late|adverb
+1182|специальный|special|adjective
+1183|наблюдать|to observe|verb; regular
+1184|еврей|jew|noun; singular
+1185|ой|oh|interjection
+1186|суметь|to manage|verb; perfective
+1187|обернуться|to turn around|verb; perfective; reflexive
+1188|министр|minister|noun; singular
+1189|фирма|firm|noun; singular
+1190|проснуться|to wake up|verb; perfective; reflexive
+1191|организация|organization|noun; singular
+1192|принцип|principle|noun; singular
+1193|направление|direction|noun; singular
+1194|гораздо|much|adverb
+1195|мастер|master|noun; singular
+1196|подождать|to wait|verb; perfective
+1197|светлый|bright|adjective
+1198|ошибка|mistake|noun; singular
+1199|высота|height|noun; singular
+1200|существо|creature|noun; singular

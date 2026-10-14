@@ -1,0 +1,100 @@
+4901|староста|elder|noun; singular
+4902|нетерпение|impatience|noun; singular; uncountable
+4903|помахать|to wave|verb; perfective
+4904|кодекс|code|noun; singular
+4905|копье|spear|noun; singular
+4906|матч|match|noun; singular
+4907|бесконечно|infinitely|adverb
+4908|выбежать|to run out|verb; perfective
+4909|поддаваться|to give in|verb; regular; reflexive
+4910|вскинуть|to throw up|verb; perfective
+4911|зажигалка|lighter|noun; singular
+4912|тюремный|prison|adjective
+4913|акцент|accent|noun; singular
+4914|лиловый|violet|adjective
+4915|вероятность|probability|noun; singular
+4916|плавно|smoothly|adverb
+4917|призыв|call|noun; singular
+4918|утонуть|to drown|verb; perfective
+4919|уничтожать|to destroy|verb; regular
+4920|крупнейший|largest|adjective; irregular comparison
+4921|щенок|puppy|noun; singular; irregular plural
+4922|выхватить|to snatch|verb; perfective
+4923|тигр|tiger|noun; singular
+4924|претензия|claim|noun; singular
+4925|распространение|distribution|noun; singular
+4926|обувь|footwear|noun; singular; uncountable
+4927|влюбиться|to fall in love|verb; perfective; reflexive
+4928|аргумент|argument|noun; singular
+4929|норовить|to strive|verb; regular
+4930|полотно|canvas|noun; singular
+4931|пропуск|pass|noun; singular
+4932|смола|resin|noun; singular; uncountable
+4933|недовольно|discontentedly|adverb
+4934|мучительно|painfully|adverb
+4935|стоянка|parking|noun; singular
+4936|содержаться|to be contained|verb; regular; reflexive
+4937|вследствие|due to|preposition
+4938|тупик|dead end|noun; singular
+4939|овощ|vegetable|noun; singular
+4940|нехороший|bad|adjective
+4941|отрываться|to tear away|verb; regular; reflexive
+4942|микрофон|microphone|noun; singular
+4943|пышный|fluffy|adjective
+4944|стадия|stage|noun; singular
+4945|перебраться|to move|verb; perfective; reflexive
+4946|создаваться|to be created|verb; regular; reflexive
+4947|машинальный|mechanical|adjective
+4948|легкость|ease|noun; singular; uncountable
+4949|молот|hammer|noun; singular
+4950|скромно|modestly|adverb
+4951|верхушка|top|noun; singular
+4952|око|eye|noun; singular
+4953|вопреки|despite|preposition
+4954|активно|actively|adverb
+4955|национальность|nationality|noun; singular
+4956|платформа|platform|noun; singular
+4957|верста|verst|noun; singular
+4958|подружка|girlfriend|noun; singular
+4959|практик|practitioner|noun; singular
+4960|ограниченный|limited|adjective
+4961|оглядывать|to look over|verb; regular
+4962|взяток|honey harvest|noun; singular
+4963|гусеница|caterpillar|noun; singular
+4964|объятие|embrace|noun; singular
+4965|отставка|retirement|noun; singular
+4966|ихний|their|pronoun
+4967|чересчур|too much|adverb
+4968|оригинальный|original|adjective
+4969|рельс|rail|noun; singular
+4970|рыбка|little fish|noun; singular
+4971|игрок|player|noun; singular
+4972|вить|to weave|verb; irregular
+4973|ура|hurray|interjection
+4974|шорох|rustle|noun; singular
+4975|новичок|newcomer|noun; singular
+4976|парнишка|lad|noun; singular
+4977|скотина|cattle|noun; singular; uncountable
+4978|поручение|errand|noun; singular
+4979|сослаться|to refer|verb; perfective; reflexive
+4980|премьер|premier|noun; singular
+4981|добывать|to obtain|verb; regular
+4982|рывок|jerk|noun; singular
+4983|заканчиваться|to come to an end|verb; regular; reflexive
+4984|женатый|married|adjective
+4985|сопка|hill|noun; singular
+4986|торговец|trader|noun; singular
+4987|эфир|airwaves|noun; singular; uncountable
+4988|шевелить|to stir|verb; regular
+4989|присутствующий|present|adjective
+4990|связаться|to contact|verb; perfective; reflexive
+4991|завязать|to tie|verb; perfective
+4992|приезжий|newly arrived|adjective
+4993|строитель|builder|noun; singular
+4994|разложить|to lay out|verb; perfective
+4995|знакомый|acquaintance|noun; singular
+4996|слушатель|listener|noun; singular
+4997|отрывать|to tear off|verb; regular
+4998|остро|sharply|adverb
+4999|Африка|Africa|noun; singular; proper
+5000|тумбочка|nightstand|noun; singular

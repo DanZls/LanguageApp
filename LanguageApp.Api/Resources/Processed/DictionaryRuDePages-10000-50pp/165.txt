@@ -1,0 +1,50 @@
+8251|потрясение|Глубокое, тяжело переживаемое потрясение|Erschütterung|noun; feminine
+8252|соединять|Связывать, объединять в одно|verbinden|verb; imperfective; infinitive
+8253|рак|Членистоногое с панцирем и клешнями, обитающее в воде|Krebs|noun; masculine
+8254|неровный|Негладкий, с неровностями|uneben|adjective
+8255|крытый|Имеющий крышу или навес|überdacht|adjective
+8256|помятый|Усталый и несвежий на вид|abgekämpft|adjective
+8257|восклицать|Произносить с чувством или выражением|ausrufen|verb; imperfective; infinitive
+8258|завестись|Начать действовать, прийти в движение|anlaufen|verb; perfective; infinitive
+8259|мечтательный|Склонный к мечтаниям|verträumt|adjective
+8260|босс|Хозяин, руководитель|Chef|noun; masculine
+8261|антарктида|Континент вокруг Южного полюса|Antarktis|noun; feminine; proper
+8262|болезненно|В болезненном состоянии; мучительно|schmerzhaft|adverb
+8263|сталь|Твёрдый металл — сплав железа с углеродом|Stahl|noun; masculine
+8264|торопить|Побуждать делать быстрее|antreiben|verb; imperfective; infinitive
+8265|кит|Крупное морское млекопитающее с рыбообразным телом|Wal|noun; masculine
+8266|формальный|Произведённый в установленном законном порядке|formell|adjective
+8267|затаиться|Скрыть своё присутствие или чувства|sich verbergen|verb; perfective; infinitive; reflexive
+8268|худощавый|Нетолстый, стройный|hager|adjective
+8269|умница|Умный, способный человек|Klugkopf|noun; masculine
+8270|певица|Женщина, профессионально занимающаяся пением|Sängerin|noun; feminine
+8271|оон|Организация Объединённых Наций|UNO|noun; feminine; proper; abbreviation
+8272|скидка|Снижение цены товара|Rabatt|noun; masculine
+8273|параметр|Величина, характеризующая свойство системы или процесса|Parameter|noun; masculine
+8274|коттедж|Небольшой благоустроенный загородный дом|Cottage|noun; neuter
+8275|резной|Выполненный резьбой|geschnitzt|adjective
+8276|лондонский|Относящийся к Лондону|Londoner|adjective
+8277|сковородка|Мелкая металлическая посуда для жарки|Bratpfanne|noun; feminine
+8278|регулярный|Осуществляемый равномерно через определённые промежутки|regelmäßig|adjective
+8279|ноша|Груз, переносимый человеком на себе|Last|noun; feminine
+8280|мятежник|Участник мятежа или восстания|Rebell|noun; masculine
+8281|ухмыляться|Усмехаться пренебрежительно или с иронией|grinsen|verb; imperfective; infinitive
+8282|промокнуть|Стать мокрым, пропустив влагу|durchnässt werden|verb; perfective; infinitive
+8283|сыпать|Насыпать или всыпать что-либо сыпучее|schütten|verb; imperfective; infinitive
+8284|поликлиника|Лечебное учреждение с врачами разных специальностей|Poliklinik|noun; feminine
+8285|изуродовать|Обезобразить, сделать уродливым|entstellen|verb; perfective; infinitive
+8286|морально|С точки зрения морали, нравственно|moralisch|adverb
+8287|фирменный|Принадлежащий определённой фирме или торговой марке|Marken-|adjective
+8288|мстить|Совершать месть по отношению к кому-либо|sich rächen|verb; imperfective; infinitive; reflexive
+8289|спасительный|Несущий спасение, избавляющий от беды|rettend|adjective
+8290|дяденька|Ласковое обращение к мужчине (разг.)|Onkelchen|noun; masculine; diminutive
+8291|защищаться|Обороняться, предпринимать меры защиты|sich verteidigen|verb; imperfective; infinitive; reflexive
+8292|отскочить|Быстро отойти прыжком|zurückspringen|verb; perfective; infinitive
+8293|контейнер|Стандартная ёмкость для транспортировки грузов|Container|noun; masculine
+8294|наделить|Предоставить, снабдить чем-либо|ausstatten|verb; perfective; infinitive
+8295|возрождение|Возобновление или подъём после упадка|Wiedergeburt|noun; feminine
+8296|планироваться|Находиться в плане, быть запланированным|geplant sein|verb; imperfective; reflexive
+8297|неудобный|Лишённый удобства, плохо приспособленный|unbequem|adjective
+8298|вдыхать|Делать вдох, втягивать воздух|einatmen|verb; imperfective; infinitive
+8299|холодок|Приятная прохлада, прохладное место в тени|Kühle|noun; feminine
+8300|купюра|Денежный знак определённого номинала|Geldschein|noun; masculine

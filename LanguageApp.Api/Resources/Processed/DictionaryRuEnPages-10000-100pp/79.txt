@@ -1,0 +1,99 @@
+7801|вслушиваться|to listen closely|verb; imperfective; reflexive
+7802|принципиально|fundamentally|adverb
+7803|прикоснуться|to touch|verb; perfective; reflexive
+7804|съехать|to drive down|verb; perfective
+7805|томиться|to languish|verb; imperfective; reflexive
+7806|выбегать|to run out|verb; imperfective
+7807|разразиться|to break out|verb; perfective; reflexive
+7808|помойка|garbage dump|noun; singular
+7809|продолжительность|duration|noun; singular; uncountable
+7810|зеркальный|mirror|adjective
+7811|разыгрывать|to perform|verb; imperfective
+7812|несчастный|unhappy|adjective
+7813|присаживаться|to sit down|verb; imperfective; reflexive
+7814|спелый|ripe|adjective
+7815|мешочек|small bag|noun; singular
+7816|оформление|design|noun; singular
+7817|экспертиза|expert examination|noun; singular
+7818|невнятный|indistinct|adjective
+7819|прекращаться|to stop|verb; imperfective; reflexive
+7820|благополучный|successful|adjective
+7821|отказывать|to refuse|verb; imperfective
+7822|протереть|to wipe|verb; perfective
+7823|посредине|in the middle|preposition
+7824|сударь|sir|noun; singular
+7825|растянуться|to stretch out|verb; perfective; reflexive
+7826|сползать|to slide down|verb; imperfective
+7827|посматривать|to glance|verb; imperfective
+7828|сменяться|to alternate|verb; imperfective; reflexive
+7829|смотреться|to look at oneself|verb; imperfective; reflexive
+7830|шакал|jackal|noun; singular
+7831|композиция|composition|noun; singular
+7832|сабля|saber|noun; singular
+7833|демонстративно|demonstratively|adverb
+7834|тоскливый|melancholy|adjective
+7835|напасть|misfortune|noun; singular
+7836|диктовать|to dictate|verb; imperfective
+7837|сукно|cloth|noun; singular; uncountable
+7838|бедность|poverty|noun; singular; uncountable
+7839|воткнуть|to stick in|verb; perfective
+7840|завыть|to start howling|verb; perfective
+7841|упорство|persistence|noun; singular; uncountable
+7842|извозчик|cabman|noun; singular
+7843|плескаться|to splash|verb; imperfective; reflexive
+7844|гулкий|resonant|adjective
+7845|щедрый|generous|adjective
+7846|брюшной|abdominal|adjective
+7847|краешек|edge|noun; singular; diminutive
+7848|обдумывать|to think over|verb; imperfective
+7849|студентка|student|noun; singular
+7850|сумрак|twilight|noun; singular; uncountable
+7851|задремать|to doze off|verb; perfective
+7853|косо|askew|adverb
+7854|зацепиться|to catch on|verb; perfective; reflexive
+7855|постареть|to grow old|verb; perfective
+7856|престижный|prestigious|adjective
+7857|зашуметь|to start making noise|verb; perfective
+7858|диссидент|dissident|noun; singular
+7859|ЦРУ|CIA|noun; singular; abbreviation
+7860|приготовление|preparation|noun; singular
+7861|тайком|secretly|adverb
+7862|звериный|beastly|adjective
+7863|повелитель|ruler|noun; singular
+7864|бушевать|to rage|verb; imperfective
+7865|тезис|thesis|noun; singular
+7866|нарезать|to slice|verb; perfective
+7867|пристальный|intent|adjective
+7868|сверстник|peer|noun; singular
+7869|женитьба|marriage|noun; singular
+7870|побаиваться|to be somewhat afraid|verb; imperfective; reflexive
+7871|недостойный|unworthy|adjective
+7872|лакей|footman|noun; singular
+7873|порождать|to generate|verb; imperfective
+7874|форменный|proper|adjective
+7875|водоросль|algae|noun; singular
+7876|колечко|little ring|noun; singular; diminutive
+7877|откос|slope|noun; singular
+7878|локоток|little elbow|noun; singular; diminutive
+7879|куриный|chicken|adjective
+7880|нерешительный|indecisive|adjective
+7881|титул|title|noun; singular
+7882|нанять|to hire|verb; perfective
+7883|Маринка|Marinka|noun; singular; proper; diminutive
+7884|дубина|club|noun; singular
+7885|достичь|to achieve|verb; perfective
+7886|убираться|to tidy up|verb; imperfective; reflexive
+7887|фотограф|photographer|noun; singular
+7888|пленник|captive|noun; singular
+7889|злодей|villain|noun; singular
+7890|чашечка|little cup|noun; singular; diminutive
+7891|требовательный|demanding|adjective
+7892|дамский|ladies'|adjective
+7893|экономия|thrift|noun; singular; uncountable
+7894|жестяной|tin|adjective
+7895|нейтральный|neutral|adjective
+7896|головокружение|dizziness|noun; singular; uncountable
+7897|почуять|to sense|verb; perfective
+7898|полировать|to polish|verb; imperfective
+7899|землетрясение|earthquake|noun; singular
+7900|ласточка|swallow|noun; singular

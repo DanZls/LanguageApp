@@ -1,0 +1,99 @@
+6302|муравей|ant|noun; singular
+6303|Никитина|Nikitina|noun; singular; proper
+6304|прикинуть|to estimate|verb; perfective
+6305|осудить|to condemn|verb; perfective
+6306|топтаться|to shuffle in place|verb; imperfective; reflexive
+6307|макушка|crown of the head|noun; singular
+6308|подпрыгивать|to jump up and down|verb; imperfective
+6309|вдвое|twice|adverb
+6310|навести|to aim|verb; perfective
+6311|выдавить|to squeeze out|verb; perfective
+6312|капелька|little drop|noun; singular
+6313|мелко|finely|adverb
+6314|прогрессивный|progressive|adjective
+6315|псих|psycho|noun; singular
+6316|обком|regional committee|noun; singular
+6317|свирепый|ferocious|adjective
+6318|тележка|cart|noun; singular
+6319|струйка|small stream|noun; singular
+6320|желательный|desirable|adjective
+6321|отек|swelling|noun; singular
+6322|превращать|to turn into|verb; imperfective
+6323|укрыться|to take shelter|verb; perfective; reflexive
+6324|подвергаться|to be subjected|verb; imperfective; reflexive
+6325|пустырь|wasteland|noun; singular
+6326|взаимодействие|interaction|noun; singular
+6327|трап|gangway|noun; singular
+6328|пытка|torture|noun; singular
+6329|сурово|sternly|adverb
+6330|мгла|haze|noun; singular; uncountable
+6331|фу|ugh|interjection
+6332|березовый|birch|adjective
+6333|великан|giant|noun; singular
+6334|распознавание|recognition|noun; singular; uncountable
+6335|брезентовый|canvas|adjective
+6336|наутро|the next morning|adverb
+6337|валять|to roll|verb; imperfective
+6338|мертвец|dead man|noun; singular
+6339|набить|to stuff|verb; perfective
+6340|ТВ|TV|noun; singular; abbreviation
+6341|исключительный|exceptional|adjective
+6342|грядущий|coming|adjective
+6343|колокол|bell|noun; singular
+6344|мотать|to wind|verb; imperfective
+6345|тереть|to rub|verb; imperfective
+6346|пал|fire|noun; singular
+6347|изрядно|quite a lot|adverb
+6348|величие|greatness|noun; singular; uncountable
+6349|приставить|to place against|verb; perfective
+6350|легендарный|legendary|adjective
+6351|буржуазный|bourgeois|adjective
+6352|греть|to warm|verb; imperfective
+6353|чрезвычайный|extraordinary|adjective
+6354|соглашение|agreement|noun; singular
+6355|физиологический|physiological|adjective
+6356|немыслимый|unthinkable|adjective
+6357|зараза|infection|noun; singular
+6358|лавра|lavra|noun; singular
+6359|яростный|furious|adjective
+6360|вздумать|to take it into one's head|verb; perfective
+6361|троп|trope|noun; singular
+6362|сосать|to suck|verb; imperfective
+6363|костра|shive|noun; singular; uncountable
+6364|рака|reliquary|noun; singular
+6365|тосковать|to yearn|verb; imperfective
+6366|обсудить|to discuss|verb; perfective
+6367|разбежаться|to scatter|verb; perfective; reflexive
+6368|бычок|young bull|noun; singular
+6369|смениться|to be replaced|verb; perfective; reflexive
+6370|подсудимый|defendant|noun; singular
+6371|тормоз|brake|noun; singular
+6372|кинжал|dagger|noun; singular
+6373|мудрец|sage|noun; singular
+6374|выскакивать|to jump out|verb; imperfective
+6375|повреждение|damage|noun; singular
+6376|объединение|union|noun; singular
+6377|вилок|cabbage head|noun; singular
+6378|писаться|to be spelled|verb; imperfective; reflexive
+6379|наставник|mentor|noun; singular
+6380|толщина|thickness|noun; singular
+6381|врезать|to insert|verb; perfective
+6382|аплодисменты|applause|noun; plural
+6383|укрепление|fortification|noun; singular
+6384|грош|penny|noun; singular
+6385|оператор|operator|noun; singular
+6386|ступить|to step|verb; perfective
+6387|календарь|calendar|noun; singular
+6388|штатский|civilian|adjective
+6389|уменьшение|reduction|noun; singular
+6390|ух|wow|interjection
+6391|сокровище|treasure|noun; singular
+6392|быстрота|speed|noun; singular; uncountable
+6393|миро|chrism|noun; singular; uncountable
+6394|прибытие|arrival|noun; singular
+6395|познакомить|to introduce|verb; perfective
+6396|лечиться|to receive treatment|verb; imperfective; reflexive
+6397|пронзительный|piercing|adjective
+6398|честный|honest|adjective
+6399|чинить|to repair|verb; imperfective
+6400|отход|departure|noun; singular

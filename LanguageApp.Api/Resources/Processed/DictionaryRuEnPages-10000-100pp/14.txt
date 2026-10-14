@@ -1,0 +1,100 @@
+1301|дыхание|breathing|noun; singular; uncountable
+1302|тюрьма|prison|noun; singular
+1303|легкое|lung|noun; singular
+1304|мясо|meat|noun; singular; uncountable
+1305|внизу|below|adverb
+1306|кошка|cat|noun; singular
+1307|взрослый|adult|noun; singular
+1308|отсутствие|absence|noun; singular
+1309|настроение|mood|noun; singular
+1310|собрать|to gather|verb; perfective
+1311|наступить|to come|verb; perfective
+1312|покой|peace|noun; singular; uncountable
+1313|тянуть|to pull|verb; irregular
+1314|народный|folk|adjective
+1315|процент|percent|noun; singular
+1316|постоянно|constantly|adverb
+1317|бросать|to throw|verb; regular
+1318|мечтать|to dream|verb; regular
+1319|захотеть|to want|verb; perfective
+1320|автобус|bus|noun; singular
+1321|восток|east|noun; singular
+1322|оставлять|to leave|verb; regular
+1323|усмехнуться|to smirk|verb; perfective
+1324|эхо|echo|noun; singular
+1325|примерно|approximately|adverb
+1326|автомобиль|car|noun; singular
+1327|внешний|external|adjective
+1328|технический|technical|adjective
+1329|пропасть|abyss|noun; singular
+1330|выдержать|to withstand|verb; perfective
+1331|миг|instant|noun; singular
+1332|отряд|detachment|noun; singular
+1333|сверху|from above|adverb
+1334|настолько|so much|adverb
+1335|встречать|to meet|verb; regular
+1336|пускать|to let go|verb; regular
+1337|ясный|clear|adjective
+1338|занятие|occupation|noun; singular
+1339|реальный|real|adjective
+1340|задний|rear|adjective
+1341|Европа|Europe|noun; singular; proper
+1342|случайно|by chance|adverb
+1343|артист|performer|noun; singular
+1344|сложный|complex|adjective
+1345|планета|planet|noun; singular
+1346|порог|threshold|noun; singular
+1347|явление|phenomenon|noun; singular; irregular plural
+1348|отпустить|to let go|verb; perfective
+1349|красота|beauty|noun; singular; uncountable
+1350|воскликнуть|to exclaim|verb; perfective
+1351|напротив|opposite|preposition
+1352|дрожать|to tremble|verb; irregular
+1353|палатка|tent|noun; singular
+1354|выбрать|to choose|verb; perfective
+1355|пьяный|drunk|adjective
+1356|рада|glad|adjective; predicate; feminine
+1357|доска|board|noun; singular
+1358|пистолет|pistol|noun; singular
+1359|пожать|to shake|verb; perfective
+1360|актер|actor|noun; singular
+1361|раздаться|to resound|verb; perfective; reflexive
+1362|зря|in vain|adverb
+1363|потолок|ceiling|noun; singular
+1364|постель|bed|noun; singular
+1365|навстречу|towards|adverb
+1366|ближайший|nearest|adjective; irregular comparison
+1367|сумка|bag|noun; singular
+1368|мгновение|instant|noun; singular
+1369|праздник|holiday|noun; singular
+1370|густой|thick|adjective
+1371|мост|bridge|noun; singular
+1372|энергия|energy|noun; singular; uncountable
+1373|начальство|management|noun; singular; uncountable
+1374|сожаление|regret|noun; singular
+1375|полтора|one and a half|numeral; cardinal
+1376|объяснять|to explain|verb; regular
+1377|обратить|to turn|verb; perfective
+1378|сунуть|to shove|verb; perfective
+1379|пятнадцать|fifteen|numeral; cardinal
+1380|разрешить|to allow|verb; perfective
+1381|участок|plot|noun; singular
+1382|жертва|victim|noun; singular
+1383|меч|sword|noun; singular
+1384|звонок|bell|noun; singular
+1385|кино|cinema|noun; singular; uncountable
+1386|признаться|to admit|verb; perfective; reflexive
+1387|мороз|frost|noun; singular
+1388|составлять|to constitute|verb; regular
+1389|бедный|poor|adjective
+1390|летний|summer|adjective
+1391|видать|to see|verb; irregular
+1392|адрес|address|noun; singular
+1393|закрытый|closed|adjective
+1394|горло|throat|noun; singular
+1395|костер|bonfire|noun; singular
+1396|жалко|it's a pity|adverb
+1397|кот|tomcat|noun; singular
+1398|бык|bull|noun; singular
+1399|трудный|difficult|adjective
+1400|текст|text|noun; singular

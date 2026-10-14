@@ -1,0 +1,49 @@
+6752|рецепт|Предписание врача о составе лекарства и способе применения|Rezept|noun; neuter
+6753|россиянин|Гражданин России|Russe|noun; masculine
+6754|диктатура|Государственная власть с полным политическим господством|Diktatur|noun; feminine
+6755|зарезать|Убить, перерезав горло|abschlachten|verb; perfective; infinitive
+6756|высовываться|Выставляться или выдвигаться наружу|sich herauslehnen|verb; imperfective; infinitive; reflexive
+6757|левый|Расположенный со стороны сердца|links|adjective
+6758|затянуть|Туго завязать или стянуть концы|festziehen|verb; perfective; infinitive
+6759|недоразумение|Ошибочное понимание; то, что произошло из-за непонимания|Missverständnis|noun; neuter
+6760|слиться|О жидком: соединиться воедино|zusammenfließen|verb; perfective; infinitive
+6761|инвестиция|Вложение капитала в предприятие|Investition|noun; feminine
+6762|недоверчиво|С недоверием|misstrauisch|adverb
+6763|клад|Зарытые ценности|Schatz|noun; masculine
+6764|зубной|Относящийся к зубам|Zahn-|adjective
+6765|червь|Бескостное ползающее животное с вытянутым телом|Wurm|noun; masculine
+6766|увлекаться|Целиком отдаваться чему-либо с большим интересом|sich begeistern|verb; imperfective; infinitive; reflexive
+6767|численность|Количественный состав|Anzahl|noun; feminine
+6768|комнатка|Маленькая комната|Zimmerchen|noun; neuter
+6769|чучело|Точное воспроизведение животного с сохранением шкуры|Tierpräparat|noun; neuter
+6770|притащить|Таща, доставить куда-либо|herbeischleppen|verb; perfective; infinitive
+6771|сияние|Яркий свет, излучаемый или отражаемый|Glanz|noun; masculine
+6772|инфекционный|Предназначенный для заразных больных|Infektions-|adjective
+6773|вкладывать|Помещать внутрь; вкладывать капитал|investieren|verb; imperfective; infinitive
+6774|закрываться|Затворять вход и выход|sich schließen|verb; imperfective; infinitive; reflexive
+6775|избыток|Излишек; то, что сверх нужного|Überschuss|noun; masculine
+6776|вносить|Вносить внутрь; вводить|einbringen|verb; imperfective; infinitive
+6777|дева|Девушка; дева|Mädchen|noun; neuter
+6778|пролетать|Передвигаться по воздуху; пролетать|vorbeifliegen|verb; imperfective; infinitive
+6779|скрипнуть|Издать скрипящий звук|knarren|verb; perfective; infinitive
+6780|подсказывать|Подавать подсказку|einflüstern|verb; imperfective; infinitive
+6781|кряхтеть|Издавать глухие звуки от боли или напряжения|stöhnen|verb; imperfective; infinitive
+6782|повиноваться|Беспрекословно подчиняться|gehorchen|verb; imperfective; infinitive
+6783|снизить|Сделать ниже; уменьшить|senken|verb; perfective; infinitive
+6784|рассматриваться|Быть объектом рассмотрения|betrachtet werden|verb; imperfective; infinitive
+6785|отцов|Относящийся к отцу|väterlich|adjective
+6786|указательный|Относящийся к указанию|Zeige-|adjective
+6787|худенький|Немного худой (ласкательное)|dünn|adjective
+6788|грамота|Умение читать и писать|Lesefähigkeit|noun; feminine
+6789|импульс|Побудительный толчок к действию|Impuls|noun; masculine
+6790|страстной|Относящийся к Страстной неделе перед Пасхой|Passions-|adjective
+6791|переговариваться|Обмениваться словами|sich unterhalten|verb; imperfective; infinitive; reflexive
+6792|стратегия|Искусство планирования и руководства|Strategie|noun; feminine
+6793|распоряжаться|Управлять; вести дело|verfügen|verb; imperfective; infinitive
+6794|ступня|Нижняя часть стопы; подошва|Fußsohle|noun; feminine
+6795|хрипеть|Издавать сипящие глуховатые звуки|röcheln|verb; imperfective; infinitive
+6796|мясной|Сделанный из мяса или связанный с ним|Fleisch-|adjective
+6797|придворный|Относящийся к монаршему двору|Hof-|adjective
+6798|сбивать|Заставлять упасть; ударом сдвигать с места|umstoßen|verb; imperfective; infinitive
+6799|безобразие|Безобразный поступок; безобразное поведение|Unverschämtheit|noun; feminine
+6800|коварный|Склонный к коварству; предательский|heimtückisch|adjective

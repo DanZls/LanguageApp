@@ -1,0 +1,100 @@
+5901|мазь|ointment|noun; singular
+5902|развивать|to develop|verb; imperfective
+5903|усадить|to seat|verb; perfective
+5904|складывать|to fold|verb; imperfective
+5905|эльф|elf|noun; singular
+5906|горожанин|city dweller|noun; singular
+5907|выстроить|to build|verb; perfective
+5908|подскочить|to jump up|verb; perfective
+5909|троллейбус|trolleybus|noun; singular
+5910|выговорить|to pronounce|verb; perfective
+5911|похвалить|to praise|verb; perfective
+5912|усталь|fatigue|noun; singular; uncountable
+5913|исследовать|to research|verb; perfective; imperfective
+5914|совершенство|perfection|noun; singular; uncountable
+5915|погибать|to perish|verb; imperfective
+5916|лавина|avalanche|noun; singular
+5917|хрипло|hoarsely|adverb
+5918|набраться|to gain|verb; perfective; reflexive
+5919|выучить|to learn|verb; perfective
+5920|варенье|jam|noun; singular; uncountable
+5921|рычаг|lever|noun; singular
+5922|неизменный|constant|adjective
+5923|тост|toast|noun; singular
+5924|собранный|composed|adjective
+5925|ловушка|trap|noun; singular
+5926|насмешка|mockery|noun; singular
+5927|чулок|stocking|noun; singular
+5928|прах|dust|noun; singular; uncountable
+5929|скворец|starling|noun; singular
+5930|карета|carriage|noun; singular
+5931|террорист|terrorist|noun; singular
+5932|полярный|polar|adjective
+5933|сознавать|to realize|verb; imperfective
+5934|повысить|to raise|verb; perfective
+5935|жилой|residential|adjective
+5936|сторожа|watchmen|noun; plural
+5937|пухлый|chubby|adjective
+5938|чердак|attic|noun; singular
+5939|витамин|vitamin|noun; singular
+5940|владыка|ruler|noun; singular
+5941|гибнуть|to perish|verb; imperfective
+5942|вестибюль|lobby|noun; singular
+5943|юго|south|prefix
+5944|голубь|pigeon|noun; singular
+5945|единство|unity|noun; singular; uncountable
+5946|мышление|thinking|noun; singular; uncountable
+5947|новик|recruit|noun; singular
+5948|любовница|mistress|noun; singular
+5949|лагуна|lagoon|noun; singular
+5950|верблюд|camel|noun; singular
+5951|обожать|to adore|verb; imperfective
+5952|штучка|little thing|noun; singular
+5953|некрасивый|ugly|adjective
+5954|курорт|resort|noun; singular
+5955|одолеть|to overcome|verb; perfective
+5956|сравнить|to compare|verb; perfective
+5957|упрек|reproach|noun; singular
+5958|гнилой|rotten|adjective
+5959|исправить|to fix|verb; perfective
+5960|климат|climate|noun; singular
+5961|цитата|quote|noun; singular
+5962|придумывать|to invent|verb; imperfective
+5963|организатор|organizer|noun; singular
+5964|благоприятный|favorable|adjective
+5965|летучий|volatile|adjective
+5966|литератор|writer|noun; singular
+5967|проноситься|to rush by|verb; imperfective; reflexive
+5968|подтверждение|confirmation|noun; singular
+5969|романтический|romantic|adjective
+5970|безжалостный|merciless|adjective
+5971|брезент|tarpaulin|noun; singular; uncountable
+5972|недоступный|inaccessible|adjective
+5973|визжать|to squeal|verb; imperfective
+5974|сионист|Zionist|noun; singular
+5975|теоретический|theoretical|adjective
+5976|беременный|pregnant|adjective
+5977|запасной|spare|adjective
+5978|предпочесть|to prefer|verb; perfective
+5979|очистить|to clean|verb; perfective
+5980|лохматый|shaggy|adjective
+5981|садовый|garden|adjective
+5982|современник|contemporary|noun; singular
+5983|жара|heat|noun; singular; uncountable
+5984|глубь|depth|noun; singular; uncountable
+5985|совпадать|to coincide|verb; imperfective
+5986|порвать|to tear|verb; perfective
+5987|погулять|to take a walk|verb; perfective; reflexive
+5988|квадрат|square|noun; singular
+5989|догонять|to catch up|verb; imperfective
+5990|надвигаться|to approach|verb; imperfective; reflexive
+5991|подбросить|to toss up|verb; perfective
+5992|притворяться|to pretend|verb; imperfective; reflexive
+5993|леди|lady|noun; singular
+5994|поджать|to tuck in|verb; perfective
+5995|паутина|cobweb|noun; singular
+5996|стадион|stadium|noun; singular
+5997|нелепо|absurdly|adverb
+5998|факел|torch|noun; singular
+5999|вопить|to yell|verb; imperfective
+6000|опера|opera|noun; singular

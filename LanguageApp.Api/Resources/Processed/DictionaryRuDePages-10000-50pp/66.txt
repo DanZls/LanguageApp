@@ -1,0 +1,50 @@
+3301|клясться|Клятвенно уверять; давать клятву|schwören|verb; imperfective; infinitive
+3302|раскрытый|Открытый; лишённый покрова|geöffnet|adjective
+3303|пожелать|Высказать пожелание|wünschen|verb; perfective; infinitive
+3304|красный|Цвета крови; ярко-красный|rot|adjective
+3305|приниматься|Начинать дело; приступать к чему-либо|anfangen|verb; imperfective; infinitive
+3306|приложить|Положить вплотную; приблизить|anlegen|verb; perfective; infinitive
+3307|реформа|Преобразование; переустройство чего-либо|Reform|noun; feminine
+3308|кинуть|Бросить|werfen|verb; perfective; infinitive
+3309|оперативный|Непосредственно осуществляющий что-либо; действенный|operativ|adjective
+3310|жрать|Жадно есть|fressen|verb; imperfective; infinitive
+3311|техник|Специалист в области техники|Techniker|noun; masculine
+3312|дошлый|Смышлёный; ловкий|geschickt|adjective
+3313|надолго|На долгий срок|langfristig|adverb
+3314|оторваться|Отделиться вследствие рывка|abreißen|verb; perfective; infinitive
+3315|охранник|Сторож; охранный стрелок|Wachmann|noun; masculine
+3316|пугать|Вызывать испуг|erschrecken|verb; imperfective; infinitive
+3317|установка|Установленный механизм или система|Anlage|noun; feminine
+3318|сверкать|Ярко сиять переливчатым светом|blitzen|verb; imperfective; infinitive
+3319|расход|Затрата; издержки|Ausgabe|noun; feminine
+3320|неприятно|Доставляя неприятные ощущения|unangenehm|adverb
+3321|забытый|Тот, о ком или чём забыли|vergessen|adjective
+3322|поесть|Съесть немного; перекусить|essen|verb; perfective; infinitive
+3323|зависть|Чувство досады от чужого успеха|Neid|noun; masculine
+3324|барон|Дворянский титул ниже графского|Baron|noun; masculine
+3325|талантливый|Обладающий талантом|talentiert|adjective
+3326|отправляться|Начать путешествие; пуститься в путь|aufbrechen|verb; imperfective; infinitive
+3327|несомненно|Без сомнения|zweifellos|adverb
+3328|изобразить|Воспроизвести в художественном образе|darstellen|verb; perfective; infinitive
+3329|бред|Расстройство мышления; бессвязная речь|Delirium|noun; neuter
+3330|нарочно|С намерением; специально|absichtlich|adverb
+3331|прихожая|Передняя комната|Flur|noun; masculine
+3332|комендант|Начальник крепости или военного учреждения|Kommandant|noun; masculine
+3333|рослый|Высокого роста|hochgewachsen|adjective
+3334|высказать|Выразить словами|äußern|verb; perfective; infinitive
+3335|мутный|О жидкости: непрозрачный|trüb|adjective
+3336|кисть|Часть руки от запястья до конца пальцев|Hand|noun; feminine
+3337|цирк|Вид искусства с акробатами и клоунами|Zirkus|noun; masculine
+3338|квартал|Часть города между пересекающимися улицами|Viertel|noun; neuter
+3339|нелепый|Не оправдываемый здравым смыслом; странный|absurd|adjective
+3340|пешком|На своих ногах; без транспорта|zu Fuß|adverb
+3341|жуткий|Вызывающий чувство ужаса|schaurig|adjective
+3342|жильё|Обитаемое место; место проживания|Unterkunft|noun; feminine
+3343|приступ|Острое внезапное проявление признаков болезни|Anfall|noun; masculine
+3344|предыдущий|Бывший непосредственно перед настоящим|vorherig|adjective
+3345|спалить|Сжечь; предать огню|verbrennen|verb; perfective; infinitive
+3346|политбюро|Высший руководящий орган коммунистической партии|Politbüro|noun; neuter
+3347|спасение|Избавление от опасности|Rettung|noun; feminine
+3348|моральный|Высоконравственный; соответствующий морали|moralisch|adjective
+3349|определение|Объяснение, разъясняющее смысл; дефиниция|Definition|noun; feminine
+3350|образец|Показательное или пробное изделие|Muster|noun; neuter

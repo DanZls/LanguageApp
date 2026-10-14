@@ -1,0 +1,50 @@
+9101|зеленеть|Становиться зелёным|grünen|verb; imperfective; infinitive
+9102|гоняться|Преследовать; постоянно гнаться|jagen|verb; imperfective; infinitive
+9103|опасливый|Действующий с осторожностью; настороженный|vorsichtig|adjective
+9104|отыскивать|Находить после поиска|aufspüren|verb; imperfective; infinitive
+9105|повеситься|Лишить себя жизни через повешение|sich erhängen|verb; perfective; infinitive; reflexive
+9106|укреплять|Делать более прочным; усиливать|festigen|verb; imperfective; infinitive
+9107|изголовье|Часть постели, где лежит голова|Kopfende|noun; neuter
+9108|забываться|Впадать в забытьё; утрачивать контроль|vergessen werden|verb; imperfective; infinitive
+9109|экскурсовод|Специалист, проводящий экскурсии|Reiseführer|noun; masculine
+9110|комплимент|Лестное высказывание; похвала|Kompliment|noun; neuter
+9111|клубиться|Подниматься клубами; виться|sich ballen|verb; imperfective; infinitive; reflexive
+9112|пищевой|Относящийся к питанию и пище|Lebens­mittel-|adjective
+9113|отзыв|Мнение или оценка кого-либо|Rezension|noun; feminine
+9114|цинковый|Изготовленный из цинка|Zink-|adjective
+9115|откровенность|Искренность; откровенное признание|Offenheit|noun; feminine
+9116|немногие|Небольшое количество людей или предметов|wenige|pronoun; plural
+9117|неприличный|Нарушающий нормы приличия|unanständig|adjective
+9118|резолюция|Решение, принятое в результате обсуждения|Resolution|noun; feminine
+9119|вишневый|Тёмно-красного цвета, как зрелая вишня|kirschrot|adjective
+9120|угу|Выражение согласия; да|mhm|interjection
+9121|невольный|Непреднамеренный; совершённый без умысла|unfreiwillig|adjective
+9122|переложить|Положить на другое место|umlegen|verb; perfective; infinitive
+9123|казах|Представитель тюркского народа Казахстана|Kasache|noun; masculine
+9124|пинок|Удар ногой или коленом|Tritt|noun; masculine
+9125|грохнуть|Произвести сильный шум; грохнуть|krachen|verb; perfective; infinitive
+9126|обтянутый|Плотно облегающий; обтянутый|eng anliegend|adjective
+9127|умерший|Скончавшийся; покойник|verstorben|adjective
+9128|кулиса|Боковая часть театральной декорации|Kulisse|noun; feminine
+9129|капиталист|Собственник капитала, использующий наёмный труд|Kapitalist|noun; masculine
+9130|ускорить|Увеличить скорость; ускорить|beschleunigen|verb; perfective; infinitive
+9131|поручик|Воинское звание младшего офицера|Leutnant|noun; masculine
+9132|покрываться|Покрываться слоем чего-либо|sich bedecken|verb; imperfective; infinitive; reflexive
+9133|похоронный|Относящийся к похоронам|Begräbnis-|adjective
+9134|носик|Маленький нос; носик|Näschen|noun; neuter; diminutive
+9135|правящий|Находящийся у власти; управляющий|regierend|adjective
+9136|восторженно|С восторгом; с воодушевлением|begeistert|adverb
+9137|раздвинуть|Развести в стороны; раздвинуть|auseinanderschieben|verb; perfective; infinitive
+9138|пассажирский|Предназначенный для перевозки пассажиров|Passagier-|adjective
+9139|навязчивый|Назойливый; надоедливо пристающий|aufdringlich|adjective
+9140|восстанавливать|Возобновлять; приводить в прежнее состояние|wiederherstellen|verb; imperfective; infinitive
+9141|компот|Сладкий напиток из варёных фруктов|Kompott|noun; neuter
+9142|профсоюз|Объединение работников одной профессии|Gewerkschaft|noun; feminine
+9143|коллективизация|Объединение мелких хозяйств в коллективные|Kollektivierung|noun; feminine
+9144|мираж|Оптическое атмосферное явление с ложными изображениями|Fata Morgana|noun; feminine
+9145|щука|Хищная пресноводная рыба|Hecht|noun; masculine
+9146|настольный|Предназначенный для стола; настольный|Tisch-|adjective
+9147|кивок|Однократное движение головой в знак согласия|Nicken|noun; neuter
+9148|залог|Имущество, переданное в обеспечение обязательств|Pfand|noun; neuter
+9149|лепесток|Тонкая пластинка, образующая венчик цветка|Blütenblatt|noun; neuter
+9150|гласить|Содержать определённое утверждение|lauten|verb; imperfective; infinitive

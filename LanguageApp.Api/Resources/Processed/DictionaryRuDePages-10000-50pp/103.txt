@@ -1,0 +1,50 @@
+5151|счастливо|Благополучно, в состоянии счастья|glücklich|adverb
+5152|враждебный|Полный вражды; крайне неприязненный|feindlich|adjective
+5153|напугать|Вызвать у кого-либо сильный испуг|erschrecken|verb; perfective; infinitive
+5154|аудитория|Помещение для проведения лекций|Hörsaal|noun; masculine
+5155|твердить|Постоянно повторять одно и то же|wiederholen|verb; imperfective; infinitive
+5156|бережно|С осторожностью и заботой|behutsam|adverb
+5157|стремительный|Очень быстрый и резкий в движении|stürmisch|adjective
+5158|побережье|Полоса земли вдоль морского берега|Küste|noun; feminine
+5159|обеспечение|Материальные средства или условия для чего-либо|Versorgung|noun; feminine
+5160|персонаж|Действующее лицо в художественном произведении|Figur|noun; feminine
+5161|холл|Большое помещение для отдыха или ожидания|Halle|noun; feminine
+5162|брести|Идти медленно и с трудом|schleppen|verb; imperfective; infinitive
+5163|кошмар|Мучительный страшный сон|Albtraum|noun; masculine
+5164|покорно|Со смирением, послушно|gehorsam|adverb
+5165|хвалить|Выражать одобрение или похвалу|loben|verb; imperfective; infinitive
+5166|хлопоты|Многочисленные заботы и хлопотливые занятия|Mühe|noun; feminine
+5167|вводить|Приводить внутрь; включать в состав чего-либо|einführen|verb; imperfective; infinitive
+5168|удостоверение|Документ, подтверждающий личность или право|Ausweis|noun; masculine
+5169|конечность|Рука, нога или орган движения|Gliedmaße|noun; feminine
+5170|возвышаться|Стоять высоко, выделяясь на фоне окружающего|sich erheben|verb; imperfective; infinitive; reflexive
+5171|лежа|В горизонтальном положении|liegend|adverb
+5172|птичий|Относящийся к птицам|Vogel-|adjective
+5173|коллекция|Систематизированное собрание предметов|Sammlung|noun; feminine
+5174|миллион|Число, равное тысяче тысяч (1 000 000)|Million|noun; feminine
+5175|донести|Неся, доставить до нужного места|überbringen|verb; perfective; infinitive
+5176|ядовитый|Содержащий яд; вызывающий отравление|giftig|adjective
+5177|овладеть|Захватить, взять в своё владение|sich bemächtigen|verb; perfective; infinitive; reflexive
+5178|треть|Одна из трёх равных частей чего-либо|Drittel|noun; neuter
+5179|оценивать|Определять ценность или качество чего-либо|bewerten|verb; imperfective; infinitive
+5180|удовлетворить|Исполнить требования или желания|befriedigen|verb; perfective; infinitive
+5181|затихнуть|Стать тише; прекратиться|verstummen|verb; perfective; infinitive
+5182|намного|Значительно, в большой мере|weit|adverb
+5183|взволновать|Вызвать сильное волнение или тревогу|aufregen|verb; perfective; infinitive
+5184|ленивый|Не желающий трудиться; склонный к безделью|faul|adjective
+5185|ранг|Категория, степень, звание|Rang|noun; masculine
+5186|артиллерия|Огнестрельные орудия и войска, их применяющие|Artillerie|noun; feminine
+5187|вешать|Помещать в висячем положении|hängen|verb; imperfective; infinitive
+5188|смущенно|В состоянии замешательства или стыда|verlegen|adverb
+5189|чушь|Бессмыслица, нелепость|Unsinn|noun; masculine
+5190|обусловить|Стать причиной чего-либо|bedingen|verb; perfective; infinitive
+5191|забавный|Вызывающий улыбку; занятный|amüsant|adjective
+5192|греческий|Относящийся к Греции или грекам|griechisch|adjective
+5193|сладко|Приятно, с наслаждением|süß|adverb
+5194|двойник|Человек, внешне точно похожий на другого|Doppelgänger|noun; masculine
+5195|сплошь|По всей поверхности; без исключения|durchweg|adverb
+5196|задерживаться|Оставаться дольше предусмотренного|sich verspäten|verb; imperfective; infinitive; reflexive
+5197|похлопать|Легко ударить по плечу или спине|klopfen|verb; perfective; infinitive
+5198|бессмысленно|Без смысла и цели|sinnlos|adverb
+5199|парижский|Относящийся к Парижу|Pariser|adjective
+5200|поблизости|Неподалёку, в непосредственной близости|in der Nähe|adverb

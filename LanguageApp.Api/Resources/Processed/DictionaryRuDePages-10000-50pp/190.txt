@@ -1,0 +1,50 @@
+9501|беседка|Лёгкая крытая постройка для отдыха в саду|Gartenlaube|noun; feminine
+9502|поспорить|Провести время в споре|streiten|verb; perfective; infinitive
+9503|гимн|Торжественная песня — символ государства|Hymne|noun; feminine
+9504|очистка|Процесс очищения от примесей|Reinigung|noun; feminine
+9505|стрелец|Военнослужащий особого войска в России 16–17 вв.|Strelitze|noun; masculine
+9506|лютый|Злой; свирепый; беспощадный|grimmig|adjective
+9507|формулировка|Сформулированная мысль или определение|Formulierung|noun; feminine
+9508|оцепенение|Состояние временной неподвижности тела|Erstarrung|noun; feminine
+9509|запрыгать|Начать прыгать|anfangen zu springen|verb; perfective; infinitive
+9510|разогнать|Заставить разойтись; рассеять|zerstreuen|verb; perfective; infinitive
+9511|удачливый|Всегда везучий; счастливый|glücklich|adjective
+9512|корж|Плоское изделие из теста; лепёшка|Fladenbrot|noun; neuter
+9513|притаиться|Спрятаться и замереть|sich verstecken|verb; perfective; infinitive; reflexive
+9514|дьявольский|Дьявольский; исключительный по интенсивности|teuflisch|adjective
+9515|продвижение|Перемещение вперёд; прогресс|Fortschritt|noun; masculine
+9516|ушко|Маленькое ухо; отверстие в иголке для нитки|Öhr|noun; neuter
+9517|отталкивать|Отбрасывать; отвергать|abstoßen|verb; imperfective; infinitive
+9518|неладный|Неблагополучный; не такой, как нужно|unrichtig|adjective
+9519|просунуть|С трудом протолкнуть через узкое отверстие|hineinschieben|verb; perfective; infinitive
+9520|пуд|Старая русская мера веса около 16,38 кг|Pud|noun; masculine
+9521|нагой|Лишённый одежды; голый|nackt|adjective
+9522|упрекнуть|Сделать упрёк кому-либо|vorwerfen|verb; perfective; infinitive
+9523|секта|Религиозная община, отделившаяся от основного вероучения|Sekte|noun; feminine
+9524|череда|Непрерывный ряд; очередь|Reihe|noun; feminine
+9525|упасти|Спасти; уберечь от чего-либо|bewahren|verb; perfective; infinitive
+9526|обменяться|Взаимно обменяться чем-либо|austauschen|verb; perfective; infinitive
+9527|дятел|Лесная птица, долбящая кору деревьев|Specht|noun; masculine
+9528|бесцеремонный|Беззастенчивый; выходящий за границы вежливости|unverfroren|adjective
+9529|астральный|Относящийся к звёздам; астральный|astral|adjective
+9530|пристрастие|Сильная склонность к чему-либо|Vorliebe|noun; feminine
+9531|золотой|Цвета золота; блестяще-жёлтый|golden|adjective
+9532|зябко|Ощущается холод; знобит|frostig|adverb
+9533|образцовый|Примерный; вполне совершенный|musterhaft|adjective
+9534|ниточка|Маленькая нитка|Fädchen|noun; neuter; diminutive
+9535|продолговатый|Вытянутый в длину|länglich|adjective
+9536|прикладывать|Класть или приближать вплотную|anlegen|verb; imperfective; infinitive
+9537|месячный|Длящийся месяц; относящийся к месяцу|monatlich|adjective
+9538|якорь|Металлическое устройство для удержания судна на месте|Anker|noun; masculine
+9539|статистика|Наука об измерении и анализе количественных данных|Statistik|noun; feminine
+9540|натыкаться|Неожиданно обнаруживать что-либо|stoßen auf|verb; imperfective; infinitive
+9541|дребезжать|Издавать дрожащий звон|klirren|verb; imperfective; infinitive
+9542|наполниться|Стать полным; насытиться|sich füllen|verb; perfective; infinitive; reflexive
+9543|назваться|Сообщить своё имя; представиться|sich nennen|verb; perfective; infinitive; reflexive
+9544|пряжка|Жёсткая застёжка для ремня или пояса|Schnalle|noun; feminine
+9545|липовый|Относящийся к липе; изготовленный из липы|Linden-|adjective
+9546|неслыханный|Небывалый; беспримерный|unerhört|adjective
+9547|долгожданный|Ожидавшийся долго с нетерпением|lang ersehnt|adjective
+9548|дружище|Фамильярное обращение к другу|Kumpel|noun; masculine
+9549|помост|Возвышение из досок; помост|Podest|noun; neuter
+9550|одесский|Относящийся к Одессе|Odessa-|adjective

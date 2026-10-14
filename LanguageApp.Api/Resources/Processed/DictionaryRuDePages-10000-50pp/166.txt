@@ -1,0 +1,50 @@
+8301|шприц|Медицинский инструмент для введения или извлечения жидкостей|Spritze|noun; feminine
+8302|надобно|Нужно, требуется|nötig|adverb
+8303|кабак|Питейное заведение, трактир|Kneipe|noun; feminine
+8304|крем|Косметическая мазь для ухода за кожей|Creme|noun; feminine
+8305|расправа|Жестокое насилие с целью наказания или мести|Abrechnung|noun; feminine
+8306|девятнадцатый|Порядковый номер 19|neunzehnte|numeral; ordinal
+8307|чернявый|Смуглый с тёмными волосами|schwarzhaarig|adjective
+8308|биолог|Специалист в области биологии|Biologe|noun; masculine
+8309|всплыть|Подняться из глубины воды на поверхность|auftauchen|verb; perfective; infinitive
+8310|четверка|Школьная оценка «хорошо»|Vier|noun; feminine
+8311|поставка|Доставка продукции по договору|Lieferung|noun; feminine
+8312|кандидатура|Кандидат на определённую должность|Kandidatur|noun; feminine
+8313|консультация|Совет специалиста|Beratung|noun; feminine
+8314|осенить|О мысли: прийти внезапно|einleuchten|verb; perfective; infinitive
+8315|предоставлять|Давать право или возможность|bereitstellen|verb; imperfective; infinitive
+8316|разборка|Жёсткая ссора или стычка между враждующими|Auseinandersetzung|noun; feminine
+8317|сугубо|Особенно, исключительно|ausschließlich|adverb
+8318|интуиция|Непосредственное постижение истины без логического обоснования|Intuition|noun; feminine
+8319|разъяснить|Объяснить, сделать понятным|erläutern|verb; perfective; infinitive
+8320|каковой|Местоимение «который», «какой»|welcher|pronominal
+8321|поджечь|Поднеся огонь, воспламенить что-либо|anzünden|verb; perfective; infinitive
+8322|сжигать|Уничтожать огнём|verbrennen|verb; imperfective; infinitive
+8323|девятнадцать|Число 19|neunzehn|numeral; cardinal
+8324|уборщица|Женщина, убирающая помещения|Reinigungskraft|noun; feminine
+8325|швейцарский|Относящийся к Швейцарии|schweizerisch|adjective
+8326|машинный|Сделанный или действующий с помощью машины|maschinell|adjective
+8327|нарушитель|Тот, кто нарушает правила или законы|Regelverletzer|noun; masculine
+8328|лучник|Стрелок из лука|Bogenschütze|noun; masculine
+8329|почернеть|Стать чёрным, потемнеть|schwarz werden|verb; perfective; infinitive
+8330|пелена|Сплошной покров, заволакивающий всё вокруг|Schleier|noun; masculine
+8331|подтянуть|Натянуть туже, затянуть|straffen|verb; perfective; infinitive
+8332|штабной|Относящийся к штабу|Stabs-|adjective
+8333|белокурый|Светло-русый, со светлыми волосами|blond|adjective
+8334|пристроить|Устроить, разместить; достроить|unterbringen|verb; perfective; infinitive
+8335|прикурить|Закурить от чужого огня|Feuer geben|verb; perfective; infinitive
+8336|выписывать|Извлекать и записывать нужное из текста|herausschreiben|verb; imperfective; infinitive
+8337|кидаться|Бросаться на кого-либо или куда-либо|sich stürzen|verb; imperfective; infinitive; reflexive
+8338|кассета|Закрытый контейнер для магнитной ленты или плёнки|Kassette|noun; feminine
+8339|жердь|Длинная тонкая жёрдь, шест из тонкого ствола|Stange|noun; feminine
+8340|вонять|Издавать неприятный запах|stinken|verb; imperfective; infinitive
+8341|навык|Умение, выработанное упражнением и привычкой|Fertigkeit|noun; feminine
+8342|узенький|Очень узкий|schmal|adjective
+8343|отсек|Изолированная часть помещения или конструкции|Abteil|noun; neuter
+8344|бессилие|Отсутствие сил, физическая слабость|Ohnmacht|noun; feminine
+8345|застолье|Праздничное застолье, общее угощение|Tafelrunde|noun; feminine
+8346|одышка|Затруднённое дыхание, нарушение его ритма|Kurzatmigkeit|noun; feminine
+8347|выпь|Ночная болотная птица семейства цаплевых|Rohrdommel|noun; feminine
+8348|настойчивый|Упорный, твёрдый в достижении цели|beharrlich|adjective
+8349|рецензия|Критический отзыв о произведении|Rezension|noun; feminine
+8350|пригорок|Небольшой холм, бугор|Hügel|noun; masculine

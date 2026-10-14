@@ -1,0 +1,99 @@
+7701|подсунуть|to slip in|verb; perfective
+7702|писательский|writer's|adjective
+7703|порасти|to become overgrown|verb; perfective
+7704|запоминать|to memorize|verb; imperfective
+7705|пласт|layer|noun; singular
+7706|грузовой|cargo|adjective
+7707|перевязать|to bandage|verb; perfective
+7708|прописка|residence registration|noun; singular
+7709|предлог|preposition|noun; singular
+7710|популярность|popularity|noun; singular; uncountable
+7711|обслуживать|to serve|verb; imperfective
+7712|сочувственно|sympathetically|adverb
+7713|цилиндр|cylinder|noun; singular
+7714|договорить|to finish speaking|verb; perfective
+7715|пробегать|to run around|verb; imperfective
+7716|сапер|sapper|noun; singular
+7717|царапина|scratch|noun; singular
+7718|румянец|blush|noun; singular
+7719|страстно|passionately|adverb
+7720|невозможность|impossibility|noun; singular; uncountable
+7721|рискованный|risky|adjective
+7722|замужем|married|adverb
+7723|неумолимый|relentless|adjective
+7724|накладывать|to apply|verb; imperfective
+7725|красноватый|reddish|adjective
+7726|старческий|senile|adjective
+7727|ошеломить|to stun|verb; perfective
+7728|любезно|kindly|adverb
+7729|тренировка|training|noun; singular
+7730|вставлять|to insert|verb; imperfective
+7731|бездарный|talentless|adjective
+7732|торт|cake|noun; singular
+7733|печататься|to be published|verb; imperfective; reflexive
+7734|чертеж|blueprint|noun; singular
+7735|бессонница|insomnia|noun; singular; uncountable
+7736|разочаровать|to disappoint|verb; perfective
+7737|выкрикнуть|to shout out|verb; perfective
+7738|тщательный|thorough|adjective
+7739|придавить|to press down|verb; perfective
+7740|Дудырев|Dudyrev|noun; singular; proper
+7741|усиленный|intensified|adjective
+7742|силен|strong|adjective
+7743|органический|organic|adjective
+7744|прерывать|to interrupt|verb; imperfective
+7745|заказывать|to order|verb; imperfective
+7746|плотник|carpenter|noun; singular
+7747|плавание|swimming|noun; singular; uncountable
+7748|прибить|to nail|verb; perfective
+7749|унизительный|humiliating|adjective
+7750|истинно|truly|adverb
+7751|подлость|meanness|noun; singular
+7752|портной|tailor|noun; singular
+7753|радиостанция|radio station|noun; singular
+7754|гага|eider|noun; singular
+7755|марс|mast top|noun; singular
+7756|голец|char|noun; singular
+7757|зоопарк|zoo|noun; singular
+7758|пчела|bee|noun; singular
+7759|ослабить|to weaken|verb; perfective
+7760|облегчить|to ease|verb; perfective
+7761|населенный|populated|adjective
+7762|устремить|to direct|verb; perfective
+7763|зрелый|mature|adjective
+7764|отбрасывать|to discard|verb; imperfective
+7765|одуванчик|dandelion|noun; singular
+7766|табурет|stool|noun; singular
+7767|побояться|to be afraid|verb; perfective; reflexive
+7768|преступность|crime|noun; singular; uncountable
+7769|беспокойный|restless|adjective
+7770|закивать|to start nodding|verb; perfective
+7771|моча|urine|noun; singular; uncountable
+7772|усвоить|to assimilate|verb; perfective
+7773|грянуть|to burst out|verb; perfective
+7774|снижаться|to decrease|verb; imperfective; reflexive
+7775|контур|contour|noun; singular
+7776|страж|guardian|noun; singular
+7777|величественный|majestic|adjective
+7778|установление|establishment|noun; singular
+7779|обозначать|to denote|verb; imperfective
+7780|целиться|to aim|verb; imperfective; reflexive
+7781|подножие|foot|noun; singular
+7782|стекать|to flow down|verb; imperfective
+7783|отворачиваться|to turn away|verb; imperfective; reflexive
+7784|пирожок|small pie|noun; singular
+7786|математический|mathematical|adjective
+7787|стряхнуть|to shake off|verb; perfective
+7788|влечь|to entail|verb; imperfective
+7789|клавиша|key|noun; singular
+7790|задохнуться|to suffocate|verb; perfective; reflexive
+7791|бомбардировщик|bomber|noun; singular
+7792|лепешка|flatbread|noun; singular
+7793|вязать|to knit|verb; imperfective
+7794|выдержка|composure|noun; singular; uncountable
+7795|Великобритания|Great Britain|noun; singular; proper
+7796|низ|bottom|noun; singular
+7797|издатель|publisher|noun; singular
+7798|сень|shelter|noun; singular
+7799|госдума|State Duma|noun; singular; proper
+7800|смешаться|to mix|verb; perfective; reflexive

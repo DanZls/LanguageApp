@@ -1,0 +1,50 @@
+6901|мельница|Предприятие или здание для размола зерна|Mühle|noun; feminine
+6902|шов|Место соединения сшитых кусков|Naht|noun; feminine
+6903|рекомендоваться|Называть себя при знакомстве|sich vorstellen|verb; imperfective; infinitive; reflexive
+6904|балтийский|Относящийся к Балтийскому региону|Baltisch-|adjective
+6905|наполнять|Заполнять до краёв; делать полным|füllen|verb; imperfective; infinitive
+6906|датчик|Устройство, регистрирующее и передающее измерения|Sensor|noun; masculine
+6907|сформулировать|Оформить мысль в словесное выражение|formulieren|verb; perfective; infinitive
+6908|бульдозер|Землеройная машина с широким ножом на тракторе|Bulldozer|noun; masculine
+6909|бланк|Лист с напечатанными графами для заполнения|Formular|noun; neuter
+6910|капать|Падать каплями|tropfen|verb; imperfective; infinitive
+6911|галка|Небольшая птица семейства вороновых|Dohle|noun; feminine
+6912|рукавица|Предмет одежды, закрывающий всю кисть|Fäustling|noun; masculine
+6913|пересекать|Двигаясь, проходить через что-либо|überqueren|verb; imperfective; infinitive
+6914|тачка|Ручная одноколёсная тележка|Schubkarre|noun; feminine
+6915|завоевать|Захватить силой; овладеть|erobern|verb; perfective; infinitive
+6916|Каролина|Женское имя собственное|Karolina|noun; feminine; proper
+6917|сознаться|Признаться в чём-либо|gestehen|verb; perfective; infinitive
+6918|отбирать|Отнимать; забирать назад|wegnehmen|verb; imperfective; infinitive
+6919|немного|Не очень много; слегка|ein wenig|adverb
+6920|покрыться|Покрыть себя чем-либо|sich bedecken|verb; perfective; infinitive; reflexive
+6921|сдвинуться|Переместиться с места|sich verschieben|verb; perfective; infinitive; reflexive
+6922|расписание|График с указанием времени и последовательности событий|Fahrplan|noun; masculine
+6923|сокол|Быстрая хищная птица|Falke|noun; masculine
+6924|шить|Соединять нитью; сшивать|nähen|verb; imperfective; infinitive
+6925|оглушить|Лишить или ослабить слух|betäuben|verb; perfective; infinitive
+6926|мерзкий|Отвратительный; гадкий|widerlich|adjective
+6927|лор|Врач-отоларинголог|HNO-Arzt|noun; masculine
+6928|вызывающий|Содержащий вызов; дерзкий|provokant|adjective
+6929|мыться|Очищать тело водой|sich waschen|verb; imperfective; infinitive; reflexive
+6930|дипломатический|Относящийся к дипломатии|diplomatisch|adjective
+6931|мари|Финно-угорский народ, коренное население Марий Эл|Marer|noun; plural; proper
+6932|садик|Детский сад для дошкольников|Kindergarten|noun; masculine
+6933|загреметь|Начать греметь с шумом|lärmen|verb; perfective; infinitive
+6934|колдовство|Магические приёмы воздействия|Zauberei|noun; feminine
+6935|повалиться|Тяжело упасть|hinfallen|verb; perfective; infinitive
+6936|оглушительный|Очень громкий; способный оглушить|ohrenbetäubend|adjective
+6937|фронтовой|Относящийся к фронту|Front-|adjective
+6938|тяжко|Очень тяжело|schwer|adverb
+6939|ось|Стержень, на котором вращаются колёса|Achse|noun; feminine
+6940|погнать|Начать гнать; пустить вперёд|jagen|verb; perfective; infinitive
+6941|капиталистический|Относящийся к капитализму|kapitalistisch|adjective
+6942|обрадовать|Вызвать радость; порадовать|erfreuen|verb; perfective; infinitive
+6943|взамен|В обмен на что-либо|im Austausch|adverb
+6944|завершение|Окончание; завершающая часть|Abschluss|noun; masculine
+6945|грызть|Раскусывать зубами твёрдое|nagen|verb; imperfective; infinitive
+6946|дразнить|Намеренно злить или раздражать|necken|verb; imperfective; infinitive
+6947|двоюродный|Находящийся в боковом родстве через брата или сестру родителя|Cousin-|adjective
+6948|правовой|Относящийся к праву|rechtlich|adjective
+6949|отрицательно|Неодобрительно; с отрицанием|negativ|adverb
+6950|упавший|Слабый от волнения или страха (о голосе)|gesunken|adjective

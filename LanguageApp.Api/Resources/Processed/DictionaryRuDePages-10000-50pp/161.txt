@@ -1,0 +1,50 @@
+8051|дуэль|Поединок между двумя лицами|Duell|noun; neuter
+8052|добром|По доброй воле, без принуждения|freiwillig|adverb
+8053|подпольный|Нелегальный, конспиративный|unterirdisch|adjective
+8054|укрытие|Место или сооружение, защищающее от чего-либо|Unterstand|noun; masculine
+8055|ураган|Ветер разрушительной силы|Orkan|noun; masculine
+8056|причинить|Стать причиной чего-либо неприятного|verursachen|verb; perfective; infinitive
+8057|си|Нота си (в музыке)|H|noun; neuter; indeclinable
+8058|затвор|Запирающий механизм, устройство|Verschluss|noun; masculine
+8059|элегантный|Изысканный, изящный|elegant|adjective
+8060|прокатиться|Совершить короткую поездку для удовольствия|eine Spritztour machen|verb; perfective; infinitive
+8061|помедлить|Немного подождать, не торопиться с действием|zögern|verb; perfective; infinitive
+8062|насыпь|Искусственное возвышение из земли или сыпучих материалов|Damm|noun; masculine
+8063|аптекарь|Специалист, работающий в аптеке|Apotheker|noun; masculine
+8064|вбежать|Войти куда-либо бегом|hereinlaufen|verb; perfective; infinitive
+8065|хвастаться|Говорить о себе с самовосхвалением|prahlen|verb; imperfective; infinitive
+8066|завалиться|Потерпеть неудачу, провалиться|scheitern|verb; perfective; infinitive
+8067|хромой|Имеющий повреждённую ногу, хромающий|lahm|adjective
+8068|отстранить|Освободить от исполнения обязанностей|absetzen|verb; perfective; infinitive
+8069|нутро|Внутренняя часть, внутренности|Inneres|noun; neuter
+8070|подача|Процесс или результат подачи чего-либо|Zufuhr|noun; feminine
+8071|сверх|Указывает на превышение меры или нормы|über|preposition
+8072|доброволец|Тот, кто добровольно вступил в армию|Freiwilliger|noun; masculine
+8073|перекинуть|Бросить через что-либо или в другое место|hinüberwerfen|verb; perfective; infinitive
+8074|свисток|Приспособление для производства свиста|Pfeife|noun; feminine
+8075|рассеянный|Невнимательный, не умеющий сосредоточиться|zerstreut|adjective
+8076|грузчик|Рабочий, занимающийся погрузкой и выгрузкой|Ladearbeiter|noun; masculine
+8077|мах|Один взмах или оборот|Schwung|noun; masculine
+8078|болван|Тупица, невежда|Trottel|noun; masculine
+8079|вверху|В верхней части, на высоте|oben|adverb
+8080|фланг|Боковая часть воинского строя|Flanke|noun; feminine
+8081|печатный|Напечатанный, опубликованный в печати|gedruckt|adjective
+8082|заключать|Делать вывод, делать умозаключение|schlussfolgern|verb; imperfective; infinitive
+8083|безразличный|Равнодушный, безучастный|gleichgültig|adjective
+8084|попятиться|Начать двигаться назад|zurückweichen|verb; perfective; infinitive
+8085|карниз|Выступ вдоль верхней части стены над окном или дверью|Gesims|noun; neuter
+8086|рыхлый|Неплотный, пористый, рассыпчатый|locker|adjective
+8087|настежь|Полностью распахнув|weit offen|adverb
+8088|утешить|Успокоить, облегчить горе или страдание|trösten|verb; perfective; infinitive
+8089|забежать|Зайти куда-либо на короткое время|kurz vorbeikommen|verb; perfective; infinitive
+8090|инерция|Свойство тел сохранять состояние движения или покоя|Trägheit|noun; feminine
+8091|бар|Небольшое заведение с барной стойкой|Bar|noun; feminine
+8092|переливаться|Блестеть переливчатым светом|schimmern|verb; imperfective; infinitive
+8093|веник|Связка веток или сухих стеблей для подметания|Besen|noun; masculine
+8094|подталкивать|Побуждать к действиям, торопить|antreiben|verb; imperfective; infinitive
+8095|поделить|Разделить на части, распределить|aufteilen|verb; perfective; infinitive
+8096|пурга|Сильная снежная буря|Schneesturm|noun; masculine
+8097|впиться|Крепко вонзиться во что-либо|sich festbeißen|verb; perfective; infinitive; reflexive
+8098|ближний|Наиболее близкий по расстоянию|nächste|adjective
+8099|отбор|Выделение кого-либо из общей среды по определённым критериям|Auswahl|noun; feminine
+8100|отвлекаться|Уклоняться от основной темы или дела|sich ablenken|verb; imperfective; infinitive; reflexive

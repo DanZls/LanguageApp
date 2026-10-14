@@ -1,0 +1,50 @@
+1551|приезжать|Прибывать на транспорте; приезжать|ankommen|verb; imperfective; infinitive
+1552|катить|Двигать, вращая по поверхности; катить колёса|rollen|verb; imperfective; infinitive
+1553|совесть|Чувство нравственной ответственности за своё поведение|Gewissen|noun; neuter
+1554|кофе|Напиток из молотых обжаренных зёрен кофейного дерева|Kaffee|noun; masculine; indeclinable
+1555|штаны|Одежда, покрывающая нижнюю часть туловища и ноги|Hose|noun; feminine
+1556|охота|Поиск и выслеживание животных с целью поимки или добычи|Jagd|noun; feminine
+1557|бровь|Дугообразная полоска волос над глазной впадиной|Augenbraue|noun; feminine
+1558|расти|Увеличиваться в размере; развиваться|wachsen|verb; imperfective; infinitive
+1559|список|Письменный перечень кого-либо или чего-либо|Liste|noun; feminine
+1560|ниже|В направлении вниз; на более низком уровне|tiefer|adverb; comparative
+1561|вернуть|Отдать назад ранее взятое или полученное|zurückgeben|verb; perfective; infinitive
+1562|зависеть|Находиться в зависимости от кого-либо или чего-либо|abhängen|verb; imperfective; infinitive
+1563|ствол|Основная часть дерева от корней до вершины|Stamm|noun; masculine
+1564|основание|Опорная часть предмета или сооружения; фундамент|Grundlage|noun; feminine
+1565|северный|Расположенный на севере; относящийся к северу|nördlich|adjective
+1566|познакомиться|Вступить в знакомство с кем-либо|kennenlernen|verb; perfective; infinitive; reflexive
+1567|поведение|Образ действий и жизни|Verhalten|noun; neuter
+1568|жалить|О насекомых: ранить жалом|stechen|verb; imperfective; infinitive
+1569|найтись|О пропавшем: появиться после поисков|sich finden|verb; perfective; infinitive; reflexive
+1570|делаться|Становиться; приходить в какое-либо состояние|werden|verb; imperfective; infinitive
+1571|догадаться|Сообразить; понять суть по косвенным признакам|erraten|verb; perfective; infinitive
+1572|дальнейший|Следующий за чем-либо; последующий|weitere|adjective
+1573|прожить|Провести определённое время в живых|durchleben|verb; perfective; infinitive
+1574|усилие|Напряжение физических или умственных сил|Anstrengung|noun; feminine
+1575|гулять|Совершать прогулку; проводить время на воздухе|spazieren gehen|verb; imperfective; infinitive
+1576|клетка|Элементарная живая единица строения организма|Zelle|noun; feminine
+1577|разобраться|Изучив, хорошо понять кого-либо или что-либо|verstehen|verb; perfective; infinitive; reflexive
+1578|обращать|Направлять; поворачивать к чему-либо|richten|verb; imperfective; infinitive
+1579|верхний|Расположенный вверху; находящийся выше остальных|obere|adjective
+1580|обстановка|Положение и условия существования|Lage|noun; feminine
+1581|температура|Физическая величина, характеризующая тепловое состояние|Temperatur|noun; feminine
+1582|вывод|Умозаключение; логически выведенное заключение|Schlussfolgerung|noun; feminine
+1583|абсолютно|Совсем; полностью; без исключений|absolut|adverb
+1584|предприятие|Производственное или хозяйственное учреждение|Unternehmen|noun; neuter
+1585|принятый|Взятый; полученный; утверждённый|angenommen|adjective
+1586|отдавать|Передавать; отдавать обратно; иметь привкус|abgeben|verb; imperfective; infinitive
+1587|сходить|Спускаться; покидать место|hinuntergehen|verb; imperfective; infinitive
+1588|подарок|Вещь, преподнесённая в дар|Geschenk|noun; neuter
+1589|звучать|Издавать звуки; производить звучание|klingen|verb; imperfective; infinitive
+1590|отделение|Обособленная часть помещения или организации|Abteilung|noun; feminine
+1591|волноваться|Приходить в возбуждение или тревогу|sich aufregen|verb; imperfective; infinitive; reflexive
+1592|нижний|Расположенный внизу; находящийся ниже остальных|untere|adjective
+1593|штука|Отдельный предмет из числа однородных|Stück|noun; neuter
+1594|защита|То, что служит обороной; охрана|Schutz|noun; masculine
+1595|вряд|Едва ли; сомнительно, что|kaum|particle
+1596|выстрел|Взрыв заряда в стволе оружия; звук такого взрыва|Schuss|noun; masculine
+1597|тотчас|Сейчас же; немедленно|sofort|adverb
+1598|суть|Самое главное; сущность|Wesen|noun; neuter
+1599|труп|Мёртвое тело человека или животного|Leiche|noun; feminine
+1600|основа|Главное, на чём строится что-либо; фундамент|Grundlage|noun; feminine

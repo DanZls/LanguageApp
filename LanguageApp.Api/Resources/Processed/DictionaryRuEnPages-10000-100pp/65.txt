@@ -1,0 +1,100 @@
+6401|карась|crucian carp|noun; singular
+6402|чувствительность|sensitivity|noun; singular; uncountable
+6403|поверхностный|superficial|adjective
+6404|предстать|to appear|verb; perfective
+6405|сие|this|pronoun; neuter
+6406|подле|beside|preposition
+6407|ссориться|to quarrel|verb; imperfective; reflexive
+6408|глиняный|clay|adjective
+6409|секция|section|noun; singular
+6410|маленько|a little|adverb
+6411|оправдание|justification|noun; singular
+6412|сжаться|to shrink|verb; perfective; reflexive
+6413|бегство|flight|noun; singular; uncountable
+6414|наизусть|by heart|adverb
+6415|мамин|mom's|adjective
+6416|числиться|to be listed|verb; imperfective; reflexive
+6417|пальчик|little finger|noun; singular
+6418|бабий|womanish|adjective
+6419|первичный|primary|adjective
+6420|дыхательный|respiratory|adjective
+6421|выявить|to reveal|verb; perfective
+6422|высказывание|statement|noun; singular
+6423|мент|cop|noun; singular
+6424|диалог|dialogue|noun; singular
+6425|раздеться|to undress|verb; perfective; reflexive
+6426|дядька|tutor|noun; singular
+6427|застава|outpost|noun; singular
+6428|соревнование|competition|noun; singular
+6429|вялый|sluggish|adjective
+6430|зам|deputy|noun; singular; abbreviation
+6431|жулик|swindler|noun; singular
+6432|жутко|terribly|adverb
+6433|породить|to give rise to|verb; perfective
+6434|манер|manner|noun; singular
+6435|укладывать|to lay|verb; imperfective
+6436|пролетариат|proletariat|noun; singular; uncountable
+6437|условный|conditional|adjective
+6438|клинок|blade|noun; singular
+6439|усмехаться|to smirk|verb; imperfective; reflexive
+6440|спецслужба|special service|noun; singular
+6441|пулеметный|machine-gun|adjective
+6442|замена|replacement|noun; singular
+6443|почесать|to scratch|verb; perfective
+6444|частота|frequency|noun; singular
+6445|одиноко|lonely|adverb
+6446|пуща|dense forest|noun; singular
+6447|беспощадный|merciless|adjective
+6448|прицел|sight|noun; singular
+6449|разыскивать|to search for|verb; imperfective
+6450|подъезжать|to approach|verb; imperfective
+6451|пирамида|pyramid|noun; singular
+6452|табачный|tobacco|adjective
+6453|роскошь|luxury|noun; singular; uncountable
+6454|светить|to shine|verb; imperfective
+6455|наносить|to inflict|verb; imperfective
+6456|вырастить|to raise|verb; perfective
+6457|распад|decay|noun; singular; uncountable
+6458|налететь|to swoop down|verb; perfective
+6459|повествование|narrative|noun; singular
+6460|прислониться|to lean against|verb; perfective; reflexive
+6461|неудачный|unsuccessful|adjective
+6462|связываться|to get in touch|verb; imperfective; reflexive
+6463|недобрый|unkind|adjective
+6464|мгновенье|instant|noun; singular
+6465|оскорбление|insult|noun; singular
+6466|ворона|crow|noun; singular
+6467|брызги|splashes|noun; plural
+6468|склонность|inclination|noun; singular
+6469|штраф|fine|noun; singular
+6470|убежище|shelter|noun; singular
+6471|тысячелетие|millennium|noun; singular
+6472|оплата|payment|noun; singular; uncountable
+6473|проезд|passage|noun; singular
+6474|образовывать|to form|verb; imperfective
+6475|конюшня|stable|noun; singular
+6476|коллективный|collective|adjective
+6477|собачка|trigger|noun; singular
+6478|изумиться|to be amazed|verb; perfective; reflexive
+6479|следственный|investigative|adjective
+6480|угостить|to treat|verb; perfective
+6481|заклинание|spell|noun; singular
+6482|лечебный|therapeutic|adjective
+6483|урод|freak|noun; singular
+6484|транспортный|transport|adjective
+6485|манить|to lure|verb; imperfective
+6486|недра|depths|noun; plural
+6487|добровольно|voluntarily|adverb
+6488|плен|captivity|noun; singular; uncountable
+6489|потенциальный|potential|adjective
+6490|взлетать|to take off|verb; imperfective
+6491|телевизионный|television|adjective
+6492|стащить|to drag off|verb; perfective
+6493|изобретение|invention|noun; singular
+6494|смириться|to resign oneself|verb; perfective; reflexive
+6495|присущий|inherent|adjective
+6496|сообщество|community|noun; singular
+6497|приказание|order|noun; singular
+6498|затрата|expense|noun; plural
+6499|расслабиться|to relax|verb; perfective; reflexive
+6500|дуга|arc|noun; singular

@@ -1,0 +1,50 @@
+8601|концлагерь|Концентрационный лагерь|Konzentrationslager|noun; neuter
+8602|сдержаться|Удержать себя от проявления чувств|sich beherrschen|verb; perfective; infinitive; reflexive
+8603|вывалиться|Упасть, выпасть откуда-либо|herausfallen|verb; perfective; infinitive
+8604|призрачный|Нереальный, похожий на призрак|gespenstisch|adjective
+8605|призванный|Предназначенный для какой-либо деятельности|berufen|adjective; participle
+8606|ракетный|Относящийся к ракетам|Raketen-|adjective
+8607|клоп|Насекомое с колющим хоботком, питающееся кровью|Wanze|noun; feminine
+8608|чесаться|Чесать часть своего тела|sich kratzen|verb; imperfective; infinitive; reflexive
+8609|лекарь|Врач; тот, кто лечит|Arzt|noun; masculine
+8610|жигули|Марка советского легкового автомобиля|Schiguli|noun; plural
+8611|пригнуться|Несколько наклониться, пригнуть голову|sich ducken|verb; perfective; infinitive; reflexive
+8612|темперамент|Совокупность психофизиологических особенностей личности|Temperament|noun; neuter
+8613|согреться|Стать тёплым под воздействием тепла|sich erwärmen|verb; perfective; infinitive; reflexive
+8614|возвратить|Вернуть на место или владельцу|zurückgeben|verb; perfective; infinitive
+8615|двойка|Неудовлетворительная оценка, школьная «двойка»|Zwei|noun; feminine
+8616|депо|Предприятие для обслуживания и хранения транспортных средств|Depot|noun; neuter; indeclinable
+8617|милосердие|Готовность помочь из сострадания|Barmherzigkeit|noun; feminine
+8618|непроизвольный|Происходящий независимо от воли|unwillkürlich|adjective
+8619|высказывать|Сообщать вслух своё мнение или суждение|äußern|verb; imperfective; infinitive
+8620|аборт|Прерывание беременности|Abtreibung|noun; feminine
+8621|трепет|Сильное волнение, напряжение чувств|Zittern|noun; neuter
+8622|дивный|Удивительный, восхитительный|wunderbar|adjective
+8623|водород|Химический элемент, самый лёгкий газ|Wasserstoff|noun; masculine
+8624|колоссальный|Очень большой, огромный|kolossal|adjective
+8625|тащиться|Идти медленно, с трудом|sich schleppen|verb; imperfective; infinitive; reflexive
+8626|проезжий|Пригодный для езды|befahrbar|adjective
+8627|географический|Относящийся к географии|geografisch|adjective
+8628|ба|Восклицание, выражающее удивление|ha|miscellaneous
+8629|неловкий|Лишённый ловкости, неуклюжий|ungeschickt|adjective
+8630|комбинация|Сочетание, взаимное расположение элементов|Kombination|noun; feminine
+8631|качнуть|Резко двинуть в одну сторону, качнуть|anstoßen|verb; perfective; infinitive
+8632|ожесточенный|Полный ожесточения, жестокий|erbittert|adjective
+8633|методика|Система методов обучения или практического выполнения|Methodik|noun; feminine
+8634|племянница|Дочь брата или сестры|Nichte|noun; feminine
+8635|банка|Цилиндрический сосуд для хранения|Glas|noun; neuter
+8636|чехол|Защитное покрытие из мягкого материала|Hülle|noun; feminine
+8637|громоздкий|Тяжёлый, массивный, занимающий много места|sperrig|adjective
+8638|умудриться|Суметь сделать что-либо трудное|es schaffen|verb; perfective; infinitive
+8639|приступать|Начинать, браться за что-либо|beginnen|verb; imperfective; infinitive
+8640|загонять|Загонять внутрь, вгонять|hineintreiben|verb; imperfective; infinitive
+8641|эстетический|Относящийся к эстетике, чувству прекрасного|ästhetisch|adjective
+8642|суетливый|Склонный к излишней суете|hektisch|adjective
+8643|микроб|Микроорганизм, возбудитель болезни|Mikrobe|noun; feminine
+8644|ворох|Куча, беспорядочная груда|Haufen|noun; masculine
+8645|кубок|Массивный сосуд-чаша из ценного материала; спортивный трофей|Pokal|noun; masculine
+8646|миномет|Артиллерийское орудие, стреляющее минами|Mörser|noun; masculine
+8647|губерния|Основная административная единица России до 1929 года|Gouvernement|noun; neuter
+8648|фильтр|Устройство для очищения жидкостей или газов|Filter|noun; masculine
+8649|пользование|Использование чего-либо|Benutzung|noun; feminine
+8650|шиворот|Воротник; за шиворот (за ворот)|Kragen|noun; masculine

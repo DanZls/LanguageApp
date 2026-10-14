@@ -1,0 +1,99 @@
+7401|минус|minus|noun; singular
+7402|шахматный|chess|adjective
+7403|всхлипывать|to sob|verb; imperfective
+7404|убогий|miserable|adjective
+7405|дистанция|distance|noun; singular
+7406|репетиция|rehearsal|noun; singular
+7407|посылка|parcel|noun; singular
+7408|арка|arch|noun; singular
+7409|ложе|bed|noun; singular
+7411|химик|chemist|noun; singular
+7412|чемоданчик|small suitcase|noun; singular
+7413|ежедневный|daily|adjective
+7414|щи|cabbage soup|noun; singular; uncountable
+7415|спрашиваться|to be required|verb; imperfective; reflexive
+7416|запахнуть|to start smelling|verb; perfective
+7417|покойный|deceased person|noun; singular
+7418|заулыбаться|to start smiling|verb; perfective; reflexive
+7419|тоннель|tunnel|noun; singular
+7420|славно|nicely|adverb
+7421|просвет|clearing|noun; singular
+7422|белоснежный|snow-white|adjective
+7423|усиление|reinforcement|noun; singular
+7424|интимный|intimate|adjective
+7425|убедительно|convincingly|adverb
+7426|прописать|to register|verb; perfective
+7427|подбить|to shoot down|verb; perfective
+7428|высыпать|to pour out|verb; perfective
+7429|шевельнуться|to stir|verb; perfective; reflexive
+7430|питать|to feed|verb; imperfective
+7431|хлопец|lad|noun; singular
+7432|расписаться|to sign|verb; perfective; reflexive
+7433|Полянин|Polyanin|noun; singular; proper
+7434|емкость|capacity|noun; singular
+7435|замахать|to start waving|verb; perfective
+7436|нечаянно|accidentally|adverb
+7437|дефицит|shortage|noun; singular
+7438|грузный|hefty|adjective
+7439|головной|leading|adjective
+7440|заказчик|customer|noun; singular
+7441|невесть|goodness knows|adverb
+7442|обострение|aggravation|noun; singular
+7443|скончаться|to pass away|verb; perfective; reflexive
+7444|приставать|to pester|verb; imperfective; reflexive
+7445|конвой|convoy|noun; singular
+7446|сахарный|sugar|adjective
+7447|мгновенный|instant|adjective
+7448|сортир|toilet|noun; singular
+7449|тюльпан|tulip|noun; singular
+7450|МВД|Ministry of Internal Affairs|noun; singular; abbreviation
+7451|утопить|to drown|verb; perfective
+7452|удаление|removal|noun; singular; uncountable
+7453|интеллект|intellect|noun; singular; uncountable
+7454|существенно|significantly|adverb
+7455|ячейка|cell|noun; singular
+7456|сыщик|detective|noun; singular
+7457|архитектор|architect|noun; singular
+7458|банковский|banking|adjective
+7459|жеребец|stallion|noun; singular
+7460|заводской|factory|adjective
+7461|блондинка|blonde|noun; singular
+7462|параллельный|parallel|adjective
+7463|провозгласить|to proclaim|verb; perfective
+7464|чудиться|to seem|verb; imperfective; reflexive
+7465|погружаться|to immerse oneself|verb; imperfective; reflexive
+7466|укладываться|to fit|verb; imperfective; reflexive
+7467|цветущий|flourishing|adjective
+7468|теоретически|theoretically|adverb
+7469|виться|to curl|verb; imperfective; reflexive
+7470|подонок|scum|noun; singular
+7471|спальный|sleeping|adjective
+7472|озноб|chills|noun; plural
+7473|помирать|to die|verb; imperfective
+7474|загудеть|to start humming|verb; perfective
+7475|заявка|application|noun; singular
+7476|свалка|dump|noun; singular
+7477|ров|moat|noun; singular
+7478|хранитель|keeper|noun; singular
+7479|свита|entourage|noun; singular
+7480|безразлично|indifferently|adverb
+7481|укоризненный|reproachful|adjective
+7482|грешный|sinful|adjective
+7483|обследование|examination|noun; singular
+7484|потребитель|consumer|noun; singular
+7485|угольный|coal|adjective
+7486|проваливаться|to fall through|verb; imperfective; reflexive
+7487|иммиграционный|immigration|adjective
+7488|стандарт|standard|noun; singular
+7489|паук|spider|noun; singular
+7490|декан|dean|noun; singular
+7491|продовольствие|food supplies|noun; singular; uncountable
+7492|чутье|instinct|noun; singular; uncountable
+7493|обыкновение|habit|noun; singular
+7494|коренной|indigenous|adjective
+7495|обеденный|dining|adjective
+7496|напор|pressure|noun; singular; uncountable
+7497|уводить|to lead away|verb; imperfective
+7498|королевство|kingdom|noun; singular
+7499|чуткий|sensitive|adjective
+7500|поиграть|to play a bit|verb; perfective

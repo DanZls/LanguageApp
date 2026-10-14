@@ -1,0 +1,100 @@
+6201|батя|dad|noun; singular
+6202|география|geography|noun; singular; uncountable
+6203|забить|to drive in|verb; perfective
+6204|огневой|fiery|adjective
+6205|отрасль|branch|noun; singular
+6206|увлечь|to captivate|verb; perfective
+6207|розыск|search|noun; singular
+6208|таз|basin|noun; singular
+6209|перевернуться|to turn over|verb; perfective; reflexive
+6210|завтракать|to have breakfast|verb; imperfective
+6211|городской|urban|adjective
+6212|корка|crust|noun; singular
+6213|кишечник|intestine|noun; plural
+6214|комсомол|Komsomol|noun; singular
+6215|кашлять|to cough|verb; imperfective
+6216|ухватиться|to grab hold|verb; perfective; reflexive
+6217|отступление|digression|noun; singular
+6218|ожог|burn|noun; singular
+6219|уменьшаться|to decrease|verb; imperfective; reflexive
+6220|грозно|menacingly|adverb
+6221|стопка|shot glass|noun; singular
+6222|ревность|jealousy|noun; singular; uncountable
+6223|сырость|dampness|noun; singular; uncountable
+6224|бал|ball|noun; singular
+6225|мужественный|courageous|adjective
+6226|невский|Neva|adjective
+6227|демонстрация|demonstration|noun; singular
+6228|радовать|to please|verb; imperfective
+6229|Абалкин|Abalkin|noun; singular; proper
+6230|послужить|to serve for a while|verb; perfective
+6231|хитрость|trick|noun; singular
+6232|применить|to apply|verb; perfective
+6233|надобность|need|noun; singular; uncountable
+6234|послезавтра|the day after tomorrow|adverb
+6235|вылезти|to climb out|verb; perfective
+6236|тупо|stupidly|adverb
+6237|кабан|boar|noun; singular
+6238|гигант|giant|noun; singular
+6239|клетчатый|checkered|adjective
+6240|божественный|divine|adjective
+6241|провинциальный|provincial|adjective
+6242|зажмуриться|to squint|verb; perfective; reflexive
+6243|улочка|small street|noun; singular
+6244|конституция|constitution|noun; singular
+6245|извиниться|to apologize|verb; perfective; reflexive
+6246|озабоченный|concerned|adjective
+6247|жестко|harshly|adverb
+6248|перегородка|partition|noun; singular
+6249|распустить|to dismiss|verb; perfective
+6250|примитивный|primitive|adjective
+6251|ладошка|palm|noun; singular
+6252|элементарный|elementary|adjective
+6253|вскрыть|to open|verb; perfective
+6254|кувшин|jug|noun; singular
+6255|гм|hmm|interjection
+6256|дежурный|person on duty|noun; singular
+6257|президиум|presidium|noun; singular
+6258|бугор|hillock|noun; singular
+6259|раковина|shell|noun; singular
+6260|осуществляться|to be carried out|verb; imperfective; reflexive
+6261|закусывать|to snack|verb; imperfective
+6262|стихия|element|noun; singular
+6263|шнур|cord|noun; singular
+6264|тоскливо|wistfully|adverb
+6265|расширить|to widen|verb; perfective
+6266|застывший|frozen|adjective
+6267|посмеиваться|to chuckle|verb; imperfective; reflexive
+6268|покурить|to smoke a bit|verb; perfective
+6269|обслуживание|service|noun; singular; uncountable
+6270|преподавать|to teach|verb; imperfective
+6271|повышать|to increase|verb; imperfective
+6272|сколь|how much|adverb; obsolete
+6273|сеанс|session|noun; singular
+6274|срывать|to tear off|verb; imperfective
+6275|колея|rut|noun; singular
+6276|трон|throne|noun; singular
+6277|предательство|betrayal|noun; singular; uncountable
+6278|равнодушие|indifference|noun; singular; uncountable
+6279|агрессивный|aggressive|adjective
+6280|попить|to have a drink|verb; perfective
+6281|дракон|dragon|noun; singular
+6282|мемуар|memoir|noun; singular
+6283|наградить|to reward|verb; perfective
+6284|путешествовать|to travel|verb; imperfective
+6285|обозначить|to mark|verb; perfective
+6286|столкновение|collision|noun; singular
+6287|диаметр|diameter|noun; singular
+6288|сотрудничество|cooperation|noun; singular; uncountable
+6289|сдержанный|reserved|adjective
+6290|смертельно|fatally|adverb
+6291|добираться|to get to|verb; imperfective; reflexive
+6292|эмигрант|emigrant|noun; singular
+6293|изобилие|abundance|noun; singular; uncountable
+6294|застегнуть|to fasten|verb; perfective
+6295|звездочка|little star|noun; singular
+6296|бархатный|velvety|adjective
+6297|донос|denunciation|noun; singular
+6298|хрустеть|to crunch|verb; imperfective
+6299|лестничный|staircase|adjective
+6300|бармен|bartender|noun; singular

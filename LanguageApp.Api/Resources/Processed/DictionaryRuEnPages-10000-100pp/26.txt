@@ -1,0 +1,100 @@
+2501|отечественный|domestic|adjective
+2502|снизу|from below|adverb
+2503|прокурор|prosecutor|noun; singular
+2504|карандаш|pencil|noun; singular
+2505|принц|prince|noun; singular
+2506|слышаться|to be heard|verb; regular; reflexive
+2507|лидер|leader|noun; singular
+2508|представляться|to introduce oneself|verb; regular; reflexive
+2509|спирт|alcohol|noun; singular; uncountable
+2510|обеспечить|to provide|verb; perfective
+2511|бизнес|business|noun; singular; uncountable
+2512|иностранец|foreigner|noun; singular
+2513|биться|to beat|verb; irregular; reflexive
+2514|достигнуть|to reach|verb; perfective
+2515|выпускать|to release|verb; regular
+2516|поп|priest|noun; singular
+2517|койка|bunk|noun; singular
+2518|приготовить|to prepare|verb; perfective
+2519|жестокий|cruel|adjective
+2520|руль|steering wheel|noun; singular
+2521|требование|demand|noun; singular
+2522|сволочь|scoundrel|noun; singular
+2523|развиваться|to develop|verb; regular; reflexive
+2524|увы|alas|interjection
+2525|меж|between|preposition
+2526|пожалеть|to regret|verb; perfective
+2527|вызов|call|noun; singular
+2528|спутник|companion|noun; singular
+2529|обойти|to bypass|verb; perfective
+2530|оторвать|to tear off|verb; perfective
+2531|отчаяние|despair|noun; singular; uncountable
+2532|применение|application|noun; singular
+2533|заключаться|to consist|verb; regular; reflexive
+2534|организовать|to organize|verb; perfective
+2535|мука|torment|noun; singular
+2536|приглашать|to invite|verb; regular
+2537|распоряжение|order|noun; singular
+2538|еврейский|jewish|adjective
+2539|галстук|tie|noun; singular
+2540|поддержать|to support|verb; perfective
+2541|сбить|to knock down|verb; perfective
+2542|заработать|to earn|verb; perfective
+2543|госпиталь|hospital|noun; singular
+2544|течь|to flow|verb; irregular
+2545|материальный|material|adjective
+2546|училище|school|noun; singular
+2547|последовать|to follow|verb; perfective
+2548|отличный|excellent|adjective
+2549|стук|knock|noun; singular
+2550|гигантский|giant|adjective
+2551|скандал|scandal|noun; singular
+2552|ледяной|icy|adjective
+2553|отпуск|vacation|noun; singular
+2554|полагаться|to rely|verb; regular; reflexive
+2555|доставать|to get|verb; regular
+2556|продолжить|to continue|verb; perfective
+2557|суровый|harsh|adjective
+2558|рукопись|manuscript|noun; singular
+2559|дура|fool|noun; singular
+2560|полицейский|policeman|noun; singular; irregular plural
+2561|кадр|frame|noun; singular
+2562|сиденье|seat|noun; singular
+2563|ныне|now|adverb
+2564|указывать|to point|verb; regular
+2565|экспедиция|expedition|noun; singular
+2566|спичка|match|noun; singular
+2567|сложиться|to form|verb; perfective; reflexive
+2568|таинственный|mysterious|adjective
+2569|брак|marriage|noun; singular
+2570|посуда|dishes|noun; plural
+2571|снежный|snowy|adjective
+2572|горный|mountain|adjective
+2573|справедливость|justice|noun; singular; uncountable
+2574|лопата|shovel|noun; singular
+2575|набрать|to gather|verb; perfective
+2576|кнопка|button|noun; singular
+2577|предпочитать|to prefer|verb; regular
+2578|необыкновенный|unusual|adjective
+2579|научить|to teach|verb; perfective
+2580|мистер|mister|noun; singular
+2581|дорожка|path|noun; singular
+2582|проявление|manifestation|noun; singular
+2583|такси|taxi|noun; singular; indeclinable
+2584|внутрь|inward|adverb
+2585|ловко|skillfully|adverb
+2586|хрен|horseradish|noun; singular; uncountable
+2587|владелец|owner|noun; singular
+2588|свинья|pig|noun; singular
+2589|плод|fruit|noun; singular
+2590|интересоваться|to be interested|verb; regular; reflexive
+2591|расстрелять|to shoot|verb; perfective
+2592|побывать|to visit|verb; perfective
+2593|вовремя|on time|adverb
+2594|заплакать|to start crying|verb; perfective
+2595|окружить|to surround|verb; perfective
+2596|заседание|meeting|noun; singular
+2597|патрон|cartridge|noun; singular
+2598|охотно|willingly|adverb
+2599|раскрыть|to reveal|verb; perfective
+2600|надел|allotment|noun; singular

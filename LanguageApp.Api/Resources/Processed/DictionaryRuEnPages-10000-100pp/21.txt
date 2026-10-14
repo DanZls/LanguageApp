@@ -1,0 +1,100 @@
+2001|проклятый|damned|adjective
+2002|ветка|branch|noun; singular
+2003|кормить|to feed|verb; regular
+2004|продолжаться|to continue|verb; regular
+2005|разведчик|scout|noun; singular
+2006|отлично|excellently|adverb
+2007|боже|god|interjection
+2008|молодость|youth|noun; singular; uncountable
+2009|отдыхать|to rest|verb; regular
+2010|октябрь|October|noun; singular
+2011|широко|widely|adverb
+2012|храм|temple|noun; singular
+2013|третий|third|numeral; ordinal
+2014|сдать|to hand over|verb; perfective
+2015|шестой|sixth|numeral; ordinal
+2016|жаловаться|to complain|verb; regular; reflexive
+2017|скала|rock|noun; singular
+2018|расчет|calculation|noun; singular
+2019|решиться|to decide|verb; perfective; reflexive
+2020|грозный|formidable|adjective
+2021|сделаться|to become|verb; perfective
+2022|обида|offense|noun; singular
+2023|наступать|to advance|verb; regular
+2024|скрыться|to hide|verb; perfective; reflexive
+2025|огород|vegetable garden|noun; singular
+2026|насколько|how much|adverb
+2027|запас|stock|noun; singular
+2028|особенность|feature|noun; singular
+2029|уезжать|to leave|verb; regular
+2030|заняться|to take up|verb; perfective; reflexive
+2031|шар|sphere|noun; singular
+2032|печка|stove|noun; singular
+2033|неприятный|unpleasant|adjective
+2034|могучий|mighty|adjective
+2035|заранее|in advance|adverb
+2036|открытие|discovery|noun; singular
+2037|переходить|to cross|verb; regular
+2038|орден|order|noun; singular
+2039|попадать|to hit|verb; regular
+2040|ботинок|shoe|noun; singular
+2041|польза|benefit|noun; singular; uncountable
+2042|печать|seal|noun; singular
+2043|пот|sweat|noun; singular; uncountable
+2044|корпус|body|noun; singular
+2045|склад|warehouse|noun; singular
+2046|компьютер|computer|noun; singular
+2047|слева|on the left|adverb
+2048|уважать|to respect|verb; regular
+2049|женить|to marry off|verb; perfective
+2050|рана|wound|noun; singular
+2051|ложиться|to lie down|verb; regular
+2052|коробка|box|noun; singular
+2053|секрет|secret|noun; singular
+2054|седьмой|seventh|numeral; ordinal
+2055|холм|hill|noun; singular
+2056|лесной|forest|adjective
+2057|ремень|belt|noun; singular
+2058|таков|such|pronoun
+2059|произведение|work|noun; singular
+2060|цифра|digit|noun; singular
+2061|привет|hello|noun; singular
+2062|телефонный|telephone|adjective
+2063|помощник|assistant|noun; singular
+2064|полет|flight|noun; singular
+2065|пожар|fire|noun; singular
+2066|корова|cow|noun; singular
+2067|глупость|stupidity|noun; singular; uncountable
+2068|расположить|to place|verb; perfective
+2069|посидеть|to sit for a while|verb; perfective
+2070|налить|to pour|verb; perfective
+2071|симптом|symptom|noun; singular
+2072|сообразить|to figure out|verb; perfective
+2073|южный|southern|adjective
+2074|бумажка|piece of paper|noun; singular
+2075|радио|radio|noun; singular; indeclinable
+2076|торопливый|hasty|adjective
+2077|удаваться|to succeed|verb; regular
+2078|ха|ha|interjection
+2079|профессия|profession|noun; singular
+2080|послышаться|to be heard|verb; perfective; reflexive
+2081|ровный|even|adjective
+2082|старинный|ancient|adjective
+2083|разведка|reconnaissance|noun; singular; uncountable
+2084|свидетель|witness|noun; singular
+2085|указать|to indicate|verb; perfective
+2086|халат|robe|noun; singular
+2087|сегодняшний|today's|adjective
+2088|зимний|winter|adjective
+2089|тьма|darkness|noun; singular; uncountable
+2090|повести|to lead|verb; perfective
+2091|холодно|cold|adverb
+2092|сообщение|message|noun; singular
+2093|гроб|coffin|noun; singular
+2094|подхватить|to catch|verb; perfective
+2095|яма|pit|noun; singular
+2096|позади|behind|adverb
+2097|жест|gesture|noun; singular
+2098|устраивать|to arrange|verb; regular
+2099|шоссе|highway|noun; singular; indeclinable
+2100|участвовать|to participate|verb; regular

@@ -1,0 +1,100 @@
+1201|заговорить|to start speaking|verb; perfective
+1202|мальчишка|kid|noun; singular
+1203|пользоваться|to use|verb; regular; reflexive
+1204|научный|scientific|adjective
+1205|повторять|to repeat|verb; regular
+1206|яркий|bright|adjective
+1207|несколько|several|numeral; cardinal
+1208|учить|to teach|verb; regular
+1209|взяться|to take up|verb; perfective; reflexive
+1210|бегать|to run|verb; irregular
+1211|господь|lord|noun; singular
+1212|общественный|public|adjective
+1213|устроить|to arrange|verb; perfective
+1214|дышать|to breathe|verb; irregular
+1215|лечь|to lie down|verb; irregular
+1216|США|USA|noun; abbreviation
+1217|камера|cell|noun; singular
+1218|победа|victory|noun; singular
+1219|ученый|scientist|noun; singular
+1220|состоять|to consist|verb; irregular; reflexive
+1221|заходить|to drop by|verb; regular
+1222|человечество|humanity|noun; singular; uncountable
+1223|фраза|phrase|noun; singular
+1224|внимательно|attentively|adverb
+1225|гот|goth|noun; singular
+1226|считаться|to be considered|verb; regular; reflexive
+1227|вероятно|probably|adverb
+1228|соседний|neighboring|adjective
+1229|замок|lock|noun; singular
+1230|рыжий|red-haired|adjective
+1231|ездить|to travel|verb; irregular
+1232|господи|lord|interjection
+1233|остановить|to stop|verb; perfective
+1234|встретиться|to meet|verb; perfective; reflexive
+1235|явиться|to appear|verb; perfective; reflexive
+1236|рынок|market|noun; singular
+1237|тяжело|heavily|adverb
+1238|злой|evil|adjective
+1239|клуб|club|noun; singular
+1240|привезти|to bring|verb; perfective
+1241|платить|to pay|verb; irregular
+1242|кость|bone|noun; singular
+1243|дикий|wild|adjective
+1244|личность|personality|noun; singular
+1245|столица|capital|noun; singular
+1246|спасть|to subside|verb; perfective
+1247|здоровье|health|noun; singular; uncountable
+1248|здравствовать|to be healthy|verb; regular
+1249|попытка|attempt|noun; singular
+1250|позволять|to allow|verb; regular
+1251|наиболее|most|adverb
+1252|постепенно|gradually|adverb
+1253|пятый|fifth|numeral; ordinal
+1254|определенный|definite|adjective
+1255|читатель|reader|noun; singular
+1256|шутка|joke|noun; singular
+1257|исторический|historical|adjective
+1258|вслед|after|preposition
+1259|сотрудник|colleague|noun; singular
+1260|внутри|inside|preposition
+1261|собственно|actually|adverb
+1262|родина|homeland|noun; singular
+1263|царь|tsar|noun; singular
+1264|насчет|regarding|preposition
+1265|страница|page|noun; singular
+1266|скорость|speed|noun; singular
+1267|зверь|beast|noun; singular
+1268|помочь|to help|verb; irregular
+1269|заявить|to declare|verb; perfective
+1270|нечто|something|pronoun; neuter
+1271|размер|size|noun; singular
+1272|житель|resident|noun; singular
+1273|секретарь|secretary|noun; singular; irregular plural
+1274|городской|urban|adjective
+1275|прекрасно|wonderfully|adverb
+1276|торчать|to stick out|verb; irregular
+1277|многое|much|pronoun; neuter
+1278|Америка|America|noun; singular; proper
+1279|весело|cheerfully|adverb
+1280|сигарета|cigarette|noun; singular
+1281|полностью|fully|adverb
+1282|пиво|beer|noun; singular; uncountable
+1283|возможный|possible|adjective
+1284|прием|reception|noun; singular
+1285|противник|opponent|noun; singular
+1286|образование|education|noun; singular; uncountable
+1287|продукт|product|noun; singular
+1288|поймать|to catch|verb; perfective
+1289|пуля|bullet|noun; singular
+1290|книжка|booklet|noun; singular
+1291|дальний|distant|adjective
+1292|экономический|economic|adjective
+1293|представитель|representative|noun; singular
+1294|собирать|to collect|verb; regular
+1295|видимый|visible|adjective
+1296|производство|production|noun; singular
+1297|больница|hospital|noun; singular
+1298|ресторан|restaurant|noun; singular
+1299|находить|to find|verb; irregular
+1300|диван|sofa|noun; singular

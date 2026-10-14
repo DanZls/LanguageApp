@@ -1,0 +1,50 @@
+1401|тепло|Нагретое состояние; тепловая энергия|Wärme|noun; feminine
+1402|занимать|Размещаться; занимать пространство или должность|einnehmen|verb; imperfective; infinitive
+1403|песок|Рыхлая порода из мелких зёрен кварца и других минералов|Sand|noun; masculine
+1404|больно|Так, что ощущается боль|schmerzhaft|adverb
+1405|сомнение|Неуверенность в истинности; отсутствие твёрдой веры|Zweifel|noun; masculine
+1406|территория|Ограниченное земельное пространство|Territorium|noun; neuter
+1407|тайна|Нечто скрываемое от других; секрет|Geheimnis|noun; neuter
+1408|волк|Хищное животное семейства псовых|Wolf|noun; masculine
+1409|терять|Лишаться чего-либо по небрежности или случайно|verlieren|verb; imperfective; infinitive
+1410|приятель|Близкий дружески расположенный знакомый|Freund|noun; masculine
+1411|рукав|Часть одежды, покрывающая руку|Ärmel|noun; masculine
+1412|дедушка|Отец матери или отца|Großvater|noun; masculine
+1413|вскочить|Быстро подняться с места|aufspringen|verb; perfective; infinitive
+1414|прочитать|Ознакомиться с текстом путём чтения|lesen|verb; perfective; infinitive
+1415|честно|Без обмана; по совести|ehrlich|adverb
+1416|масло|Жировое вещество животного, растительного или минерального происхождения|Öl|noun; neuter
+1417|постоянный|Не прекращающийся; неизменный|ständig|adjective
+1418|дорогой|Любимый; милый; близкий сердцу|lieb|adjective
+1419|всякая|Каждая из нескольких; любая|jede|pronoun; determiner
+1420|существование|Жизнь; бытие|Existenz|noun; feminine
+1421|лезть|Взбираться; проникать куда-либо с усилием|klettern|verb; imperfective; infinitive
+1422|младший|Более молодой по возрасту; самый молодой|jünger|adjective; comparative
+1423|отправить|Послать; переслать|absenden|verb; perfective; infinitive
+1424|построить|Соорудить; воздвигнуть здание или сооружение|bauen|verb; perfective; infinitive
+1425|нервный|Легко возбудимый; раздражительный|nervös|adjective
+1426|пустить|Перестать держать; дать свободу|lassen|verb; perfective; infinitive
+1427|рождение|Момент появления на свет|Geburt|noun; feminine
+1428|заглянуть|Быстро посмотреть куда-либо; заглянуть внутрь|hineinschauen|verb; perfective; infinitive
+1429|проговорить|Произнести; выговорить|aussprechen|verb; perfective; infinitive
+1430|воспоминание|Мысленное воспроизведение сохранившегося в памяти|Erinnerung|noun; feminine
+1431|проверить|Удостовериться в правильности; подвергнуть контролю|überprüfen|verb; perfective; infinitive
+1432|болеть|Быть больным; переносить болезнь|krank sein|verb; imperfective; infinitive
+1433|тон|Звук определённой высоты; интонация|Ton|noun; masculine
+1434|понятие|Общая мысль о классе предметов; идея|Begriff|noun; masculine
+1435|низкий|Малый по высоте; невысокий|niedrig|adjective
+1436|далее|Дальше; в продолжение|weiter|adverb
+1437|вечный|Не перестающий существовать; непреходящий|ewig|adjective
+1438|песня|Стихотворно-музыкальное произведение для исполнения голосом|Lied|noun; neuter
+1439|морской|Относящийся к морю|maritim|adjective
+1440|крыло|Орган летания у птиц и насекомых|Flügel|noun; masculine
+1441|поднимать|Перемещать вверх; поднимать|heben|verb; imperfective; infinitive
+1442|розовый|Белый с красноватым оттенком; цвета розы|rosa|adjective
+1443|нарушение|Действие, противоречащее установленному порядку|Verstoß|noun; masculine
+1444|осень|Время года между летом и зимой|Herbst|noun; masculine
+1445|положенный|Установленный заранее; предписанный|vorgesehen|adjective
+1446|туман|Непрозрачный воздух, насыщенный водяными парами|Nebel|noun; masculine
+1447|Ленинград|Бывшее название Санкт-Петербурга (1924–1991)|Leningrad|noun; neuter; proper
+1448|платье|Цельная женская одежда|Kleid|noun; neuter
+1449|представление|Знание или понимание чего-либо; спектакль|Vorstellung|noun; feminine
+1450|важно|Имеет значение; существенно|wichtig|adverb

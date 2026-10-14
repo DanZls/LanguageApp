@@ -1,0 +1,50 @@
+6051|туловище|Тело без конечностей и головы|Rumpf|noun; masculine
+6052|навалиться|С силой налечь, придавить всей тяжестью|sich draufwerfen|verb; perfective; infinitive; reflexive
+6053|переворот|Коренное изменение в государственном строе|Umsturz|noun; masculine
+6054|гипотеза|Научное предположение, требующее подтверждения|Hypothese|noun; feminine
+6055|двинуть|Ударить; нанести удар|schlagen|verb; perfective; infinitive
+6056|неохотно|Без желания; против воли|widerwillig|adverb
+6057|выдохнуть|Сделать выдох; выпустить воздух|ausatmen|verb; perfective; infinitive
+6058|погубить|Привести к гибели; уничтожить|zugrunde richten|verb; perfective; infinitive
+6059|октябрьский|Относящийся к октябрю|Oktober-|adjective
+6060|прикосновение|Лёгкий контакт с поверхностью|Berührung|noun; feminine
+6061|ниша|Углубление в стене для украшений или мебели|Nische|noun; feminine
+6062|ссора|Состояние взаимной вражды; серьёзная размолвка|Streit|noun; masculine
+6063|мускул|Мышечная ткань, приводящая части тела в движение|Muskel|noun; masculine
+6064|партизанский|Относящийся к партизанской борьбе|Partisanen-|adjective
+6065|миссия|Ответственное задание или поручение|Mission|noun; feminine
+6066|комментарий|Разъяснительные примечания к тексту|Kommentar|noun; masculine
+6067|сверток|Вещи, завёрнутые во что-либо|Paket|noun; neuter
+6068|запутаться|Оказаться в затруднительном положении|sich verstricken|verb; perfective; infinitive; reflexive
+6069|сворачивать|Скатывать или складывать во что-либо|zusammenrollen|verb; imperfective; infinitive
+6070|заслать|Отправить не туда или очень далеко|verschicken|verb; perfective; infinitive
+6071|усатый|Имеющий усы|schnurrbärtig|adjective
+6072|перила|Ограждение вдоль лестницы или балкона|Geländer|noun; neuter
+6073|жадный|Стремящийся к наживе; скупой|gierig|adjective
+6074|топить|Поддерживать огонь в печи или очаге|heizen|verb; imperfective; infinitive
+6075|вывернуть|Извлечь, вращая; вывернуть наружу|herausdrehen|verb; perfective; infinitive
+6076|пробиваться|Прорываться вперёд через препятствие|sich durchkämpfen|verb; imperfective; infinitive; reflexive
+6077|пострадавший|Тот, кто понёс ущерб или был ранен|Opfer|noun; neuter
+6078|потрогать|Прикоснуться к чему-либо несколько раз|berühren|verb; perfective; infinitive
+6079|принципиальный|Твёрдо придерживающийся своих принципов|prinzipientreu|adjective
+6080|уносить|Брать и перемещать в другое место|wegtragen|verb; imperfective; infinitive
+6081|осторожность|Способность действовать осмотрительно|Vorsicht|noun; feminine
+6082|приготовиться|Подготовить себя к предстоящему|sich vorbereiten|verb; perfective; infinitive; reflexive
+6083|затеять|Предпринять или начать что-либо|anfangen|verb; perfective; infinitive
+6084|православный|Придерживающийся православного вероисповедания|orthodox|adjective
+6085|потрепать|Привести в изношенный вид|abnutzen|verb; perfective; infinitive
+6086|тридцатый|Порядковое числительное к тридцать|dreißigste|numeral; ordinal
+6087|человечески|Так, как свойственно человеку|menschlich|adverb
+6088|мельком|Бегло, на очень короткое время|flüchtig|adverb
+6089|возглавлять|Стоять во главе чего-либо|leiten|verb; imperfective; infinitive
+6090|сотворить|Создать что-либо; произвести на свет|erschaffen|verb; perfective; infinitive
+6091|перрон|Пассажирская платформа на железнодорожной станции|Bahnsteig|noun; masculine
+6092|пузырек|Небольшая бутылочка или флакон|Fläschchen|noun; neuter
+6093|согнуться|Принять согнутое положение|sich bücken|verb; perfective; infinitive; reflexive
+6094|устанавливать|Размещать или определять что-либо|aufstellen|verb; imperfective; infinitive
+6095|выбираться|С трудом выходить из затруднительного положения|sich herausarbeiten|verb; imperfective; infinitive; reflexive
+6096|вопросительно|Выражая вопрос|fragend|adverb
+6097|обязательство|Официально данное обещание|Verpflichtung|noun; feminine
+6098|потемнеть|Стать тёмным; утратить яркость|sich verdunkeln|verb; perfective; infinitive; reflexive
+6099|месть|Ответное действие за причинённое зло|Rache|noun; feminine
+6100|пойма|Низкое место, заливаемое во время паводка|Flussaue|noun; feminine

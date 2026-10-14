@@ -1,0 +1,100 @@
+6001|проститутка|Женщина, занимающаяся проституцией|Prostituierte|noun; feminine
+6002|кавалер|Мужчина, сопровождающий даму или танцующий с ней|Kavalier|noun; masculine
+6003|стражник|Низший чин охранной или полицейской службы|Wächter|noun; masculine
+6004|двенадцатый|Порядковое числительное к двенадцать|zwölfte|numeral; ordinal
+6005|запрещать|Налагать запрет; не давать разрешения|verbieten|verb; imperfective; infinitive
+6006|инфаркт|Очаг омертвения ткани вследствие закупорки сосуда|Infarkt|noun; masculine
+6007|пучок|Совокупность предметов или лучей, исходящих из одной точки|Bündel|noun; neuter
+6008|церковный|Относящийся к церкви или богослужению|kirchlich|adjective
+6009|физически|С физической точки зрения; телесно|körperlich|adverb
+6010|угрюмо|Мрачно и неприветливо|düster|adverb
+6011|ассоциация|Объединение организаций одного рода деятельности|Assoziation|noun; feminine
+6012|придерживать|Удерживать в определённом положении|festhalten|verb; imperfective; infinitive
+6013|фашизм|Тоталитарная идеология с культом насилия и шовинизма|Faschismus|noun; masculine
+6014|соврать|Намеренно сказать ложь|lügen|verb; perfective; infinitive
+6015|растерянность|Состояние смятения и беспомощности|Verwirrung|noun; feminine
+6016|штык|Колющее оружие, крепящееся к стволу винтовки|Bajonett|noun; neuter
+6017|опушка|Краевая полоса леса|Waldrand|noun; masculine
+6018|пробиться|Преодолеть препятствие и пройти сквозь него|durchdringen|verb; perfective; infinitive
+6019|сверкнуть|Внезапно вспыхнуть светом; возникнуть мгновенно|aufblitzen|verb; perfective; infinitive
+6020|устойчивый|Постоянный, не подверженный колебаниям|stabil|adjective
+6021|изобрести|Создать нечто новое в результате творческого труда|erfinden|verb; perfective; infinitive
+6022|таблица|Данные, организованные в строки и столбцы|Tabelle|noun; feminine
+6023|материк|Крупный массив суши, окружённый водой|Kontinent|noun; masculine
+6024|сходство|Степень подобия между объектами|Ähnlichkeit|noun; feminine
+6025|хулиган|Человек, грубо нарушающий общественный порядок|Rowdy|noun; masculine
+6026|поместить|Определить место для кого или чего-либо|platzieren|verb; perfective; infinitive
+6027|клочок|Небольшой оторванный кусок чего-либо|Fetzen|noun; masculine
+6028|неверный|Не соответствующий истине; ошибочный|falsch|adjective
+6029|нажимать|Оказывать давление на что-либо|drücken|verb; imperfective; infinitive
+6030|отпечаток|След, оставшийся от давления или соприкосновения|Abdruck|noun; masculine
+6031|замедлить|Снизить скорость; сделать более медленным|verlangsamen|verb; perfective; infinitive
+6032|хрустальный|Прозрачный и чистый; из хрусталя|kristallen|adjective
+6033|шахматы|Настольная игра с фигурами на доске|Schach|noun; neuter
+6034|бессильный|Лишённый сил; неспособный действовать|machtlos|adjective
+6035|бедняга|Человек, вызывающий жалость и сострадание|Ärmster|noun; masculine
+6036|прут|Тонкая гибкая ветвь без листьев|Rute|noun; feminine
+6037|камин|Открытая домашняя печь у стены комнаты|Kamin|noun; masculine
+6038|светящийся|Излучающий собственный или отражённый свет|leuchtend|adjective
+6039|непрерывно|Без перерывов и остановок|ununterbrochen|adverb
+6040|фунт|Единица массы, равная 453,6 грамма|Pfund|noun; neuter
+6041|авторский|Принадлежащий или относящийся к автору произведения|Autoren-|adjective
+6042|поить|Давать кому-либо пить|tränken|verb; imperfective; infinitive
+6043|кореец|Уроженец или житель Кореи|Koreaner|noun; masculine
+6044|покрывать|Накладывать или наносить что-либо поверх|bedecken|verb; imperfective; infinitive
+6045|прочно|Надёжно и крепко|fest|adverb
+6046|тонуть|Погружаться под воду; гибнуть в воде|ertrinken|verb; imperfective; infinitive
+6047|митинг|Массовое собрание для обсуждения общественных вопросов|Kundgebung|noun; feminine
+6048|вмешательство|Насильственное вторжение во внутренние дела|Einmischung|noun; feminine
+6049|возмущение|Сильное негодование или раздражение|Empörung|noun; feminine
+6050|чемпион|Победитель соревнований в виде спорта|Champion|noun; masculine
+6051|туловище|Тело без конечностей и головы|Rumpf|noun; masculine
+6052|навалиться|С силой налечь, придавить всей тяжестью|sich draufwerfen|verb; perfective; infinitive; reflexive
+6053|переворот|Коренное изменение в государственном строе|Umsturz|noun; masculine
+6054|гипотеза|Научное предположение, требующее подтверждения|Hypothese|noun; feminine
+6055|двинуть|Ударить; нанести удар|schlagen|verb; perfective; infinitive
+6056|неохотно|Без желания; против воли|widerwillig|adverb
+6057|выдохнуть|Сделать выдох; выпустить воздух|ausatmen|verb; perfective; infinitive
+6058|погубить|Привести к гибели; уничтожить|zugrunde richten|verb; perfective; infinitive
+6059|октябрьский|Относящийся к октябрю|Oktober-|adjective
+6060|прикосновение|Лёгкий контакт с поверхностью|Berührung|noun; feminine
+6061|ниша|Углубление в стене для украшений или мебели|Nische|noun; feminine
+6062|ссора|Состояние взаимной вражды; серьёзная размолвка|Streit|noun; masculine
+6063|мускул|Мышечная ткань, приводящая части тела в движение|Muskel|noun; masculine
+6064|партизанский|Относящийся к партизанской борьбе|Partisanen-|adjective
+6065|миссия|Ответственное задание или поручение|Mission|noun; feminine
+6066|комментарий|Разъяснительные примечания к тексту|Kommentar|noun; masculine
+6067|сверток|Вещи, завёрнутые во что-либо|Paket|noun; neuter
+6068|запутаться|Оказаться в затруднительном положении|sich verstricken|verb; perfective; infinitive; reflexive
+6069|сворачивать|Скатывать или складывать во что-либо|zusammenrollen|verb; imperfective; infinitive
+6070|заслать|Отправить не туда или очень далеко|verschicken|verb; perfective; infinitive
+6071|усатый|Имеющий усы|schnurrbärtig|adjective
+6072|перила|Ограждение вдоль лестницы или балкона|Geländer|noun; neuter
+6073|жадный|Стремящийся к наживе; скупой|gierig|adjective
+6074|топить|Поддерживать огонь в печи или очаге|heizen|verb; imperfective; infinitive
+6075|вывернуть|Извлечь, вращая; вывернуть наружу|herausdrehen|verb; perfective; infinitive
+6076|пробиваться|Прорываться вперёд через препятствие|sich durchkämpfen|verb; imperfective; infinitive; reflexive
+6077|пострадавший|Тот, кто понёс ущерб или был ранен|Opfer|noun; neuter
+6078|потрогать|Прикоснуться к чему-либо несколько раз|berühren|verb; perfective; infinitive
+6079|принципиальный|Твёрдо придерживающийся своих принципов|prinzipientreu|adjective
+6080|уносить|Брать и перемещать в другое место|wegtragen|verb; imperfective; infinitive
+6081|осторожность|Способность действовать осмотрительно|Vorsicht|noun; feminine
+6082|приготовиться|Подготовить себя к предстоящему|sich vorbereiten|verb; perfective; infinitive; reflexive
+6083|затеять|Предпринять или начать что-либо|anfangen|verb; perfective; infinitive
+6084|православный|Придерживающийся православного вероисповедания|orthodox|adjective
+6085|потрепать|Привести в изношенный вид|abnutzen|verb; perfective; infinitive
+6086|тридцатый|Порядковое числительное к тридцать|dreißigste|numeral; ordinal
+6087|человечески|Так, как свойственно человеку|menschlich|adverb
+6088|мельком|Бегло, на очень короткое время|flüchtig|adverb
+6089|возглавлять|Стоять во главе чего-либо|leiten|verb; imperfective; infinitive
+6090|сотворить|Создать что-либо; произвести на свет|erschaffen|verb; perfective; infinitive
+6091|перрон|Пассажирская платформа на железнодорожной станции|Bahnsteig|noun; masculine
+6092|пузырек|Небольшая бутылочка или флакон|Fläschchen|noun; neuter
+6093|согнуться|Принять согнутое положение|sich bücken|verb; perfective; infinitive; reflexive
+6094|устанавливать|Размещать или определять что-либо|aufstellen|verb; imperfective; infinitive
+6095|выбираться|С трудом выходить из затруднительного положения|sich herausarbeiten|verb; imperfective; infinitive; reflexive
+6096|вопросительно|Выражая вопрос|fragend|adverb
+6097|обязательство|Официально данное обещание|Verpflichtung|noun; feminine
+6098|потемнеть|Стать тёмным; утратить яркость|sich verdunkeln|verb; perfective; infinitive; reflexive
+6099|месть|Ответное действие за причинённое зло|Rache|noun; feminine
+6100|пойма|Низкое место, заливаемое во время паводка|Flussaue|noun; feminine

@@ -1,0 +1,50 @@
+5101|хирургический|Относящийся к хирургии или хирургическим методам лечения|chirurgisch|adjective
+5102|наслаждаться|Получать удовольствие, испытывать наслаждение|genießen|verb; imperfective; infinitive
+5103|припомнить|Восстановить в памяти, вспомнить|sich erinnern|verb; perfective; infinitive; reflexive
+5104|первобытный|Относящийся к древнейшим эпохам истории человечества|urgeschichtlich|adjective
+5105|федеральный|Относящийся к федерации или её органам|föderал|adjective
+5106|уста|Рот, губы (устар.)|Mund|noun; masculine
+5107|овца|Домашнее жвачное животное с густой шерстью|Schaf|noun; neuter
+5108|папаша|Отец (разг.)|Vater|noun; masculine
+5109|колебаться|Находиться в состоянии нерешительности|zögern|verb; imperfective; infinitive
+5110|бытовой|Относящийся к повседневной жизни и быту|Alltags-|adjective
+5111|скользнуть|Быстро и незаметно промелькнуть|gleiten|verb; perfective; infinitive
+5112|потащить|Начать тащить, потянуть с усилием|zerren|verb; perfective; infinitive
+5113|накормить|Дать пищу, накормить|füttern|verb; perfective; infinitive
+5114|отражаться|Проявляться в чём-либо как следствие|sich widerspiegeln|verb; imperfective; infinitive; reflexive
+5115|компьютерный|Относящийся к компьютеру|Computer-|adjective
+5116|племянник|Сын брата или сестры|Neffe|noun; masculine
+5117|закуска|Блюдо, подаваемое перед горячим|Vorspeise|noun; feminine
+5118|вежливый|Соблюдающий правила приличия; учтивый|höflich|adjective
+5119|кура|Домашняя курица (разг.)|Huhn|noun; neuter
+5120|земляк|Уроженец одной местности с кем-либо|Landsmann|noun; masculine
+5121|парта|Школьный стол, совмещённый со скамьёй|Schulbank|noun; feminine
+5122|обвинять|Считать кого-либо виновным; упрекать|beschuldigen|verb; imperfective; infinitive
+5123|содержимый|Находящийся внутри чего-либо (устар.)|Inhalt|noun; masculine
+5124|величайший|Превосходящий всё прочее по величине или значению|größte|adjective; superlative
+5125|снятой|Тот, который был снят|abgenommen|adjective
+5126|пенсионер|Человек, получающий пенсию|Rentner|noun; masculine
+5127|раздеваться|Снимать с себя одежду|sich ausziehen|verb; imperfective; infinitive; reflexive
+5128|расстрел|Смертная казнь посредством расстрела|Erschießung|noun; feminine
+5129|областной|Относящийся к области; региональный|regional|adjective
+5130|близость|Небольшое расстояние; духовная или физическая близость|Nähe|noun; feminine
+5131|притихнуть|Стать тихим, успокоиться|verstummen|verb; perfective; infinitive
+5132|Австралия|Государство на одноимённом материке|Australien|noun; neuter; proper
+5133|жалобно|С выражением грусти или страдания|kläglich|adverb
+5134|фара|Электрический фонарь с отражателем на транспортном средстве|Scheinwerfer|noun; masculine
+5135|категорически|Решительно, не допуская возражений|kategorisch|adverb
+5136|покатиться|Начать катиться|losrollen|verb; perfective; infinitive
+5137|секс|Всё, относящееся к сфере половых отношений|Sex|noun; masculine
+5138|останавливать|Прекращать движение, заставлять остановиться|anhalten|verb; imperfective; infinitive
+5139|загорелый|Имеющий тёмный цвет кожи от загара|gebräunt|adjective
+5140|груда|Большая беспорядочная куча|Haufen|noun; masculine
+5141|схватка|Столкновение в бою или борьбе|Kampf|noun; masculine
+5142|проба|Образец вещества для анализа или испытания|Probe|noun; feminine
+5143|четырнадцать|Число четырнадцать (14)|vierzehn|numeral; cardinal
+5144|ближний|Наиболее близкий по расстоянию|nächste|adjective
+5145|бесполезно|Без какой-либо пользы или результата|nutzlos|adverb
+5146|нырнуть|Погрузиться в воду с головой|tauchen|verb; perfective; infinitive
+5147|экземпляр|Отдельный предмет из ряда однотипных|Exemplar|noun; neuter
+5148|задеть|Слегка коснуться при движении; обидеть|streifen|verb; perfective; infinitive
+5149|орех|Плод с твёрдой скорлупой и съедобным ядром|Nuss|noun; feminine
+5150|жанр|Вид художественных произведений с характерными признаками|Genre|noun; neuter

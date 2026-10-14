@@ -1,0 +1,26 @@
+<div class="app-shell">
+  <app-nav-bar [activeLink]="activeTab()" (activeLinkChange)="selectTab($event)"></app-nav-bar>
+
+  <main class="app-content">
+    @if (activeTab() === 'Grammar') {
+      <app-grammar></app-grammar>
+    }
+        @else if (activeTab() === 'Vocabulary') {
+      <app-vocabulary></app-vocabulary>
+    }
+    @else if (activeTab() === 'Settings') {
+      <app-user-settings></app-user-settings>
+    }
+
+    @else {
+      <section class="card card--placeholder">
+        <h2>About</h2>
+        <p>About section is coming soon.</p>
+      </section>
+    }
+  </main>
+
+</div>
+
+<app-toast></app-toast>
+

@@ -1,0 +1,100 @@
+3701|просторный|spacious|adjective
+3702|отступать|to retreat|verb; regular
+3703|соответственно|accordingly|adverb
+3704|умение|skill|noun; singular
+3705|завалить|to pile up|verb; perfective
+3706|внести|to bring in|verb; perfective
+3707|упереться|to lean against|verb; perfective; reflexive
+3708|застать|to catch|verb; perfective
+3709|постоялый|for lodging|adjective
+3710|перерыв|break|noun; singular
+3711|губернатор|governor|noun; singular
+3712|славка|warbler|noun; singular
+3713|опускаться|to descend|verb; regular; reflexive
+3714|доверие|trust|noun; singular; uncountable
+3715|подряд|contract|noun; singular
+3716|фантастический|fantastic|adjective
+3717|темнеть|to darken|verb; regular
+3718|яд|poison|noun; singular; uncountable
+3719|гостиный|for guests|adjective
+3720|доход|income|noun; singular
+3721|оказать|to render|verb; perfective
+3722|роскошный|luxurious|adjective
+3723|мак|poppy|noun; singular
+3724|инструкция|instruction|noun; singular
+3725|ир|iris|noun; singular
+3726|спокойствие|calmness|noun; singular; uncountable
+3727|недоумение|bewilderment|noun; singular; uncountable
+3728|психологический|psychological|adjective
+3729|хоббит|hobbit|noun; singular
+3730|бинокль|binoculars|noun; plural
+3731|лысый|bald|adjective
+3732|вглядываться|to peer|verb; regular; reflexive
+3733|килограмм|kilogram|noun; singular
+3734|печально|sadly|adverb
+3735|революционный|revolutionary|adjective
+3736|меньший|smaller|adjective; irregular comparison
+3737|двойной|double|adjective
+3738|марш|march|noun; singular
+3739|вселенная|universe|noun; singular
+3740|прибавить|to add|verb; perfective
+3741|тварь|creature|noun; singular
+3742|чайник|kettle|noun; singular
+3743|лыжа|ski|noun; singular
+3744|спустить|to lower|verb; perfective
+3745|беспокойство|anxiety|noun; singular; uncountable
+3746|опубликовать|to publish|verb; perfective
+3747|отпускать|to release|verb; regular
+3748|намек|hint|noun; singular
+3749|пробить|to punch through|verb; perfective
+3750|воровать|to steal|verb; regular
+3751|плач|crying|noun; singular; uncountable
+3752|тревожный|anxious|adjective
+3753|природный|natural|adjective
+3754|трактор|tractor|noun; singular
+3755|отдельно|separately|adverb
+3756|допускать|to allow|verb; regular
+3757|рассчитать|to calculate|verb; perfective
+3758|таять|to melt|verb; regular
+3759|возмутиться|to be outraged|verb; perfective; reflexive
+3760|модный|fashionable|adjective
+3761|задыхаться|to choke|verb; regular; reflexive
+3762|расстаться|to part|verb; perfective; reflexive
+3763|покончить|to finish|verb; perfective
+3764|гитара|guitar|noun; singular
+3765|замечание|remark|noun; singular
+3766|совершенный|perfect|adjective
+3767|проводиться|to be held|verb; regular; reflexive
+3768|корточки|squatting|noun; plural
+3769|раб|slave|noun; singular
+3770|заведение|establishment|noun; singular
+3771|знамя|banner|noun; singular; irregular plural
+3772|бедро|thigh|noun; singular
+3773|вспышка|flash|noun; singular
+3774|фрукт|fruit|noun; singular
+3775|скрыть|to hide|verb; perfective
+3776|мотоцикл|motorcycle|noun; singular
+3777|невысокий|short|adjective
+3778|мероприятие|event|noun; singular
+3779|чин|rank|noun; singular
+3780|действующий|active|adjective
+3781|администрация|administration|noun; singular
+3782|опоздать|to be late|verb; perfective
+3783|пожарный|firefighting|adjective
+3784|перехватить|to intercept|verb; perfective
+3785|петля|loop|noun; singular
+3786|неопределенный|indefinite|adjective
+3787|ненужный|unnecessary|adjective
+3788|простыня|bedsheet|noun; singular
+3789|витрина|shop window|noun; singular
+3790|аппетит|appetite|noun; singular; uncountable
+3791|потихоньку|slowly|adverb
+3792|успокаивать|to calm|verb; regular
+3793|обеспечивать|to ensure|verb; regular
+3794|уточнить|to clarify|verb; perfective
+3795|опасно|dangerously|adverb
+3796|ресница|eyelash|noun; singular
+3797|обрести|to acquire|verb; perfective
+3798|погладить|to stroke|verb; perfective
+3799|критика|criticism|noun; singular; uncountable
+3800|чертовый|damn|adjective

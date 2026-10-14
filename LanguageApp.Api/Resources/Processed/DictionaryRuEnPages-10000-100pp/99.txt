@@ -1,0 +1,100 @@
+9801|униматься|to subside|verb; imperfective; reflexive
+9802|долой|down with|adverb
+9803|бесформенный|shapeless|adjective
+9804|нарушаться|to be violated|verb; imperfective; reflexive
+9805|озадачить|to puzzle|verb; perfective
+9806|галоша|galosh|noun; singular
+9807|гонка|race|noun; singular
+9808|масть|suit|noun; singular
+9809|сняться|to be photographed|verb; perfective; reflexive
+9810|надумать|to decide|verb; perfective
+9811|наливаться|to fill up|verb; imperfective; reflexive
+9812|полковой|regimental|adjective
+9813|вскрикивать|to cry out|verb; imperfective
+9814|сени|entryway|noun; singular
+9815|читаться|to be readable|verb; imperfective; reflexive
+9816|слуховой|auditory|adjective
+9817|йод|iodine|noun; singular; uncountable
+9818|сильнейший|strongest|adjective; superlative
+9819|сом|catfish|noun; singular
+9820|врываться|to burst in|verb; imperfective; reflexive
+9821|лицензия|license|noun; singular
+9822|совокупность|totality|noun; singular; uncountable
+9823|подчинение|subordination|noun; singular; uncountable
+9824|уклон|deviation|noun; singular
+9825|простодушный|naive|adjective
+9826|приличие|decency|noun; singular; uncountable
+9827|пролить|to spill|verb; perfective
+9828|скамеечка|small bench|noun; singular; diminutive
+9829|наслать|to send|verb; perfective
+9830|исправно|properly|adverb
+9831|семеро|seven|numeral; collective
+9832|булочный|bread|adjective
+9833|военнослужащий|serviceman|noun; singular
+9834|мэрия|city hall|noun; singular
+9835|могущество|power|noun; singular; uncountable
+9836|наличный|available|adjective
+9837|ленточка|small ribbon|noun; singular; diminutive
+9838|отмена|cancellation|noun; singular
+9839|подслушивать|to eavesdrop|verb; imperfective
+9840|прикасаться|to touch|verb; imperfective; reflexive
+9841|воспалить|to inflame|verb; perfective
+9842|разворачивать|to unfold|verb; imperfective
+9843|обнаруживаться|to be revealed|verb; imperfective; reflexive
+9844|завизжать|to start squealing|verb; perfective
+9845|лязг|clang|noun; singular
+9846|рубец|scar|noun; singular
+9847|су|sou|noun; singular
+9848|калибр|caliber|noun; singular
+9849|приписать|to attribute|verb; perfective
+9850|присматриваться|to look closely|verb; imperfective; reflexive
+9851|начистить|to clean|verb; perfective
+9852|сжиматься|to contract|verb; imperfective; reflexive
+9853|воскреснуть|to be resurrected|verb; perfective
+9854|трепаться|to flutter|verb; imperfective; reflexive
+9855|змеиный|snake|adjective
+9856|ориентация|orientation|noun; singular
+9857|усилить|to strengthen|verb; perfective
+9858|карабкаться|to clamber|verb; imperfective; reflexive
+9859|оккупация|occupation|noun; singular; uncountable
+9860|проявиться|to manifest|verb; perfective; reflexive
+9861|прутик|small twig|noun; singular; diminutive
+9862|оборонительный|defensive|adjective
+9863|посему|therefore|adverb
+9864|вдохновенный|inspired|adjective
+9865|комендатура|commandant's office|noun; singular
+9866|критиковать|to criticize|verb; imperfective
+9867|смахивать|to resemble|verb; imperfective
+9868|раненый|wounded|adjective
+9869|сочетаться|to combine|verb; imperfective; reflexive
+9870|карий|hazel|adjective
+9871|холмик|small hill|noun; singular; diminutive
+9872|шлюпка|boat|noun; singular
+9873|пятак|five-kopeck coin|noun; singular
+9874|развал|collapse|noun; singular; uncountable
+9875|россыпь|scattering|noun; singular
+9876|христианин|Christian|noun; singular
+9877|жгут|tourniquet|noun; singular
+9878|снабжение|supply|noun; singular; uncountable
+9879|муть|murk|noun; singular; uncountable
+9880|устный|oral|adjective
+9881|ротный|company|adjective
+9882|жид|kike|noun; singular; offensive; ethnic slur
+9883|выключать|to turn off|verb; imperfective
+9884|мыслящий|thinking|adjective
+9885|вояка|old soldier|noun; singular
+9886|крапива|nettle|noun; singular; uncountable
+9887|съедать|to eat|verb; imperfective
+9888|полицейский|policeman|noun; singular
+9889|стерва|bitch|noun; singular
+9890|сотрудничать|to cooperate|verb; imperfective
+9891|реактивный|jet|adjective
+9892|придвинуть|to move closer|verb; perfective
+9893|спонсор|sponsor|noun; singular
+9894|крупица|grain|noun; singular
+9895|Птицын|Ptitsyn|noun; singular; proper
+9896|навал|pile-up|noun; singular; uncountable
+9897|свернуться|to curl up|verb; perfective; reflexive
+9898|пневмония|pneumonia|noun; singular; uncountable
+9899|клеенка|oilcloth|noun; singular
+9900|обучать|to teach|verb; imperfective

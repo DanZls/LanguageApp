@@ -1,0 +1,50 @@
+7651|наподобие|В виде чего-либо; похожим образом|ähnlich|preposition
+7652|постукивать|Периодически слегка стучать|klopfen|verb; imperfective; infinitive
+7653|бомбежка|Бомбардировка; массированное поражение с воздуха|Bombardierung|noun; feminine
+7654|поэма|Большое стихотворное произведение на героическую или возвышенную тему|Poem|noun; neuter
+7655|сучок|Небольшой боковой отросток ствола дерева|Ast|noun; masculine
+7656|многолетний|Существующий или продолжающийся долгие годы|langjährig|adjective
+7657|ливень|Сильный кратковременный дождь|Platzregen|noun; masculine
+7658|прибрать|Навести порядок; убрать в помещении|aufräumen|verb; perfective; infinitive
+7659|старомодный|Не соответствующий современной моде или требованиям|altmodisch|adjective
+7660|мужичок|Маленький крестьянин или невзрачный мужчина (уменьшительное)|Männchen|noun; neuter
+7661|поганый|Отвратительный; очень плохой (разговорное)|widerlich|adjective
+7662|лишать|Отнимать что-либо у кого-то; лишать прав|berauben|verb; imperfective; infinitive
+7663|кг|Единица массы — килограмм|kg|noun; masculine; abbreviation
+7664|зрительный|Относящийся к органу зрения и восприятию изображений|visuell|adjective
+7665|настороженно|В состоянии готовности; с осторожностью|wachsam|adverb
+7666|ломаться|Разрушаться; распадаться на части|brechen|verb; imperfective; infinitive
+7667|ощупывать|Исследовать что-либо с помощью прикосновений|betasten|verb; imperfective; infinitive
+7668|сожрать|Жадно и быстро съесть (разговорное)|verschlingen|verb; perfective; infinitive
+7669|заподозрить|Начать испытывать подозрение в отношении кого-либо|verdächtigen|verb; perfective; infinitive
+7670|умело|С мастерством; искусно и умеючи|geschickt|adverb
+7671|сосредоточиться|Направить внимание и мысли на одно|sich konzentrieren|verb; perfective; infinitive; reflexive
+7672|показываться|Становиться видимым; являться взгляду|erscheinen|verb; imperfective; infinitive
+7673|финансы|Совокупность денежных средств и система их распределения|Finanzen|noun; plural
+7674|яга|Персонаж русских сказок — старая ведьма|Baba Jaga|noun; feminine; proper
+7675|одобрять|Положительно оценивать; выражать согласие|billigen|verb; imperfective; infinitive
+7676|медик|Врач или студент медицинского факультета|Mediziner|noun; masculine
+7677|рига|Крестьянский сарай для сушки и обмолота зерна|Dreschtenne|noun; feminine
+7678|валун|Крупный округлый камень, отшлифованный водой или льдом|Felsblock|noun; masculine
+7679|увольнение|Прекращение трудовых отношений; освобождение от должности|Entlassung|noun; feminine
+7680|переменить|Заменить одно другим; сменить|wechseln|verb; perfective; infinitive
+7681|линейка|Плоская планка для черчения прямых линий и измерений|Lineal|noun; neuter
+7682|пологий|Имеющий небольшой угол наклона; некрутой|flach|adjective
+7683|пообедать|Принять пищу в середине дня; съесть обед|zu Mittag essen|verb; perfective; infinitive
+7684|отчетливый|Чёткий и ясно различимый|deutlich|adjective
+7685|консервный|Относящийся к консервам; для хранения в консервах|Konserven-|adjective
+7686|радуга|Цветная дуга на небе, возникающая при преломлении света в каплях воды|Regenbogen|noun; masculine
+7687|танкист|Военнослужащий, обслуживающий боевой танк|Panzersoldat|noun; masculine
+7688|универсальный|Охватывающий многое; применимый в различных случаях|universell|adjective
+7689|сквер|Небольшой благоустроенный городской садик|Grünanlage|noun; feminine
+7690|хмуриться|Сводить брови; принимать мрачный вид|sich verfinstern|verb; imperfective; infinitive; reflexive
+7691|пайка|Соединение металлических деталей с помощью расплавленного припоя|Lötung|noun; feminine
+7692|метла|Связка прутьев на рукоятке для подметания|Besen|noun; masculine
+7693|доверить|Поручить что-либо ответственное; вверить|anvertrauen|verb; perfective; infinitive
+7694|завал|Нагромождение предметов, перекрывающее проход|Blockierung|noun; feminine
+7695|дощатый|Изготовленный из деревянных досок или планок|Bohlen-|adjective
+7696|пристроиться|Устроиться на выгодное место; найти удобное положение|unterkommen|verb; perfective; infinitive
+7697|технологический|Относящийся к технологическому процессу|technologisch|adjective
+7698|дотянуться|Достать до чего-либо, вытянув руку|heranreichen|verb; perfective; infinitive
+7699|освещение|Свет от источника; система освещения помещения|Beleuchtung|noun; feminine
+7700|ликвидация|Прекращение деятельности организации; устранение|Liquidierung|noun; feminine

@@ -1,0 +1,50 @@
+4801|угрюмый|Мрачный, неприветливый|mürrisch|adjective
+4802|солдатик|Маленькая игрушечная фигурка солдата|Zinnsoldat|noun; masculine
+4803|тусклый|Слабый, неяркий|matt|adjective
+4804|снаружи|С внешней, наружной стороны|von außen|adverb
+4805|паровоз|Локомотив с паровым двигателем|Dampflokomotive|noun; feminine
+4806|интернет|Всемирная система компьютерных сетей|Internet|noun; neuter
+4807|посетить|Прийти к кому-либо или куда-либо с визитом|besuchen|verb; perfective; infinitive
+4808|британский|Относящийся к Великобритании или британцам|britisch|adjective
+4809|будить|Заставлять проснуться, прерывать сон|wecken|verb; imperfective; infinitive
+4810|приказывать|Отдавать приказ, велеть|befehlen|verb; imperfective; infinitive
+4811|алкоголь|Спиртные напитки; этиловый спирт|Alkohol|noun; masculine
+4812|измерение|Протяжённость в каком-либо направлении; процесс измерения|Messung|noun; feminine
+4813|актриса|Женщина-артист театра или кино|Schauspielerin|noun; feminine
+4814|размах|Широта и объём деятельности|Ausmaß|noun; neuter
+4815|внешне|По внешнему виду, снаружи|äußerlich|adverb
+4816|призрак|Видение, нечто мерещащееся|Gespenst|noun; neuter
+4817|увеличить|Сделать большим по объёму или количеству|vergrößern|verb; perfective; infinitive
+4818|ахнуть|Воскликнуть «ах» от удивления или испуга|aufschreien|verb; perfective; infinitive
+4819|лекарственный|Относящийся к лекарствам|Arznei-|adjective
+4820|бесплатный|Не требующий платы|kostenlos|adjective
+4821|почетный|Пользующийся уважением, удостоенный почёта|Ehren-|adjective
+4822|математика|Наука о числах, величинах и пространственных формах|Mathematik|noun; feminine
+4823|растерять|Постепенно потерять многое|verlieren|verb; perfective; infinitive
+4824|собор|Главный или большой православный храм|Kathedrale|noun; feminine
+4825|сыр|Молочный продукт, твёрдый или полутвёрдый|Käse|noun; masculine
+4826|навестить|Посетить ненадолго|besuchen|verb; perfective; infinitive
+4827|соединение|Место соединения частей; воинское подразделение|Verbindung|noun; feminine
+4828|воображать|Представлять себе мысленно|sich vorstellen|verb; imperfective; infinitive; reflexive
+4829|самовар|Металлический сосуд для кипячения воды с углями|Samowar|noun; masculine
+4830|миома|Доброкачественная опухоль из мышечной ткани|Myom|noun; neuter
+4831|испуганный|Охваченный страхом, испугавшийся|erschreckt|adjective
+4832|незначительный|Не имеющий важного значения, ничтожный|unbedeutend|adjective
+4833|окончательный|Последний, бесповоротный|endgültig|adjective
+4834|вскакивать|Быстро вставать, подниматься|aufspringen|verb; imperfective; infinitive
+4835|канифоль|Хрупкое смолистое вещество жёлто-красного цвета|Kolophonium|noun; neuter
+4836|вынимать|Извлекать наружу|herausnehmen|verb; imperfective; infinitive
+4837|зарубежный|Находящийся за рубежом, иностранный|ausländisch|adjective
+4838|робко|С боязнью, несмело|schüchtern|adverb
+4839|невероятно|Крайне маловероятно, трудно поверить|unglaublich|adverb
+4840|пересечь|Перейти поперёк чего-либо|überqueren|verb; perfective; infinitive
+4841|матерый|Опытный и умелый|erfahren|adjective
+4842|листва|Совокупность листьев дерева или куста|Laub|noun; neuter
+4843|учеба|Процесс обучения|Studium|noun; neuter
+4844|кукла|Детская игрушка в виде фигурки человека|Puppe|noun; feminine
+4845|предчувствие|Ощущение приближения чего-либо неизвестного|Vorahnung|noun; feminine
+4846|обморок|Внезапная кратковременная потеря сознания|Ohnmacht|noun; feminine
+4847|развалина|Остатки разрушенного здания|Ruine|noun; feminine
+4848|священный|Связанный с религиозным культом; святой|heilig|adjective
+4849|терапия|Лечение заболеваний нехирургическими методами|Therapie|noun; feminine
+4850|вскрикнуть|Внезапно и отрывисто крикнуть|aufschreien|verb; perfective; infinitive

@@ -1,0 +1,50 @@
+3351|одиннадцать|Число 11|elf|numeral; cardinal
+3352|здешний|Находящийся здесь; местный|hiesig|adjective
+3353|фантазия|Способность к творческому воображению|Fantasie|noun; feminine
+3354|спорт|Комплекс физических упражнений и соревнований|Sport|noun; masculine
+3355|вначале|В первое время; сначала|anfangs|adverb
+3356|гладкий|Ровный; без выступов|glatt|adjective
+3357|июль|Седьмой месяц года|Juli|noun; masculine
+3358|шептать|Говорить шёпотом|flüstern|verb; imperfective; infinitive
+3359|телеграмма|Срочное сообщение по телеграфу|Telegramm|noun; neuter
+3360|напиток|Продукт, приготовленный для питья|Getränk|noun; neuter
+3361|торговля|Деятельность по купле и продаже товаров|Handel|noun; masculine
+3362|юмор|Умение видеть и показывать смешное|Humor|noun; masculine
+3363|испортить|Сделать негодным для употребления|verderben|verb; perfective; infinitive
+3364|молчаливый|Не любящий много говорить|schweigsam|adjective
+3365|следовательно|Значит; стало быть|folglich|conjunction
+3366|отъезд|Отправление в путь|Abreise|noun; feminine
+3367|чтение|Что читается; процесс чтения|Lesen|noun; neuter
+3368|мучить|Причинять страдания|quälen|verb; imperfective; infinitive
+3369|надевать|Покрывать тело одеждой|anziehen|verb; imperfective; infinitive
+3370|сумерки|Полутьма между заходом солнца и ночью|Dämmerung|noun; feminine
+3371|царский|Относящийся к монархии с царём|kaiserlich|adjective
+3372|вылететь|Полётом направиться куда-либо|ausfliegen|verb; perfective; infinitive
+3373|овраг|Глубокая длинная впадина с крутыми склонами|Schlucht|noun; feminine
+3374|недолго|В короткое время|kurz|adverb
+3375|видеться|Видеть друг друга; встречаться|sich treffen|verb; imperfective; infinitive; reflexive
+3376|свободно|Без стеснения; непринуждённо|frei|adverb
+3377|охранять|Оберегать; беречь|bewachen|verb; imperfective; infinitive
+3378|авиация|Область воздухоплавания на летательных аппаратах|Luftfahrt|noun; feminine
+3379|Берлин|Столица Германии|Berlin|noun; neuter; proper
+3380|эдакий|Такой; подобный|solch|pronoun
+3381|облегчение|Состояние освобождения от тяжести или беспокойства|Erleichterung|noun; feminine
+3382|скрываться|Прятаться; утаивать себя|sich verstecken|verb; imperfective; infinitive; reflexive
+3383|весенний|Относящийся к весне|frühlingshaft|adjective
+3384|влезть|Взобраться куда-либо с усилием|hineinkriechen|verb; perfective; infinitive
+3385|трясти|Толчками колебать|schütteln|verb; imperfective; infinitive
+3386|рядовой|Ничем не выдающийся; обычный|gewöhnlich|adjective
+3387|приблизиться|Стать более близким|sich nähern|verb; perfective; infinitive; reflexive
+3388|дыра|Прорванное или проломанное отверстие|Loch|noun; neuter
+3389|настаивать|Настойчиво требовать чего-либо|beharren|verb; imperfective; infinitive
+3390|оркестр|Группа музыкантов, исполняющих произведения совместно|Orchester|noun; neuter
+3391|визит|Посещение; преимущественно официальное|Besuch|noun; masculine
+3392|большевик|Член большевистской партии|Bolschewik|noun; masculine
+3393|Сибирь|Обширная географическая область в России|Sibirien|noun; neuter; proper
+3394|старательный|Делающий что-либо со старанием|fleißig|adjective
+3395|напряжённый|Требующий сосредоточения сил; неослабевающий|angespannt|adjective
+3396|машинка|Небольшой механический прибор для работы|Gerät|noun; neuter
+3397|термин|Слово-название понятия специальной области|Fachbegriff|noun; masculine
+3398|интервью|Беседа для печати или телевидения|Interview|noun; neuter
+3399|выжить|Остаться в живых после несчастья|überleben|verb; perfective; infinitive
+3400|гордый|Исполненный чувства собственного достоинства|stolz|adjective

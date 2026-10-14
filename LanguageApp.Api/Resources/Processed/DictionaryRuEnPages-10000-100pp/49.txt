@@ -1,0 +1,100 @@
+4801|угрюмый|gloomy|adjective
+4802|солдатик|toy soldier|noun; singular
+4803|тусклый|dim|adjective
+4804|снаружи|outside|adverb
+4805|паровоз|steam engine|noun; singular
+4806|интернет|internet|noun; singular; uncountable
+4807|посетить|to visit|verb; perfective
+4808|британский|British|adjective
+4809|будить|to wake|verb; regular
+4810|приказывать|to command|verb; regular
+4811|алкоголь|alcohol|noun; singular; uncountable
+4812|измерение|measurement|noun; singular
+4813|актриса|actress|noun; singular
+4814|размах|scope|noun; singular
+4815|внешне|outwardly|adverb
+4816|призрак|ghost|noun; singular
+4817|увеличить|to increase|verb; perfective
+4818|ахнуть|to gasp|verb; perfective
+4819|лекарственный|medicinal|adjective
+4820|бесплатный|free|adjective
+4821|почетный|honorary|adjective
+4822|математика|mathematics|noun; singular; uncountable
+4823|растерять|to lose gradually|verb; perfective
+4824|собор|cathedral|noun; singular
+4825|сыр|cheese|noun; singular; uncountable
+4826|навестить|to visit|verb; perfective
+4827|соединение|connection|noun; singular
+4828|воображать|to imagine|verb; regular
+4829|самовар|samovar|noun; singular
+4830|миома|myoma|noun; singular
+4831|испуганный|frightened|adjective
+4832|незначительный|insignificant|adjective
+4833|окончательный|final|adjective
+4834|вскакивать|to jump up|verb; regular
+4835|канифоль|rosin|noun; singular; uncountable
+4836|вынимать|to take out|verb; regular
+4837|зарубежный|foreign|adjective
+4838|робко|timidly|adverb
+4839|невероятно|incredibly|adverb
+4840|пересечь|to cross|verb; perfective
+4841|матерый|seasoned|adjective
+4842|листва|foliage|noun; singular; uncountable
+4843|учеба|studies|noun; singular; uncountable
+4844|кукла|doll|noun; singular
+4845|предчувствие|premonition|noun; singular
+4846|обморок|fainting|noun; singular
+4847|развалина|ruin|noun; singular
+4848|священный|sacred|adjective
+4849|терапия|therapy|noun; singular
+4850|вскрикнуть|to cry out|verb; perfective
+4851|позор|disgrace|noun; singular; uncountable
+4852|конструкция|construction|noun; singular
+4853|концепция|concept|noun; singular
+4854|особняк|mansion|noun; singular
+4855|весть|news|noun; singular
+4856|строиться|to be built|verb; regular; reflexive
+4857|бабочка|butterfly|noun; singular
+4858|опомниться|to come to one's senses|verb; perfective; reflexive
+4859|тыкать|to poke|verb; regular
+4860|перебивать|to interrupt|verb; regular
+4861|вполголоса|in a low voice|adverb
+4862|изделие|product|noun; singular
+4863|студия|studio|noun; singular
+4864|ленинский|Leninist|adjective
+4865|видение|vision|noun; singular
+4866|слюна|saliva|noun; singular; uncountable
+4867|попрощаться|to say goodbye|verb; perfective; reflexive
+4868|круто|sharply|adverb
+4869|отменить|to cancel|verb; perfective
+4870|встречный|oncoming|adjective
+4871|подавлять|to suppress|verb; regular
+4872|сложность|complexity|noun; singular
+4873|выслать|to send|verb; perfective
+4874|землянин|earthling|noun; singular
+4875|строение|building|noun; singular
+4876|дежурить|to be on duty|verb; regular
+4877|скрипка|violin|noun; singular
+4878|украсить|to decorate|verb; perfective
+4879|ложный|false|adjective
+4880|бас|bass|noun; singular
+4881|песенка|little song|noun; singular
+4882|сани|sleigh|noun; plural
+4883|редкость|rarity|noun; singular
+4884|федерация|federation|noun; singular
+4885|диагноз|diagnosis|noun; singular
+4886|чудовище|monster|noun; singular
+4887|вица|switch|noun; singular
+4888|помчаться|to rush off|verb; perfective; reflexive
+4889|премьера|premiere|noun; singular
+4890|разыскать|to track down|verb; perfective
+4891|хоронить|to bury|verb; regular
+4892|букет|bouquet|noun; singular
+4893|доставлять|to deliver|verb; regular
+4894|выпрямиться|to straighten up|verb; perfective; reflexive
+4895|придать|to give|verb; perfective
+4896|хорошенький|pretty|adjective
+4897|боковой|side|adjective
+4898|кредит|credit|noun; singular
+4899|эшелон|echelon|noun; singular
+4900|поздравлять|to congratulate|verb; regular

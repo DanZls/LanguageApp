@@ -1,0 +1,94 @@
+5401|веселье|merriment|noun; singular; uncountable
+5402|корпорация|corporation|noun; singular
+5403|штора|curtain|noun; singular
+5404|въехать|to drive in|verb; perfective
+5405|нападать|to attack|verb; imperfective
+5406|сложно|complicatedly|adverb
+5407|рвота|vomiting|noun; singular; uncountable
+5408|сборник|collection|noun; singular
+5409|посмеяться|to laugh a bit|verb; perfective; reflexive
+5410|догадка|guess|noun; singular
+5411|выезжать|to depart|verb; imperfective
+5412|сумочка|handbag|noun; singular
+5413|мощность|power|noun; singular
+5414|исследователь|researcher|noun; singular
+5415|оживиться|to liven up|verb; perfective; reflexive
+5416|нить|thread|noun; singular
+5417|отбить|to fend off|verb; perfective
+5418|испанский|Spanish|adjective
+5419|фургон|van|noun; singular
+5420|вяло|sluggishly|adverb
+5421|продаваться|to be sold|verb; imperfective; reflexive
+5422|дослать|to send additionally|verb; perfective
+5423|ворон|raven|noun; singular
+5424|показатель|indicator|noun; singular
+5425|пушистый|fluffy|adjective
+5426|влиять|to influence|verb; imperfective
+5427|барабан|drum|noun; singular
+5428|композитор|composer|noun; singular
+5429|заветный|cherished|adjective
+5430|упрямый|stubborn|adjective
+5431|отослать|to send off|verb; perfective
+5432|адъютант|adjutant|noun; singular
+5433|скинуть|to throw off|verb; perfective
+5434|классик|classic writer|noun; singular
+5435|отравить|to poison|verb; perfective
+5436|переть|to trudge|verb; imperfective
+5437|важнейший|most important|adjective; superlative
+5438|решающий|decisive|adjective; participle
+5439|отчество|patronymic|noun; singular
+5440|привычно|habitually|adverb
+5441|вспомниться|to be recalled|verb; perfective; reflexive
+5442|отнестись|to treat|verb; perfective; reflexive
+5443|откровенный|frank|adjective
+5445|увлечение|passion|noun; singular
+5446|отравление|poisoning|noun; singular
+5447|заработок|earnings|noun; singular; uncountable
+5448|строительный|construction|adjective
+5449|массивный|massive|adjective
+5450|сражение|battle|noun; singular
+5451|неизменно|invariably|adverb
+5452|пивной|beer|adjective
+5453|роковой|fatal|adjective
+5454|нервничать|to be nervous|verb; imperfective
+5455|втроем|as a group of three|adverb
+5456|аптека|pharmacy|noun; singular
+5457|поднос|tray|noun; singular
+5458|склонить|to bend|verb; perfective
+5459|тополь|poplar|noun; singular
+5460|богач|rich man|noun; singular
+5461|настроить|to tune|verb; perfective
+5462|сходиться|to converge|verb; imperfective; reflexive
+5463|хмурый|gloomy|adjective
+5464|отчасти|partly|adverb
+5465|исполнитель|performer|noun; singular
+5466|гнойный|purulent|adjective
+5467|вмешиваться|to interfere|verb; imperfective; reflexive
+5468|индий|indium|noun; singular; uncountable
+5469|стирать|to wash|verb; imperfective
+5470|действительный|actual|adjective
+5471|дежурство|duty|noun; singular; uncountable
+5472|свистеть|to whistle|verb; imperfective
+5473|кепка|cap|noun; singular
+5474|спуск|descent|noun; singular
+5475|обложка|cover|noun; singular
+5476|дискуссия|discussion|noun; singular
+5477|авария|accident|noun; singular
+5478|позабыть|to forget|verb; perfective
+5479|царить|to reign|verb; imperfective
+5480|преимущественно|mainly|adverb
+5481|остыть|to cool down|verb; perfective
+5482|экскурсия|excursion|noun; singular
+5483|внушать|to instill|verb; imperfective
+5484|раскрывать|to open|verb; imperfective
+5485|магнитофон|tape recorder|noun; singular
+5486|барышня|young lady|noun; singular
+5487|заехать|to drop by|verb; perfective
+5488|ларек|kiosk|noun; singular
+5489|побить|to beat|verb; perfective
+5490|утвердить|to approve|verb; perfective
+5491|спортсмен|athlete|noun; singular
+5492|приговаривать|to keep saying|verb; imperfective
+5493|жаждать|to thirst|verb; imperfective
+5494|тенденция|tendency|noun; singular
+5495|вообразить|to imagine|verb; perfective

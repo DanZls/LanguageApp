@@ -1,0 +1,99 @@
+6701|разворачиваться|to unfold|verb; imperfective; reflexive
+6702|киевский|Kyiv|adjective
+6703|бах|bang|interjection
+6704|хлопотать|to bustle about|verb; imperfective
+6705|понестись|to rush off|verb; perfective; reflexive
+6706|классный|classy|adjective
+6707|ласка|caress|noun; singular
+6708|банкир|banker|noun; singular
+6709|джинсы|jeans|noun; plural
+6710|опаздывать|to be late|verb; imperfective
+6711|незаметный|inconspicuous|adjective
+6712|задрожать|to start trembling|verb; perfective
+6713|изготовить|to manufacture|verb; perfective
+6714|вихрь|whirlwind|noun; singular
+6715|прима|prima|noun; singular
+6716|винт|screw|noun; singular
+6717|подпрыгнуть|to jump|verb; perfective
+6718|пристать|to join|verb; perfective; reflexive
+6719|обитать|to inhabit|verb; imperfective
+6720|недовольство|discontent|noun; singular; uncountable
+6721|пух|down|noun; singular; uncountable
+6722|скульптура|sculpture|noun; singular
+6723|поменять|to change|verb; perfective
+6724|первоначальный|initial|adjective
+6725|устремиться|to rush|verb; perfective; reflexive
+6726|кошачий|feline|adjective
+6727|пограничный|border|adjective
+6728|авиационный|aviation|adjective
+6729|венок|wreath|noun; singular
+6730|суждение|judgment|noun; singular
+6731|киоск|kiosk|noun; singular
+6732|чудный|wonderful|adjective
+6733|напрячься|to strain|verb; perfective; reflexive
+6734|развязать|to untie|verb; perfective
+6735|посчитать|to count|verb; perfective
+6736|лик|countenance|noun; singular
+6737|наибольший|greatest|adjective; superlative
+6738|вкусно|deliciously|adverb
+6739|санитарный|sanitary|adjective
+6740|особа|person|noun; singular
+6741|желтоватый|yellowish|adjective
+6742|китель|tunic|noun; singular
+6743|побрести|to trudge off|verb; perfective; reflexive
+6744|предприниматель|entrepreneur|noun; singular
+6745|кий|cue|noun; singular
+6746|вдохновение|inspiration|noun; singular; uncountable
+6747|отставить|to set aside|verb; perfective
+6748|частично|partially|adverb
+6749|проскочить|to slip past|verb; perfective
+6750|рекомендация|recommendation|noun; singular
+6752|рецепт|prescription|noun; singular
+6753|россиянин|Russian citizen|noun; singular
+6754|диктатура|dictatorship|noun; singular
+6755|зарезать|to cut one's throat|verb; perfective; reflexive
+6756|высовываться|to stick out|verb; imperfective; reflexive
+6757|левый|left|adjective
+6758|затянуть|to tighten|verb; perfective
+6759|недоразумение|misunderstanding|noun; singular
+6760|слиться|to merge|verb; perfective; reflexive
+6761|инвестиция|investment|noun; singular
+6762|недоверчиво|distrustfully|adverb
+6763|клад|treasure|noun; singular
+6764|зубной|dental|adjective
+6765|червь|worm|noun; singular
+6766|увлекаться|to be enthusiastic|verb; imperfective; reflexive
+6767|численность|number|noun; singular; uncountable
+6768|комнатка|little room|noun; singular
+6769|чучело|stuffed animal|noun; singular
+6770|притащить|to drag over|verb; perfective
+6771|сияние|glow|noun; singular
+6772|инфекционный|infectious|adjective
+6773|вкладывать|to invest|verb; imperfective
+6774|закрываться|to close|verb; imperfective; reflexive
+6775|избыток|surplus|noun; singular; uncountable
+6776|вносить|to bring in|verb; imperfective
+6777|дева|maiden|noun; singular
+6778|пролетать|to fly by|verb; imperfective
+6779|скрипнуть|to creak|verb; perfective
+6780|подсказывать|to prompt|verb; imperfective
+6781|кряхтеть|to groan|verb; imperfective
+6782|повиноваться|to obey|verb; imperfective; reflexive
+6783|снизить|to reduce|verb; perfective
+6784|рассматриваться|to be considered|verb; imperfective; reflexive
+6785|отцов|father's|adjective
+6786|указательный|index|adjective
+6787|худенький|thin|adjective
+6788|грамота|literacy|noun; singular; uncountable
+6789|импульс|impulse|noun; singular
+6790|страстной|passion|adjective
+6791|переговариваться|to exchange remarks|verb; imperfective; reflexive
+6792|стратегия|strategy|noun; singular
+6793|распоряжаться|to manage|verb; imperfective; reflexive
+6794|ступня|foot|noun; singular
+6795|хрипеть|to wheeze|verb; imperfective
+6796|мясной|meat|adjective
+6797|придворный|court|adjective
+6798|сбивать|to knock down|verb; imperfective
+6799|безобразие|outrage|noun; singular
+6800|коварный|insidious|adjective

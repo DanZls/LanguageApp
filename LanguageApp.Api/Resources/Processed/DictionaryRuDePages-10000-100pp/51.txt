@@ -1,0 +1,100 @@
+5001|фашистский|Относящийся к фашизму|faschistisch|adjective
+5002|искренний|Выражающий подлинные чувства; правдивый, откровенный|aufrichtig|adjective
+5003|разделять|Делить на части; разграничивать|teilen|verb; imperfective; infinitive
+5004|стиснуть|Сильно сжать, сдавить|zusammenpressen|verb; perfective; infinitive
+5005|вечность|Бесконечная продолжительность времени|Ewigkeit|noun; feminine
+5006|закусить|Немного поесть, перекусить|eine Kleinigkeit essen|verb; perfective; infinitive
+5007|перекресток|Место пересечения дорог или улиц|Kreuzung|noun; feminine
+5008|озираться|Оглядываться по сторонам|sich umsehen|verb; imperfective; infinitive; reflexive
+5009|вручить|Передать непосредственно в руки|überreichen|verb; perfective; infinitive
+5010|значок|Небольшой нагрудный знак или эмблема|Abzeichen|noun; neuter
+5011|победитель|Тот, кто одержал победу|Sieger|noun; masculine
+5012|контракт|Договор между сторонами|Vertrag|noun; masculine
+5013|няня|Работница по уходу за детьми|Kindermädchen|noun; neuter
+5014|погоня|Преследование с целью поймать|Verfolgung|noun; feminine
+5015|мраморный|Похожий на мрамор по цвету или рисунку|marmoriert|adjective
+5016|взорваться|Разрушиться в результате взрыва|explodieren|verb; perfective; infinitive
+5017|пролететь|Быстро пронестись через пространство|durchfliegen|verb; perfective; infinitive
+5018|сугроб|Большая куча снега, наметённая ветром|Schneewehe|noun; feminine
+5019|топливо|Горючее вещество, источник тепла или энергии|Brennstoff|noun; masculine
+5020|вдова|Женщина, потерявшая мужа|Witwe|noun; feminine
+5021|случайность|Непредвиденное обстоятельство|Zufall|noun; masculine
+5022|раздел|Часть текста или документа|Abschnitt|noun; masculine
+5023|плена|Состояние нахождения в неволе или под стражей|Gefangenschaft|noun; feminine
+5024|откинуться|Отклониться назад|sich zurücklehnen|verb; perfective; infinitive; reflexive
+5025|психология|Наука о психических процессах и поведении|Psychologie|noun; feminine
+5026|взаимный|Общий для обеих сторон; обоюдный|gegenseitig|adjective
+5027|посещение|Визит, пребывание у кого-либо или где-либо|Besuch|noun; masculine
+5028|бронзовый|Золотисто-коричневый, цвета бронзы|bronzefarben|adjective
+5029|ничтожный|Крайне малый или незначительный|nichtig|adjective
+5030|различие|Несходство, разница между объектами|Unterschied|noun; masculine
+5031|оправдываться|Приводить доводы в свою защиту|sich rechtfertigen|verb; imperfective; infinitive; reflexive
+5032|пятница|Пятый день недели|Freitag|noun; masculine
+5033|ринуться|Стремительно броситься вперёд|sich stürzen|verb; perfective; infinitive; reflexive
+5034|ирония|Скрытая насмешка|Ironie|noun; feminine
+5035|плот|Скреплённые брёвна для сплава или переправы по воде|Floß|noun; neuter
+5036|распространяться|Расширять охват, охватывать новые области|sich verbreiten|verb; imperfective; infinitive; reflexive
+5037|потный|Покрытый потом|verschwitzt|adjective
+5038|заканчивать|Доводить до конца, завершать|beenden|verb; imperfective; infinitive
+5039|изложить|Передать содержание устно или письменно|darlegen|verb; perfective; infinitive
+5040|чуять|Ощущать, воспринимать чутьём|spüren|verb; imperfective; infinitive
+5041|почерк|Индивидуальная манера написания букв|Handschrift|noun; feminine
+5042|выгодный|Приносящий пользу или прибыль|vorteilhaft|adjective
+5043|покойный|Умерший, скончавшийся|verstorben|adjective
+5044|предупреждение|Заблаговременное извещение об опасности или нарушении|Warnung|noun; feminine
+5045|отражать|Воспроизводить, показывать|widerspiegeln|verb; imperfective; infinitive
+5046|раскалить|Нагреть до очень высокой температуры|glühend erhitzen|verb; perfective; infinitive
+5047|копать|Разрыхлять землю, создавая углубление|graben|verb; imperfective; infinitive
+5048|рубить|Разделять ударами острого инструмента|hacken|verb; imperfective; infinitive
+5049|хвататься|Хватать рукой, удерживаться|sich festhalten|verb; imperfective; infinitive; reflexive
+5050|выписать|Списать нужное из текста|herausschreiben|verb; perfective; infinitive
+5051|мат|Шахматная позиция, при которой королю нет защиты; поражение|Schachmatt|noun; masculine
+5052|удачно|Успешно, благополучно|erfolgreich|adverb
+5053|разрешать|Давать право или согласие на что-либо|erlauben|verb; imperfective; infinitive
+5054|трижды|Три раза|dreimal|adverb
+5055|скомандовать|Отдать команду|kommandieren|verb; perfective; infinitive
+5056|зрачок|Отверстие в радужной оболочке глаза|Pupille|noun; feminine
+5057|соленый|Содержащий соль|salzig|adjective
+5058|опрокинуть|Перевернуть вверх дном или повалить набок|umwerfen|verb; perfective; infinitive
+5059|оппозиция|Политическая сила, противодействующая действующей власти|Opposition|noun; feminine
+5060|рваный|Разорванный, с разрывами|zerrissen|adjective
+5061|порок|Серьёзный нравственный недостаток|Laster|noun; neuter
+5062|милицейский|Относящийся к милиции или полиции|Polizei-|adjective
+5063|протест|Решительное возражение против чего-либо|Protest|noun; masculine
+5064|активность|Способность к деятельному, энергичному действию|Aktivität|noun; feminine
+5065|кашель|Рефлекторные толчкообразные выдохи|Husten|noun; masculine
+5066|пострадать|Подвергнуться вреду или ущербу|leiden|verb; perfective; infinitive
+5067|газовый|Относящийся к газу или газовым устройствам|Gas-|adjective
+5068|необычайный|Выходящий за рамки обычного; исключительный|außergewöhnlich|adjective
+5069|подставить|Поставить под что-либо или вместо чего-либо|unterschieben|verb; perfective; infinitive
+5070|удивлять|Вызывать чувство удивления|erstaunen|verb; imperfective; infinitive
+5071|силуэт|Одноцветное контурное изображение на контрастном фоне|Silhouette|noun; feminine
+5072|всевозможный|Самый разнообразный, всякого рода|allerhand|adjective
+5073|девяносто|Число девяносто (90)|neunzig|numeral; cardinal
+5074|обхватить|Охватить руками, заключить в кольцо|umfassen|verb; perfective; infinitive
+5075|постройка|Небольшое здание или сооружение|Gebäude|noun; neuter
+5076|мыслить|Осуществлять мыслительную деятельность|denken|verb; imperfective; infinitive
+5077|сооружение|Крупная постройка или конструкция|Bauwerk|noun; neuter
+5078|всемирный|Охватывающий весь мир; глобальный|weltumspannend|adjective
+5079|подразделение|Структурная часть более крупного целого|Unterabteilung|noun; feminine
+5080|ныть|Болеть тупой, тянущей болью|dumpf schmerzen|verb; imperfective; infinitive
+5081|запросто|Без формальностей, непринуждённо|ohne Weiteres|adverb
+5082|дорожный|Относящийся к дороге или дорожному движению|Straßen-|adjective
+5083|обнаружиться|Стать явным, выявиться|sich herausstellen|verb; perfective; infinitive; reflexive
+5084|дипломат|Должностное лицо, занимающееся дипломатической деятельностью|Diplomat|noun; masculine
+5085|выглядывать|Смотреть, высматривать|herausschauen|verb; imperfective; infinitive
+5086|постой|Размещение военных на частных квартирах|Einquartierung|noun; feminine
+5087|отныне|Начиная с данного момента, впредь|von nun an|adverb
+5088|певец|Тот, кто поёт; исполнитель вокальных произведений|Sänger|noun; masculine
+5089|Рим|Столица Италии|Rom|noun; neuter; proper
+5090|сибирский|Относящийся к Сибири|sibirisch|adjective
+5091|налет|Внезапное стремительное нападение|Überfall|noun; masculine
+5092|литр|Единица объёма, равная 1000 куб. см|Liter|noun; masculine
+5093|угрожающий|Создающий угрозу; опасный|bedrohlich|adjective
+5094|срочный|Требующий безотлагательного выполнения|dringend|adjective
+5095|судорога|Резкое непроизвольное сокращение мышц|Krampf|noun; masculine
+5096|горячо|С большим чувством и страстностью|leidenschaftlich|adverb
+5097|располагать|Иметь в своём распоряжении|verfügen|verb; imperfective; infinitive
+5098|краткий|Небольшой по объёму; короткий|kurz|adjective
+5099|суетиться|Действовать суетливо, беспокойно|sich abhetzen|verb; imperfective; infinitive; reflexive
+5100|консервы|Консервированные пищевые продукты|Konserven|noun; plural

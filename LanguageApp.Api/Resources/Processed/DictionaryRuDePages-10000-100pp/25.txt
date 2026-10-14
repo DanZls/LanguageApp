@@ -1,0 +1,100 @@
+2401|снаряд|Боеприпас для артиллерийских орудий|Granate|noun; feminine
+2402|ярко|Очень светло; с большим блеском|hell|adverb
+2403|марка|Бумажный знак оплаты почтовых сборов|Briefmarke|noun; feminine
+2404|заместитель|Человек, замещающий кого-либо в должности|Stellvertreter|noun; masculine
+2405|папка|Обложка для хранения бумаг или документов|Mappe|noun; feminine
+2406|отказываться|Не соглашаться делать что-либо|sich weigern|verb; imperfective; infinitive; reflexive
+2407|концерт|Публичное исполнение музыкальных произведений|Konzert|noun; neuter
+2408|творческий|Обладающий способностью к созиданию нового|kreativ|adjective
+2409|разум|Способность логически мыслить; ум; интеллект|Verstand|noun; masculine
+2410|волшебный|Действующий волшебством; обладающий чудесной силой|zauberhaft|adjective
+2411|МК|Аббревиатура|MK|noun; masculine; abbreviation
+2412|пояснить|Сделать более ясным; объяснить|erläutern|verb; perfective; infinitive
+2413|активный|Деятельный; энергичный|aktiv|adjective
+2414|услуга|Действие, приносящее пользу другому|Dienst|noun; masculine
+2415|белье|Предметы нижней одежды; тканевые изделия для бытовых нужд|Wäsche|noun; feminine
+2416|прощать|Не ставить в вину; забывать обиду|vergeben|verb; imperfective; infinitive
+2417|благо|Добро; то, что даёт благополучие|Gut|noun; neuter
+2418|ангел|В религии: посланник и служитель Бога|Engel|noun; masculine
+2419|шуметь|Издавать шум|lärmen|verb; imperfective; infinitive
+2420|одинаковый|Совершенно сходный; такой же|gleich|adjective
+2421|толь|Пропитанный картон для кровельной изоляции|Dachpappe|noun; feminine
+2422|мина|Взрывной снаряд, помещаемый под водой или землёй|Mine|noun; feminine
+2423|модель|Образец изделия или предмет для воспроизведения изображения|Modell|noun; neuter
+2424|массовый|Совершаемый большим количеством людей|massenhaft|adjective
+2425|разрешение|Право на совершение чего-либо; разрешающий документ|Erlaubnis|noun; feminine
+2426|наличие|Присутствие; существование|Vorhandensein|noun; neuter
+2427|доноситься|Достигать слуха; распространяться (о звуке, запахе)|ertönen|verb; imperfective; infinitive
+2428|этап|Отдельный момент или стадия процесса|Etappe|noun; feminine
+2429|описать|Изобразить; рассказать о чём-либо в письменной или устной форме|beschreiben|verb; perfective; infinitive
+2430|невольно|Без намерения; непреднамеренно|ungewollt|adverb
+2431|козел|Самец домашней козы|Ziegenbock|noun; masculine
+2432|возвращение|Движение или процесс возврата назад|Rückkehr|noun; feminine
+2433|класть|Помещать в горизонтальное положение|legen|verb; imperfective; infinitive
+2434|шагать|Идти шагом; двигаться пешком|schreiten|verb; imperfective; infinitive
+2435|идиот|Человек с крайне ограниченными умственными способностями|Idiot|noun; masculine
+2436|ненависть|Чувство сильной вражды и злобы|Hass|noun; masculine
+2437|жалкий|Вызывающий жалость; беспомощный|erbärmlich|adjective
+2438|победить|Одержать победу над кем-либо|siegen|verb; perfective; infinitive
+2439|плавать|Держаться и передвигаться в воде|schwimmen|verb; imperfective; infinitive
+2440|летчик|Специалист, управляющий самолётом|Pilot|noun; masculine
+2441|лекция|Устное изложение учебного предмета или темы|Vorlesung|noun; feminine
+2442|смелый|Не знающий страха; решительный|mutig|adjective
+2443|случайный|Возникший непредвиденно; ненамеренный|zufällig|adjective
+2444|каков|Указание или вопрос о качестве или свойстве|wie|pronoun
+2445|печь|Сооружение для отопления помещения или приготовления пищи|Ofen|noun; masculine
+2446|разобрать|Разъединить части; разнять|auseinandernehmen|verb; perfective; infinitive
+2447|государь|Единовластный правитель; монарх|Herrscher|noun; masculine
+2448|замуж|О женщине: вступить в брак|heiraten|verb; imperfective; infinitive
+2449|верх|Наиболее высокая, расположенная над другими часть|Oberseite|noun; feminine
+2450|изображение|Рисунок или зрительное воспроизведение чего-либо|Bild|noun; neuter
+2451|моряк|Человек, служащий во флоте|Seemann|noun; masculine
+2452|речка|Небольшая река|Flüsschen|noun; neuter
+2453|республика|Форма правления с выборными органами власти|Republik|noun; feminine
+2454|гордость|Чувство собственного достоинства; самоуважение|Stolz|noun; masculine
+2455|бревно|Ствол срубленного дерева, очищенный от веток|Klotz|noun; masculine
+2456|невеста|Девушка или женщина, вступающая в брак|Braut|noun; feminine
+2457|потянуться|Распрямить уставшие конечности|sich strecken|verb; perfective; infinitive; reflexive
+2458|кривой|Не прямой; изогнутый|krumm|adjective
+2459|посреди|В середине чего-либо|inmitten|preposition
+2460|предположить|Допустить возможность чего-либо|annehmen|verb; perfective; infinitive
+2461|вчерашний|Относящийся к вчерашнему дню|gestrig|adjective
+2462|прибор|Специальное устройство или аппарат|Gerät|noun; neuter
+2463|кандидат|Лицо, предполагаемое к избранию или назначению|Kandidat|noun; masculine
+2464|портфель|Жёсткая сумка с запором для ношения бумаг или книг|Aktentasche|noun; feminine
+2465|доставить|Привезти или принести к месту назначения|liefern|verb; perfective; infinitive
+2466|ошибиться|Сделать ошибку; поступить неправильно|sich irren|verb; perfective; infinitive; reflexive
+2467|разбудить|Прекратить чей-либо сон; пробудить|aufwecken|verb; perfective; infinitive
+2468|невидимый|Недоступный зрению; незаметный|unsichtbar|adjective
+2469|виза|Разрешение на въезд в страну с отметкой в паспорте|Visum|noun; neuter
+2470|гибель|Уничтожение; смерть от катастрофы или насилия|Untergang|noun; masculine
+2471|прятать|Убирать в скрытое место|verstecken|verb; imperfective; infinitive
+2472|карьера|Путь к успехам и видному положению|Karriere|noun; feminine
+2473|водить|Вести кого-либо куда-либо (многократно)|führen|verb; imperfective; infinitive
+2474|малыш|Маленький ребёнок|Kleinkind|noun; neuter
+2475|пробовать|Пытаться; стараться что-либо сделать|versuchen|verb; imperfective; infinitive
+2476|заплатить|Передать деньги за что-либо; оплатить|bezahlen|verb; perfective; infinitive
+2477|назначение|Область или сфера применения|Zweck|noun; masculine
+2478|гвоздь|Заострённый металлический стержень со шляпкой|Nagel|noun; masculine
+2479|кафе|Небольшое заведение с подачей кофе|Café|noun; neuter
+2480|убийца|Тот, кто совершил убийство|Mörder|noun; masculine
+2481|неведомый|Неизвестный; незнакомый|unbekannt|adjective
+2482|японский|Относящийся к Японии или японцам|japanisch|adjective
+2483|обязанность|Круг действий, безусловных для выполнения|Pflicht|noun; feminine
+2484|отель|Гостиница|Hotel|noun; neuter
+2485|обнять|Заключить в объятия; обхватить руками|umarmen|verb; perfective; infinitive
+2486|допустимый|Возможный; позволительный|zulässig|adjective
+2487|заглядывать|Быстро или украдкой смотреть куда-либо|hineinschauen|verb; imperfective; infinitive
+2488|подготовка|Запас знаний или навыков; предварительная работа|Vorbereitung|noun; feminine
+2489|последствие|Следствие чего-либо; результат|Folge|noun; feminine
+2490|красавица|Женщина с красивой внешностью|Schönheit|noun; feminine
+2491|ковер|Изделие из пряжи для покрытия пола или украшения стен|Teppich|noun; masculine
+2492|выбросить|Избавиться от чего-либо, выбросив|wegwerfen|verb; perfective; infinitive
+2493|анализ|Метод исследования путём рассмотрения частей и свойств|Analyse|noun; feminine
+2494|устроиться|Найти работу или жильё; обустроиться|unterkommen|verb; perfective; infinitive
+2495|собственность|Материальные ценности, принадлежащие кому-либо|Eigentum|noun; neuter
+2496|оценить|Определить ценность кого-либо или чего-либо|bewerten|verb; perfective; infinitive
+2497|немножко|Не очень много; слегка|ein bisschen|adverb
+2498|хлопнуть|Произвести резкий звук, ударив|knallen|verb; perfective; infinitive
+2499|родить|Произвести на свет ребёнка|gebären|verb; perfective; infinitive
+2500|уставиться|Пристально направить взгляд|starren|verb; perfective; infinitive

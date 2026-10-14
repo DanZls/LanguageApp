@@ -1,0 +1,100 @@
+6901|мельница|mill|noun; singular
+6902|шов|seam|noun; singular
+6903|рекомендоваться|to introduce oneself|verb; imperfective; perfective; reflexive
+6904|балтийский|Baltic|adjective
+6905|наполнять|to fill|verb; imperfective
+6906|датчик|sensor|noun; singular
+6907|сформулировать|to formulate|verb; perfective
+6908|бульдозер|bulldozer|noun; singular
+6909|бланк|form|noun; singular
+6910|капать|to drip|verb; imperfective
+6911|галка|jackdaw|noun; singular
+6912|рукавица|mitten|noun; singular
+6913|пересекать|to cross|verb; imperfective
+6914|тачка|wheelbarrow|noun; singular
+6915|завоевать|to conquer|verb; perfective
+6916|Каролина|Carolina|noun; singular; proper
+6917|сознаться|to confess|verb; perfective; reflexive
+6918|отбирать|to take away|verb; imperfective
+6919|немного|a little|adverb
+6920|покрыться|to become covered|verb; perfective; reflexive
+6921|сдвинуться|to shift|verb; perfective; reflexive
+6922|расписание|schedule|noun; singular
+6923|сокол|falcon|noun; singular
+6924|шить|to sew|verb; imperfective
+6925|оглушить|to deafen|verb; perfective
+6926|мерзкий|vile|adjective
+6927|лор|ENT doctor|noun; singular
+6928|вызывающий|defiant|adjective
+6929|мыться|to wash oneself|verb; imperfective; reflexive
+6930|дипломатический|diplomatic|adjective
+6931|мари|Mari|noun; plural; proper
+6932|садик|kindergarten|noun; singular
+6933|загреметь|to start rattling|verb; perfective
+6934|колдовство|witchcraft|noun; singular; uncountable
+6935|повалиться|to collapse|verb; perfective; reflexive
+6936|оглушительный|deafening|adjective
+6937|фронтовой|front-line|adjective
+6938|тяжко|heavily|adverb
+6939|ось|axis|noun; singular
+6940|погнать|to drive|verb; perfective
+6941|капиталистический|capitalist|adjective
+6942|обрадовать|to make happy|verb; perfective
+6943|взамен|in exchange|adverb
+6944|завершение|completion|noun; singular
+6945|грызть|to gnaw|verb; imperfective
+6946|дразнить|to tease|verb; imperfective
+6947|двоюродный|cousin|adjective
+6948|правовой|legal|adjective
+6949|отрицательно|negatively|adverb
+6950|упавший|weak|adjective
+6951|эволюция|evolution|noun; singular
+6952|приближение|approach|noun; singular
+6953|душный|stuffy|adjective
+6954|эстонский|Estonian|adjective
+6955|несправедливость|injustice|noun; singular
+6956|скверный|nasty|adjective
+6957|ослепительный|dazzling|adjective
+6958|позаботиться|to take care|verb; perfective; reflexive
+6959|треснуть|to crack|verb; perfective; reflexive
+6960|Изабелла|Isabella|noun; singular; proper
+6961|сердечно|warmly|adverb
+6962|значиться|to be listed|verb; imperfective; reflexive
+6963|сторож|watchman|noun; singular
+6964|одобрить|to approve|verb; perfective
+6965|тесть|father-in-law|noun; singular
+6966|привстать|to half rise|verb; perfective; reflexive
+6967|житейский|everyday|adjective
+6968|встрепенуться|to perk up|verb; perfective; reflexive
+6969|командующий|commander|noun; singular
+6970|парадокс|paradox|noun; singular
+6971|сводиться|to come down to|verb; imperfective; reflexive
+6972|блиндаж|dugout|noun; singular
+6973|уборный|cleaning|adjective
+6974|медь|copper|noun; singular; uncountable
+6975|кража|theft|noun; singular
+6976|трос|cable|noun; singular
+6977|лишение|deprivation|noun; singular
+6978|ядро|core|noun; singular
+6979|договариваться|to negotiate|verb; imperfective; reflexive
+6980|вешалка|hanger|noun; singular
+6981|прижиматься|to press against|verb; imperfective; reflexive
+6982|сознательно|consciously|adverb
+6983|выдернуть|to pull out|verb; perfective
+6984|бородка|bit|noun; singular
+6985|полежать|to lie down for a while|verb; perfective
+6986|переезд|crossing|noun; singular
+6987|оправдывать|to justify|verb; imperfective
+6988|соседство|proximity|noun; singular; uncountable
+6989|балка|beam|noun; singular
+6990|возмутить|to outrage|verb; perfective
+6991|беглец|fugitive|noun; singular
+6992|соотечественник|compatriot|noun; singular
+6993|пахать|to plow|verb; imperfective
+6994|напевать|to hum|verb; imperfective
+6995|героиня|heroine|noun; singular
+6996|бинт|bandage|noun; singular
+6997|механик|mechanic|noun; singular
+6998|раскачиваться|to sway|verb; imperfective; reflexive
+6999|расхохотаться|to burst out laughing|verb; perfective; reflexive
+7000|лаять|to bark|verb; imperfective

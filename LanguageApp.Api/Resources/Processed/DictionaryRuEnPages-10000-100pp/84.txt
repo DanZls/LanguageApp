@@ -1,0 +1,100 @@
+8301|шприц|syringe|noun; singular
+8302|надобно|needed|adverb
+8303|кабак|tavern|noun; singular
+8304|крем|cream|noun; singular
+8305|расправа|reprisal|noun; singular
+8306|девятнадцатый|nineteenth|numeral; ordinal
+8307|чернявый|dark-haired|adjective
+8308|биолог|biologist|noun; singular
+8309|всплыть|to surface|verb; perfective
+8310|четверка|four|noun; singular
+8311|поставка|delivery|noun; singular
+8312|кандидатура|candidacy|noun; singular
+8313|консультация|consultation|noun; singular
+8314|осенить|to dawn on|verb; perfective
+8315|предоставлять|to provide|verb; imperfective
+8316|разборка|showdown|noun; singular
+8317|сугубо|especially|adverb
+8318|интуиция|intuition|noun; singular; uncountable
+8319|разъяснить|to clarify|verb; perfective
+8320|каковой|which|pronominal
+8321|поджечь|to set fire|verb; perfective
+8322|сжигать|to burn|verb; imperfective
+8323|девятнадцать|nineteen|numeral; cardinal
+8324|уборщица|cleaner|noun; singular
+8325|швейцарский|Swiss|adjective
+8326|машинный|machine|adjective
+8327|нарушитель|violator|noun; singular
+8328|лучник|archer|noun; singular
+8329|почернеть|to blacken|verb; perfective
+8330|пелена|shroud|noun; singular
+8331|подтянуть|to tighten|verb; perfective
+8332|штабной|staff|adjective
+8333|белокурый|fair-haired|adjective
+8334|пристроить|to add on|verb; perfective
+8335|прикурить|to light a cigarette|verb; perfective
+8336|выписывать|to write out|verb; imperfective
+8337|кидаться|to rush|verb; imperfective; reflexive
+8338|кассета|cassette|noun; singular
+8339|жердь|pole|noun; singular
+8340|вонять|to stink|verb; imperfective
+8341|навык|skill|noun; singular
+8342|узенький|narrow|adjective
+8343|отсек|compartment|noun; singular
+8344|бессилие|powerlessness|noun; singular; uncountable
+8345|застолье|feast|noun; singular
+8346|одышка|shortness of breath|noun; singular; uncountable
+8347|выпь|bittern|noun; singular
+8348|настойчивый|persistent|adjective
+8349|рецензия|review|noun; singular
+8350|пригорок|hillock|noun; singular
+8351|относительный|relative|adjective
+8352|мартышка|monkey|noun; singular
+8353|неудачник|loser|noun; singular
+8354|пощупать|to feel|verb; perfective
+8355|голенище|boot shaft|noun; singular
+8356|помиловать|to pardon|verb; perfective
+8357|протирать|to wipe|verb; imperfective
+8358|урка|convict|noun; singular
+8359|затаить|to conceal|verb; perfective
+8360|осмыслить|to comprehend|verb; perfective
+8361|тамбур|vestibule|noun; singular
+8362|листочек|small leaf|noun; singular; diminutive
+8363|враз|all at once|adverb
+8364|взобраться|to climb up|verb; perfective; reflexive
+8365|полигон|testing ground|noun; singular
+8366|абстрактный|abstract|adjective
+8367|столбик|small column|noun; singular; diminutive
+8368|аллах|Allah|noun; singular; proper
+8369|паралич|paralysis|noun; singular; uncountable
+8370|разлить|to pour out|verb; perfective
+8371|обзавестись|to acquire|verb; perfective; reflexive
+8372|сосок|nipple|noun; singular
+8373|несомненный|undoubted|adjective
+8374|пьяный|drunk|adjective
+8375|СМИ|mass media|noun; plural; abbreviation
+8376|дикарь|savage|noun; singular
+8377|повседневный|everyday|adjective
+8378|тан|ayran|noun; singular; uncountable
+8379|белорусский|Belarusian|adjective
+8380|паршивый|lousy|adjective
+8381|неразборчивый|illegible|adjective
+8382|вдаль|into the distance|adverb
+8383|запыхаться|to get out of breath|verb; perfective; reflexive
+8384|еж|hedgehog|noun; singular
+8385|черепаха|turtle|noun; singular
+8386|промелькнуть|to flash by|verb; perfective
+8387|порох|gunpowder|noun; singular; uncountable
+8388|доставала|pest|noun; singular
+8389|упоминание|mention|noun; singular
+8390|иллюминатор|porthole|noun; singular
+8391|затягиваться|to get drawn into|verb; imperfective; reflexive
+8392|девчата|girls|noun; plural
+8393|звякнуть|to clink|verb; perfective
+8394|рогатый|horned|adjective
+8395|допить|to finish drinking|verb; perfective
+8396|потерянный|lost|adjective
+8397|семнадцатый|seventeenth|numeral; ordinal
+8398|шершавый|rough|adjective
+8399|разок|once|adverb
+8400|педаль|pedal|noun; singular

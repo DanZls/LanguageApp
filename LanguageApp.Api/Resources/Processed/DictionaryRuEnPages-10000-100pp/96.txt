@@ -1,0 +1,99 @@
+9501|беседка|gazebo|noun; singular
+9502|поспорить|to argue a bit|verb; perfective
+9503|гимн|anthem|noun; singular
+9504|очистка|cleaning|noun; singular; uncountable
+9505|стрелец|streltsy|noun; singular
+9506|лютый|fierce|adjective
+9507|формулировка|wording|noun; singular
+9508|оцепенение|stupor|noun; singular; uncountable
+9509|запрыгать|to start jumping|verb; perfective
+9510|разогнать|to disperse|verb; perfective
+9511|удачливый|lucky|adjective
+9512|корж|flatbread|noun; singular
+9513|притаиться|to lurk|verb; perfective; reflexive
+9514|дьявольский|devilish|adjective
+9515|продвижение|advancement|noun; singular; uncountable
+9516|ушко|eye of a needle|noun; singular
+9517|отталкивать|to push away|verb; imperfective
+9518|неладный|wrong|adjective
+9519|просунуть|to poke through|verb; perfective
+9520|пуд|pood|noun; singular
+9521|нагой|naked|adjective
+9522|упрекнуть|to reproach|verb; perfective
+9523|секта|sect|noun; singular
+9524|череда|succession|noun; singular
+9525|упасти|to save|verb; perfective
+9526|обменяться|to exchange|verb; perfective; reflexive
+9527|дятел|woodpecker|noun; singular
+9528|бесцеремонный|unceremonious|adjective
+9529|астральный|astral|adjective
+9530|пристрастие|penchant|noun; singular
+9531|золотой|golden|adjective
+9532|зябко|chilly|adverb
+9533|образцовый|exemplary|adjective
+9534|ниточка|little thread|noun; singular; diminutive
+9535|продолговатый|elongated|adjective
+9536|прикладывать|to apply|verb; imperfective
+9537|месячный|monthly|adjective
+9538|якорь|anchor|noun; singular
+9539|статистика|statistics|noun; singular; uncountable
+9540|натыкаться|to stumble upon|verb; imperfective; reflexive
+9541|дребезжать|to rattle|verb; imperfective
+9542|наполниться|to fill up|verb; perfective; reflexive
+9543|назваться|to introduce oneself|verb; perfective; reflexive
+9544|пряжка|buckle|noun; singular
+9545|липовый|linden|adjective
+9546|неслыханный|unheard-of|adjective
+9547|долгожданный|long-awaited|adjective
+9548|дружище|buddy|noun; singular
+9549|помост|platform|noun; singular
+9550|одесский|Odessa|adjective
+9551|лопаться|to burst|verb; imperfective; reflexive
+9552|препятствовать|to hinder|verb; imperfective
+9553|боксер|boxer|noun; singular
+9554|аплодировать|to applaud|verb; imperfective
+9555|шоколадный|chocolate|adjective
+9556|чистенький|neat|adjective
+9557|насыпать|to pour|verb; perfective
+9558|прибавиться|to increase|verb; perfective; reflexive
+9559|групповой|group|adjective
+9560|кружка|mug|noun; singular
+9561|брызнуть|to splash|verb; perfective
+9562|соваться|to poke oneself in|verb; imperfective; reflexive
+9563|сутулый|stooped|adjective
+9564|рассудительный|reasonable|adjective
+9565|хамство|rudeness|noun; singular; uncountable
+9566|приют|shelter|noun; singular
+9567|избиратель|voter|noun; singular
+9568|выпрыгнуть|to jump out|verb; perfective
+9569|органист|organist|noun; singular
+9570|колосок|small ear of grain|noun; singular; diminutive
+9571|воскресный|Sunday|adjective
+9572|завершать|to complete|verb; imperfective
+9573|пи|pi|noun; singular
+9574|бактерия|bacterium|noun; singular
+9575|кабель|cable|noun; singular
+9576|пустовать|to stand empty|verb; imperfective
+9577|набивать|to stuff|verb; imperfective
+9578|картофельный|potato|adjective
+9579|швед|Swede|noun; singular
+9580|туземец|native|noun; singular
+9581|робеть|to be timid|verb; imperfective
+9582|заслонить|to shield|verb; perfective
+9583|драгоценность|jewel|noun; singular
+9584|грива|mane|noun; singular
+9585|размашистый|sweeping|adjective
+9586|заданный|given|adjective
+9587|узник|prisoner|noun; singular
+9588|обмениваться|to exchange|verb; imperfective; reflexive
+9589|смешок|chuckle|noun; singular
+9591|ежовый|hedgehog|adjective
+9592|зола|ash|noun; singular; uncountable
+9593|нетронутый|untouched|adjective
+9594|пеший|on foot|adjective
+9595|годовой|annual|adjective
+9596|отблеск|glimmer|noun; singular
+9597|запор|lock|noun; singular
+9598|вымереть|to become extinct|verb; perfective
+9599|кретин|cretin|noun; singular
+9600|еловый|spruce|adjective

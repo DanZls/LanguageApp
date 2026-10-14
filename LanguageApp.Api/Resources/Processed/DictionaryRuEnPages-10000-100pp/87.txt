@@ -1,0 +1,100 @@
+8601|концлагерь|concentration camp|noun; singular
+8602|сдержаться|to restrain oneself|verb; perfective; reflexive
+8603|вывалиться|to tumble out|verb; perfective; reflexive
+8604|призрачный|ghostly|adjective
+8605|призванный|called upon|adjective; participle
+8606|ракетный|rocket|adjective
+8607|клоп|bedbug|noun; singular
+8608|чесаться|to itch|verb; imperfective; reflexive
+8609|лекарь|healer|noun; singular
+8610|жигули|Zhiguli|noun; plural
+8611|пригнуться|to duck|verb; perfective; reflexive
+8612|темперамент|temperament|noun; singular
+8613|согреться|to warm up|verb; perfective; reflexive
+8614|возвратить|to return|verb; perfective
+8615|двойка|two|noun; singular
+8616|депо|depot|noun; singular; indeclinable
+8617|милосердие|mercy|noun; singular; uncountable
+8618|непроизвольный|involuntary|adjective
+8619|высказывать|to express|verb; imperfective
+8620|аборт|abortion|noun; singular
+8621|трепет|tremor|noun; singular; uncountable
+8622|дивный|marvelous|adjective
+8623|водород|hydrogen|noun; singular; uncountable
+8624|колоссальный|colossal|adjective
+8625|тащиться|to trudge|verb; imperfective; reflexive
+8626|проезжий|passable|adjective
+8627|географический|geographic|adjective
+8628|ба|oh|interjection
+8629|неловкий|clumsy|adjective
+8630|комбинация|combination|noun; singular
+8631|качнуть|to sway|verb; perfective
+8632|ожесточенный|fierce|adjective
+8633|методика|methodology|noun; singular
+8634|племянница|niece|noun; singular
+8635|банка|jar|noun; singular
+8636|чехол|cover|noun; singular
+8637|громоздкий|bulky|adjective
+8638|умудриться|to manage|verb; perfective; reflexive
+8639|приступать|to begin|verb; imperfective
+8640|загонять|to drive in|verb; imperfective
+8641|эстетический|aesthetic|adjective
+8642|суетливый|fussy|adjective
+8643|микроб|microbe|noun; singular
+8644|ворох|pile|noun; singular
+8645|кубок|cup|noun; singular
+8646|миномет|mortar|noun; singular
+8647|губерния|province|noun; singular
+8648|фильтр|filter|noun; singular
+8649|пользование|use|noun; singular; uncountable
+8650|шиворот|collar|noun; singular
+8651|раздать|to distribute|verb; perfective
+8652|безмятежный|serene|adjective
+8653|отвориться|to open|verb; perfective; reflexive
+8654|достойно|worthily|adverb
+8655|понизить|to lower|verb; perfective
+8656|возрасти|to grow|verb; perfective; reflexive
+8657|Днепр|Dnieper|noun; singular; proper
+8658|обилие|abundance|noun; singular; uncountable
+8659|ватник|padded jacket|noun; singular
+8660|отреагировать|to react|verb; perfective
+8661|подкинуть|to toss|verb; perfective
+8662|покрепче|a bit stronger|adverb
+8663|кода|coda|noun; singular
+8664|замолкнуть|to fall silent|verb; perfective
+8665|знаменитость|celebrity|noun; singular
+8666|покачивать|to rock gently|verb; imperfective
+8667|пьянка|drinking bout|noun; singular
+8668|откликаться|to respond|verb; imperfective; reflexive
+8669|зашептать|to start whispering|verb; perfective
+8670|назавтра|the next day|adverb
+8671|разнести|to smash|verb; perfective
+8672|соотношение|ratio|noun; singular
+8673|травить|to poison|verb; imperfective
+8674|свечка|candle|noun; singular
+8675|глазеть|to gawk|verb; imperfective
+8676|галлюцинация|hallucination|noun; singular
+8677|сучий|damn|adjective
+8678|аварийный|emergency|adjective
+8679|вправе|entitled|adverb
+8680|функциональный|functional|adjective
+8681|зевака|onlooker|noun; singular
+8682|разгромить|to rout|verb; perfective
+8683|чистяк|celandine|noun; singular
+8684|меняла|moneychanger|noun; singular
+8685|очевидец|eyewitness|noun; singular
+8686|повертеть|to turn around|verb; perfective
+8687|исследовательский|research|adjective
+8688|белобрысый|towheaded|adjective
+8689|псевдоним|pseudonym|noun; singular
+8690|приобретение|acquisition|noun; singular
+8691|деликатный|delicate|adjective
+8692|низенький|short|adjective
+8693|кон|round|noun; singular
+8694|канат|rope|noun; singular
+8695|ощущаться|to be felt|verb; imperfective; reflexive
+8696|присвоить|to appropriate|verb; perfective
+8697|уставить|to set out|verb; perfective
+8698|затрещать|to start crackling|verb; perfective
+8699|перемещение|displacement|noun; singular
+8700|фартук|apron|noun; singular

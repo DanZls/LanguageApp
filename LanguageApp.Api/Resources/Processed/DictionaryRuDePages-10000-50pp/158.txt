@@ -1,0 +1,50 @@
+7901|колокольчик|Травянистое растение с цветками в форме маленьких колоколов|Glockenblume|noun; feminine
+7902|колыхаться|Мерно и плавно покачиваться|wiegen|verb; imperfective; infinitive
+7903|выдумывать|Придумывать что-либо нереальное; фантазировать|erfinden|verb; imperfective; infinitive
+7904|похмелье|Болезненное состояние после избыточного употребления алкоголя|Kater|noun; masculine
+7905|выгодно|С получением пользы или прибыли|vorteilhaft|adverb
+7906|противоречить|Возражать; высказывать мнение, противоположное чьему-либо|widersprechen|verb; imperfective; infinitive
+7907|натворить|Совершить много плохого; наделать бед|anstellen|verb; perfective; infinitive
+7908|сломаться|Разрушиться; прийти в негодное состояние|zerbrechen|verb; perfective; infinitive
+7909|звонко|Ясно и отчётливо, с чистым звуком|hell|adverb
+7910|бутылочка|Маленькая бутылка (уменьшительное)|Fläschchen|noun; neuter
+7911|светофор|Устройство со световыми сигналами для регулировки движения|Ampel|noun; feminine
+7912|перемениться|Стать иным; претерпеть изменения|sich verändern|verb; perfective; infinitive; reflexive
+7913|финал|Заключительная часть; итоговый результат|Finale|noun; neuter
+7914|подсчитать|Сложить и определить итоговое количество|zusammenzählen|verb; perfective; infinitive
+7915|шедевр|Выдающееся произведение искусства или мастерства|Meisterwerk|noun; neuter
+7916|зацепить|Подхватить или соединить с помощью крюка или зубца|einhaken|verb; perfective; infinitive
+7917|голубоватый|Имеющий лёгкий голубой оттенок|bläulich|adjective
+7918|возня|Шумная беспорядочная активность|Gepolter|noun; neuter
+7919|интрига|Скрытые недобросовестные действия в чьих-либо интересах|Intrige|noun; feminine
+7920|синева|Синий оттенок; синеватая окраска|Bläue|noun; feminine
+7921|повеселеть|Стать более весёлым; приободриться|aufheitern|verb; perfective; infinitive
+7922|хлебный|Относящийся к хлебу или зерновым; выгодный|Brot-|adjective
+7923|проститься|Обменяться словами прощания при расставании|sich verabschieden|verb; perfective; infinitive; reflexive
+7924|чрезмерный|Выходящий за разумные пределы; излишний|übermäßig|adjective
+7925|шестеро|Коллективное числительное для шести лиц или предметов|sechs|numeral; collective
+7926|навес|Кровля или выступ для защиты от непогоды|Vordach|noun; neuter
+7927|парикмахерский|Относящийся к парикмахеру или парикмахерскому делу|Friseur-|adjective
+7928|щетина|Короткие жёсткие волосы на небритом лице|Stoppeln|noun; plural
+7929|завершиться|Прийти к концу; окончиться|sich abschließen|verb; perfective; infinitive; reflexive
+7930|относить|Перемещать что-либо в другое место|wegtragen|verb; imperfective; infinitive
+7931|чернота|Очень тёмный или чёрный цвет; тьма|Schwärze|noun; feminine
+7932|потеряться|Исчезнуть; лишиться ориентации|sich verirren|verb; perfective; infinitive; reflexive
+7933|заиграть|Начать играть на инструменте|aufspielen|verb; perfective; infinitive
+7934|маргаритка|Луговое растение с белыми лепестками вокруг жёлтой сердцевины|Margerite|noun; feminine
+7935|ангар|Специальное сооружение для стоянки и обслуживания воздушных судов|Hangar|noun; masculine
+7936|возглас|Громкое восклицание; вскрик|Ausruf|noun; masculine
+7937|тетушка|Ласкательное к «тётя»; сестра матери или отца|Tante|noun; feminine
+7938|приглядеться|Внимательно всмотреться для лучшего рассмотрения|sich ansehen|verb; perfective; infinitive; reflexive
+7939|красить|Наносить краску на поверхность|anstreichen|verb; imperfective; infinitive
+7940|вечеринка|Вечернее собрание для дружеского общения и развлечения|Party|noun; feminine
+7941|кумир|Предмет поклонения и восхищения|Idol|noun; neuter
+7942|хлынуть|Начать течь или литься с большой силой|hervorströmen|verb; perfective; infinitive
+7943|любящий|Испытывающий любовь; нежно привязанный|liebend|adjective
+7944|подражать|Копировать чьё-либо поведение или стиль|nachahmen|verb; imperfective; infinitive
+7945|незадолго|Незадолго до чего-либо; за короткое время до события|kurz zuvor|adverb
+7946|вареный|Приготовленный с помощью варки в воде|gekocht|adjective
+7947|попадание|Меткий удар или выстрел, достигший цели|Treffer|noun; masculine
+7948|грамотный|Умеющий читать и писать; компетентный|kompetent|adjective
+7949|деликатно|Тонко и тактично; не задевая чужих чувств|taktvoll|adverb
+7950|рациональный|Разумно обоснованный; основанный на здравом смысле|rational|adjective

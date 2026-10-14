@@ -1,0 +1,100 @@
+5701|водный|water|adjective
+5702|признавать|to recognize|verb; imperfective
+5703|электричка|commuter train|noun; singular
+5704|погасить|to extinguish|verb; perfective
+5705|нелегко|not easy|adverb
+5706|отечество|fatherland|noun; singular
+5707|владение|property|noun; singular
+5708|мех|fur|noun; singular; uncountable
+5709|нрав|temper|noun; singular
+5710|антибиотик|antibiotic|noun; singular
+5711|мохнатый|shaggy|adjective
+5712|чаша|bowl|noun; singular
+5713|передумать|to change one's mind|verb; perfective
+5714|литься|to pour|verb; imperfective; reflexive
+5715|сосновый|pine|adjective
+5716|завопить|to start screaming|verb; perfective
+5717|геолог|geologist|noun; singular
+5718|отрицать|to deny|verb; imperfective
+5719|наследство|inheritance|noun; singular; uncountable
+5720|восстание|uprising|noun; singular
+5721|кошелек|wallet|noun; singular
+5722|конструктор|designer|noun; singular
+5723|морозный|frosty|adjective
+5724|сказочный|fabulous|adjective
+5725|репутация|reputation|noun; singular
+5726|краснеть|to blush|verb; imperfective
+5727|козырек|peak|noun; singular
+5728|персона|person|noun; singular
+5729|дверной|door|adjective
+5730|связка|bundle|noun; singular
+5731|лопатка|shoulder blade|noun; singular
+5732|подлый|vile|adjective
+5733|замкнутый|withdrawn|adjective
+5734|комбинат|plant|noun; singular
+5735|дубовый|oak|adjective
+5736|лебедь|swan|noun; singular
+5737|корм|feed|noun; singular; uncountable
+5738|материнский|maternal|adjective
+5739|проем|opening|noun; singular
+5740|издеваться|to mock|verb; imperfective; reflexive
+5741|записной|inveterate|adjective
+5742|пардон|pardon|noun; singular; interjection
+5743|молоток|hammer|noun; singular
+5744|заинтересоваться|to become interested|verb; perfective; reflexive
+5745|дергаться|to twitch|verb; imperfective; reflexive
+5746|гном|gnome|noun; singular
+5747|прилично|decently|adverb
+5748|желудочный|stomach|adjective
+5749|задница|buttocks|noun; singular
+5750|путать|to confuse|verb; imperfective
+5751|новогодний|New Year's|adjective
+5752|нежели|than|conjunction
+5753|забава|amusement|noun; singular
+5754|лодочник|boatman|noun; singular
+5755|совать|to shove|verb; imperfective
+5756|воспалительный|inflammatory|adjective
+5757|перелом|fracture|noun; singular
+5758|осуждать|to condemn|verb; imperfective
+5759|исчезновение|disappearance|noun; singular
+5760|намекать|to hint|verb; imperfective
+5761|словарь|dictionary|noun; singular
+5762|миля|mile|noun; singular
+5763|сознательный|conscious|adjective
+5764|ущерб|damage|noun; singular; uncountable
+5765|безопасный|safe|adjective
+5766|отмахнуться|to wave off|verb; perfective; reflexive
+5767|тренер|coach|noun; singular
+5768|укол|injection|noun; singular
+5769|шарить|to grope|verb; imperfective
+5770|листать|to leaf through|verb; imperfective
+5771|заблудиться|to get lost|verb; perfective; reflexive
+5772|пасть|to fall|verb; perfective
+5773|плат|cloth|noun; singular
+5774|пророк|prophet|noun; singular
+5775|устраиваться|to get a job|verb; imperfective; reflexive
+5776|храбрый|brave|adjective
+5777|аромат|aroma|noun; singular
+5778|переживание|experience|noun; singular
+5779|направлять|to direct|verb; imperfective
+5780|караул|guard|noun; singular
+5781|талия|waist|noun; singular
+5782|битый|beaten|adjective
+5783|бухгалтер|accountant|noun; singular
+5784|крюк|hook|noun; singular
+5785|упрямо|stubbornly|adverb
+5786|горючий|flammable|adjective
+5787|сирена|siren|noun; singular
+5788|перевал|pass|noun; singular
+5789|погреб|cellar|noun; singular
+5790|коготь|claw|noun; singular
+5791|обнаруживать|to discover|verb; imperfective
+5792|наблюдатель|observer|noun; singular
+5793|подыматься|to rise|verb; imperfective; reflexive
+5794|думаться|to seem|verb; imperfective; reflexive
+5795|вражеский|enemy|adjective
+5796|фига|fig|noun; singular
+5797|турецкий|Turkish|adjective
+5798|урожай|harvest|noun; singular
+5799|принадлежность|accessory|noun; singular
+5800|кучка|small pile|noun; singular

@@ -1,0 +1,50 @@
+6551|средневековый|Относящийся к Средним векам|mittelalterlich|adjective
+6552|ми|Название ноты музыкальной гаммы|Mi|noun; neuter; indeclinable
+6553|сварить|Приготовить пищу варкой|kochen|verb; perfective; infinitive
+6554|обвинить|Счесть виновным; предъявить обвинение|beschuldigen|verb; perfective; infinitive
+6555|любка|Растение рода орхидей|Knabenkraut|noun; neuter
+6556|заводить|Начинать какое-либо дело|anfangen|verb; imperfective; infinitive
+6557|карабин|Облегчённая короткоствольная винтовка|Karabiner|noun; masculine
+6558|травка|Маленькая трава (уменьшительное)|Gräschen|noun; neuter
+6559|завершить|Закончить; довести до конца|abschließen|verb; perfective; infinitive
+6560|нечистый|Загрязнённый; нечистоплотный|unrein|adjective
+6561|сочувствовать|Относиться с пониманием и участием|mitfühlen|verb; imperfective; infinitive
+6562|выразительный|Яркий; хорошо передающий смысл|ausdrucksvoll|adjective
+6563|конкретно|Ясно и определённо|konkret|adverb
+6564|скула|Парная лицевая кость под глазницей|Wangenknochen|noun; masculine
+6565|подписывать|Заверять подписью|unterschreiben|verb; imperfective; infinitive
+6566|смущение|Замешательство; состояние застенчивости|Verlegenheit|noun; feminine
+6567|тряхнуть|Сделать резкое короткое движение|rütteln|verb; perfective; infinitive
+6568|смять|Быстрым натиском сломить сопротивление|überrennen|verb; perfective; infinitive
+6569|пират|Морской разбойник|Pirat|noun; masculine
+6570|раствориться|Разойтись в жидкости, образовав смесь|sich auflösen|verb; perfective; infinitive; reflexive
+6571|заверить|Убедить в чём-либо; дать заверение|versichern|verb; perfective; infinitive
+6572|такт|Метрическая единица музыкального произведения|Takt|noun; masculine
+6573|ядерный|Относящийся к процессам в атомном ядре|nuklear|adjective
+6574|рычать|Издавать громкие злобные звуки низкого тона|knurren|verb; imperfective; infinitive
+6575|патологический|Болезненно-ненормальный; резко отклоняющийся от нормы|krankhaft|adjective
+6576|революционер|Участник революционного движения|Revolutionär|noun; masculine
+6577|грабить|Отнимать или похищать силой|rauben|verb; imperfective; infinitive
+6578|Пронякина|Русская фамилия|Pronyakina|noun; feminine; proper
+6579|меховой|Сделанный из меха|Pelz-|adjective
+6580|потенциал|Совокупность возможностей и средств|Potenzial|noun; neuter
+6581|бруствер|Земляная насыпь на краю окопа|Brustwehr|noun; feminine
+6582|отделаться|Избавиться от чего-либо неприятного|loswerden|verb; perfective; infinitive
+6583|повозка|Средство перевозки, запрягаемое животным|Fuhrwerk|noun; neuter
+6584|светский|Не церковный; гражданский|weltlich|adjective
+6585|зашевелиться|Начать шевелиться; прийти в движение|sich zu regen beginnen|verb; perfective; infinitive; reflexive
+6586|пропеть|Исполнить что-либо пением|singen|verb; perfective; infinitive
+6587|участь|Жизненная судьба; доля|Schicksal|noun; neuter
+6588|успешный|Сопровождающийся успехом; удачный|erfolgreich|adjective
+6589|расстроить|Нарушить порядок; огорчить|verstimmen|verb; perfective; infinitive
+6590|филин|Крупная птица отряда сов|Uhu|noun; masculine
+6591|липкий|Легко прилипающий; клейкий|klebrig|adjective
+6592|приговорить|Вынести обвинительный приговор|verurteilen|verb; perfective; infinitive
+6593|паром|Плоскодонное судно для переправы через водоём|Fähre|noun; feminine
+6594|свыше|Более; сверх какой-либо меры|über|adverb
+6595|сшить|Соединить посредством шитья|nähen|verb; perfective; infinitive
+6596|вращаться|Совершать вращательное движение|sich drehen|verb; imperfective; infinitive; reflexive
+6597|притом|Вместе с тем; к тому же|dabei|conjunction
+6598|эдакий|Такой; подобный (разговорное)|solcher|pronoun
+6599|застрелить|Убить из огнестрельного оружия|erschießen|verb; perfective; infinitive
+6600|разрушать|Разрушать здания или нарушать существование чего-либо|zerstören|verb; imperfective; infinitive

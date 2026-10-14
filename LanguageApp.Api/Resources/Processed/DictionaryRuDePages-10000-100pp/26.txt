@@ -1,0 +1,100 @@
+2501|отечественный|Относящийся к родной стране; не иностранный|inländisch|adjective
+2502|снизу|С нижней стороны|von unten|adverb
+2503|прокурор|Должностное лицо прокуратуры|Staatsanwalt|noun; masculine
+2504|карандаш|Пишущий инструмент с графитовым стержнем|Bleistift|noun; masculine
+2505|принц|Нецарствующий член королевской семьи|Prinz|noun; masculine
+2506|слышаться|Воспринимать звуки; звучать|klingen|verb; imperfective; infinitive
+2507|лидер|Руководитель; авторитетный человек в группе|Anführer|noun; masculine
+2508|представляться|Называть своё имя при знакомстве|sich vorstellen|verb; imperfective; infinitive; reflexive
+2509|спирт|Горючая опьяняющая жидкость|Alkohol|noun; masculine
+2510|обеспечить|Снабдить необходимым; гарантировать выполнение|sicherstellen|verb; perfective; infinitive
+2511|бизнес|Коммерческая деятельность с целью получения прибыли|Geschäft|noun; neuter
+2512|иностранец|Гражданин иной страны|Ausländer|noun; masculine
+2513|биться|Сражаться; ударяться|kämpfen|verb; imperfective; infinitive
+2514|достигнуть|Добраться до цели; добиться чего-либо|erreichen|verb; perfective; infinitive
+2515|выпускать|Освобождать; давать выход|herauslassen|verb; imperfective; infinitive
+2516|поп|Православный священнослужитель|Priester|noun; masculine
+2517|койка|Спальное место в казарме, больнице или на судне|Koje|noun; feminine
+2518|приготовить|Сделать готовым к использованию|vorbereiten|verb; perfective; infinitive
+2519|жестокий|Крайне суровый; беспощадный|grausam|adjective
+2520|руль|Устройство для управления транспортным средством|Lenkrad|noun; neuter
+2521|требование|Категорическая просьба; условие|Forderung|noun; feminine
+2522|сволочь|Подлый, низкий человек|Schuft|noun; masculine
+2523|развиваться|Совершенствоваться; прогрессировать|sich entwickeln|verb; imperfective; infinitive; reflexive
+2524|увы|Выражает сожаление или сетование|leider|interjection
+2525|меж|Предлог со значением нахождения между кем-либо|zwischen|preposition
+2526|пожалеть|Испытать жалость или сочувствие|bedauern|verb; perfective; infinitive
+2527|вызов|Приглашение или требование явиться|Aufforderung|noun; feminine
+2528|спутник|Попутчик; тот, кто путешествует вместе|Begleiter|noun; masculine
+2529|обойти|Пройти вокруг или мимо чего-либо|umgehen|verb; perfective; infinitive
+2530|оторвать|Отделить резким движением|abreißen|verb; perfective; infinitive
+2531|отчаяние|Состояние безнадёжности|Verzweiflung|noun; feminine
+2532|применение|Использование на практике|Anwendung|noun; feminine
+2533|заключаться|Состоять в чём-либо; иметь своей сутью|bestehen|verb; imperfective; infinitive
+2534|организовать|Создать, учредить; наладить деятельность|organisieren|verb; perfective; infinitive
+2535|мука|Тяжёлое физическое или душевное страдание|Qual|noun; feminine
+2536|приглашать|Звать кого-либо куда-либо|einladen|verb; imperfective; infinitive
+2537|распоряжение|Приказ; распорядительное указание|Anordnung|noun; feminine
+2538|еврейский|Относящийся к евреям|jüdisch|adjective
+2539|галстук|Тканевая повязка на шею, завязываемая узлом|Krawatte|noun; feminine
+2540|поддержать|Оказать помощь; выразить согласие|unterstützen|verb; perfective; infinitive
+2541|сбить|Повалить или сдвинуть ударом|abschlagen|verb; perfective; infinitive
+2542|заработать|Получить деньги трудом|verdienen|verb; perfective; infinitive
+2543|госпиталь|Военная больница|Lazarett|noun; neuter
+2544|течь|Двигаться потоком (о жидкости)|fließen|verb; imperfective; infinitive
+2545|материальный|Относящийся к вещественной стороне; не духовный|materiell|adjective
+2546|училище|Среднее или начальное специальное учебное заведение|Fachschule|noun; feminine
+2547|последовать|Пойти вслед за кем-либо или по чьему-либо примеру|folgen|verb; perfective; infinitive
+2548|отличный|Превосходный; очень хорошего качества|ausgezeichnet|adjective
+2549|стук|Резкий звук от удара|Klopfen|noun; neuter
+2550|гигантский|Очень большой; огромный|riesig|adjective
+2551|скандал|Событие, позорящее его участников|Skandal|noun; masculine
+2552|ледяной|Покрытый льдом; холодный как лёд|eisig|adjective
+2553|отпуск|Временное освобождение от работы для отдыха|Urlaub|noun; masculine
+2554|полагаться|Быть принятым, должным; зависеть от кого-либо|sich verlassen|verb; imperfective; infinitive; reflexive
+2555|доставать|Дотягиваться до чего-либо; добывать|erreichen|verb; imperfective; infinitive
+2556|продолжить|Продолжать начатое дело|fortsetzen|verb; perfective; infinitive
+2557|суровый|Строгий; жёсткий|streng|adjective
+2558|рукопись|Текст, написанный от руки|Manuskript|noun; neuter
+2559|дура|Глупая женщина|Dummkopf|noun; masculine
+2560|полицейский|Служащий полиции|Polizist|noun; masculine
+2561|кадр|Отдельное изображение на фото- или киноплёнке|Einstellung|noun; feminine
+2562|сиденье|Предмет или часть мебели для сидения|Sitz|noun; masculine
+2563|ныне|В настоящее время|heutzutage|adverb
+2564|указывать|Показывать; обращать внимание на что-либо|hinweisen|verb; imperfective; infinitive
+2565|экспедиция|Поездка группы лиц со специальным заданием|Expedition|noun; feminine
+2566|спичка|Тонкая палочка для получения огня|Streichholz|noun; neuter
+2567|сложиться|Образоваться; сформироваться|entstehen|verb; perfective; infinitive
+2568|таинственный|Загадочный; содержащий тайну|geheimnisvoll|adjective
+2569|брак|Супружеские отношения между мужчиной и женщиной|Ehe|noun; feminine
+2570|посуда|Хозяйственная утварь для еды и хранения|Geschirr|noun; neuter
+2571|снежный|Покрытый снегом; относящийся к снегу|verschneit|adjective
+2572|горный|Относящийся к горам|gebirgig|adjective
+2573|справедливость|Беспристрастное отношение; честность|Gerechtigkeit|noun; feminine
+2574|лопата|Ручное орудие для копания|Schaufel|noun; feminine
+2575|набрать|Собрать определённое количество чего-либо|sammeln|verb; perfective; infinitive
+2576|кнопка|Кнопка для замыкания цепи или нажатия|Knopf|noun; masculine
+2577|предпочитать|Отдавать предпочтение кому-либо или чему-либо|bevorzugen|verb; imperfective; infinitive
+2578|необыкновенный|Редко встречающийся; необычный|außergewöhnlich|adjective
+2579|научить|Передать знания, умения или навыки|lehren|verb; perfective; infinitive
+2580|мистер|Вежливое обращение к мужчине в англоязычных странах|Mister|noun; masculine
+2581|дорожка|Узкая полоса земли для передвижения|Pfad|noun; masculine
+2582|проявление|Обнаружение; выражение чего-либо|Äußerung|noun; feminine
+2583|такси|Автомобиль с оплатой по счётчику|Taxi|noun; neuter
+2584|внутрь|Во внутреннюю часть|hinein|adverb
+2585|ловко|С большим умением; искусно|geschickt|adverb
+2586|хрен|Растение с острым корнем, используемым как приправа|Meerrettich|noun; masculine
+2587|владелец|Человек, обладающий чем-либо|Eigentümer|noun; masculine
+2588|свинья|Домашнее животное семейства свиных|Schwein|noun; neuter
+2589|плод|Часть растения с семенами, развившаяся из цветка|Frucht|noun; feminine
+2590|интересоваться|Проявлять интерес к чему-либо|sich interessieren|verb; imperfective; infinitive; reflexive
+2591|расстрелять|Казнить выстрелами|erschießen|verb; perfective; infinitive
+2592|побывать|Посетить какое-либо место|besuchen|verb; perfective; infinitive
+2593|вовремя|Своевременно; в назначенный срок|rechtzeitig|adverb
+2594|заплакать|Начать плакать|losweinen|verb; perfective; infinitive
+2595|окружить|Расположиться вокруг кого-либо или чего-либо|umringen|verb; perfective; infinitive
+2596|заседание|Собрание для обсуждения вопросов|Sitzung|noun; feminine
+2597|патрон|Пуля с зарядом, заключённая в гильзе|Patrone|noun; feminine
+2598|охотно|С желанием; добровольно|gern|adverb
+2599|раскрыть|Обнаружить; сделать известным|enthüllen|verb; perfective; infinitive
+2600|надел|Участок земли, выделенный в пользование|Parzelle|noun; feminine

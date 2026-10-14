@@ -1,0 +1,96 @@
+<section class="card card--vocabulary">
+  <div class="card__toolbar">
+    <span class="toolbar-pill">
+      {{ userSettings.language1Tag() }} → {{ userSettings.language2Tag() }}
+    </span>
+    <span class="toolbar-pill" [class.toolbar-pill--active]="userSettings.autoPlayAudio()">
+      Auto-play {{ userSettings.autoPlayAudio() ? 'on' : 'off' }}
+    </span>
+  </div>
+
+  <div class="card__body">
+    <div class="word-panel">
+      <div class="field field--word">
+        <span class="field__label">
+          Word {{ isTermVisible() ? ` (#${translation().translationId})` : ""}}
+        </span>
+        <p class="field__value field__value--display">
+          @if(isTermVisible()) {
+            {{ translation().term }}
+          }
+          @else {
+            {{ "..." }}
+          }
+        </p>
+      </div>
+
+      <div class="field">
+        <span class="field__label">Meaning</span>
+        <p class="field__value">
+          @if(isTermVisible()) {
+            {{ translation().termMeaning }}
+          }
+          @else {
+            {{ "..." }}
+          }
+        </p>
+      </div>
+
+      <div class="field field--translation">
+        <span class="field__label">Translation</span>
+          <p class="field__value field__value--accent">
+            @if (isTranslationVisible()) {
+              {{ translation().termTranslation }}
+            }
+            @else {
+              {{ "..." }}
+            }
+        </p>
+      </div>
+
+      <div class="field">
+        <span class="field__label">Tags</span>
+        <div class="tags">
+          @if (isTranslationVisible()) {
+            @for (tag of translation().termTranslationTags ?? []; track tag) {
+              <span class="tag">{{ tag }}</span>
+            }
+          }
+          @else {
+            <span class="tag">...</span>
+          }
+        </div>
+      </div>
+    </div>
+
+    <div class="actions-panel">
+      @if (!isTranslationVisible()) {
+        <button class="action action--primary" type="button" (click)="revealTranslation()">
+          Reveal translation
+        </button>
+      }
+      @if (isTranslationVisible()) {
+        <div class="actions-panel__row">
+          <button class="action action--soft" type="button" (click)="markLearned()">
+            Learned
+          </button>
+          <button class="action action--ghost" type="button" (click)="markViewed()">
+            Next
+          </button>
+        </div>
+        <button class="action" type="button" (click)="playTranslationAudio()" [disabled]="!hasTranslationAudio()">
+          <span class="material-symbols-outlined">volume_up</span>
+          Play translation audio
+        </button>
+        <div class="actions-panel__row">
+          <button class="action action--ghost" type="button" (click)="switchFlagged()">
+            {{translation().isTranslationFlagged ? "Remove flag" : "Flag"}}
+          </button>
+          <button class="action action--ghost" type="button" (click)="switchSkipped()">
+            {{translation().isTranslationSkipped ? "Remove skip" : "Skip"}}
+          </button>
+        </div>
+      }
+    </div>
+  </div>
+</section>

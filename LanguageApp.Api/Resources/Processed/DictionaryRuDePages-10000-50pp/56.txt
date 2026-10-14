@@ -1,0 +1,50 @@
+2801|лавка|Небольшой магазин|Laden|noun; masculine
+2802|ласково|Нежно; с лаской|zärtlich|adverb
+2803|поцеловать|Дотронуться губами до кого-либо в знак любви|küssen|verb; perfective; infinitive
+2804|блюдо|Приготовленное кушанье|Gericht|noun; neuter
+2805|арестовать|Лишить свободы по решению суда|verhaften|verb; perfective; infinitive
+2806|оглядеть|Осмотреть со всех сторон|besehen|verb; perfective; infinitive
+2807|ток|Направленное движение электрических зарядов|Strom|noun; masculine
+2808|славный|Пользующийся известностью; достойный похвалы|ruhmreich|adjective
+2809|окоп|Укрытие в виде рва с насыпью для защиты от огня|Schützengraben|noun; masculine
+2810|демократия|Политический строй, основанный на народовластии|Demokratie|noun; feminine
+2811|рвать|Выдёргивать резким движением|reißen|verb; imperfective; infinitive
+2812|шевелиться|Слегка двигаться|sich rühren|verb; imperfective; infinitive; reflexive
+2813|свойство|Качество, составляющее отличительную особенность|Eigenschaft|noun; feminine
+2814|рухнуть|С шумом упасть; обвалиться|zusammenbrechen|verb; perfective; infinitive
+2815|посторонний|Не принадлежащий данной группе или семье|fremd|adjective
+2816|кончаться|Завершаться; подходить к концу|enden|verb; imperfective; infinitive
+2817|успокоить|Внушить кому-либо спокойствие|beruhigen|verb; perfective; infinitive
+2818|рассуждать|Мыслить; последовательно излагать суждения|nachdenken|verb; imperfective; infinitive
+2819|секретный|Содержащийся в тайне|geheim|adjective
+2820|приключение|Неожиданное происшествие в жизни|Abenteuer|noun; neuter
+2821|искусственный|Сделанный наподобие природного|künstlich|adjective
+2822|получение|Действие по значению «получить»|Erhalt|noun; masculine
+2823|ступенька|Небольшая ступень лестницы|Stufe|noun; feminine
+2824|поза|Положение тела|Haltung|noun; feminine
+2825|постучать|Ударить несколько раз|klopfen|verb; perfective; infinitive
+2826|штат|Постоянный состав сотрудников учреждения|Personalbestand|noun; masculine
+2827|выборы|Избрание путём голосования|Wahlen|noun; plural
+2828|носок|Короткий чулок, не доходящий до колена|Socke|noun; feminine
+2829|сосна|Вечнозелёное хвойное дерево|Kiefer|noun; feminine
+2830|олень|Крупное животное с ветвистыми рогами|Hirsch|noun; masculine
+2831|сидя|Находясь в положении сидя|sitzend|adverb
+2832|доказывать|Приводить обоснования; убеждать|beweisen|verb; imperfective; infinitive
+2833|перемена|Изменение; поворот к новому|Veränderung|noun; feminine
+2834|вытянуть|Вытащить, извлечь таща откуда-нибудь|herausziehen|verb; perfective; infinitive
+2835|бригадир|Руководитель бригады|Brigadier|noun; masculine
+2836|впоследствии|Потом; после|später|adverb
+2837|уверенность|Твёрдая вера в кого-либо; убеждённость|Überzeugung|noun; feminine
+2838|сложить|Положить вместе в определённом порядке|zusammenlegen|verb; perfective; infinitive
+2839|акция|Ценная бумага, свидетельствующая о доле в предприятии|Aktie|noun; feminine
+2840|чрезвычайно|В очень большой степени|außerordentlich|adverb
+2841|ранить|Нанести рану кому-либо|verletzen|verb; perfective; infinitive
+2842|половый|О масти животных: бледно-жёлтый|hellgelb|adjective
+2843|засыпать|Заполнить доверху сыпучим веществом|zuschütten|verb; perfective; infinitive
+2844|доходить|Достигать какого-либо места|gelangen|verb; imperfective; infinitive
+2845|космический|Относящийся к космосу|kosmisch|adjective
+2846|жених|Мужчина, вступающий в брак или готовящийся к нему|Bräutigam|noun; masculine
+2847|неподалеку|Недалеко; поблизости|in der Nähe|adverb
+2848|командовать|Отдавать команды; руководить|kommandieren|verb; imperfective; infinitive
+2849|Китай|Страна в Восточной Азии|China|noun; neuter; proper
+2850|сломать|Разделить или повредить ударом; разрушить|zerbrechen|verb; perfective; infinitive

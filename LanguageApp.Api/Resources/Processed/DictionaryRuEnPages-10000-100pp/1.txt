@@ -1,0 +1,100 @@
+1|и|and|conjunction
+2|в|in|preposition
+3|не|not|particle
+4|он|he|pronoun; personal; masculine; singular
+5|на|on|preposition
+6|я|I|pronoun; personal; singular
+7|что|what|pronoun; interrogative
+8|тот|that|pronoun; demonstrative
+9|быть|to be|verb; irregular
+10|с|with|preposition
+11|а|but|conjunction
+12|весь|all|pronoun; determiner
+13|это|this|pronoun; demonstrative; neuter
+14|как|how|adverb
+15|она|she|pronoun; personal; feminine; singular
+16|по|along|preposition
+17|но|but|conjunction
+18|они|they|pronoun; personal; plural
+19|к|to|preposition
+20|у|at|preposition
+21|ты|you|pronoun; personal; singular
+22|из|from|preposition
+23|мы|we|pronoun; personal; plural
+24|за|behind|preposition
+25|вы|you|pronoun; personal; plural
+26|так|so|adverb
+27|же|however|particle
+28|от|from|preposition
+29|сказать|to say|verb; irregular
+30|этот|this|pronoun; demonstrative; masculine
+31|который|which|pronoun; relative
+32|мочь|to be able to|verb; modal; irregular
+33|человек|person|noun; singular
+34|о|about|preposition
+35|один|one|numeral; cardinal
+36|еще|still|adverb
+37|бы|would|particle; conditional
+38|такой|such|pronoun; determiner
+39|только|only|particle
+40|себя|oneself|pronoun; reflexive
+41|свое|one's own|pronoun; possessive
+42|какой|what kind of|pronoun; interrogative
+43|когда|when|adverb; interrogative
+44|уже|already|adverb
+45|для|for|preposition
+46|вот|here|particle
+47|кто|who|pronoun; interrogative
+48|да|yes|particle
+49|говорить|to speak|verb; regular
+50|год|year|noun; singular
+51|знать|to know|verb; irregular
+52|мой|my|pronoun; possessive
+53|до|until|preposition
+54|или|or|conjunction
+55|если|if|conjunction
+56|время|time|noun; singular
+57|рука|hand|noun; singular
+58|нет|no|particle
+59|самый|the most|pronoun; superlative
+60|ни|neither|particle
+61|стать|to become|verb; irregular
+62|большой|big|adjective; irregular comparison
+63|даже|even|particle
+64|другой|other|adjective
+65|наш|our|pronoun; possessive
+66|свой|one's own|pronoun; possessive
+67|ну|well|particle
+68|под|under|preposition
+69|где|where|adverb; interrogative
+70|дело|business|noun; singular
+71|есть|to eat|verb; irregular
+72|сам|himself|pronoun; reflexive
+73|раз|time|noun; singular
+74|чтобы|in order to|conjunction
+75|два|two|numeral; cardinal
+76|там|there|adverb
+77|чем|than|conjunction
+78|глаз|eye|noun; singular
+79|жизнь|life|noun; singular; irregular plural
+80|первый|first|numeral; ordinal
+81|день|day|noun; singular
+82|тут|here|adverb
+83|во|in|preposition
+84|ничто|nothing|pronoun; negative
+85|потом|then|adverb
+86|очень|very|adverb
+87|со|with|preposition
+88|хотеть|to want|verb; regular
+89|ли|whether|particle; interrogative
+90|при|near|preposition
+91|голова|head|noun; singular
+92|надо|it is necessary|predicate; impersonal
+93|без|without|preposition
+94|видеть|to see|verb; irregular
+95|идти|to go|verb; irregular
+96|теперь|now|adverb
+97|тоже|also|particle
+98|стоять|to stand|verb; irregular
+99|друг|friend|noun; singular; irregular plural
+100|дом|house|noun; singular

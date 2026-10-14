@@ -1,0 +1,100 @@
+4701|сектор|Отрасль или область деятельности|Sektor|noun; masculine
+4702|санитар|Младший медицинский работник по уходу за больными|Sanitäter|noun; masculine
+4703|ссылка|Принудительное поселение в отдалённом месте|Verbannung|noun; feminine
+4704|госпожа|Вежливое обращение к женщине|Frau|noun; feminine
+4705|механический|Машинальный, не регулируемый сознательно|mechanisch|adjective
+4706|роща|Небольшой лиственный лес|Hain|noun; masculine
+4707|нагнуться|Наклониться вперёд или вниз|sich bücken|verb; perfective; infinitive; reflexive
+4708|предназначить|Заранее определить для определённой цели|bestimmen|verb; perfective; infinitive
+4709|грек|Представитель греческого народа|Grieche|noun; masculine
+4710|усмешка|Насмешливая или недоверчивая улыбка|Grinsen|noun; neuter
+4711|дружить|Поддерживать дружеские отношения|befreundet sein|verb; imperfective; infinitive
+4712|уникальный|Единственный в своём роде, неповторимый|einzigartig|adjective
+4713|восприятие|Способность воспринимать и осознавать явления внешнего мира|Wahrnehmung|noun; feminine
+4714|потомок|Человек по отношению к своим предкам|Nachkomme|noun; masculine
+4715|номенклатура|Перечень специальных названий в какой-либо области|Nomenklatur|noun; feminine
+4716|тропа|Узкая протоптанная дорожка|Pfad|noun; masculine
+4717|почтительный|Проявляющий почтение, уважительный|ehrerbietig|adjective
+4718|казнь|Лишение жизни как высшая мера наказания|Hinrichtung|noun; feminine
+4719|судебный|Относящийся к суду и судопроизводству|gerichtlich|adjective
+4720|сало|Животный жир, используемый в пищу|Speck|noun; masculine
+4721|мучительный|Причиняющий сильные страдания|quälend|adjective
+4722|сочувствие|Участливое отношение к чужим переживаниям|Mitgefühl|noun; neuter
+4723|ветерок|Слабый лёгкий ветер|Lüftchen|noun; neuter
+4724|распорядиться|Отдать распоряжение, приказать|anordnen|verb; perfective; infinitive
+4725|живо|Быстро, проворно|lebhaft|adverb
+4726|цепляться|Держаться за что-либо; придираться|sich klammern|verb; imperfective; infinitive; reflexive
+4727|увеличиваться|Становиться больше по размеру или количеству|zunehmen|verb; imperfective; infinitive
+4728|Питер|Разговорное название Санкт-Петербурга|St. Petersburg|noun; masculine; proper
+4729|светило|Светящееся небесное тело|Gestirn|noun; neuter
+4730|подробный|Детальный, со всеми частностями|ausführlich|adjective
+4731|мед|Сладкое вещество, вырабатываемое пчёлами из нектара|Honig|noun; masculine
+4732|восхищение|Чувство восторга, высшее удовлетворение|Bewunderung|noun; feminine
+4733|выдумать|Придумать, изобрести что-либо|erfinden|verb; perfective; infinitive
+4734|мисс|Обращение к незамужней женщине в англоязычных странах|Miss|noun; feminine
+4735|Кавказ|Горная система между Европой и Азией|Kaukasus|noun; masculine; proper
+4736|ноздря|Одно из двух наружных отверстий носа|Nasenloch|noun; neuter
+4737|сочетание|Соединение нескольких элементов в единое целое|Kombination|noun; feminine
+4738|наполовину|На одну половину, частично|zur Hälfte|adverb
+4739|отправлять|Посылать, направлять куда-либо|abschicken|verb; imperfective; infinitive
+4740|независимо|Не считаясь, не принимая в расчёт|unabhängig|adverb
+4741|прочный|Крепкий, не поддающийся разрушению|stabil|adjective
+4742|ворваться|Силой войти, преодолев препятствие|einbrechen|verb; perfective; infinitive
+4743|магический|Оказывающий необъяснимо сильное воздействие|magisch|adjective
+4744|выпивать|Пить (алкоголь) в каком-либо количестве|trinken|verb; imperfective; infinitive
+4745|мм|Звук раздумья или согласия|hm|interjection
+4746|нагрузка|Количество работы или воздействия, приходящееся на что-либо|Belastung|noun; feminine
+4747|группировка|Объединение, организованная группа|Gruppierung|noun; feminine
+4748|тревожно|С беспокойством, испытывая тревогу|beunruhigt|adverb
+4749|перец|Острая пряность из плодов одноимённого растения|Pfeffer|noun; masculine
+4750|правительственный|Относящийся к правительству|Regierungs-|adjective
+4751|дрожь|Частое судорожное сокращение мышц|Zittern|noun; neuter
+4752|обсуждение|Коллективное рассмотрение и оценка чего-либо|Diskussion|noun; feminine
+4753|ползать|Передвигаться в горизонтальном положении, упираясь в поверхность|kriechen|verb; imperfective; infinitive
+4754|ручной|Предназначенный для работы руками; ручной работы|hand-|adjective
+4755|достаточный|Удовлетворяющий необходимым требованиям|ausreichend|adjective
+4756|постановление|Официальное решение органа власти|Beschluss|noun; masculine
+4757|семнадцать|Количественное числительное: 17|siebzehn|numeral; cardinal
+4758|вытянуться|Встать прямо, выпрямиться|sich strecken|verb; perfective; infinitive; reflexive
+4759|заметка|Краткое печатное сообщение|Notiz|noun; feminine
+4760|принцесса|Дочь или супруга принца|Prinzessin|noun; feminine
+4761|посещать|Приходить к кому-либо или куда-либо|besuchen|verb; imperfective; infinitive
+4762|самоубийство|Намеренное лишение себя жизни|Selbstmord|noun; masculine
+4763|отодвинуть|Переместить на небольшое расстояние в сторону|wegschieben|verb; perfective; infinitive
+4764|раздавить|Сильно сжать и сломать|zerquetschen|verb; perfective; infinitive
+4765|нежность|Ласковость, мягкость в обращении|Zärtlichkeit|noun; feminine
+4766|тоненький|Очень тонкий|dünn|adjective
+4767|сейф|Металлический шкаф для хранения ценностей|Safe|noun; masculine
+4768|миф|Древнее предание о богах и героях|Mythos|noun; masculine
+4769|пятеро|Пять человек|fünf (Personen)|numeral; cardinal
+4770|объявлять|Доводить до всеобщего сведения|bekannt geben|verb; imperfective; infinitive
+4771|противно|С отвращением; выражение неприятия|widerlich|adverb
+4772|правление|Орган, управляющий учреждением или организацией|Vorstand|noun; masculine
+4773|выдающийся|Отличающийся особыми достоинствами, замечательный|herausragend|adjective
+4774|валюта|Денежная единица или система страны|Währung|noun; feminine
+4775|разработать|Создать, проработав в деталях|entwickeln|verb; perfective; infinitive
+4776|рассыпаться|Рассеяться, раскатиться по поверхности|sich verstreuen|verb; perfective; infinitive; reflexive
+4777|блин|Тонкая лепёшка из жидкого теста, жаренная на сковороде|Pfannkuchen|noun; masculine
+4778|выезд|Отъезд, выезд с места|Abfahrt|noun; feminine
+4779|туго|Плотно, крепко, с усилием|straff|adverb
+4780|складка|Загнутая полоска ткани, образующая рельеф|Falte|noun; feminine
+4781|шелковый|Изготовленный из шёлка|seiden|adjective
+4782|предатель|Тот, кто предал кого-либо, изменник|Verräter|noun; masculine
+4783|купец|Зажиточный торговец, владелец торгового предприятия|Kaufmann|noun; masculine
+4784|удаляться|Уходить, отдаляться от чего-либо|sich entfernen|verb; imperfective; infinitive; reflexive
+4785|психика|Совокупность внутренних душевных процессов человека|Psyche|noun; feminine
+4786|живопись|Создание художественных образов с помощью красок|Malerei|noun; feminine
+4787|кровотечение|Истечение крови из сосудов|Blutung|noun; feminine
+4788|ворчать|Сердито бормотать, выражая недовольство|brummen|verb; imperfective; infinitive
+4789|демократ|Сторонник демократического устройства|Demokrat|noun; masculine
+4790|откинуть|Отбросить, отодвинуть в сторону|zurückwerfen|verb; perfective; infinitive
+4791|трещина|Узкая щель на поверхности|Riss|noun; masculine
+4792|мораль|Нравственные нормы поведения и отношений|Moral|noun; feminine
+4793|распахнуться|Широко раскрыться|sich aufschwingen|verb; perfective; infinitive; reflexive
+4794|помниться|Сохраняться в памяти, не забываться|in Erinnerung bleiben|verb; imperfective; infinitive
+4795|факультет|Учебно-научное подразделение вуза по одной отрасли знания|Fakultät|noun; feminine
+4796|поражать|Наносить поражение; производить сильное впечатление|erstaunen|verb; imperfective; infinitive
+4797|аллея|Дорожка с рядами деревьев по обеим сторонам|Allee|noun; feminine
+4798|настать|Наступить, начаться (о времени)|eintreten|verb; perfective; infinitive
+4799|поляна|Открытое травянистое пространство среди леса|Lichtung|noun; feminine
+4800|валенок|Зимняя обувь из войлока|Filzstiefel|noun; masculine

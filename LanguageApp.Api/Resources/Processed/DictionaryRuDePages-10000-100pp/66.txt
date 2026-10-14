@@ -1,0 +1,100 @@
+6501|бездна|Глубокая пропасть; пучина|Abgrund|noun; masculine
+6502|превращение|Изменение состояния; переход в другой вид|Verwandlung|noun; feminine
+6503|упругий|Возвращающийся к первоначальной форме после деформации|elastisch|adjective
+6504|пьяница|Человек, злоупотребляющий алкоголем|Trinker|noun; masculine
+6505|эра|Крупный исторический период; эпоха|Ära|noun; feminine
+6506|элита|Лучшие представители общества или группы|Elite|noun; feminine
+6507|контрольный|Относящийся к проверке или контролю|Kontroll-|adjective
+6508|шататься|Бродить без дела; слоняться|herumschlendern|verb; imperfective; infinitive
+6509|тайно|Втайне; не открыто|heimlich|adverb
+6510|Венера|Вторая по удалённости от Солнца планета|Venus|noun; feminine; proper
+6511|лихорадка|Болезненное состояние с жаром и ознобом|Fieber|noun; neuter
+6512|жестоко|С проявлением жестокости; безжалостно|grausam|adverb
+6513|очерк|Короткое описание событий или явлений|Skizze|noun; feminine
+6514|смолкнуть|Перестать звучать или говорить|verstummen|verb; perfective; infinitive
+6515|проходной|Имеющий сквозной проход|Durchgangs-|adjective
+6516|чернеть|Становиться чёрным или тёмным|sich schwärzen|verb; imperfective; infinitive; reflexive
+6517|лапка|Маленькая лапа|Pfötchen|noun; neuter
+6518|публичный|Осуществляемый в присутствии публики; открытый|öffentlich|adjective
+6519|разгар|Наивысшая точка в развитии чего-либо|Höhepunkt|noun; masculine
+6520|аппаратура|Комплекс приборов и аппаратов|Apparatur|noun; feminine
+6521|украшать|Делать красивым; придавать нарядный вид|schmücken|verb; imperfective; infinitive
+6522|пирог|Печёное изделие из теста с начинкой|Kuchen|noun; masculine
+6523|спиртной|Содержащий алкоголь|alkoholisch|adjective
+6524|толстяк|Полный тучный человек|Dicker|noun; masculine
+6525|хобот|Подвижный носовой придаток у некоторых млекопитающих|Rüssel|noun; masculine
+6526|измученный|Находящийся в состоянии сильной усталости|erschöpft|adjective
+6527|неловкость|Чувство стеснительности или неловкой ситуации|Unbeholfenheit|noun; feminine
+6528|проезжать|Перемещаться на транспорте; минуть|durchfahren|verb; imperfective; infinitive
+6529|убитый|Человек, лишённый жизни|Getöteter|noun; masculine
+6530|небритый|Не подвергшийся бритью|unrasiert|adjective
+6531|неприязнь|Недоброжелательность; недружелюбие|Abneigung|noun; feminine
+6532|огарок|Остаток недогоревшей свечи|Kerzenstummel|noun; masculine
+6533|списать|Написать, копируя оригинал|abschreiben|verb; perfective; infinitive
+6534|шикарный|Роскошный по внешнему виду|schick|adjective
+6535|обстрел|Стрельба по цели из нескольких орудий|Beschuss|noun; masculine
+6536|вуз|Высшее учебное заведение|Hochschule|noun; feminine
+6537|клей|Липкий состав для соединения материалов|Klebstoff|noun; masculine
+6538|повидать|Увидеть многое; пережить немало|erleben|verb; perfective; infinitive
+6539|измена|Нарушение верности кому-либо|Verrat|noun; masculine
+6540|приблизительно|Примерно; не точно|ungefähr|adverb
+6541|мамаша|Мать (разговорное)|Mutter|noun; feminine
+6542|ухватить|Крепко схватить|greifen|verb; perfective; infinitive
+6543|чувствительный|Обладающий повышенной восприимчивостью к воздействиям|empfindlich|adjective
+6544|азарт|Сильное возбуждение и увлечение|Begeisterung|noun; feminine
+6545|необычайно|Более чем обычно; исключительно|außergewöhnlich|adverb
+6546|фаза|Отдельная стадия в развитии чего-либо|Phase|noun; feminine
+6547|сплюнуть|Сделать плевок|ausspucken|verb; perfective; infinitive
+6548|восприниматься|Представляться или казаться каким-либо|wahrgenommen werden|verb; imperfective; infinitive
+6549|выпивка|Спиртные напитки (разговорное)|Alkohol|noun; masculine
+6550|сослать|В наказание принудительно переселить|verbannen|verb; perfective; infinitive
+6551|средневековый|Относящийся к Средним векам|mittelalterlich|adjective
+6552|ми|Название ноты музыкальной гаммы|Mi|noun; neuter; indeclinable
+6553|сварить|Приготовить пищу варкой|kochen|verb; perfective; infinitive
+6554|обвинить|Счесть виновным; предъявить обвинение|beschuldigen|verb; perfective; infinitive
+6555|любка|Растение рода орхидей|Knabenkraut|noun; neuter
+6556|заводить|Начинать какое-либо дело|anfangen|verb; imperfective; infinitive
+6557|карабин|Облегчённая короткоствольная винтовка|Karabiner|noun; masculine
+6558|травка|Маленькая трава (уменьшительное)|Gräschen|noun; neuter
+6559|завершить|Закончить; довести до конца|abschließen|verb; perfective; infinitive
+6560|нечистый|Загрязнённый; нечистоплотный|unrein|adjective
+6561|сочувствовать|Относиться с пониманием и участием|mitfühlen|verb; imperfective; infinitive
+6562|выразительный|Яркий; хорошо передающий смысл|ausdrucksvoll|adjective
+6563|конкретно|Ясно и определённо|konkret|adverb
+6564|скула|Парная лицевая кость под глазницей|Wangenknochen|noun; masculine
+6565|подписывать|Заверять подписью|unterschreiben|verb; imperfective; infinitive
+6566|смущение|Замешательство; состояние застенчивости|Verlegenheit|noun; feminine
+6567|тряхнуть|Сделать резкое короткое движение|rütteln|verb; perfective; infinitive
+6568|смять|Быстрым натиском сломить сопротивление|überrennen|verb; perfective; infinitive
+6569|пират|Морской разбойник|Pirat|noun; masculine
+6570|раствориться|Разойтись в жидкости, образовав смесь|sich auflösen|verb; perfective; infinitive; reflexive
+6571|заверить|Убедить в чём-либо; дать заверение|versichern|verb; perfective; infinitive
+6572|такт|Метрическая единица музыкального произведения|Takt|noun; masculine
+6573|ядерный|Относящийся к процессам в атомном ядре|nuklear|adjective
+6574|рычать|Издавать громкие злобные звуки низкого тона|knurren|verb; imperfective; infinitive
+6575|патологический|Болезненно-ненормальный; резко отклоняющийся от нормы|krankhaft|adjective
+6576|революционер|Участник революционного движения|Revolutionär|noun; masculine
+6577|грабить|Отнимать или похищать силой|rauben|verb; imperfective; infinitive
+6578|Пронякина|Русская фамилия|Pronyakina|noun; feminine; proper
+6579|меховой|Сделанный из меха|Pelz-|adjective
+6580|потенциал|Совокупность возможностей и средств|Potenzial|noun; neuter
+6581|бруствер|Земляная насыпь на краю окопа|Brustwehr|noun; feminine
+6582|отделаться|Избавиться от чего-либо неприятного|loswerden|verb; perfective; infinitive
+6583|повозка|Средство перевозки, запрягаемое животным|Fuhrwerk|noun; neuter
+6584|светский|Не церковный; гражданский|weltlich|adjective
+6585|зашевелиться|Начать шевелиться; прийти в движение|sich zu regen beginnen|verb; perfective; infinitive; reflexive
+6586|пропеть|Исполнить что-либо пением|singen|verb; perfective; infinitive
+6587|участь|Жизненная судьба; доля|Schicksal|noun; neuter
+6588|успешный|Сопровождающийся успехом; удачный|erfolgreich|adjective
+6589|расстроить|Нарушить порядок; огорчить|verstimmen|verb; perfective; infinitive
+6590|филин|Крупная птица отряда сов|Uhu|noun; masculine
+6591|липкий|Легко прилипающий; клейкий|klebrig|adjective
+6592|приговорить|Вынести обвинительный приговор|verurteilen|verb; perfective; infinitive
+6593|паром|Плоскодонное судно для переправы через водоём|Fähre|noun; feminine
+6594|свыше|Более; сверх какой-либо меры|über|adverb
+6595|сшить|Соединить посредством шитья|nähen|verb; perfective; infinitive
+6596|вращаться|Совершать вращательное движение|sich drehen|verb; imperfective; infinitive; reflexive
+6597|притом|Вместе с тем; к тому же|dabei|conjunction
+6598|эдакий|Такой; подобный (разговорное)|solcher|pronoun
+6599|застрелить|Убить из огнестрельного оружия|erschießen|verb; perfective; infinitive
+6600|разрушать|Разрушать здания или нарушать существование чего-либо|zerstören|verb; imperfective; infinitive

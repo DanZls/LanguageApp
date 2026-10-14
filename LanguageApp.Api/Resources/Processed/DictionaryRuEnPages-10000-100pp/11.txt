@@ -1,0 +1,100 @@
+1001|передать|to pass|verb; perfective
+1002|лечение|treatment|noun; singular
+1003|высший|highest|adjective
+1004|сутки|day|noun; singular
+1005|вставать|to get up|verb; irregular
+1006|операция|operation|noun; singular
+1007|пространство|space|noun; singular
+1008|спокойный|calm|adjective
+1009|одежда|clothes|noun; plural; uncountable
+1010|кусок|piece|noun; singular
+1011|тема|topic|noun; singular
+1012|животный|animal|adjective
+1013|снимать|to take off|verb; regular
+1014|искусство|art|noun; singular; uncountable
+1015|умный|smart|adjective
+1016|малый|small|adjective
+1017|курс|course|noun; singular
+1018|звонить|to call|verb; regular
+1019|очередной|next|adjective
+1020|чудо|miracle|noun; singular; irregular plural
+1021|ощущение|sensation|noun; singular
+1022|крайний|extreme|adjective
+1023|напоминать|to resemble|verb; regular
+1024|придумать|to invent|verb; perfective
+1025|падать|to fall|verb; regular
+1026|здание|building|noun; singular
+1027|свежий|fresh|adjective
+1028|поговорить|to talk|verb; perfective
+1029|начинаться|to begin|verb; regular
+1030|милиция|police|noun; singular; uncountable
+1031|приказать|to order|verb; perfective
+1032|несмотря|despite|preposition
+1033|оттуда|from there|adverb
+1034|засмеяться|to burst out laughing|verb; perfective
+1035|волна|wave|noun; singular
+1036|задача|task|noun; singular
+1037|касаться|to touch|verb; regular
+1038|старуха|old woman|noun; singular
+1039|войско|army|noun; singular
+1040|срок|term|noun; singular
+1041|ужас|horror|noun; singular
+1042|узкий|narrow|adjective
+1043|материал|material|noun; singular
+1044|приняться|to start|verb; perfective
+1045|нормальный|normal|adjective
+1046|крик|scream|noun; singular
+1047|знание|knowledge|noun; singular; uncountable
+1048|трое|three|numeral; collective
+1049|четвертый|fourth|numeral; ordinal
+1050|шум|noise|noun; singular; uncountable
+1051|заставить|to force|verb; perfective
+1052|автомат|assault rifle|noun; singular
+1053|резко|sharply|adverb
+1054|тетя|aunt|noun; singular
+1055|впечатление|impression|noun; singular
+1056|пауза|pause|noun; singular
+1057|глубина|depth|noun; singular
+1058|доллар|dollar|noun; singular
+1059|сотня|hundred|noun; singular
+1060|виноватый|guilty|adjective
+1061|студент|student|noun; singular
+1062|боевой|combat|adjective
+1063|очко|point|noun; singular
+1064|нож|knife|noun; singular; irregular plural
+1065|подниматься|to rise|verb; regular; reflexive
+1066|мировой|world|adjective
+1067|предмет|object|noun; singular
+1068|плохой|bad|adjective; irregular comparison
+1069|майор|major|noun; singular
+1070|ударить|to hit|verb; perfective
+1071|разуметься|to be implied|verb; regular; reflexive
+1072|точный|precise|adjective
+1073|всякий|any|pronoun; determiner
+1074|деятельность|activity|noun; singular
+1075|инженер|engineer|noun; singular
+1076|программа|program|noun; singular
+1077|костюм|suit|noun; singular
+1078|женский|female|adjective
+1079|крепкий|strong|adjective
+1080|театр|theater|noun; singular
+1081|встречаться|to meet|verb; regular; reflexive
+1082|различный|various|adjective
+1083|хвост|tail|noun; singular
+1084|танк|tank|noun; singular
+1085|социальный|social|adjective
+1086|мертвый|dead|adjective
+1087|попытаться|to try|verb; perfective; reflexive
+1088|явно|clearly|adverb
+1089|журнал|magazine|noun; singular
+1090|конь|horse|noun; singular
+1091|схватить|to grab|verb; perfective
+1092|вдоль|along|adverb
+1093|стихи|poems|noun; plural
+1094|степень|degree|noun; singular
+1095|отказаться|to refuse|verb; perfective; reflexive
+1096|вытащить|to pull out|verb; perfective
+1097|предлагать|to offer|verb; regular
+1098|фигура|figure|noun; singular
+1099|ключ|key|noun; singular
+1100|черт|devil|noun; singular

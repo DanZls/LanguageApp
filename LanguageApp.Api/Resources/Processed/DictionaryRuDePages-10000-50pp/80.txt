@@ -1,0 +1,50 @@
+4001|приговор|Судебное решение по уголовному делу|Urteil|noun; neuter
+4002|двадцатый|Порядковое числительное: занимающий место двадцать|zwanzigste|numeral; ordinal
+4003|фюрер|Вождь в фашистских организациях|Führer|noun; masculine
+4004|ягода|Небольшой сочный плод кустарника или травянистого растения|Beere|noun; feminine
+4005|ограда|Забор, ограждение, решётка|Zaun|noun; masculine
+4006|низко|На небольшой высоте|niedrig|adverb
+4007|восемьдесят|Количественное числительное: 80|achtzig|numeral; cardinal
+4008|выделяться|Быть заметным среди других|sich abheben|verb; imperfective; infinitive; reflexive
+4009|фокус|Точка пересечения преломлённых или отражённых лучей|Fokus|noun; masculine
+4010|тонна|Единица массы, равная 1000 кг|Tonne|noun; feminine
+4011|материя|Объективная реальность вне сознания; вещество|Materie|noun; feminine
+4012|поперек|В поперечном направлении, по ширине|quer|preposition
+4013|мышь|Небольшой грызун с острой мордочкой и длинным хвостом|Maus|noun; feminine
+4014|скрипеть|Издавать скрипящий звук|knarren|verb; imperfective; infinitive
+4015|кушать|Есть, принимать пищу|essen|verb; imperfective; infinitive
+4016|нищий|Крайне бедный, неимущий|arm|adjective
+4017|невозможный|Неосуществимый, невыполнимый|unmöglich|adjective
+4018|общаться|Поддерживать взаимные контакты|kommunizieren|verb; imperfective; infinitive
+4019|побег|Бегство из места заключения или плена|Flucht|noun; feminine
+4020|лунный|Относящийся к Луне|Mond-|adjective
+4021|учение|Система теоретических положений о какой-либо области|Lehre|noun; feminine
+4022|солидный|Надёжный, основательный, прочный|solide|adjective
+4023|шестнадцать|Количественное числительное: 16|sechzehn|numeral; cardinal
+4024|чувствоваться|Быть ощутимым, заметным|spürbar sein|verb; imperfective; infinitive
+4025|тьфу|Звукоподражание плевку, выражение отвращения|pfui|interjection
+4026|почитать|Проявлять уважение, чтить|achten|verb; imperfective; infinitive
+4027|размышление|Обдуманные мысли, раздумье|Überlegung|noun; feminine
+4028|одинаково|В равной мере, без различия|gleich|adverb
+4029|ступень|Один из выступов лестницы|Stufe|noun; feminine
+4030|расставить|Разместить по нужным местам|aufstellen|verb; perfective; infinitive
+4031|мадам|Вежливое обращение к замужней женщине|Madame|noun; feminine
+4032|мирно|Тихо, спокойно, без конфликтов|friedlich|adverb
+4033|зрелище|То, что привлекает взор, впечатляет|Schauspiel|noun; neuter
+4034|досада|Чувство раздражения от неудачи или обиды|Ärger|noun; masculine
+4035|трасса|Направление дороги, маршрут|Strecke|noun; feminine
+4036|направляться|Отправляться к какой-либо цели|sich begeben|verb; imperfective; infinitive; reflexive
+4037|учебный|Относящийся к обучению|Lehr-|adjective
+4038|существующий|Имеющийся в наличии, реальный|bestehend|adjective
+4039|идеальный|Соответствующий идеалу, совершенный|ideal|adjective
+4040|жидкий|Обладающий способностью течь|flüssig|adjective
+4041|буркнуть|Произнести что-либо негромко и ворчливо|brummen|verb; perfective; infinitive
+4042|столкнуться|Ударившись, встретиться; вступить в противоречие|zusammenstoßen|verb; perfective; infinitive
+4043|учебник|Книга для обучения отдельному предмету|Lehrbuch|noun; neuter
+4044|идеология|Система взглядов и идей социальной группы|Ideologie|noun; feminine
+4045|уговаривать|Убеждать кого-либо сделать что-либо|überreden|verb; imperfective; infinitive
+4046|комсомольский|Относящийся к комсомолу|Komsomol-|adjective
+4047|подозрительный|Вызывающий подозрение|verdächtig|adjective
+4048|прикрывать|Частично закрывать, заслонять|abdecken|verb; imperfective; infinitive
+4049|смесь|Совокупность разнородных компонентов|Gemisch|noun; neuter
+4050|электронный|Основанный на использовании электронов; цифровой|elektronisch|adjective

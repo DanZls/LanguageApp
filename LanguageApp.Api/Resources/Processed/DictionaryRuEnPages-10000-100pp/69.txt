@@ -1,0 +1,100 @@
+6801|трепетать|to tremble|verb; imperfective
+6802|толковать|to interpret|verb; imperfective
+6803|находка|find|noun; singular
+6804|легкомысленный|frivolous|adjective
+6805|волчий|wolf's|adjective
+6806|телогрейка|padded jacket|noun; singular
+6807|паразит|parasite|noun; singular
+6808|красоваться|to show off|verb; imperfective; reflexive
+6809|отвлечься|to get distracted|verb; perfective; reflexive
+6810|уставать|to get tired|verb; imperfective
+6811|гибкий|flexible|adjective
+6812|полководец|commander|noun; singular
+6813|желанный|desired|adjective
+6814|спасаться|to escape|verb; imperfective; reflexive
+6815|тонко|subtly|adverb
+6816|торжествовать|to triumph|verb; imperfective
+6817|консульство|consulate|noun; singular
+6818|организованный|organized|adjective
+6819|ненормальный|abnormal|adjective
+6820|приспособить|to adapt|verb; perfective
+6821|мертвый|dead|adjective
+6822|слепить|to sculpt|verb; perfective
+6823|кишечный|intestinal|adjective
+6824|магнитный|magnetic|adjective
+6825|синяк|bruise|noun; singular
+6826|задерживать|to detain|verb; imperfective
+6827|предвидеть|to foresee|verb; imperfective
+6828|швейцар|doorman|noun; singular
+6829|рыбалка|fishing|noun; singular; uncountable
+6830|ти|thou|pronoun; singular; second person
+6831|культ|cult|noun; singular
+6832|пирога|canoe|noun; singular
+6833|итальянец|Italian|noun; singular
+6834|неумолчно|incessantly|adverb
+6835|проследить|to trace|verb; perfective
+6836|штурм|storm|noun; singular
+6837|граф|count|noun; singular
+6838|превосходный|excellent|adjective
+6839|откладывать|to postpone|verb; imperfective
+6840|тапочки|slippers|noun; plural
+6841|дурачок|silly fool|noun; singular
+6842|передаваться|to be transmitted|verb; imperfective; reflexive
+6843|очаровательный|charming|adjective
+6844|горсть|handful|noun; singular
+6845|новейший|newest|adjective
+6846|инстанция|authority|noun; singular
+6847|побрать|to take|verb; perfective
+6848|фото|photo|noun; singular
+6849|сердитый|angry|adjective
+6850|отразиться|to be reflected|verb; perfective; reflexive
+6851|встревожить|to alarm|verb; perfective
+6852|повториться|to repeat|verb; perfective; reflexive
+6853|повелеть|to command|verb; perfective
+6854|вылетать|to fly out|verb; imperfective
+6855|сводка|bulletin|noun; singular
+6856|мочь|to be able|verb; imperfective
+6857|обжечь|to burn|verb; perfective
+6858|отличать|to distinguish|verb; imperfective
+6859|уродливый|ugly|adjective
+6860|неслышный|inaudible|adjective
+6861|борщ|borscht|noun; singular
+6862|администратор|administrator|noun; singular
+6863|матовый|matte|adjective
+6864|Казахстан|Kazakhstan|noun; singular; proper
+6865|взреветь|to roar|verb; perfective
+6866|яблоня|apple tree|noun; singular
+6867|мастерство|craftsmanship|noun; singular; uncountable
+6868|предполагаться|to be assumed|verb; imperfective; passive
+6869|град|hail|noun; singular; uncountable
+6870|ремесло|craft|noun; singular
+6871|властный|authoritative|adjective
+6872|выдумка|invention|noun; singular
+6873|нелегкий|difficult|adjective
+6874|прозвать|to nickname|verb; perfective
+6875|сбрасывать|to throw off|verb; imperfective
+6876|накопить|to accumulate|verb; perfective
+6877|выговор|reprimand|noun; singular
+6878|внушительный|impressive|adjective
+6879|клан|clan|noun; singular
+6880|оттолкнуть|to push away|verb; perfective
+6881|павильон|pavilion|noun; singular
+6882|безымянный|nameless|adjective
+6883|затея|scheme|noun; singular
+6884|косяк|door frame|noun; singular
+6885|взорвать|to blow up|verb; perfective
+6886|усаживаться|to settle down|verb; imperfective; reflexive
+6887|споткнуться|to stumble|verb; perfective; reflexive
+6888|запрос|inquiry|noun; singular
+6889|приветливо|amiably|adverb
+6890|шашлык|shashlik|noun; singular
+6891|похитить|to steal|verb; perfective
+6892|поросенок|piglet|noun; singular
+6893|закономерность|regularity|noun; singular
+6894|придерживаться|to adhere|verb; imperfective; reflexive
+6895|втянуть|to draw in|verb; perfective
+6896|синдром|syndrome|noun; singular
+6897|прищуриться|to squint|verb; perfective; reflexive
+6898|взвыть|to howl|verb; perfective
+6899|командный|command|adjective
+6900|мятый|crumpled|adjective

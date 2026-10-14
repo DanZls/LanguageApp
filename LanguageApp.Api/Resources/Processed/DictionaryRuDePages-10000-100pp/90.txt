@@ -1,0 +1,99 @@
+8901|соорудить|Построить, возвести|errichten|verb; perfective; infinitive
+8902|алло|Возглас при телефонном разговоре|hallo|interjection
+8903|ручаться|Принимать ответственность за кого-либо|bürgen|verb; imperfective; infinitive
+8904|окуляр|Часть оптического прибора, обращённая к глазу|Okular|noun; neuter
+8905|бесплодный|Неспособный производить потомство или плоды|unfruchtbar|adjective
+8906|запускать|Приводить в действие, включать|starten|verb; imperfective; infinitive
+8907|скрежет|Резкий скрипящий звук|Knirschen|noun; neuter
+8908|братский|Свойственный брату, дружеский|brüderlich|adjective
+8909|посыпать|Покрыть чем-либо сыпучим|bestreuen|verb; perfective; infinitive
+8910|лимфатический|Вялый, лишённый энергии|lymphatisch|adjective
+8911|истерический|Связанный с истерией, склонный к истерикам|hysterisch|adjective
+8912|прибрежный|Расположенный у берега|küstennah|adjective
+8913|Коминтерн|Коммунистический интернационал|Komintern|noun; masculine; proper
+8914|устранить|Убрать, ликвидировать|beseitigen|verb; perfective; infinitive
+8915|захлопать|Начать аплодировать, захлопать|anfangen zu klatschen|verb; perfective; infinitive
+8916|увлекательный|Способный захватить интерес, занимательный|fesselnd|adjective
+8917|люкс|Номер или купе высшего класса|Luxus|noun; masculine
+8918|отдаваться|Целиком посвятить себя чему-либо|sich hingeben|verb; imperfective; infinitive; reflexive
+8919|хабар|Взятка, незаконное вознаграждение|Bestechung|noun; feminine
+8920|Белоруссия|Государство в Восточной Европе|Weißrussland|noun; neuter; proper
+8921|попутный|Движущийся в том же направлении|Rückenwind-|adjective
+8922|выручать|Помогать кому-либо в затруднении|heraushelfen|verb; imperfective; infinitive
+8923|запрещаться|Быть под запретом|verboten sein|verb; passive; imperfective
+8924|му|Мычание коровы (межд.)|muh|interjection
+8925|разнообразие|Большое количество различных видов|Vielfalt|noun; feminine
+8926|коротенький|Очень короткий (уменьш.)|kurz|adjective
+8927|сопля|Слизь, вытекающая из носа|Rotz|noun; masculine
+8928|строевой|Пригодный для постройки; военного строя|Bau-|adjective
+8929|пожениться|Вступить в брак|heiraten|verb; perfective; infinitive
+8930|подворотня|Проём под воротами дома для прохода|Toreinfahrt|noun; feminine
+8931|обложить|Положить вокруг, окружить|umgeben|verb; perfective; infinitive
+8932|монстр|Чудовище, урод|Monster|noun; neuter
+8933|извиваться|Изгибаться волнистой линией|sich schlängeln|verb; imperfective; infinitive; reflexive
+8934|загадочно|Таинственно, непонятно|rätselhaft|adverb
+8935|известность|Широкая известность, слава|Bekanntheit|noun; feminine
+8936|экспорт|Вывоз товаров за рубеж|Export|noun; masculine
+8937|горизонтальный|Расположенный горизонтально|horizontal|adjective
+8938|док|Сооружение для постройки и ремонта судов|Dock|noun; neuter
+8939|Владивосток|Портовый город на Дальнем Востоке России|Wladiwostok|noun; masculine; proper
+8940|душистый|Имеющий приятный сильный аромат|duftend|adjective
+8941|затопить|Залить водой; начать топить|überfluten|verb; perfective; infinitive
+8942|выключатель|Прибор для включения и отключения тока|Lichtschalter|noun; masculine
+8943|разрез|Место разреза, прорезь|Schnitt|noun; masculine
+8944|ставиться|Быть поставленным или помещённым|aufgestellt werden|verb; imperfective; passive
+8945|взаимоотношение|Взаимные отношения между людьми|Beziehung|noun; feminine
+8946|футболист|Спортсмен, играющий в футбол|Fußballspieler|noun; masculine
+8947|лом|Металлический заострённый стержень для взлома|Brecheisen|noun; neuter
+8948|лосниться|Блестеть, отсвечивать глянцем|glänzen|verb; imperfective; infinitive
+8949|озабоченно|С беспокойством, озабоченно|besorgt|adverb
+8950|ликовать|Торжествовать, радоваться с восторгом|jubeln|verb; imperfective; infinitive
+8952|окаменеть|Стать неподвижным, застыть как камень|versteinern|verb; perfective; infinitive
+8953|стереть|Трением удалить с поверхности|wegwischen|verb; perfective; infinitive
+8954|ударять|Наносить удар|schlagen|verb; imperfective; infinitive
+8955|чуточку|В самой малой мере, немного|ein bisschen|adverb
+8956|поневоле|Вопреки желанию, против воли|unfreiwillig|adverb
+8957|конкуренция|Соперничество за достижение преимуществ|Konkurrenz|noun; feminine
+8958|кошмарный|Ужасный, как в кошмарном сне|albtraumhaft|adjective
+8959|Лапина|Женская фамилия|Lapina|noun; feminine; proper
+8960|теневой|Находящийся в тени; неофициальный|Schatten-|adjective
+8961|орудовать|Действовать с помощью чего-либо|hantieren|verb; imperfective; infinitive
+8962|терзать|Мучить, причинять страдания|quälen|verb; imperfective; infinitive
+8963|сантехника|Санитарно-техническое оборудование|Sanitärtechnik|noun; feminine
+8964|загорать|Находиться на солнце для потемнения кожи|sich bräunen|verb; imperfective; infinitive; reflexive
+8965|страничка|Небольшая страница (уменьш.)|Seite|noun; feminine; diminutive
+8966|созреть|Достичь зрелости|reifen|verb; perfective; infinitive
+8967|кочка|Небольшой земляной бугорок|Bülte|noun; feminine
+8968|наводчик|Военный, наводящий оружие на цель|Richtkanonier|noun; masculine
+8969|неспособный|Лишённый необходимых способностей|unfähig|adjective
+8970|маячить|Неясно виднеться в отдалении|auftauchen|verb; imperfective; infinitive
+8971|зажить|О ране: затянуться, зарубцеваться|verheilen|verb; perfective; infinitive
+8972|превосходить|Быть выше или значительнее|übertreffen|verb; imperfective; infinitive
+8973|периодически|С определёнными промежутками, повторяясь|periodisch|adverb
+8974|меньшинство|Меньшая часть (людей, группы)|Minderheit|noun; feminine
+8975|сев|Время или процесс посева|Aussaat|noun; feminine
+8976|рыжик|Съедобный гриб с рыжей шляпкой|Echter Reizker|noun; masculine
+8977|корзинка|Небольшая корзина (уменьш.)|Körbchen|noun; neuter; diminutive
+8978|гарь|Выгоревшее место в лесу|Brandstelle|noun; feminine
+8979|ди|Частица или сокращение в именах собственных|Di|noun; feminine
+8980|подвернуться|Случайно попасться, оказаться рядом|sich ergeben|verb; perfective; infinitive; reflexive
+8981|экзотический|Присущий необычным, далёким странам|exotisch|adjective
+8982|ориентироваться|Определять своё местоположение или направление|sich orientieren|verb; imperfective; infinitive; reflexive
+8983|древность|Далёкое прошлое|Altertum|noun; neuter
+8984|помеха|Препятствие, то, что мешает|Hindernis|noun; neuter
+8985|обыватель|Рядовой житель; человек с узким кругозором|Spießbürger|noun; masculine
+8986|острие|Острый конец или режущая сторона|Spitze|noun; feminine
+8987|виновник|Тот, кто несёт ответственность за что-либо|Schuldige|noun; masculine
+8988|нехватка|Недостаток, отсутствие нужного|Mangel|noun; masculine
+8989|листовка|Печатный листок с актуальным воззванием|Flugblatt|noun; neuter
+8990|богатырь|Герой русского эпоса, совершающий ратные подвиги|Recke|noun; masculine
+8991|шалаш|Лёгкое временное укрытие из веток и жердей|Schutzhütte|noun; feminine
+8992|тщетно|Напрасно, без результата|vergeblich|adverb
+8993|адский|Очень сильный, невыносимый (разг.)|höllisch|adjective
+8994|повязать|Надеть, завязав концы|binden|verb; perfective; infinitive
+8995|заряжать|Вкладывать патрон или заряд|laden|verb; imperfective; infinitive
+8996|топчан|Дощатая кровать на ножках|Pritsche|noun; feminine
+8997|позвоночник|Скелетная ось вдоль спины|Wirbelsäule|noun; feminine
+8998|разгадать|Найти правильный ответ, разгадать|erraten|verb; perfective; infinitive
+8999|буйный|Стремительный, неистовый, бурный|wild|adjective
+9000|стих|Единица ритмически организованной речи; стихотворение|Vers|noun; masculine

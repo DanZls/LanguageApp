@@ -1,0 +1,100 @@
+6601|залп|volley|noun; singular
+6602|полнота|fullness|noun; singular; uncountable
+6603|приблизить|to bring closer|verb; perfective
+6604|лимон|lemon|noun; singular
+6605|душить|to strangle|verb; imperfective
+6606|стаканчик|small glass|noun; singular
+6607|стянуть|to tighten|verb; perfective
+6608|поклон|bow|noun; singular
+6609|дуло|muzzle|noun; singular
+6610|терраса|terrace|noun; singular
+6611|каникулы|vacation|noun; plural
+6612|всячески|in every way|adverb
+6613|прапорщик|warrant officer|noun; singular
+6614|неуловимый|elusive|adjective
+6615|насмешливый|mocking|adjective
+6616|колпак|cap|noun; singular
+6617|переписка|correspondence|noun; singular; uncountable
+6618|рыло|snout|noun; singular
+6619|отметка|mark|noun; singular
+6620|ужинать|to have dinner|verb; imperfective
+6621|святой|saint|noun; singular
+6622|казнить|to execute|verb; imperfective; perfective
+6623|ваза|vase|noun; singular
+6624|бесполезный|useless|adjective
+6625|малиновый|raspberry|adjective
+6626|водяной|water|adjective
+6627|криминальный|criminal|adjective
+6628|упорный|persistent|adjective
+6629|потертый|worn|adjective
+6630|героический|heroic|adjective
+6631|необъяснимый|inexplicable|adjective
+6632|ссылаться|to refer|verb; imperfective; reflexive
+6633|поведать|to tell|verb; perfective
+6634|рожать|to give birth|verb; imperfective
+6635|этак|like this|adverb
+6636|принятие|adoption|noun; singular
+6637|удобство|convenience|noun; singular
+6638|идиотский|idiotic|adjective
+6639|минуточка|just a minute|noun; singular; diminutive
+6640|белесый|whitish|adjective
+6641|утюг|iron|noun; singular
+6642|участковый|district|adjective
+6643|сдержать|to hold back|verb; perfective
+6644|четыреста|four hundred|numeral; cardinal
+6645|возмущаться|to be indignant|verb; imperfective; reflexive
+6646|фундамент|foundation|noun; singular
+6647|проклинать|to curse|verb; imperfective
+6648|джентльмен|gentleman|noun; singular
+6649|ликвидировать|to liquidate|verb; imperfective; perfective
+6650|продумать|to think through|verb; perfective
+6651|вышка|tower|noun; singular
+6652|увлечься|to become fascinated|verb; perfective; reflexive
+6653|взойти|to rise|verb; perfective
+6654|унижение|humiliation|noun; singular
+6655|валерьянка|valerian drops|noun; singular; plural
+6656|максимум|maximum|noun; singular
+6657|посох|staff|noun; singular
+6658|забиться|to hide|verb; perfective; reflexive
+6659|липа|linden|noun; singular
+6660|ложечка|spoon|noun; singular
+6661|комок|lump|noun; singular
+6662|шишка|cone|noun; singular
+6663|родня|relatives|noun; plural
+6664|лихой|dashing|adjective
+6665|признаваться|to confess|verb; imperfective; reflexive
+6666|генеральский|general's|adjective
+6667|довод|argument|noun; singular
+6668|выяснять|to clarify|verb; imperfective
+6669|привлекательный|attractive|adjective
+6670|зарегистрировать|to register|verb; perfective
+6671|бухта|bay|noun; singular
+6672|окраска|coloring|noun; singular
+6673|отнимать|to take away|verb; imperfective
+6674|соперник|rival|noun; singular
+6675|недоверие|distrust|noun; singular; uncountable
+6676|опора|support|noun; singular
+6677|лысина|bald spot|noun; singular
+6678|попугай|parrot|noun; singular
+6679|основательно|thoroughly|adverb
+6680|детишки|kids|noun; plural
+6681|восторженный|enthusiastic|adjective
+6682|закуривать|to light up|verb; imperfective
+6683|справляться|to cope|verb; imperfective; reflexive
+6684|критерий|criterion|noun; singular
+6685|поправка|amendment|noun; singular
+6686|зевать|to yawn|verb; imperfective; reflexive
+6687|семечко|seed|noun; singular
+6688|спрос|demand|noun; singular; uncountable
+6689|Урал|Urals|noun; singular; proper
+6690|укусить|to bite|verb; perfective
+6691|подмосковный|near Moscow|adjective
+6692|беззащитный|defenseless|adjective
+6693|кавказский|Caucasian|adjective
+6694|голосовать|to vote|verb; imperfective
+6695|неуклюжий|clumsy|adjective
+6696|неистовый|frenzied|adjective
+6697|опасение|apprehension|noun; singular
+6698|определенно|definitely|adverb
+6699|парашют|parachute|noun; singular
+6700|прорыв|breakthrough|noun; singular

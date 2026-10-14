@@ -1,0 +1,100 @@
+4201|копыто|hoof|noun; singular
+4202|утверждение|statement|noun; singular
+4203|денежный|monetary|adjective
+4204|конкурс|competition|noun; singular
+4205|толчок|push|noun; singular
+4206|увести|to lead away|verb; perfective
+4207|сводить|to bring together|verb; regular
+4208|береза|birch|noun; singular
+4209|приобретать|to acquire|verb; regular
+4210|удалиться|to withdraw|verb; perfective; reflexive
+4211|батюшка|father|noun; singular
+4212|вспыхивать|to flare up|verb; regular
+4213|благополучно|safely|adverb
+4214|змей|dragon|noun; singular
+4215|тощий|skinny|adjective
+4216|нахмуриться|to frown|verb; perfective; reflexive
+4217|доступный|accessible|adjective
+4218|салон|salon|noun; singular
+4219|наливать|to pour|verb; regular
+4220|бак|tank|noun; singular
+4221|сантиметр|centimeter|noun; singular
+4222|секретарша|secretary|noun; singular
+4223|прошедший|past|adjective
+4224|печаль|sorrow|noun; singular; uncountable
+4225|подтверждать|to confirm|verb; regular
+4226|грамм|gram|noun; singular
+4227|пропасть|abyss|noun; singular
+4228|пилот|pilot|noun; singular
+4229|привлекать|to attract|verb; regular
+4230|брюхо|belly|noun; singular
+4231|семя|seed|noun; singular; irregular plural
+4232|трезвый|sober|adjective
+4233|полоска|strip|noun; singular
+4234|рабочий|worker|noun; singular
+4235|залезть|to climb|verb; perfective
+4236|предположение|assumption|noun; singular
+4237|капитализм|capitalism|noun; singular; uncountable
+4238|пусто|empty|adverb
+4239|умолять|to beg|verb; regular
+4240|поднести|to bring closer|verb; perfective
+4241|покупатель|buyer|noun; singular
+4242|пожить|to live for a while|verb; perfective
+4243|неважно|not important|adverb
+4244|выкинуть|to throw out|verb; perfective
+4245|выводить|to lead out|verb; regular
+4246|податься|to head|verb; perfective; reflexive
+4247|чистить|to clean|verb; regular
+4248|телега|cart|noun; singular
+4249|градус|degree|noun; singular
+4250|сверкающий|sparkling|adjective
+4251|преследовать|to pursue|verb; regular
+4252|осложнение|complication|noun; singular
+4253|вдали|in the distance|adverb
+4254|торжественный|solemn|adjective
+4255|пестрый|colorful|adjective
+4256|справедливый|fair|adjective
+4257|откликнуться|to respond|verb; perfective; reflexive
+4258|четкий|clear|adjective
+4259|дорого|expensively|adverb
+4260|комар|mosquito|noun; singular
+4261|пошутить|to joke|verb; perfective; reflexive
+4262|военно|militarily|adverb
+4263|проживать|to reside|verb; regular
+4264|устало|tiredly|adverb
+4265|выложить|to lay out|verb; perfective
+4266|флаг|flag|noun; singular
+4267|кастрюля|pot|noun; singular
+4268|скучный|boring|adjective
+4269|известие|news|noun; singular
+4270|терпеливо|patiently|adverb
+4271|всадник|rider|noun; singular
+4272|забраться|to climb|verb; perfective; reflexive
+4273|упираться|to rest against|verb; regular; reflexive
+4274|мрачно|gloomily|adverb
+4275|узнавать|to find out|verb; regular
+4276|постоять|to stand for a while|verb; perfective
+4277|вправду|really|adverb
+4278|мостовый|bridge|adjective
+4279|миллиард|billion|numeral; cardinal
+4280|влево|to the left|adverb
+4281|взлететь|to take off|verb; perfective
+4282|испуг|fright|noun; singular
+4283|восемнадцать|eighteen|numeral; cardinal
+4284|заросль|thicket|noun; singular
+4285|барьер|barrier|noun; singular
+4286|дырка|hole|noun; singular
+4287|матушка|mother|noun; singular
+4288|проиграть|to lose|verb; perfective
+4289|гордо|proudly|adverb
+4290|поморщиться|to wince|verb; perfective; reflexive
+4291|смутный|vague|adjective
+4292|насквозь|through|adverb
+4293|целиком|entirely|adverb
+4294|атомный|atomic|adjective
+4295|бытие|existence|noun; singular; uncountable
+4296|размахивать|to wave|verb; regular
+4297|икра|caviar|noun; singular; uncountable
+4298|историк|historian|noun; singular
+4299|водиться|to be found|verb; regular; reflexive
+4300|подчиняться|to obey|verb; regular; reflexive

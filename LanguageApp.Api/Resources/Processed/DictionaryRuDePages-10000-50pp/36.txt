@@ -1,0 +1,50 @@
+1801|столовый|Предназначенный для еды; относящийся к столу|Speise-|adjective
+1802|ткань|Текстильный материал; биологическая ткань|Stoff|noun; masculine
+1803|открыться|Стать открытым; раскрыться|sich öffnen|verb; perfective; infinitive; reflexive
+1804|поток|Стремительно текущая масса жидкости; поток|Strom|noun; masculine
+1805|вынужденный|Совершаемый не по своей воле; обусловленный обстоятельствами|gezwungen|adjective
+1806|полиция|Административный орган охраны порядка|Polizei|noun; feminine
+1807|стыдный|Вызывающий стыд; постыдный|beschämend|adjective
+1808|база|Основание; основа; место базирования|Basis|noun; feminine
+1809|слышно|Можно слышать; звуки воспринимаются|hörbar|adverb
+1810|строгий|Требовательный; взыскательный; суровый|streng|adjective
+1811|шинель|Форменное пальто военного образца|Mantel|noun; masculine
+1812|блестящий|Великолепный; выдающийся; превосходный|glänzend|adjective
+1813|выбор|Возможность или процесс выбора|Auswahl|noun; feminine
+1814|сведение|Известие; сообщение|Auskunft|noun; feminine
+1815|комиссия|Орган или группа лиц со специальными полномочиями|Kommission|noun; feminine
+1816|направить|Послать по назначению; дать направление|schicken|verb; perfective; infinitive
+1817|палка|Длинный тонкий твёрдый предмет|Stock|noun; masculine
+1818|запомнить|Сохранить в памяти|sich merken|verb; perfective; infinitive; reflexive
+1819|бороться|Сражаться или состязаться, стремясь победить|kämpfen|verb; imperfective; infinitive
+1820|везти|Перевозить; доставлять на транспорте|fahren|verb; imperfective; infinitive
+1821|колонна|Ряд людей или предметов, выстроенных один за другим|Kolonne|noun; feminine
+1822|лёд|Замёрзшая и затвердевшая вода|Eis|noun; neuter
+1823|замечательный|Исключительный по достоинствам; выдающийся|bemerkenswert|adjective
+1824|надпись|Короткий текст на поверхности предмета|Inschrift|noun; feminine
+1825|одинокий|Отделённый от других; без общества|einsam|adjective
+1826|пиджак|Верхняя часть костюма с отложным воротником|Jackett|noun; neuter
+1827|тарелка|Круглая столовая посуда с приподнятыми краями|Teller|noun; masculine
+1828|научиться|Приобрести навык путём обучения|lernen|verb; perfective; infinitive; reflexive
+1829|пища|То, что едят; питание|Nahrung|noun; feminine
+1830|назначить|Поставить на должность; установить|ernennen|verb; perfective; infinitive
+1831|подруга|Девушка или женщина в дружеских отношениях|Freundin|noun; feminine
+1832|выбирать|Отбирать нужное из нескольких вариантов|auswählen|verb; imperfective; infinitive
+1833|взрыв|Мгновенное разрушение с образованием газов и звука|Explosion|noun; feminine
+1834|сущность|Внутреннее содержание; суть предмета|Wesen|noun; neuter
+1835|батарея|Артиллерийское подразделение; прибор отопления|Batterie|noun; feminine
+1836|техника|Совокупность средств труда; технические знания|Technik|noun; feminine
+1837|пастух|Работник, пасущий скот|Hirte|noun; masculine
+1838|напомнить|Заставить вспомнить; воскресить воспоминание|erinnern|verb; perfective; infinitive
+1839|сомневаться|Испытывать сомнение; не быть уверенным|zweifeln|verb; imperfective; infinitive
+1840|крыльцо|Наружный настил с ступенькой у входа в дом|Veranda|noun; feminine
+1841|радоваться|Испытывать радость; ликовать|sich freuen|verb; imperfective; infinitive; reflexive
+1842|покрыть|Положить сверху; накрыть|bedecken|verb; perfective; infinitive
+1843|глянуть|Бросить взгляд; поглядеть|einen Blick werfen|verb; perfective; infinitive
+1844|значительный|Имеющий большое значение; важный|bedeutend|adjective
+1845|громкий|Сильно звучащий; хорошо слышный|laut|adjective
+1846|захватить|Схватить; взять силой|ergreifen|verb; perfective; infinitive
+1847|вождь|Глава племени; предводитель|Anführer|noun; masculine
+1848|восточный|Относящийся к востоку; восточный|östlich|adjective
+1849|приносить|Доставлять, неся; приносить|bringen|verb; imperfective; infinitive
+1850|международный|Касающийся отношений между государствами|international|adjective

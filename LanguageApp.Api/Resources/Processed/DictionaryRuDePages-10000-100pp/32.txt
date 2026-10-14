@@ -1,0 +1,100 @@
+3101|аж|Усилительная частица, подчёркивающая значимость|sogar|particle
+3102|стальной|Относящийся к стали; сделанный из стали|stählern|adjective
+3103|лечить|Применять медицинские средства для восстановления здоровья|behandeln|verb; imperfective; infinitive
+3104|подъём|Перемещение вверх|Aufstieg|noun; masculine
+3105|ругаться|Браниться; употреблять бранные слова|schimpfen|verb; imperfective; infinitive
+3106|издательство|Учреждение, издающее произведения печати|Verlag|noun; masculine
+3107|сопротивление|Противодействие; борьба против захватчиков|Widerstand|noun; masculine
+3108|раздражение|Состояние досады; недовольство|Verärgerung|noun; feminine
+3109|уложить|Положить в кровать; уложить спать|betten|verb; perfective; infinitive
+3110|сочинение|Художественное или научное произведение|Werk|noun; neuter
+3111|наверх|На верхнюю часть чего-либо|nach oben|adverb
+3112|завидовать|Чувствовать зависть|beneiden|verb; imperfective; infinitive
+3113|треск|Резкий звук от чего-либо сломавшегося|Knacken|noun; neuter
+3114|уголь|Ископаемое твёрдое горючее вещество|Kohle|noun; feminine
+3115|хлопать|Ударять, производя хлопки; аплодировать|klatschen|verb; imperfective; infinitive
+3116|вытереть|Сделать сухим или чистым, протирая|abwischen|verb; perfective; infinitive
+3117|масштаб|Отношение длины на карте к действительной|Maßstab|noun; masculine
+3118|заслужить|Получить признание; быть достойным|verdienen|verb; perfective; infinitive
+3119|стойка|Положение тела стоящего|Haltung|noun; feminine
+3120|довести|Ведя, доставить до какого-либо места|hinführen|verb; perfective; infinitive
+3121|нападение|Внезапное вооружённое наступление; атака|Angriff|noun; masculine
+3122|плита|Плоский прямоугольный кусок материала|Platte|noun; feminine
+3123|пляж|Берег, удобный для купания и отдыха|Strand|noun; masculine
+3124|трястись|Дрожать; сотрясаться|zittern|verb; imperfective; infinitive
+3125|подросток|Мальчик или девочка отроческого возраста|Jugendlicher|noun; masculine
+3126|присутствовать|Быть где-либо в данное время|beiwohnen|verb; imperfective; infinitive
+3127|спальня|Комната, предназначенная для сна|Schlafzimmer|noun; neuter
+3128|экипаж|Команда корабля, самолёта или танка|Besatzung|noun; feminine
+3129|слуга|Работник в доме, выполняющий различные услуги|Diener|noun; masculine
+3130|лампочка|Осветительная электрическая лампа|Glühbirne|noun; feminine
+3131|скучно|С ощущением скуки; неинтересно|langweilig|adverb
+3132|тупой|Неострый; плохо заточенный|stumpf|adjective
+3133|поцелуй|Прикосновение губами как выражение любви|Kuss|noun; masculine
+3134|уважаемый|Пользующийся уважением|angesehen|adjective
+3135|туфля|Обувь, закрывающая ногу до щиколотки|Schuh|noun; masculine
+3136|вырвать|Резким движением извлечь|herausreißen|verb; perfective; infinitive
+3137|пуговица|Застёжка в виде кружка, продеваемая в петлю|Knopf|noun; masculine
+3138|шампанский|Относящийся к шампанскому вину|Champagner-|adjective
+3139|мелькнуть|Быстро появиться и исчезнуть|aufblitzen|verb; perfective; infinitive
+3140|благодарность|Чувство признательности за добро или услугу|Dankbarkeit|noun; feminine
+3141|череп|Кости, образующие основу головы|Schädel|noun; masculine
+3142|перспектива|Ожидаемое будущее; виды на будущее|Perspektive|noun; feminine
+3143|последующий|Следующий после; позднейший|nachfolgend|adjective
+3144|наклониться|Нагнуться; опуститься|sich beugen|verb; perfective; infinitive; reflexive
+3145|стесняться|Чувствовать неловкость; смущаться|sich schämen|verb; imperfective; infinitive; reflexive
+3146|дружок|Близкий друг (разговорное)|Kumpel|noun; masculine
+3147|превратить|Придать иной вид; обратить во что-то другое|verwandeln|verb; perfective; infinitive
+3148|обижаться|Чувствовать обиду; оскорбляться|schmollen|verb; imperfective; infinitive
+3149|накрыть|Закрыть чем-либо сверху|bedecken|verb; perfective; infinitive
+3150|таскать|Тащить; перемещать с усилием|schleppen|verb; imperfective; infinitive
+3151|вставить|Поместить внутрь чего-либо|einfügen|verb; perfective; infinitive
+3152|гад|Мерзкий, отвратительный человек|Schuft|noun; masculine
+3153|застыть|Отвердеть от охлаждения|erstarren|verb; perfective; infinitive
+3154|пьеса|Драматическое произведение для театра|Theaterstück|noun; neuter
+3155|примета|Признак, по которому можно узнать кого-либо|Merkmal|noun; neuter
+3156|залить|Покрыть сплошь жидкостью|überfluten|verb; perfective; infinitive
+3157|разумный|Обладающий разумом; здравомыслящий|vernünftig|adjective
+3158|сено|Скошенная и высушенная трава|Heu|noun; neuter
+3159|нередко|Часто|oft|adverb
+3160|мчаться|Очень быстро передвигаться|rasen|verb; imperfective; infinitive
+3161|недовольный|Испытывающий неудовлетворение|unzufrieden|adjective
+3162|внезапный|Вдруг наступивший; неожиданный|plötzlich|adjective
+3163|игрушка|Вещь, служащая для игры|Spielzeug|noun; neuter
+3164|стоимость|Денежное выражение ценности; цена|Wert|noun; masculine
+3165|учреждение|Организация, занимающаяся определённым видом деятельности|Institution|noun; feminine
+3166|воротник|Часть одежды, пришиваемая к вороту|Kragen|noun; masculine
+3167|сжечь|Уничтожить огнём|verbrennen|verb; perfective; infinitive
+3168|опасаться|Бояться чего-либо|sich fürchten|verb; imperfective; infinitive; reflexive
+3169|спинка|Верхняя опорная часть у мебели|Rückenlehne|noun; feminine
+3170|проверка|Контроль; действие по проверке|Kontrolle|noun; feminine
+3171|курсант|Военнослужащий, обучающийся в учебном заведении|Kadett|noun; masculine
+3172|уход|Оставление места или должности|Abgang|noun; masculine
+3173|удержаться|Сохранить положение; не упасть|sich halten|verb; perfective; infinitive; reflexive
+3174|подослать|Послать кого-либо с тайной целью|einschleusen|verb; perfective; infinitive
+3175|эксперимент|Опыт; испытание|Experiment|noun; neuter
+3176|барин|Человек из привилегированного класса в дореволюционной России|Herr|noun; masculine
+3177|пообещать|Дать обещание|versprechen|verb; perfective; infinitive
+3178|Англия|Государство в Западной Европе|England|noun; neuter; proper
+3179|заболеть|Начать болеть|erkranken|verb; perfective; infinitive
+3180|потрясти|Сильно взволновать; произвести большое впечатление|erschüttern|verb; perfective; infinitive
+3181|падение|Действие падения|Fall|noun; masculine
+3182|девятый|Порядковое числительное к «девять»|neunte|numeral; ordinal
+3183|поворачиваться|Обернуться; повернуться|sich umdrehen|verb; imperfective; infinitive; reflexive
+3184|петух|Самец домашней курицы|Hahn|noun; masculine
+3185|записывать|Фиксировать письменно|aufschreiben|verb; imperfective; infinitive
+3186|любитель|Человек, занимающийся делом как хобби|Liebhaber|noun; masculine
+3187|щёлкнуть|Издать короткий резкий звук|schnappen|verb; perfective; infinitive
+3188|медный|Относящийся к меди; сделанный из меди|kupfern|adjective
+3189|наверху|В верхней части; вверху|oben|adverb
+3190|точность|Степень соответствия чему-либо|Genauigkeit|noun; feminine
+3191|чеченец|Представитель чеченского народа|Tschetschene|noun; masculine
+3192|ценный|Имеющий большую цену; дорогой|wertvoll|adjective
+3193|глупо|Неразумно; без умения|dumm|adverb
+3194|передовой|Движущийся впереди; прогрессивный|fortschrittlich|adjective
+3195|тесный|Недостаточный по пространству; непросторный|eng|adjective
+3196|исполнение|Процесс осуществления; результат|Ausführung|noun; feminine
+3197|хронический|О болезни: длящийся продолжительное время|chronisch|adjective
+3198|стремление|Настойчивое желание чего-либо добиться|Streben|noun; neuter
+3199|наполнить|Сделать полным; заполнить|füllen|verb; perfective; infinitive
+3200|неподвижный|Не передвигающийся; остающийся на одном месте|reglos|adjective

@@ -1,0 +1,100 @@
+201|посмотреть|to look|verb; perfective
+202|правда|truth|noun; singular
+203|главный|main|adjective
+204|страна|country|noun; singular
+205|свет|light|noun; singular; uncountable
+206|ждать|to wait|verb; irregular
+207|мать|mother|noun; singular; irregular plural
+208|будто|as if|conjunction
+209|никогда|never|adverb
+210|товарищ|comrade|noun; singular
+211|дорога|road|noun; singular
+212|однако|however|conjunction
+213|лежать|to lie|verb; irregular
+214|именно|namely|particle
+215|окно|window|noun; singular
+216|никакой|no kind of|pronoun; negative
+217|найти|to find|verb; irregular
+218|писать|to write|verb; irregular
+219|комната|room|noun; singular
+220|Москва|Moscow|noun; singular; proper
+221|часть|part|noun; singular
+222|вообще|in general|adverb
+223|книга|book|noun; singular
+224|маленький|small|adjective
+225|улица|street|noun; singular
+226|решить|to decide|verb; regular
+227|далекий|far|adjective; irregular comparison
+228|душа|soul|noun; singular
+229|чуть|barely|adverb
+230|вернуться|to return|verb; regular
+231|утро|morning|noun; singular
+232|некоторый|some|pronoun; indefinite
+233|считать|to count|verb; regular
+234|сколько|how much|adverb; interrogative
+235|помнить|to remember|verb; regular
+236|вечер|evening|noun; singular
+237|пол|floor|noun; singular
+238|таки|still|particle
+239|получить|to receive|verb; regular
+240|народ|people|noun; singular
+241|плечо|shoulder|noun; singular
+242|хоть|even though|conjunction
+243|сегодня|today|adverb
+244|бог|god|noun; singular
+245|вместе|together|adverb
+246|взгляд|glance|noun; singular
+247|ходить|to walk|verb; irregular
+248|зачем|why|adverb; interrogative
+249|советский|Soviet|adjective
+250|русский|Russian|adjective
+251|бывать|to be|verb; irregular
+252|полный|full|adjective
+253|прийти|to come|verb; irregular
+254|палец|finger|noun; singular
+255|Россия|Russia|noun; singular; proper
+256|любой|any|pronoun
+257|история|history|noun; singular
+258|наконец|finally|adverb
+259|мысль|thought|noun; singular
+260|узнать|to find out|verb; regular
+261|назад|back|adverb
+262|общий|common|adjective
+263|заметить|to notice|verb; regular
+264|словно|as though|conjunction
+265|прошлый|past|adjective
+266|уйти|to leave|verb; irregular
+267|известный|well-known|adjective
+268|давно|long ago|adverb
+269|слышать|to hear|verb; irregular
+270|слушать|to listen|verb; regular
+271|бояться|to be afraid|verb; irregular
+272|сын|son|noun; singular; irregular plural
+273|нельзя|it is not allowed|adverb
+274|прямо|straight|adverb
+275|долго|for a long time|adverb
+276|быстро|quickly|adverb
+277|лес|forest|noun; singular
+278|похожий|similar|adjective
+279|пора|time|noun; singular
+280|пять|five|numeral; cardinal
+281|глядеть|to gaze|verb; regular
+282|оно|it|pronoun; personal; neuter; singular
+283|сесть|to sit down|verb; irregular
+284|имя|name|noun; singular; irregular plural
+285|ж|indeed|particle
+286|разговор|conversation|noun; singular
+287|тело|body|noun; singular
+288|молодой|young|adjective
+289|стена|wall|noun; singular
+290|красный|red|adjective
+291|читать|to read|verb; irregular
+292|право|law|noun; singular
+293|старик|old man|noun; singular; irregular plural
+294|ранний|early|adjective
+295|хотеться|to feel like|verb; irregular; impersonal
+296|мама|mom|noun; singular
+297|оставаться|to remain|verb; irregular
+298|высокий|tall|adjective; irregular comparison
+299|путь|way|noun; singular
+300|поэтому|therefore|adverb

@@ -1,0 +1,50 @@
+1851|необходимость|Надобность; потребность в чём-либо|Notwendigkeit|noun; feminine
+1852|оттого|Потому; по этой причине|deshalb|adverb
+1853|духовный|Относящийся к религии или церкви; нематериальный|geistlich|adjective
+1854|голод|Ощущение потребности в еде; нехватка питания|Hunger|noun; masculine
+1855|девица|Незамужняя молодая женщина|Mädchen|noun; neuter
+1856|временный|Не постоянный; действующий в течение некоторого времени|vorübergehend|adjective
+1857|составить|Образовать целое, объединив части|zusammenstellen|verb; perfective; infinitive
+1858|ровно|Точно; как раз|genau|adverb
+1859|мечта|Нечто созданное воображением; желанная цель|Traum|noun; masculine
+1860|кольцо|Предмет круглой формы из твёрдого материала|Ring|noun; masculine
+1861|ага|Восклицание с торжествующей интонацией|aha|interjection
+1862|дочка|Дочь (ласково)|Tochter|noun; feminine
+1863|королева|Жена короля; женщина-монарх|Königin|noun; feminine
+1864|картошка|Картофель; клубни картофельного растения|Kartoffel|noun; feminine
+1865|достоинство|Положительное качество; самоуважение|Würde|noun; feminine
+1866|медведь|Крупное хищное млекопитающее семейства медвежьих|Bär|noun; masculine
+1867|содержание|Основная суть или фабула произведения|Inhalt|noun; masculine
+1868|проект|Разработанный план сооружения или мероприятия|Projekt|noun; neuter
+1869|костить|Ругать; поносить грубыми словами|beschimpfen|verb; imperfective; infinitive
+1870|согласный|Дающий согласие; не возражающий|einverstanden|adjective
+1871|покупать|Приобретать что-либо за деньги|kaufen|verb; imperfective; infinitive
+1872|сперва|Сначала; прежде всего|zuerst|adverb
+1873|юный|Не достигший зрелого возраста; молодой|jung|adjective
+1874|любопытство|Стремление узнать новое; интерес|Neugier|noun; feminine
+1875|создание|То, что создано; произведение|Schöpfung|noun; feminine
+1876|паспорт|Официальный документ, удостоверяющий личность|Reisepass|noun; masculine
+1877|двести|Число 200|zweihundert|numeral; cardinal
+1878|коллега|Товарищ по работе или учёбе|Kollege|noun; masculine
+1879|девчонка|Девочка (разг.)|Mädchen|noun; neuter
+1880|луч|Узкая полоса света от источника|Strahl|noun; masculine
+1881|стучать|Производить стук ударами|klopfen|verb; imperfective; infinitive
+1882|коммунист|Член коммунистической партии|Kommunist|noun; masculine
+1883|просьба|Обращение с целью получить помощь или исполнение желания|Bitte|noun; feminine
+1884|домик|Небольшой дом|Häuschen|noun; neuter
+1885|полчаса|Тридцать минут; половина часа|halbe Stunde|noun; feminine
+1886|железо|Химический элемент; серебристо-белый металл|Eisen|noun; neuter
+1887|отличие|Признак, создающий разницу между предметами|Unterschied|noun; masculine
+1888|менять|Отдавать своё в обмен на другое; заменять|wechseln|verb; imperfective; infinitive
+1889|мгновенно|Сразу; немедленно|sofort|adverb
+1890|пёс|Самец собаки; собака|Hund|noun; masculine
+1891|разглядывать|Внимательно рассматривать|betrachten|verb; imperfective; infinitive
+1892|горький|Имеющий едкий неприятный вкус; горестный|bitter|adjective
+1893|орудие|Техническое приспособление для производства работы; артиллерийское орудие|Werkzeug|noun; neuter
+1894|специально|С особой целью; намеренно|speziell|adverb
+1895|сказка|Народное повествовательное произведение о вымышленных событиях|Märchen|noun; neuter
+1896|закурить|Начать курить; зажечь сигарету|anfangen zu rauchen|verb; perfective; infinitive
+1897|семейный|Имеющий семью; относящийся к семье|familiär|adjective
+1898|устать|Почувствовать усталость|müde werden|verb; perfective; infinitive
+1899|прикрыть|Накрыть; частично закрыть|zudecken|verb; perfective; infinitive
+1900|твёрдо|Точно; прочно; стойко|fest|adverb

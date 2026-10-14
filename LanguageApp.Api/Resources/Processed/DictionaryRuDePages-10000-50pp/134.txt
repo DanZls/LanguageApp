@@ -1,0 +1,50 @@
+6701|разворачиваться|Принимать развёрнутое положение; поворачиваться|sich entfalten|verb; imperfective; infinitive; reflexive
+6702|киевский|Относящийся к Киеву|Kiewer|adjective
+6703|бах|О резком низком отрывистом звуке|Knall|interjection
+6704|хлопотать|Усердно заниматься чем-либо; хлопотать|sich bemühen|verb; imperfective; infinitive; reflexive
+6705|понестись|Начать стремительно двигаться|losstürmen|verb; perfective; infinitive
+6706|классный|Высококачественный; принадлежащий к высшему классу|erstklassig|adjective
+6707|ласка|Проявление нежности и доброго отношения|Zärtlichkeit|noun; feminine
+6708|банкир|Владелец или крупный акционер банка|Bankier|noun; masculine
+6709|джинсы|Плотные брюки из хлопчатобумажной ткани|Jeans|noun; plural
+6710|опаздывать|Не успевать вовремя|sich verspäten|verb; imperfective; infinitive; reflexive
+6711|незаметный|Почти не видный; трудно различимый|unauffällig|adjective
+6712|задрожать|Начать дрожать|zu zittern beginnen|verb; perfective; infinitive
+6713|изготовить|Сделать; выработать|herstellen|verb; perfective; infinitive
+6714|вихрь|Порывистое круговое движение ветра|Wirbel|noun; masculine
+6715|прима|Голос или инструмент, ведущий главную партию|Prima|noun; feminine
+6716|винт|Крепёжный стержень со спиральной нарезкой|Schraube|noun; feminine
+6717|подпрыгнуть|Сделать прыжок вверх|hochhüpfen|verb; perfective; infinitive
+6718|пристать|Присоединиться; пойти вслед за кем-либо|sich anschließen|verb; perfective; infinitive; reflexive
+6719|обитать|Жить или пребывать где-либо|bewohnen|verb; imperfective; infinitive
+6720|недовольство|Отсутствие удовлетворённости; отрицательное отношение|Unzufriedenheit|noun; feminine
+6721|пух|Мягкие волоски под шерстью животных или перья птиц|Daunen|noun; plural
+6722|скульптура|Искусство создания объёмных художественных произведений|Skulptur|noun; feminine
+6723|поменять|Заменить одно другим|wechseln|verb; perfective; infinitive
+6724|первоначальный|Самый первый; предшествующий всему остальному|ursprünglich|adjective
+6725|устремиться|Стремительно направиться в сторону чего-либо|sich stürzen|verb; perfective; infinitive; reflexive
+6726|кошачий|Относящийся к кошке|Katzen-|adjective
+6727|пограничный|Находящийся на границе или вблизи неё|Grenz-|adjective
+6728|авиационный|Относящийся к авиации|Luftfahrt-|adjective
+6729|венок|Сплетённые в кольцо листья и цветы|Kranz|noun; masculine
+6730|суждение|Мнение или заключение о чём-либо|Urteil|noun; neuter
+6731|киоск|Небольшой павильон для торговли|Kiosk|noun; masculine
+6732|чудный|Прелестный; очаровательный|wunderschön|adjective
+6733|напрячься|Приложить усилия; сосредоточиться|sich anstrengen|verb; perfective; infinitive; reflexive
+6734|развязать|Разъединить концы завязанного|aufknoten|verb; perfective; infinitive
+6735|посчитать|Вычислить; сосчитать|zählen|verb; perfective; infinitive
+6736|лик|Лицо; изображение лица на иконе|Antlitz|noun; neuter
+6737|наибольший|Самый большой|größter|adjective; superlative
+6738|вкусно|Очень приятно на вкус|lecker|adverb
+6739|санитарный|Связанный с требованиями санитарии|sanitär|adjective
+6740|особа|Человек (обычно иронически или о значительной персоне)|Person|noun; feminine
+6741|желтоватый|С несколько жёлтым оттенком|gelblich|adjective
+6742|китель|Форменная куртка военного образца|Uniformjacke|noun; feminine
+6743|побрести|Медленно пойти куда-либо|sich fortschleppen|verb; perfective; infinitive; reflexive
+6744|предприниматель|Владелец предприятия; деловой человек|Unternehmer|noun; masculine
+6745|кий|Длинная палка для игры на бильярде|Billardqueue|noun; neuter
+6746|вдохновение|Творческий подъём; прилив творческих сил|Inspiration|noun; feminine
+6747|отставить|Отодвинуть в сторону и поставить|beiseite stellen|verb; perfective; infinitive
+6748|частично|Отчасти; не полностью|teilweise|adverb
+6749|проскочить|Быстро пройти мимо; проскользнуть|vorbeischlüpfen|verb; perfective; infinitive
+6750|рекомендация|Благоприятный отзыв о ком-либо или чём-либо|Empfehlung|noun; feminine

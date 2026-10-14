@@ -1,0 +1,50 @@
+2951|долина|Удлинённая впадина вдоль речного русла|Tal|noun; neuter
+2952|невероятный|Неправдоподобный; такому трудно поверить|unglaublich|adjective
+2953|влажный|Пропитанный влагой; сырой|feucht|adjective
+2954|вылезти|Выйти наружу, выбираясь откуда-либо|herauskriechen|verb; perfective; infinitive
+2955|выпасть|Упасть наружу; вывалиться|herausfallen|verb; perfective; infinitive
+2956|божий|Относящийся к Богу|göttlich|adjective
+2957|социалистический|Относящийся к социализму|sozialistisch|adjective
+2958|обсуждать|Разбирать; рассматривать какой-либо вопрос|besprechen|verb; imperfective; infinitive
+2959|очнуться|Проснуться; прийти в сознание|aufwachen|verb; perfective; infinitive
+2960|рисковать|Действовать, зная об опасности|riskieren|verb; imperfective; infinitive
+2961|выступление|Исполнение перед публикой|Auftritt|noun; masculine
+2962|гордиться|Испытывать гордость от чего-либо|sich rühmen|verb; imperfective; infinitive; reflexive
+2963|загадочный|Непонятный; таинственный|rätselhaft|adjective
+2964|издание|Изданное произведение печати|Ausgabe|noun; feminine
+2965|выразить|Воплотить во внешнем проявлении|ausdrücken|verb; perfective; infinitive
+2966|окружающий|Находящийся вокруг; составляющий среду|umgebend|adjective
+2967|чашка|Небольшой сосуд с ручкой для питья|Tasse|noun; feminine
+2968|соображение|Мысль; продуманное предложение|Überlegung|noun; feminine
+2969|жир|Маслянистое органическое вещество|Fett|noun; neuter
+2970|миновать|Пройти мимо кого-либо|vorbeigehen|verb; perfective; infinitive
+2971|намерение|Желание сделать что-либо; замысел|Absicht|noun; feminine
+2972|жаркий|Дающий сильный жар; знойный|heiß|adjective
+2973|спасать|Избавлять от опасности|retten|verb; imperfective; infinitive
+2974|ванный|Относящийся к ванне|Bade-|adjective
+2975|ложь|Намеренное искажение истины; неправда|Lüge|noun; feminine
+2976|отходить|Удаляться; уходить прочь|sich entfernen|verb; imperfective; infinitive; reflexive
+2977|кузнец|Мастер ручной ковки|Schmied|noun; masculine
+2978|балкон|Выступающая из стены площадка с перилами|Balkon|noun; masculine
+2979|запереть|Закрыть на замок|abschließen|verb; perfective; infinitive
+2980|полевой|Относящийся к полю|Feld-|adjective
+2981|жарко|Очень душно; знойно|heiß|adverb
+2982|допрос|Опрос подозреваемого или свидетеля|Verhör|noun; neuter
+2983|подходящий|Соответствующий; приемлемый|geeignet|adjective
+2984|спектакль|Театральное представление|Aufführung|noun; feminine
+2985|предупреждать|Заранее извещать; отвращать|warnen|verb; imperfective; infinitive
+2986|длительный|Долго продолжающийся|langwierig|adjective
+2987|почва|Верхний слой земной коры|Boden|noun; masculine
+2988|легенда|Поэтическое предание об историческом событии|Legende|noun; feminine
+2989|отыскать|Найти после поисков|auffinden|verb; perfective; infinitive
+2990|оборачиваться|Поворачиваться; принимать иной оборот|sich umdrehen|verb; imperfective; infinitive; reflexive
+2991|срочно|Требующим немедленного исполнения|dringend|adverb
+2992|малейший|Самый малый; самый незначительный|geringste|adjective
+2993|жидкость|Вещество, способное течь|Flüssigkeit|noun; feminine
+2994|приёмный|Относящийся к приёму|Empfangs-|adjective
+2995|охватить|Обхватить; охватить целиком|erfassen|verb; perfective; infinitive
+2996|благодарить|Выражать благодарность|danken|verb; imperfective; infinitive
+2997|вздыхать|Делать вздохи; тяжело дышать|seufzen|verb; imperfective; infinitive
+2998|блок|Приспособление для подъёма тяжестей|Flaschenzug|noun; masculine
+2999|усталость|Состояние утомления|Müdigkeit|noun; feminine
+3000|рисовать|Изображать при помощи карандаша или кисти|zeichnen|verb; imperfective; infinitive

@@ -1,0 +1,50 @@
+9901|настойка|Спиртовой экстракт растения или вещества|Tinktur|noun; feminine
+9902|угасать|Постепенно гаснуть; угасать|erlöschen|verb; imperfective; infinitive
+9903|шкатулка|Небольшой ящик для мелких вещей|Schatulle|noun; feminine
+9904|хлебнуть|Сделать глоток жидкости|schlucken|verb; perfective; infinitive
+9905|оживленно|Оживлённо; активно|lebhaft|adverb
+9906|устранение|Ликвидация; удаление чего-либо|Beseitigung|noun; feminine
+9907|раскрасить|Расписать разными красками|bunt anmalen|verb; perfective; infinitive
+9908|выжать|Сжимая, извлечь жидкость|auspressen|verb; perfective; infinitive
+9909|исповедь|Признание в грехах перед священником|Beichte|noun; feminine
+9910|кашлянуть|Единожды кашлянуть|husten|verb; perfective; infinitive
+9911|средь|Среди; в середине|inmitten|preposition
+9912|заход|Попытка; подход|Versuch|noun; masculine
+9913|цельный|Состоящий из одного куска или вещества|ganz|adjective
+9914|провозить|Перевозить в течение какого-то времени|befördern|verb; imperfective; infinitive
+9915|заражение|Проникновение болезнетворного начала в организм|Infektion|noun; feminine
+9916|деревцо|Маленькое дерево|Bäumchen|noun; neuter; diminutive
+9917|египетский|Относящийся к Египту|ägyptisch|adjective
+9918|узбек|Представитель коренного населения Узбекистана|Usbeke|noun; masculine
+9919|зиять|Быть широко раскрытым; зиять|klaffen|verb; imperfective; infinitive
+9920|отделиться|Оторваться от целого; обособиться|sich trennen|verb; perfective; infinitive; reflexive
+9921|закрытие|Прекращение работы; закрытие|Schließung|noun; feminine
+9922|карра|Значение не установлено|—|—
+9923|вещмешок|Заплечный мешок для личных вещей|Rucksack|noun; masculine
+9924|обаятельный|Очаровательный; полный обаяния|charmant|adjective
+9925|трофей|Имущество, захваченное у противника|Beute|noun; feminine
+9926|директива|Руководящее указание; приказ|Direktive|noun; feminine
+9927|калека|Человек с физическими увечьями|Krüppel|noun; masculine
+9928|срубить|Рубя, свалить или отсечь|fällen|verb; perfective; infinitive
+9929|перебежать|Бегом пересечь пространство|hinüberlaufen|verb; perfective; infinitive
+9930|навязать|Принудить принять что-либо|aufzwingen|verb; perfective; infinitive
+9931|процветать|Успешно развиваться; преуспевать|gedeihen|verb; imperfective; infinitive
+9932|пакт|Международный договор; соглашение|Pakt|noun; masculine
+9933|находчивый|Сообразительный; легко находящий выход|findig|adjective
+9934|разоблачить|Раскрыть тайные замыслы или ложь|entlarven|verb; perfective; infinitive
+9935|плацдарм|Пространство для подготовки военной операции|Brückenkopf|noun; masculine
+9936|шторм|Сильная буря на море|Sturm|noun; masculine
+9937|мерзлый|Затвердевший от мороза; замёрзший|gefroren|adjective
+9938|бросок|Быстрое стремительное движение; бросок|Sprung|noun; masculine
+9939|Египет|Государство в Северо-Восточной Африке|Ägypten|noun; neuter; proper
+9940|наугад|Наудачу; без знания правильного ответа|aufs Geratewohl|adverb
+9941|пожрать|Жадно съесть; пожрать|verschlingen|verb; perfective; infinitive
+9942|пришить|Прикрепить нитками к ткани|annähen|verb; perfective; infinitive
+9943|неутомимый|Не знающий усталости; выносливый|unermüdlich|adjective
+9944|придурок|Груб.: глупый или странный человек|Dummkopf|noun; masculine
+9945|пешеход|Человек, передвигающийся пешком|Fußgänger|noun; masculine
+9946|ломоть|Отрезанный кусок хлеба или другого продукта|Scheibe|noun; feminine
+9947|подножка|Ступенька для входа в транспортное средство|Trittstufe|noun; feminine
+9948|отважный|Смелый; храбрый|tapfer|adjective
+9949|перечитать|Прочитать повторно|wiederlesen|verb; perfective; infinitive
+9950|разрушительный|Производящий разрушение; губительный|zerstörerisch|adjective

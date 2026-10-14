@@ -1,0 +1,100 @@
+2101|уважение|respect|noun; singular; uncountable
+2102|цепь|chain|noun; singular
+2103|подвал|basement|noun; singular
+2104|некогда|no time|adverb
+2105|сохранить|to preserve|verb; perfective
+2106|лампа|lamp|noun; singular
+2107|закрывать|to close|verb; regular
+2108|доля|share|noun; singular
+2109|неплохо|not bad|adverb
+2110|смешной|funny|adjective
+2111|понадобиться|to be needed|verb; perfective; reflexive
+2112|старушка|old lady|noun; singular
+2113|покачать|to shake|verb; perfective
+2114|выясниться|to turn out|verb; perfective; reflexive
+2115|уничтожить|to destroy|verb; perfective
+2116|отвести|to lead away|verb; perfective
+2117|гриб|mushroom|noun; singular
+2118|бродить|to wander|verb; irregular
+2119|погода|weather|noun; singular; uncountable
+2120|памятник|monument|noun; singular
+2121|жар|heat|noun; singular; uncountable
+2122|валяться|to lie around|verb; regular; reflexive
+2123|кожаный|leather|adjective
+2124|механизм|mechanism|noun; singular
+2125|Израиль|Israel|noun; singular; proper
+2126|мирный|peaceful|adjective
+2127|потеря|loss|noun; singular
+2128|произносить|to pronounce|verb; regular
+2129|контроль|control|noun; singular; uncountable
+2130|профессиональный|professional|adjective
+2131|дверца|door|noun; singular
+2132|предупредить|to warn|verb; perfective
+2133|добиться|to achieve|verb; perfective; reflexive
+2134|норма|norm|noun; singular
+2135|ложка|spoon|noun; singular
+2136|зарплата|salary|noun; singular
+2137|веревка|rope|noun; singular
+2138|метода|method|noun; singular
+2139|исключение|exception|noun; singular
+2140|убрать|to remove|verb; perfective
+2141|волнение|excitement|noun; singular
+2142|вечно|eternally|adverb
+2143|смешно|funny|adverb
+2144|поддерживать|to support|verb; regular
+2145|продавать|to sell|verb; regular
+2146|нежный|tender|adjective
+2147|баня|bathhouse|noun; singular
+2148|путем|properly|adverb
+2149|повесить|to hang|verb; perfective
+2150|ужин|dinner|noun; singular
+2151|март|March|noun; singular
+2152|оглядываться|to look around|verb; regular; reflexive
+2153|сигнал|signal|noun; singular
+2154|больной|patient|noun; singular
+2155|сыграть|to play|verb; perfective
+2156|библиотека|library|noun; singular
+2157|услать|to send away|verb; perfective
+2158|махать|to wave|verb; irregular
+2159|ЦК|Central Committee|noun; abbreviation
+2160|предполагать|to assume|verb; regular
+2161|заметно|noticeably|adverb
+2162|сеть|net|noun; singular
+2163|коричневый|brown|adjective
+2164|тщательно|thoroughly|adverb
+2165|нерв|nerve|noun; singular
+2166|вертолет|helicopter|noun; singular
+2167|сладкий|sweet|adjective
+2168|лекарство|medicine|noun; singular
+2169|рассчитывать|to calculate|verb; regular
+2170|запретить|to forbid|verb; perfective
+2171|кладбище|cemetery|noun; singular
+2172|переход|crossing|noun; singular
+2173|сообщать|to report|verb; regular
+2174|функция|function|noun; singular
+2175|перебить|to kill|verb; perfective
+2176|пулемет|machine gun|noun; singular
+2177|металлический|metallic|adjective
+2178|батальон|battalion|noun; singular
+2179|грузовик|truck|noun; singular
+2180|радостно|joyfully|adverb
+2181|император|emperor|noun; singular
+2182|обидеться|to be offended|verb; perfective; reflexive
+2183|башня|tower|noun; singular
+2184|сырой|damp|adjective
+2185|инструмент|tool|noun; singular
+2186|вынести|to take out|verb; perfective
+2187|мелочь|trifle|noun; singular
+2188|жесткий|rigid|adjective
+2189|присутствие|presence|noun; singular; uncountable
+2190|разбитый|broken|adjective
+2191|поглядывать|to glance|verb; regular
+2192|структура|structure|noun; singular
+2193|отозваться|to respond|verb; perfective; reflexive
+2194|непонятно|incomprehensibly|adverb
+2195|бесконечный|endless|adjective
+2196|ружье|gun|noun; singular
+2197|обрадоваться|to rejoice|verb; perfective; reflexive
+2198|участник|participant|noun; singular
+2199|попасться|to get caught|verb; perfective; reflexive
+2200|задание|task|noun; singular

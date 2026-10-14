@@ -1,0 +1,50 @@
+9401|виктория|Водное тропическое растение семейства кувшинковых|Victoria|noun; feminine; proper
+9402|каменистый|Обильный камнями; каменистый|steinig|adjective
+9403|свиданье|Встреча; свидание|Treffen|noun; neuter
+9404|тотальный|Всеобщий; всеохватывающий|total|adjective
+9405|нависнуть|Склониться; нависнуть над чем-либо|überhängen|verb; perfective; infinitive
+9406|профессионально|Как профессионал; на профессиональном уровне|professionell|adverb
+9407|вычислить|Установить путём подсчёта|berechnen|verb; perfective; infinitive
+9408|плац|Площадь для военных парадов и строевых занятий|Kasernenhof|noun; masculine
+9409|огорчение|Неприятность; душевная боль|Kummer|noun; masculine
+9410|расстраиваться|Огорчаться; приходить в расстройство|sich ärgern|verb; imperfective; infinitive; reflexive
+9411|евангелие|Раннехристианское повествование о жизни Иисуса Христа|Evangelium|noun; neuter
+9412|наперед|Заранее; предварительно|im Voraus|adverb
+9413|оккупировать|Захватить территорию военной силой|besetzen|verb; imperfective; infinitive
+9414|перекреститься|Осенить себя крестным знамением|sich bekreuzigen|verb; perfective; infinitive; reflexive
+9415|чакра|Энергетический центр тела в восточных учениях|Chakra|noun; neuter
+9416|разместиться|Занять места; расположиться|sich unterbringen|verb; perfective; infinitive; reflexive
+9417|шланг|Гибкая труба для перекачки жидкостей|Schlauch|noun; masculine
+9418|пианино|Клавишный инструмент с вертикальным корпусом|Klavier|noun; neuter
+9419|отрубить|Отделить рубящим ударом|abhacken|verb; perfective; infinitive
+9420|подуматься|Внезапно прийти в голову|einfallen|verb; perfective; infinitive
+9421|мерзость|Нечто вызывающее отвращение|Abscheulichkeit|noun; feminine
+9422|фармазон|Мошенник; обманщик|Betrüger|noun; masculine
+9423|копошиться|Медленно двигаться; возиться|wimmeln|verb; imperfective; infinitive
+9424|обогнуть|Обойти или объехать кругом|umrunden|verb; perfective; infinitive
+9425|давило|Устройство для сдавливания; пресс|Presse|noun; feminine
+9426|полномочие|Официально предоставленное право на деятельность|Vollmacht|noun; feminine
+9427|развлекаться|Проводить время весело; развлекаться|sich amüsieren|verb; imperfective; infinitive; reflexive
+9428|наследственный|Передающийся по наследству от поколения к поколению|erblich|adjective
+9429|исписать|Заполнить страницу написанным|vollschreiben|verb; perfective; infinitive
+9430|створка|Одна из половинок двери, окна или ставня|Flügel|noun; masculine
+9431|ориентир|Неподвижный предмет для ориентирования|Orientierungspunkt|noun; masculine
+9432|заявиться|Прийти или появиться где-либо|auftauchen|verb; perfective; infinitive
+9433|перечень|Упорядоченный список; перечисление|Liste|noun; feminine
+9434|разбор|Анализ; разборчивое рассмотрение|Analyse|noun; feminine
+9435|сессия|Период экзаменов в учебном заведении|Prüfungszeit|noun; feminine
+9436|волшебство|Колдовство; магия|Zauberei|noun; feminine
+9437|застенчивый|Стыдливо-робкий; смущающийся|schüchtern|adjective
+9438|развиться|Созреть духовно или умственно|sich entwickeln|verb; perfective; infinitive; reflexive
+9439|пролежать|Лежать в течение определённого времени|liegen bleiben|verb; perfective; infinitive
+9440|кп|Аббревиатура: контрольный пункт|KP|noun; neuter; abbreviation
+9441|заботливо|С заботой и вниманием|fürsorglich|adverb
+9442|морг|Учреждение для хранения и вскрытия трупов|Leichenschauhaus|noun; neuter
+9443|подполье|Помещение под полом; подвал|Untergrund|noun; masculine
+9444|игнорировать|Умышленно не принимать во внимание|ignorieren|verb; imperfective; infinitive
+9445|тончайший|Очень тонкий; изящный|hauchdünn|adjective; superlative
+9446|преследование|Действие по преследованию кого-либо|Verfolgung|noun; feminine
+9447|Швеция|Государство в Северной Европе|Schweden|noun; neuter; proper
+9448|впредь|На будущее время; отныне|künftig|adverb
+9449|вступление|Начальная часть; введение|Einleitung|noun; feminine
+9450|гестапо|Тайная государственная полиция нацистской Германии|Gestapo|noun; neuter; indeclinable

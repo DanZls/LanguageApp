@@ -1,0 +1,50 @@
+5701|водный|Относящийся к воде; связанный с водой|Wasser-|adjective
+5702|признавать|Считать законным или существующим; соглашаться|anerkennen|verb; imperfective; infinitive
+5703|электричка|Электропоезд пригородного или ближнего сообщения|Elektrozug|noun; feminine
+5704|погасить|Потушить; прекратить горение|löschen|verb; perfective; infinitive
+5705|нелегко|С трудом; не просто|nicht leicht|adverb
+5706|отечество|Страна, в которой человек родился и гражданином которой является|Vaterland|noun; neuter
+5707|владение|Имущество, находящееся в чьей-либо собственности|Besitz|noun; masculine
+5708|мех|Густой волосяной покров животного|Fell|noun; neuter
+5709|нрав|Характер, склад личности|Charakter|noun; masculine
+5710|антибиотик|Биологически активное вещество, подавляющее микроорганизмы|Antibiotikum|noun; neuter
+5711|мохнатый|Покрытый густой шерстью или волосами|zottig|adjective
+5712|чаша|Округлый широкий сосуд|Schale|noun; feminine
+5713|передумать|Изменить ранее принятое решение|umdenken|verb; perfective; infinitive
+5714|литься|Течь непрерывной струёй|fließen|verb; imperfective; infinitive
+5715|сосновый|Относящийся к сосне или сделанный из неё|Kiefern-|adjective
+5716|завопить|Внезапно начать громко кричать|aufschreien|verb; perfective; infinitive
+5717|геолог|Специалист в области геологии|Geologe|noun; masculine
+5718|отрицать|Отвергать существование или справедливость|verneinen|verb; imperfective; infinitive
+5719|наследство|Имущество, переходящее после смерти к наследнику|Erbe|noun; neuter
+5720|восстание|Массовое вооружённое выступление против власти|Aufstand|noun; masculine
+5721|кошелек|Небольшой карманный кошель для денег|Geldbörse|noun; feminine
+5722|конструктор|Специалист, разрабатывающий конструкции машин и сооружений|Konstrukteur|noun; masculine
+5723|морозный|Очень холодный; относящийся к морозу|frostig|adjective
+5724|сказочный|Волшебный, необыкновенно красивый|märchenhaft|adjective
+5725|репутация|Общественная оценка; мнение о ком-либо|Ruf|noun; masculine
+5726|краснеть|Становиться красным; испытывать смущение|erröten|verb; imperfective; infinitive
+5727|козырек|Твёрдая часть кепки, защищающая от солнца|Schirm|noun; masculine
+5728|персона|Отдельная личность; важная особа|Person|noun; feminine
+5729|дверной|Относящийся к двери|Tür-|adjective
+5730|связка|Несколько однородных предметов, скреплённых вместе|Bündel|noun; neuter
+5731|лопатка|Плоская кость в верхней части спины|Schulterblatt|noun; neuter
+5732|подлый|Низкий и бесчестный в нравственном отношении|niederträchtig|adjective
+5733|замкнутый|Необщительный, скрытный|verschlossen|adjective
+5734|комбинат|Крупное промышленное объединение|Kombinat|noun; neuter
+5735|дубовый|Сделанный из дуба|Eichen-|adjective
+5736|лебедь|Крупная водоплавающая птица с длинной шеей|Schwan|noun; masculine
+5737|корм|Пища для животных|Futter|noun; neuter
+5738|материнский|Свойственный матери; такой, как у матери|mütterlich|adjective
+5739|проем|Отверстие в стене для двери или окна|Öffnung|noun; feminine
+5740|издеваться|Зло и оскорбительно насмехаться|verspotten|verb; imperfective; infinitive
+5741|записной|Рьяный, отъявленный (в каком-либо качестве)|eingefleischt|adjective
+5742|пардон|Вежливое извинение (галл.)|Verzeihung|noun; feminine
+5743|молоток|Ударный инструмент с металлической головкой|Hammer|noun; masculine
+5744|заинтересоваться|Почувствовать интерес к кому-либо или чему-либо|sich interessieren|verb; perfective; infinitive; reflexive
+5745|дергаться|Производить резкие непроизвольные движения|zucken|verb; imperfective; infinitive
+5746|гном|В мифологии: бородатый карлик, хранитель подземных сокровищ|Zwerg|noun; masculine
+5747|прилично|Достойно и вежливо|anständig|adverb
+5748|желудочный|Относящийся к желудку|Magen-|adjective
+5749|задница|Ягодицы (разг.)|Hintern|noun; masculine
+5750|путать|Вносить беспорядок; смешивать|verwirren|verb; imperfective; infinitive

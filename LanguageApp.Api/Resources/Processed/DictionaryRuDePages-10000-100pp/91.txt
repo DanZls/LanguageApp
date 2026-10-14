@@ -1,0 +1,100 @@
+9001|проникновение|Проникновение внутрь; вхождение|Eindringen|noun; neuter
+9002|возбуждать|Вызывать возбуждение или интерес|erregen|verb; imperfective; infinitive
+9003|плестись|Идти медленно, с трудом|schleppen|verb; imperfective; infinitive; reflexive
+9004|слезать|Спускаться вниз|heruntersteigen|verb; imperfective; infinitive
+9005|долететь|Летя, достичь цели|anfliegen|verb; perfective; infinitive
+9006|отключить|Отсоединить от сети; выключить|ausschalten|verb; perfective; infinitive
+9007|завещание|Письменное распоряжение об имуществе на случай смерти|Testament|noun; neuter
+9008|нежелательный|Нежелательный; неподходящий|unerwünscht|adjective
+9009|подбегать|Бежать в направлении к кому-либо|heranlaufen|verb; imperfective; infinitive
+9010|отдельность|Обособленность; раздельность|Getrenntheit|noun; feminine
+9011|подрасти|Немного вырасти; повзрослеть|heranwachsen|verb; perfective; infinitive
+9012|балет|Вид сценического танцевального искусства|Ballett|noun; neuter
+9013|недалекий|Умственно ограниченный; недалёкий|beschränkt|adjective
+9014|Британия|Государство в Западной Европе|Britannien|noun; feminine; proper
+9015|инстинктивный|Обусловленный инстинктом; непроизвольный|instinktiv|adjective
+9016|физкультура|Физическое воспитание; спортивные упражнения|Sport|noun; masculine
+9017|континент|Крупный массив суши; материк|Kontinent|noun; masculine
+9018|жандарм|Военный полицейский|Gendarm|noun; masculine
+9019|ямка|Небольшое углубление в поверхности|Grübchen|noun; neuter
+9020|ожидаться|Предполагаться; быть ожидаемым|erwartet werden|verb; imperfective; infinitive
+9021|денек|Небольшой или приятный день|Tägchen|noun; neuter; diminutive
+9022|заготовить|Заранее приготовить; запасти|vorbereiten|verb; perfective; infinitive
+9023|травинка|Отдельная маленькая травинка|Grashalm|noun; masculine; diminutive
+9024|перепугать|Сильно напугать|erschrecken|verb; perfective; infinitive
+9025|царица|Жена царя; правящая королева|Zarin|noun; feminine
+9026|снижать|Уменьшать; снижать уровень|senken|verb; imperfective; infinitive
+9027|карп|Пресноводная рыба семейства карповых|Karpfen|noun; masculine
+9028|баланс|Соотношение показателей; равновесие|Bilanz|noun; feminine
+9029|поселение|Населённый пункт; место проживания|Siedlung|noun; feminine
+9030|зарыть|Закопать в землю|eingraben|verb; perfective; infinitive
+9031|низший|Примитивный; стоящий на низшей ступени|niedrigst|adjective; superlative
+9032|драть|Рвать; раздирать на части|reißen|verb; imperfective; infinitive
+9033|сбыться|Осуществиться; стать реальностью|sich erfüllen|verb; perfective; infinitive; reflexive
+9034|капюшон|Откидной головной убор, пришитый к одежде|Kapuze|noun; feminine
+9035|дородный|Рослый и крупного телосложения|stattlich|adjective
+9036|карманный|Карманного формата; небольшой|Taschen-|adjective
+9037|парной|О продуктах: свежий, ещё тёплый|frisch|adjective
+9038|выживание|Процесс сохранения жизни в трудных условиях|Überleben|noun; neuter
+9039|картонный|Изготовленный из картона|Karton-|adjective
+9040|выигрыш|То, что выиграно; победа|Gewinn|noun; masculine
+9041|индустриальный|Относящийся к промышленности|industriell|adjective
+9042|хвостик|Маленький хвост; выступающий конец|Schwänzchen|noun; neuter; diminutive
+9043|засесть|Занять место и обосноваться|sich festsetzen|verb; perfective; infinitive; reflexive
+9044|нива|Засеянное поле; пашня|Feld|noun; neuter
+9045|биология|Совокупность наук о живых организмах|Biologie|noun; feminine
+9046|пригрозить|Высказать угрозу в чей-либо адрес|drohen|verb; perfective; infinitive
+9047|социология|Наука о закономерностях развития общества|Soziologie|noun; feminine
+9048|полянка|Небольшая поляна|Lichtung|noun; feminine; diminutive
+9049|замяться|Запнуться; прервать речь от смущения|stocken|verb; perfective; infinitive
+9050|надежность|Качество надёжного; прочность|Zuverlässigkeit|noun; feminine
+9051|рефлекс|Непроизвольная реакция организма на раздражители|Reflex|noun; masculine
+9052|взмолиться|Начать горячо умолять кого-либо|anflehen|verb; perfective; infinitive
+9053|шест|Длинная жердь; шест|Stange|noun; feminine
+9054|лакированный|Покрытый лаком|lackiert|adjective
+9055|земляной|Относящийся к земле или почве|Erd-|adjective
+9056|изысканный|Утончённый; изящный|raffiniert|adjective
+9057|веревочка|Маленькая верёвка; шнурок|Schnürchen|noun; neuter; diminutive
+9058|послание|Письмо; письменное обращение|Botschaft|noun; feminine
+9059|преувеличивать|Представлять в преувеличенном виде|übertreiben|verb; imperfective; infinitive
+9060|учительский|Относящийся к учителю|Lehrer-|adjective
+9061|увеличиться|Стать больше по объёму или числу|zunehmen|verb; perfective; infinitive
+9062|бледнеть|Становиться бледным|erblassen|verb; imperfective; infinitive
+9063|стаж|Продолжительность профессиональной деятельности|Berufserfahrung|noun; feminine
+9064|выигрывать|Побеждать; одерживать победу|gewinnen|verb; imperfective; infinitive
+9065|страховка|Денежное возмещение от страховой компании|Versicherung|noun; feminine
+9066|графин|Стеклянный сосуд с узким горлом для напитков|Karaffe|noun; feminine
+9067|корыто|Большой продолговатый сосуд для стирки|Wanne|noun; feminine
+9068|неясно|Смутно; непонятно|unklar|adverb
+9069|дорн|Металлический стержень для обработки отверстий|Dorn|noun; masculine
+9070|таить|Скрывать; держать в тайне|verbergen|verb; imperfective; infinitive
+9071|взрываться|Разрушаться от взрыва|explodieren|verb; imperfective; infinitive
+9072|автомашина|Автомобиль; моторное транспортное средство|Auto|noun; neuter
+9073|затягивать|Завязывать туже; затягивать|straffen|verb; imperfective; infinitive
+9074|сроду|Никогда; ни разу в жизни|niemals|adverb
+9075|вездеход|Транспортное средство для движения по бездорожью|Geländefahrzeug|noun; neuter
+9076|дружески|По-дружески; дружелюбно|freundschaftlich|adverb
+9077|нянька|Женщина, присматривающая за ребёнком|Kindermädchen|noun; neuter
+9078|доспех|Защитное снаряжение воина из металла|Rüstung|noun; feminine
+9079|выступ|Выступающая часть; уступ|Vorsprung|noun; masculine
+9080|телесный|Относящийся к телу; физический|körperlich|adjective
+9081|сморщиться|Покрыться морщинами; сморщиться|schrumpfen|verb; perfective; infinitive
+9082|интоксикация|Отравление организма токсинами|Vergiftung|noun; feminine
+9083|трюм|Грузовой отсек в нижней части судна|Laderaum|noun; masculine
+9084|покрытие|Материал, которым что-либо покрыто|Beschichtung|noun; feminine
+9085|ходьба|Передвижение пешком|Gehen|noun; neuter
+9086|кустик|Небольшой куст|Sträuchlein|noun; neuter; diminutive
+9087|сосиска|Небольшая варёная колбаска|Würstchen|noun; neuter
+9088|шелест|Тихий звук трения листьев или бумаги|Rascheln|noun; neuter
+9089|вконец|Совершенно; совсем|völlig|adverb
+9090|ключевой|Открывающий возможности; основной|Schlüssel-|adjective
+9091|щадить|Давать пощаду; беречь|schonen|verb; imperfective; infinitive
+9092|аванс|Предварительная выплата в счёт заработка|Vorschuss|noun; masculine
+9093|гуманитарный|Направленный на защиту прав и интересов человека|humanitär|adjective
+9094|бабуся|Ласковое обращение к бабушке|Omachen|noun; neuter; diminutive
+9095|зек|Заключённый в исправительном учреждении|Häftling|noun; masculine
+9096|прекращение|Прекращение; остановка действия|Einstellung|noun; feminine
+9097|дубинка|Толстая деревянная палка|Knüppel|noun; masculine
+9098|рык|Громкий рёв зверя|Gebrüll|noun; neuter
+9099|излучение|Передача энергии волнами или частицами|Strahlung|noun; feminine
+9100|правдивый|Содержащий правду; достоверный|wahrhaftig|adjective

@@ -1,0 +1,50 @@
+5351|пение|Исполнение музыкальных произведений голосом|Gesang|noun; masculine
+5352|лихо|Зло, беда (устар.)|Übel|noun; neuter
+5353|парус|Полотнище на мачте, приводящее судно в движение ветром|Segel|noun; neuter
+5354|нащупать|Найти ощупью|ertasten|verb; perfective; infinitive
+5355|растить|Способствовать росту; воспитывать|aufziehen|verb; imperfective; infinitive
+5356|запрет|Официальное недозволение чего-либо|Verbot|noun; neuter
+5357|золотистый|Цвета золота; с золотым отблеском|goldgelb|adjective
+5358|гонорар|Вознаграждение за творческий или профессиональный труд|Honorar|noun; neuter
+5359|союзник|Тот, кто состоит в союзе; партнёр по союзу|Verbündete|noun; masculine
+5360|почтовый|Относящийся к почтовой службе|Post-|adjective
+5361|гимназия|Среднее общеобразовательное учебное заведение|Gymnasium|noun; neuter
+5362|насилие|Применение физической силы против кого-либо|Gewalt|noun; feminine
+5363|прощание|Действие при расставании; прощание|Abschied|noun; masculine
+5364|лорд|Высший дворянский титул в Великобритании|Lord|noun; masculine
+5365|лить|Заставлять жидкость течь; изливать|gießen|verb; imperfective; infinitive
+5366|носиться|Быстро двигаться в разных направлениях|herumsausen|verb; imperfective; infinitive
+5367|грудной|Относящийся к грудной клетке|Brust-|adjective
+5368|адмирал|Высшее воинское звание в военно-морском флоте|Admiral|noun; masculine
+5369|разбросать|Раскидать в разные стороны|verstreuen|verb; perfective; infinitive
+5370|эмиграция|Переселение из родной страны в другую|Emigration|noun; feminine
+5371|завтрашний|Относящийся к завтрашнему дню или ближайшему будущему|morgig|adjective
+5372|наводить|Направлять на кого-либо или что-либо|richten|verb; imperfective; infinitive
+5373|мерзавец|Подлый, бесчестный человек|Schurke|noun; masculine
+5374|смутно|Неясно, неотчётливо|undeutlich|adverb
+5375|некто|Некий неизвестный человек|jemand|pronoun
+5376|кислый|Обладающий острым кислым вкусом|sauer|adjective
+5377|цыпочки|Кончики пальцев ног (ходить на цыпочках)|Zehenspitzen|noun; plural
+5378|грусть|Чувство лёгкой печали и уныния|Traurigkeit|noun; feminine
+5379|раздумье|Состояние задумчивости и размышления|Nachdenken|noun; neuter
+5380|нота|Графический знак музыкального звука|Note|noun; feminine
+5381|реплика|Ответная фраза в диалоге|Replik|noun; feminine
+5382|рация|Переносная радиостанция|Funkgerät|noun; neuter
+5383|дисциплина|Подчинение установленному порядку и правилам|Disziplin|noun; feminine
+5384|лай|Громкий отрывистый звук, издаваемый собакой|Bellen|noun; neuter
+5385|потратить|Израсходовать деньги или время|ausgeben|verb; perfective; infinitive
+5386|лезвие|Острый режущий край инструмента|Klinge|noun; feminine
+5387|любезный|Обходительный, учтивый|liebenswürdig|adjective
+5388|критик|Специалист по критике; тот, кто оценивает и критикует|Kritiker|noun; masculine
+5389|воспринять|Понять и усвоить|wahrnehmen|verb; perfective; infinitive
+5390|захохотать|Внезапно начать громко смеяться|laut auflachen|verb; perfective; infinitive
+5391|замирать|Становиться неподвижным; затихать|erstarren|verb; imperfective; infinitive
+5392|покров|Верхний наружный слой, покрывающий что-либо|Hülle|noun; feminine
+5393|судорожно|Судорожным, спазматическим образом|krampfhaft|adverb
+5394|стыдиться|Испытывать стыд; стесняться|sich schämen|verb; imperfective; infinitive; reflexive
+5395|шрам|След на коже от зажившей раны|Narbe|noun; feminine
+5396|закинуть|Бросить далеко или забросить|werfen|verb; perfective; infinitive
+5397|симпатия|Внутреннее расположение к кому-либо|Sympathie|noun; feminine
+5398|табличка|Небольшая пластина с надписью|Schild|noun; neuter
+5399|сочинить|Создать литературное или музыкальное произведение|verfassen|verb; perfective; infinitive
+5400|мужество|Смелость и стойкость перед лицом опасности|Mut|noun; masculine

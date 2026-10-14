@@ -1,0 +1,100 @@
+4001|приговор|verdict|noun; singular
+4002|двадцатый|twentieth|numeral; ordinal
+4003|фюрер|fuhrer|noun; singular
+4004|ягода|berry|noun; singular
+4005|ограда|fence|noun; singular
+4006|низко|low|adverb
+4007|восемьдесят|eighty|numeral; cardinal
+4008|выделяться|to stand out|verb; regular; reflexive
+4009|фокус|focus|noun; singular
+4010|тонна|ton|noun; singular
+4011|материя|matter|noun; singular; uncountable
+4012|поперек|across|preposition
+4013|мышь|mouse|noun; singular; irregular plural
+4014|скрипеть|to creak|verb; regular
+4015|кушать|to eat|verb; irregular
+4016|нищий|beggar|adjective
+4017|невозможный|impossible|adjective
+4018|общаться|to communicate|verb; regular; reflexive
+4019|побег|escape|noun; singular
+4020|лунный|lunar|adjective
+4021|учение|teaching|noun; singular
+4022|солидный|solid|adjective
+4023|шестнадцать|sixteen|numeral; cardinal
+4024|чувствоваться|to be felt|verb; regular; reflexive
+4025|тьфу|ugh|interjection
+4026|почитать|to revere|verb; regular
+4027|размышление|reflection|noun; singular
+4028|одинаково|equally|adverb
+4029|ступень|step|noun; singular
+4030|расставить|to arrange|verb; perfective
+4031|мадам|madam|noun; singular
+4032|мирно|peacefully|adverb
+4033|зрелище|spectacle|noun; singular
+4034|досада|annoyance|noun; singular; uncountable
+4035|трасса|route|noun; singular
+4036|направляться|to head|verb; regular; reflexive
+4037|учебный|educational|adjective
+4038|существующий|existing|adjective
+4039|идеальный|ideal|adjective
+4040|жидкий|liquid|adjective
+4041|буркнуть|to grumble|verb; perfective
+4042|столкнуться|to collide|verb; perfective; reflexive
+4043|учебник|textbook|noun; singular
+4044|идеология|ideology|noun; singular
+4045|уговаривать|to persuade|verb; regular
+4046|комсомольский|komsomol|adjective
+4047|подозрительный|suspicious|adjective
+4048|прикрывать|to cover|verb; regular
+4049|смесь|mixture|noun; singular
+4050|электронный|electronic|adjective
+4051|различать|to distinguish|verb; regular
+4052|граната|grenade|noun; singular
+4053|беспомощный|helpless|adjective
+4054|упор|support|noun; singular
+4055|обходить|to go around|verb; regular
+4056|котенок|kitten|noun; singular; irregular plural
+4057|эффективный|effective|adjective
+4058|ежедневно|daily|adverb
+4059|очевидный|obvious|adjective
+4060|наивный|naive|adjective
+4061|порошок|powder|noun; singular
+4062|поворачивать|to turn|verb; regular
+4063|утратить|to lose|verb; perfective
+4064|польский|polish|adjective
+4065|кол|stake|noun; singular
+4066|оранжевый|orange|adjective
+4067|интеллектуальный|intellectual|adjective
+4068|голубчик|darling|noun; singular
+4069|удержать|to hold|verb; perfective
+4070|промышленный|industrial|adjective
+4071|седло|saddle|noun; singular
+4072|склониться|to bend down|verb; perfective; reflexive
+4073|формула|formula|noun; singular
+4074|отступить|to step back|verb; perfective
+4075|эмоция|emotion|noun; singular
+4076|тройка|three|noun; singular
+4077|посольство|embassy|noun; singular
+4078|длиться|to last|verb; regular; reflexive
+4079|вздох|sigh|noun; singular
+4080|командование|command|noun; singular; uncountable
+4081|эмоциональный|emotional|adjective
+4082|окурок|cigarette butt|noun; singular
+4083|непосредственный|direct|adjective
+4084|лагерный|camp|adjective
+4085|сонный|sleepy|adjective
+4086|переспросить|to ask again|verb; perfective
+4087|мяч|ball|noun; singular
+4088|швырнуть|to fling|verb; perfective
+4089|философ|philosopher|noun; singular
+4090|вмешаться|to interfere|verb; perfective; reflexive
+4091|отрицательный|negative|adjective
+4092|расстройство|disorder|noun; singular
+4093|деться|to disappear|verb; perfective; reflexive
+4094|аэродром|airfield|noun; singular
+4095|закат|sunset|noun; singular
+4096|добиваться|to strive for|verb; regular; reflexive
+4097|грубо|roughly|adverb
+4098|напиться|to get drunk|verb; perfective; reflexive
+4099|лопнуть|to burst|verb; perfective
+4100|дерьмо|crap|noun; singular; uncountable

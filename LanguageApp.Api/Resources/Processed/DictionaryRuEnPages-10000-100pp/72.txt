@@ -1,0 +1,100 @@
+7101|констатировать|to state|verb; perfective; imperfective
+7102|тяга|thrust|noun; singular
+7103|устроенный|arranged|adjective
+7104|подержать|to hold for a while|verb; perfective
+7105|щедро|generously|adverb
+7106|обыск|search|noun; singular
+7107|портянка|foot wrap|noun; singular
+7108|качественный|high-quality|adjective
+7109|смешанный|mixed|adjective
+7110|править|to rule|verb; imperfective
+7111|оригинал|original|noun; singular
+7112|возражение|objection|noun; singular
+7113|быстренько|quickly|adverb
+7114|взвизгнуть|to shriek|verb; perfective
+7115|молодежный|youth|adjective
+7116|недоумевать|to be puzzled|verb; imperfective
+7117|шоколад|chocolate|noun; singular; uncountable
+7118|скосить|to mow|verb; perfective
+7119|тетрадка|notebook|noun; singular
+7120|рапорт|report|noun; singular
+7121|добродушный|good-natured|adjective
+7122|вытягивать|to pull out|verb; imperfective
+7123|мох|moss|noun; singular; uncountable
+7124|люстра|chandelier|noun; singular
+7125|джип|jeep|noun; singular
+7126|поспать|to sleep a bit|verb; perfective
+7127|впадать|to flow into|verb; imperfective
+7128|эдак|like this|adverb
+7129|султан|sultan|noun; singular
+7130|соскучиться|to miss|verb; perfective; reflexive
+7131|заблуждение|misconception|noun; singular
+7132|конек|ridge|noun; singular
+7133|переодеться|to change clothes|verb; perfective; reflexive
+7134|концентрация|concentration|noun; singular
+7135|высунуть|to stick out|verb; perfective
+7136|полюбоваться|to admire|verb; perfective; reflexive
+7137|жопа|ass|noun; singular
+7138|руководящий|leading|adjective
+7139|поливать|to water|verb; imperfective
+7140|вожак|leader|noun; singular
+7141|посредством|by means of|preposition
+7142|нищета|poverty|noun; singular; uncountable
+7143|убедительный|convincing|adjective
+7144|веселиться|to have fun|verb; imperfective; reflexive
+7145|уныло|gloomily|adverb
+7146|гнусный|vile|adjective
+7147|покуда|while|conjunction
+7148|затормозить|to brake|verb; perfective
+7149|пятнадцатый|fifteenth|numeral; ordinal
+7150|самодельный|homemade|adjective
+7151|архитектура|architecture|noun; singular; uncountable
+7152|бедствие|disaster|noun; singular
+7153|невиданный|unprecedented|adjective
+7154|пресс|press|noun; singular
+7155|струна|string|noun; singular
+7156|прилипнуть|to stick|verb; perfective
+7157|сдержанно|reservedly|adverb
+7158|железа|gland|noun; singular
+7159|мрамор|marble|noun; singular; uncountable
+7160|демон|demon|noun; singular
+7161|передвигаться|to move|verb; imperfective; reflexive
+7162|Библия|Bible|noun; singular; proper
+7163|кусать|to bite|verb; imperfective
+7164|плоскость|plane|noun; singular
+7165|пятиться|to back away|verb; imperfective
+7166|истребитель|fighter jet|noun; singular
+7167|прокричать|to shout|verb; perfective
+7168|логический|logical|adjective
+7169|жадность|greed|noun; singular; uncountable
+7170|путевка|voucher|noun; singular
+7171|избавить|to save|verb; perfective
+7172|сапожник|shoemaker|noun; singular
+7173|задержка|delay|noun; singular
+7174|расслышать|to make out|verb; perfective
+7175|благополучие|well-being|noun; singular; uncountable
+7176|болтовня|chatter|noun; singular; uncountable
+7177|коммунальный|communal|adjective
+7178|стричь|to cut hair|verb; imperfective
+7179|травести|travesty role|noun; singular
+7180|небывалый|unprecedented|adjective
+7181|Турция|Turkey|noun; singular; proper
+7182|мачта|mast|noun; singular
+7183|безошибочный|infallible|adjective
+7184|заткнуться|to shut up|verb; perfective; reflexive
+7185|артиллерист|artilleryman|noun; singular
+7186|фермер|farmer|noun; singular
+7187|коситься|to look askance|verb; imperfective
+7188|услыхать|to hear|verb; perfective
+7189|странность|oddity|noun; singular
+7190|поджидать|to wait for|verb; imperfective
+7191|пограничник|border guard|noun; singular
+7192|апельсин|orange|noun; singular
+7193|застонать|to start groaning|verb; perfective
+7194|причудливый|whimsical|adjective
+7195|дина|dyne|noun; singular
+7196|усомниться|to doubt|verb; perfective; reflexive
+7197|эффективность|effectiveness|noun; singular; uncountable
+7198|метнуться|to dart|verb; perfective; reflexive
+7199|джинса|denim|noun; plural
+7200|разлука|separation|noun; singular

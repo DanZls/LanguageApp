@@ -1,0 +1,100 @@
+6601|залп|Одновременный выстрел из нескольких орудий|Salve|noun; feminine
+6602|полнота|Высокая степень насыщенности чем-либо|Vollständigkeit|noun; feminine
+6603|приблизить|Поставить близко; сделать более близким|nähern|verb; perfective; infinitive
+6604|лимон|Цитрусовое растение и его кислый плод|Zitrone|noun; feminine
+6605|душить|Убивать, сжимая горло|erwürgen|verb; imperfective; infinitive
+6606|стаканчик|Небольшой стакан|Becher|noun; masculine
+6607|стянуть|Крепко связать или затянуть|festziehen|verb; perfective; infinitive
+6608|поклон|Наклонение головы в знак приветствия|Verbeugung|noun; feminine
+6609|дуло|Выходное отверстие канала ствола оружия|Lauf|noun; masculine
+6610|терраса|Открытая пристройка к дому|Terrasse|noun; feminine
+6611|каникулы|Перерыв в занятиях в учебных заведениях|Ferien|noun; plural
+6612|всячески|По-всякому; всеми способами|auf jede Weise|adverb
+6613|прапорщик|Воинское звание ниже офицерского|Fähnrich|noun; masculine
+6614|неуловимый|Такой, которого нельзя поймать|ungreifbar|adjective
+6615|насмешливый|Склонный к насмешкам; выражающий насмешку|spöttisch|adjective
+6616|колпак|Мягкий конусообразный головной убор|Zipfelmütze|noun; feminine
+6617|переписка|Собрание писем; обмен письмами|Briefwechsel|noun; masculine
+6618|рыло|Вытянутая передняя часть головы у животных|Schnauze|noun; feminine
+6619|отметка|Знак, сделанный на чём-либо|Markierung|noun; feminine
+6620|ужинать|Есть ужин|zu Abend essen|verb; imperfective; infinitive
+6621|святой|Человек, признанный церковью образцом праведной жизни|Heiliger|noun; masculine
+6622|казнить|Подвергнуть смертной казни|hinrichten|verb; imperfective; infinitive
+6623|ваза|Сосуд изящной формы для цветов или декора|Vase|noun; feminine
+6624|бесполезный|Не приносящий пользы; напрасный|nutzlos|adjective
+6625|малиновый|Густо-красный с фиолетовым оттенком|himbeerrot|adjective
+6626|водяной|Относящийся к воде или находящийся в воде|Wasser-|adjective
+6627|криминальный|Уголовный; относящийся к преступлениям|kriminell|adjective
+6628|упорный|Твёрдый и последовательный в достижении цели|hartnäckig|adjective
+6629|потертый|Поношенный; со следами долгого употребления|abgenutzt|adjective
+6630|героический|Отличающийся героизмом|heroisch|adjective
+6631|необъяснимый|Такой, который нельзя объяснить|unerklärlich|adjective
+6632|ссылаться|Указывать на кого-либо или что-либо как на основание|sich berufen|verb; imperfective; infinitive; reflexive
+6633|поведать|Рассказать о чём-либо|erzählen|verb; perfective; infinitive
+6634|рожать|Производить на свет ребёнка|gebären|verb; imperfective; infinitive
+6635|этак|Так; таким образом (разговорное)|so|adverb
+6636|принятие|Действие по принятию чего-либо|Annahme|noun; feminine
+6637|удобство|Приспособление, делающее что-либо удобным|Komfort|noun; masculine
+6638|идиотский|Глупый; бессмысленный|idiotisch|adjective
+6639|минуточка|Просьба немного подождать|Augenblickchen|noun; neuter
+6640|белесый|Тусклый, светлый до белизны|weißlich|adjective
+6641|утюг|Нагревающийся прибор для глажения белья|Bügeleisen|noun; neuter
+6642|участковый|Относящийся к участку; участковый полицейский|Bezirks-|adjective
+6643|сдержать|Остановить или ослабить нечто|zurückhalten|verb; perfective; infinitive
+6644|четыреста|Число и количество 400|vierhundert|numeral; cardinal
+6645|возмущаться|Испытывать негодование и раздражение|sich empören|verb; imperfective; infinitive; reflexive
+6646|фундамент|Основание, служащее опорой для стен здания|Fundament|noun; neuter
+6647|проклинать|Ругать; осуждать; произносить проклятия|verfluchen|verb; imperfective; infinitive
+6648|джентльмен|Человек, строго соблюдающий правила поведения|Gentleman|noun; masculine
+6649|ликвидировать|Провести ликвидацию; уничтожить|liquidieren|verb; imperfective; infinitive
+6650|продумать|Тщательно обдумать|durchdenken|verb; perfective; infinitive
+6651|вышка|Высокая башня для наблюдения или технических нужд|Turm|noun; masculine
+6652|увлечься|Целиком отдаться какой-либо идее или занятию|sich begeistern|verb; perfective; infinitive; reflexive
+6653|взойти|Подняться наверх; о светилах: подняться над горизонтом|aufgehen|verb; perfective; infinitive
+6654|унижение|Оскорбление, унижающее достоинство|Demütigung|noun; feminine
+6655|валерьянка|Успокоительные капли из валерианы|Baldrian|noun; masculine
+6656|максимум|Наибольшее значение в ряду данных|Maximum|noun; neuter
+6657|посох|Длинная толстая палка с заострённым концом|Wanderstab|noun; masculine
+6658|забиться|Забравшись, спрятаться|sich verkriechen|verb; perfective; infinitive; reflexive
+6659|липа|Лиственное дерево с медоносными цветками|Linde|noun; feminine
+6660|ложечка|Маленькая ложка|Löffelchen|noun; neuter
+6661|комок|Небольшой уплотнённый кусок|Klumpen|noun; masculine
+6662|шишка|Плод хвойных растений в форме чешуйчатого конуса|Zapfen|noun; masculine
+6663|родня|Родственники|Verwandte|noun; plural
+6664|лихой|Молодецкий; удалой|kühn|adjective
+6665|признаваться|Открыто сообщать что-либо о себе|gestehen|verb; imperfective; infinitive
+6666|генеральский|Относящийся к генералу|Generals-|adjective
+6667|довод|Суждение, приводимое в доказательство; аргумент|Argument|noun; neuter
+6668|выяснять|Приводить к ясности; выяснять|klären|verb; imperfective; infinitive
+6669|привлекательный|Располагающий к себе; нравящийся|attraktiv|adjective
+6670|зарегистрировать|Внести в официальный список|registrieren|verb; perfective; infinitive
+6671|бухта|Небольшой глубокий залив|Bucht|noun; feminine
+6672|окраска|Цвет или сочетание цветов на поверхности|Färbung|noun; feminine
+6673|отнимать|Отбирать; лишать|wegnehmen|verb; imperfective; infinitive
+6674|соперник|Человек, соперничающий с кем-либо|Rivale|noun; masculine
+6675|недоверие|Подозрительность; отсутствие доверия|Misstrauen|noun; neuter
+6676|опора|Место, служащее точкой поддержки|Stütze|noun; feminine
+6677|лысина|Место на голове без волос|Glatze|noun; feminine
+6678|попугай|Птица тропических стран с ярким оперением|Papagei|noun; masculine
+6679|основательно|С достаточным основанием; обоснованно|gründlich|adverb
+6680|детишки|Маленькие дети (ласкательное)|Kleinkinder|noun; plural
+6681|восторженный|Исполненный восторга; склонный восторгаться|begeistert|adjective
+6682|закуривать|Начинать курить|anzünden|verb; imperfective; infinitive
+6683|справляться|Суметь выполнить задачу|zurechtkommen|verb; imperfective; infinitive
+6684|критерий|Мерило оценки и суждения|Kriterium|noun; neuter
+6685|поправка|Исправление или изменение|Korrektur|noun; feminine
+6686|зевать|Непроизвольно глубоко вдыхать с открытым ртом|gähnen|verb; imperfective; infinitive
+6687|семечко|Одно семя в плоде растения|Kern|noun; masculine
+6688|спрос|Требование на товары со стороны покупателей|Nachfrage|noun; feminine
+6689|Урал|Горная система на границе Европы и Азии|Ural|noun; masculine; proper
+6690|укусить|Ранить зубами или жалом|beißen|verb; perfective; infinitive
+6691|подмосковный|Расположенный вблизи Москвы|bei Moskau gelegen|adjective
+6692|беззащитный|Лишённый защиты; неспособный защитить себя|schutzlos|adjective
+6693|кавказский|Относящийся к Кавказу|kaukasisch|adjective
+6694|голосовать|Подавать голос при голосовании|abstimmen|verb; imperfective; infinitive
+6695|неуклюжий|Неловкий в движениях; нескладный|ungeschickt|adjective
+6696|неистовый|Необычайно сильный; буйный|wild|adjective
+6697|опасение|Чувство тревоги; предчувствие опасности|Befürchtung|noun; feminine
+6698|определенно|Точно и ясно|bestimmt|adverb
+6699|парашют|Устройство с куполом для прыжка с высоты|Fallschirm|noun; masculine
+6700|прорыв|Место, где что-либо прорвано; нарушение фронта|Durchbruch|noun; masculine

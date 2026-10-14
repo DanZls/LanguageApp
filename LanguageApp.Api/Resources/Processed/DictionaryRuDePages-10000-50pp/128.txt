@@ -1,0 +1,50 @@
+6401|карась|Пресноводная рыба семейства карповых|Karausche|noun; feminine
+6402|чувствительность|Способность воспринимать незначительные внешние воздействия|Empfindlichkeit|noun; feminine
+6403|поверхностный|Не входящий в суть; несерьёзный|oberflächlich|adjective
+6404|предстать|Появиться перед кем-либо|erscheinen|verb; perfective; infinitive
+6405|сие|То же, что это (устаревшее)|dieses|pronoun; neuter
+6406|подле|Около; рядом|neben|preposition
+6407|ссориться|Вступать в отношения взаимной неприязни|sich streiten|verb; imperfective; infinitive; reflexive
+6408|глиняный|Сделанный из глины|Ton-|adjective
+6409|секция|Подразделение организации или учреждения|Sektion|noun; feminine
+6410|маленько|Немного; недолго|ein bisschen|adverb
+6411|оправдание|Довод, объясняющий или извиняющий что-либо|Rechtfertigung|noun; feminine
+6412|сжаться|Плотно сдвинуться; уплотниться|sich zusammenziehen|verb; perfective; infinitive; reflexive
+6413|бегство|Тайный самовольный уход; побег|Flucht|noun; feminine
+6414|наизусть|По памяти, без обращения к тексту|auswendig|adverb
+6415|мамин|Принадлежащий маме|Mamas-|adjective
+6416|числиться|Считаться состоящим где-либо|geführt werden|verb; imperfective; infinitive
+6417|пальчик|Маленький палец|Fingerchen|noun; neuter
+6418|бабий|Относящийся к женщине (разговорное)|Weiber-|adjective
+6419|первичный|Первоначальный; исходный|primär|adjective
+6420|дыхательный|Связанный с дыханием|Atem-|adjective
+6421|выявить|Сделать явным; обнаружить|aufdecken|verb; perfective; infinitive
+6422|высказывание|Высказанное суждение или мнение|Aussage|noun; feminine
+6423|мент|Сотрудник полиции (разговорное)|Bulle|noun; masculine
+6424|диалог|Разговор между двумя лицами|Dialog|noun; masculine
+6425|раздеться|Снять с себя одежду|sich ausziehen|verb; perfective; infinitive; reflexive
+6426|дядька|Слуга-воспитатель при мальчике (устаревшее)|Erzieher|noun; masculine
+6427|застава|Воинское подразделение, несущее охранение|Vorposten|noun; masculine
+6428|соревнование|Форма деятельности, при которой участники стремятся превзойти друг друга|Wettkampf|noun; masculine
+6429|вялый|Лишённый бодрости и энергии|schlaff|adjective
+6430|зам|Заместитель (сокращение)|Stellvertreter|noun; masculine
+6431|жулик|Обманщик, мошенник|Gauner|noun; masculine
+6432|жутко|Очень страшно; ужасно|unheimlich|adverb
+6433|породить|Стать источником чего-либо; вызвать появление|hervorrufen|verb; perfective; infinitive
+6434|манер|Способ, образ действия|Art|noun; feminine
+6435|укладывать|Складывать и располагать упорядоченно|einpacken|verb; imperfective; infinitive
+6436|пролетариат|Рабочий класс|Proletariat|noun; neuter
+6437|условный|Имеющий силу при соблюдении определённых условий|bedingt|adjective
+6438|клинок|Режущая и колющая часть холодного оружия|Klinge|noun; feminine
+6439|усмехаться|Слегка смеяться с насмешкой|schmunzeln|verb; imperfective; infinitive
+6440|спецслужба|Организация, выполняющая разведывательные или контрразведывательные функции|Geheimdienst|noun; masculine
+6441|пулеметный|Относящийся к пулемёту|Maschinengewehr-|adjective
+6442|замена|То, что заменяет кого-либо или что-либо|Ersatz|noun; masculine
+6443|почесать|Слегка почесать|kratzen|verb; perfective; infinitive
+6444|частота|Количество повторений за единицу времени|Frequenz|noun; feminine
+6445|одиноко|В одиночестве; без других|einsam|adverb
+6446|пуща|Большой густой труднопроходимый лес|Dickicht|noun; neuter
+6447|беспощадный|Не знающий пощады; жестокий|gnadenlos|adjective
+6448|прицел|Устройство для наведения оружия на цель|Visier|noun; neuter
+6449|разыскивать|Искать с целью обнаружить|fahnden|verb; imperfective; infinitive
+6450|подъезжать|Приближаться или прибывать на транспорте|heranfahren|verb; imperfective; infinitive

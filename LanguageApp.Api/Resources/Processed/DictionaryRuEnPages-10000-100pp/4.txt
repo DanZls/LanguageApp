@@ -1,0 +1,100 @@
+301|совершенно|completely|adverb
+302|кроме|except|preposition
+303|тысяча|thousand|numeral; cardinal
+304|месяц|month|noun; singular
+305|брать|to take|verb; irregular
+306|написать|to write|verb; perfective
+307|целый|whole|adjective
+308|огромный|huge|adjective
+309|начинать|to begin|verb; regular
+310|спина|back|noun; singular
+311|настоящий|real|adjective
+312|пусть|let|particle
+313|язык|language|noun; singular
+314|точно|exactly|adverb
+315|среди|among|preposition
+316|чувствовать|to feel|verb; irregular
+317|сердце|heart|noun; singular
+318|вести|to lead|verb; irregular
+319|иногда|sometimes|adverb
+320|мальчик|boy|noun; singular
+321|успеть|to have time|verb; perfective
+322|небо|sky|noun; singular
+323|живой|alive|adjective
+324|смерть|death|noun; singular
+325|продолжать|to continue|verb; regular
+326|девушка|girl|noun; singular
+327|образ|image|noun; singular
+328|ко|to|preposition
+329|забыть|to forget|verb; irregular
+330|вокруг|around|adverb
+331|письмо|letter|noun; singular
+332|власть|power|noun; singular
+333|черный|black|adjective
+334|пройти|to pass|verb; irregular
+335|появиться|to appear|verb; perfective
+336|воздух|air|noun; singular; uncountable
+337|разный|different|adjective
+338|выходить|to go out|verb; regular
+339|просить|to ask|verb; regular
+340|брат|brother|noun; singular; irregular plural
+341|собственный|own|adjective
+342|отношение|relation|noun; singular
+343|затем|then|adverb
+344|пытаться|to try|verb; regular
+345|показать|to show|verb; perfective
+346|вспомнить|to recall|verb; perfective
+347|система|system|noun; singular
+348|четыре|four|numeral; cardinal
+349|квартира|apartment|noun; singular
+350|держать|to hold|verb; irregular
+351|также|also|adverb
+352|любовь|love|noun; singular
+353|солдат|soldier|noun; singular
+354|откуда|from where|adverb; interrogative
+355|чтоб|in order to|conjunction
+356|называть|to call|verb; regular
+357|третий|third|numeral; ordinal
+358|хозяин|owner|noun; singular; irregular plural
+359|вроде|like|preposition
+360|уходить|to leave|verb; regular
+361|подойти|to approach|verb; perfective
+362|поднять|to lift|verb; perfective
+363|особенно|especially|adverb
+364|спрашивать|to ask|verb; regular
+365|начальник|boss|noun; singular
+366|оба|both|numeral
+367|бросить|to throw|verb; perfective
+368|школа|school|noun; singular
+369|парень|guy|noun; singular
+370|кровь|blood|noun; singular; uncountable
+371|двадцать|twenty|numeral; cardinal
+372|солнце|sun|noun; singular
+373|неделя|week|noun; singular
+374|послать|to send|verb; perfective
+375|находиться|to be located|verb; regular
+376|ребята|guys|noun; plural
+377|поставить|to place|verb; perfective
+378|встать|to stand up|verb; irregular
+379|например|for example|adverb
+380|шаг|step|noun; singular
+381|мужчина|man|noun; singular; irregular plural
+382|равно|equally|adverb
+383|нос|nose|noun; singular
+384|мало|little|adverb
+385|внимание|attention|noun; singular
+386|капитан|captain|noun; singular
+387|ухо|ear|noun; singular; irregular plural
+388|туда|there|adverb
+389|сюда|here|adverb
+390|играть|to play|verb; regular
+391|следовать|to follow|verb; regular
+392|рассказать|to tell|verb; perfective
+393|великий|great|adjective
+394|действительно|indeed|adverb
+395|слишком|too|adverb
+396|тяжелый|heavy|adjective
+397|спать|to sleep|verb; irregular
+398|оставить|to leave|verb; perfective
+399|войти|to enter|verb; irregular
+400|длинный|long|adjective

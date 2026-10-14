@@ -1,0 +1,50 @@
+8651|раздать|Раздать по частям многим людям|austeilen|verb; perfective; infinitive
+8652|безмятежный|Ничем не тревожимый, спокойный|unbekümmert|adjective
+8653|отвориться|Открыться, распахнуться|sich öffnen|verb; perfective; infinitive; reflexive
+8654|достойно|Должным образом, с достоинством|würdevoll|adverb
+8655|понизить|Сделать более низким, уменьшить|senken|verb; perfective; infinitive
+8656|возрасти|Увеличиться, стать больше|zunehmen|verb; perfective; infinitive
+8657|Днепр|Крупная река на территории России, Беларуси и Украины|Dnjepr|noun; masculine; proper
+8658|обилие|Очень большое количество|Fülle|noun; feminine
+8659|ватник|Стёганая куртка на ватном подкладе|Wattejacke|noun; feminine
+8660|отреагировать|Проявить свою реакцию на что-либо|reagieren|verb; perfective; infinitive
+8661|подкинуть|Тайно подложить или бросить вверх|unterschieben|verb; perfective; infinitive
+8662|покрепче|Более крепко, сильнее|fester|adverb
+8663|кода|Заключительная часть музыкального произведения|Koda|noun; feminine
+8664|замолкнуть|Перестать говорить, замолчать|verstummen|verb; perfective; infinitive
+8665|знаменитость|Знаменитый, известный человек|Berühmtheit|noun; feminine
+8666|покачивать|Слегка качать|wiegen|verb; imperfective; infinitive
+8667|пьянка|Совместное распивание спиртных напитков (разг.)|Sauferei|noun; feminine
+8668|откликаться|Отвечать на зов или обращение|sich melden|verb; imperfective; infinitive; reflexive
+8669|зашептать|Начать говорить шёпотом|anfangen zu flüstern|verb; perfective; infinitive
+8670|назавтра|На следующий день|am nächsten Tag|adverb
+8671|разнести|Разрушить, разбить|zerstören|verb; perfective; infinitive
+8672|соотношение|Взаимная связь или пропорция между вещами|Verhältnis|noun; neuter
+8673|травить|Убивать ядом|vergiften|verb; imperfective; infinitive
+8674|свечка|Свеча (разг.)|Kerze|noun; feminine
+8675|глазеть|Смотреть из праздного любопытства|gaffen|verb; imperfective; infinitive
+8676|галлюцинация|Ложное восприятие при психическом расстройстве|Halluzination|noun; feminine
+8677|сучий|Наглый, дурной (бранное)|hundsgemein|adjective
+8678|аварийный|Связанный с аварией или угрозой аварии|Notfall-|adjective
+8679|вправе|Имеет право|berechtigt|adverb
+8680|функциональный|Определяемый функцией, а не структурой|funktional|adjective
+8681|зевака|Праздный зритель, слоняющийся без дела|Gaffer|noun; masculine
+8682|разгромить|Полностью победить или уничтожить|vernichtend schlagen|verb; perfective; infinitive
+8683|чистяк|Растение семейства лютиковых|Scharbockskraut|noun; neuter
+8684|меняла|Тот, кто занимается обменом денег|Geldwechsler|noun; masculine
+8685|очевидец|Тот, кто сам наблюдал событие|Augenzeuge|noun; masculine
+8686|повертеть|Несколько раз повернуть в разные стороны|drehen|verb; perfective; infinitive
+8687|исследовательский|Относящийся к научным исследованиям|Forschungs-|adjective
+8688|белобрысый|С очень светлыми волосами и бровями|blassblond|adjective
+8689|псевдоним|Вымышленное имя писателя или публичной фигуры|Pseudonym|noun; neuter
+8690|приобретение|То, что приобретено; процесс приобретения|Anschaffung|noun; feminine
+8691|деликатный|Вежливый, мягкий в обращении|taktvoll|adjective
+8692|низенький|Небольшой по высоте (уменьш.)|klein|adjective
+8693|кон|Место ставки в азартной игре; раунд|Einsatz|noun; masculine
+8694|канат|Длинное крученое изделие, трос|Seil|noun; neuter
+8695|ощущаться|Чувствоваться, восприниматься|wahrnehmbar sein|verb; imperfective
+8696|присвоить|Самовольно завладеть чужим имуществом|sich aneignen|verb; perfective; infinitive; reflexive
+8697|уставить|Ставя, расставить|aufstellen|verb; perfective; infinitive
+8698|затрещать|Начать трещать|anfangen zu knacken|verb; perfective; infinitive
+8699|перемещение|Действие по переносу или переезду|Versetzung|noun; feminine
+8700|фартук|Передник, надеваемый для защиты одежды|Schürze|noun; feminine

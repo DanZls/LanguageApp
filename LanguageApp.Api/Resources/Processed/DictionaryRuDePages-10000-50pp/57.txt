@@ -1,0 +1,50 @@
+2851|орёл|Крупная хищная птица с изогнутым клювом|Adler|noun; masculine
+2852|сорваться|Упасть, не удержавшись|abreißen|verb; perfective; infinitive
+2853|развернуть|Раскрыть свёрнутое; разложить|entfalten|verb; perfective; infinitive
+2854|дневник|Записи о ежедневных событиях|Tagebuch|noun; neuter
+2855|музыкальный|Относящийся к музыке|musikalisch|adjective
+2856|суббота|Шестой день недели|Samstag|noun; masculine
+2857|повышение|Процесс увеличения чего-либо|Erhöhung|noun; feminine
+2858|гимнастёрка|Военная форменная рубашка с прямым воротом|Uniformhemd|noun; neuter
+2859|грозить|Предвещать что-либо плохое или опасное|drohen|verb; imperfective; infinitive
+2860|обмануть|Ввести в заблуждение; поступить нечестно|täuschen|verb; perfective; infinitive
+2861|статус|Сложившееся положение|Status|noun; masculine
+2862|посоветовать|Дать совет|empfehlen|verb; perfective; infinitive
+2863|папироса|Гильза с табаком для курения|Zigarette|noun; feminine
+2864|разойтись|Уйти в разные стороны; рассеяться|sich trennen|verb; perfective; infinitive; reflexive
+2865|восьмой|Порядковое числительное к «восемь»|achte|numeral; ordinal
+2866|убежать|Удалиться бегом|weglaufen|verb; perfective; infinitive
+2867|культурный|Находящийся на высоком уровне культуры|kultiviert|adjective
+2868|воскресенье|Седьмой день недели, день отдыха|Sonntag|noun; masculine
+2869|собачий|Относящийся к собаке|hündisch|adjective
+2870|сохраниться|Остаться неповреждённым; уцелеть|erhalten|verb; perfective; infinitive
+2871|помешать|Причинить помеху; создать препятствие|stören|verb; perfective; infinitive
+2872|проводник|Сопровождающий; тот, кто ведёт|Begleiter|noun; masculine
+2873|рюмка|Небольшой стакан на тонкой ножке|Schnapsglas|noun; neuter
+2874|свеча|Палочка из жирового вещества с фитилём для освещения|Kerze|noun; feminine
+2875|рассмеяться|Начать сильно смеяться|loslachen|verb; perfective; infinitive
+2876|красиво|Внешне приятно; эстетично|schön|adverb
+2877|светиться|Излучать ровный свет|leuchten|verb; imperfective; infinitive
+2878|белок|Высокомолекулярное органическое вещество|Protein|noun; neuter
+2879|поначалу|Вначале; в первое время|anfangs|adverb
+2880|вдвоём|В количестве двух человек|zu zweit|adverb
+2881|помимо|Кроме; за исключением чего-либо|außer|preposition
+2882|вспыхнуть|Внезапно разгореться; зажечься|aufflackern|verb; perfective; infinitive
+2883|решётка|Заграждение из прутьев или проволоки|Gitter|noun; neuter
+2884|фактор|Существенное обстоятельство в каком-либо процессе|Faktor|noun; masculine
+2885|слепой|Лишённый зрения; незрячий|blind|adjective
+2886|целовать|Прикасаться губами к кому-либо в знак любви|küssen|verb; imperfective; infinitive
+2887|отказ|Непринятие; нежелание что-либо делать|Ablehnung|noun; feminine
+2888|волшебник|Колдун; чародей|Zauberer|noun; masculine
+2889|изредка|Иногда; не часто|gelegentlich|adverb
+2890|нажать|Надавить, приложив усилие|drücken|verb; perfective; infinitive
+2891|заказать|Поручить изготовить или сделать что-либо|bestellen|verb; perfective; infinitive
+2892|соответствовать|Отвечать требованиям; находиться в соответствии|entsprechen|verb; imperfective; infinitive
+2893|решаться|Взять на себя смелость; решиться|sich entschließen|verb; imperfective; infinitive; reflexive
+2894|болтать|Говорить много о незначительном|plaudern|verb; imperfective; infinitive
+2895|указание|Наставление, указывающее как действовать|Anweisung|noun; feminine
+2896|доклад|Публичное изложение какой-либо темы|Vortrag|noun; masculine
+2897|нестись|Двигаться с большой скоростью|rasen|verb; imperfective; infinitive
+2898|прочь|В сторону; дальше от кого-либо|weg|adverb
+2899|страдание|Физическая или нравственная боль|Leiden|noun; neuter
+2900|окончание|Завершение; конец|Abschluss|noun; masculine

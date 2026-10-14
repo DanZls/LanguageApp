@@ -1,0 +1,100 @@
+3001|беседовать|Вести беседу; разговаривать|plaudern|verb; imperfective; infinitive
+3002|надеть|Покрыть тело одеждой|anziehen|verb; perfective; infinitive
+3003|небось|Вероятно; должно быть|wohl|particle
+3004|поспешно|Быстро; торопливо|eilig|adverb
+3005|заключить|Закончить; завершить|abschließen|verb; perfective; infinitive
+3006|надёжный|Внушающий доверие; верный|zuverlässig|adjective
+3007|нужда|Недостаток в необходимом; бедность|Not|noun; feminine
+3008|окошко|Небольшое окно|Fensterchen|noun; neuter
+3009|гудеть|Издавать длительный однотонный звук|summen|verb; imperfective; infinitive
+3010|сюжет|Последовательность событий в произведении|Handlung|noun; feminine
+3011|приличный|Соответствующий нормам; пристойный|anständig|adjective
+3012|генеральный|Главный; основной|generell|adjective
+3013|угадать|Дать правильный ответ|erraten|verb; perfective; infinitive
+3014|хитрый|Скрывающий свои намерения; изворотливый|listig|adjective
+3015|осколок|Отколовшийся кусок расколовшегося предмета|Splitter|noun; masculine
+3016|кинуться|Устремиться куда-либо|sich stürzen|verb; perfective; infinitive; reflexive
+3017|дурацкий|Глупый; вызывающий насмешку|blöd|adjective
+3018|сок|Жидкость, содержащаяся в тканях растений|Saft|noun; masculine
+3019|будущий|Предстоящий; следующий за настоящим|zukünftig|adjective
+3020|испытать|Пережить; изведать на опыте|erleben|verb; perfective; infinitive
+3021|усталый|Испытывающий слабость после работы|müde|adjective
+3022|кремль|Крепость в старых русских городах|Kreml|noun; masculine
+3023|мышка|Маленькая мышь|Mäuschen|noun; neuter
+3024|эффект|Впечатление, производимое на кого-либо|Effekt|noun; masculine
+3025|пещера|Углубление под землёй с выходом наружу|Höhle|noun; feminine
+3026|покраснеть|Стать красным; залиться краской|erröten|verb; perfective; infinitive
+3027|зад|Задняя часть чего-либо|Hinterteil|noun; neuter
+3028|возиться|Беспокойно двигаться; суетиться|herumhantieren|verb; imperfective; infinitive
+3029|хранить|Беречь; содержать в безопасности|aufbewahren|verb; imperfective; infinitive
+3030|небесный|Связанный с небом|himmlisch|adjective
+3031|сменить|Заменить одно другим; переменить|wechseln|verb; perfective; infinitive
+3032|приподнять|Слегка поднять|anheben|verb; perfective; infinitive
+3033|шагнуть|Сделать шаг|schreiten|verb; perfective; infinitive
+3034|разрыв|Прекращение связи; физический разрыв|Riss|noun; masculine
+3035|цех|Отделение завода, занятое частью производственного процесса|Abteilung|noun; feminine
+3036|браться|Приниматься за работу или дело|anpacken|verb; imperfective; infinitive
+3037|задумываться|Предаться размышлениям|nachsinnen|verb; imperfective; infinitive
+3038|подоконник|Плита в нижней части оконного проёма|Fensterbrett|noun; neuter
+3039|великолепный|Превосходный; блестящий|großartig|adjective
+3040|тыл|Территория позади фронта|Hinterland|noun; neuter
+3041|металл|Химически простое вещество с блеском и ковкостью|Metall|noun; neuter
+3042|отсутствовать|Не быть в данном месте|fehlen|verb; imperfective; infinitive
+3043|фонд|Денежные средства для определённой цели|Fonds|noun; masculine
+3044|догнать|Настигнуть движущегося впереди|einholen|verb; perfective; infinitive
+3045|майка|Трикотажная рубашка без рукавов|Unterhemd|noun; neuter
+3046|испуганно|С выражением испуга|erschrocken|adverb
+3047|полгода|Половина года|Halbjahr|noun; neuter
+3048|ночевать|Проводить ночь где-либо|übernachten|verb; imperfective; infinitive
+3049|выехать|Отправиться из одного места в другое|abfahren|verb; perfective; infinitive
+3050|рай|Лёгкие и радующие условия; блаженство|Paradies|noun; neuter
+3051|корреспондент|Сотрудник, командированный за информацией; автор сообщений|Korrespondent|noun; masculine
+3052|один|Число 1|eins|numeral; cardinal
+3053|схема|Чертёж принципов работы устройства|Schema|noun; neuter
+3054|четверть|Четвёртая часть целого|Viertel|noun; neuter
+3055|ерунда|Вздор; пустяки|Unsinn|noun; masculine
+3056|жевать|Растирать пищу зубами|kauen|verb; imperfective; infinitive
+3057|несчастье|Горестное событие|Unglück|noun; neuter
+3058|радостный|Полный радости; выражающий радость|freudig|adjective
+3059|окружение|То, что окружает; окружающая обстановка|Umgebung|noun; feminine
+3060|учительница|Женщина-учитель|Lehrerin|noun; feminine
+3061|давний|Происшедший задолго до настоящего|einstig|adjective
+3062|предок|Древний предшественник по роду|Vorfahre|noun; masculine
+3063|кислота|Химическое соединение с кислым вкусом|Säure|noun; feminine
+3064|пропадать|Исчезать неизвестно куда|verschwinden|verb; imperfective; infinitive
+3065|солдатский|Относящийся к солдату|soldatisch|adjective
+3066|напрасно|Без пользы; зря|vergeblich|adverb
+3067|просыпаться|Пробуждаться ото сна|aufwachen|verb; imperfective; infinitive
+3068|анекдот|Маленький смешной рассказ с неожиданным концом|Witz|noun; masculine
+3069|подпись|Собственноручно написанная фамилия|Unterschrift|noun; feminine
+3070|гнев|Чувство сильного возмущения|Zorn|noun; masculine
+3071|общежитие|Помещение для проживания работников или учащихся|Wohnheim|noun; neuter
+3072|рог|Костный вырост на черепе животного|Horn|noun; neuter
+3073|штурман|Специалист по навигации|Navigator|noun; masculine
+3074|физика|Наука о строении и движении материи|Physik|noun; feminine
+3075|резать|Разделять острым инструментом|schneiden|verb; imperfective; infinitive
+3076|тронуть|Слегка задеть; прикоснуться|berühren|verb; perfective; infinitive
+3077|десятый|Порядковое числительное к «десять»|zehnte|numeral; ordinal
+3078|чудесный|Очень хороший; великолепный|wunderbar|adjective
+3079|виднеться|Быть видным; проглядывать|sich abzeichnen|verb; imperfective; infinitive; reflexive
+3080|стоя|В стоячем положении|stehend|adverb
+3081|совместный|Осуществляемый вместе с кем-либо; общий|gemeinsam|adjective
+3082|змея|Пресмыкающееся с длинным извивающимся телом|Schlange|noun; feminine
+3083|некуда|Нет места, куда можно отправиться|nirgendwohin|adverb
+3084|монах|Член религиозной общины, давший обет аскетизма|Mönch|noun; masculine
+3085|осенний|Относящийся к осени|herbstlich|adjective
+3086|промышленность|Отрасль производства и переработки сырья|Industrie|noun; feminine
+3087|картинка|Иллюстрация; рисунок|Bild|noun; neuter
+3088|тихонько|Говорить или действовать тихо|leise|adverb
+3089|ручей|Небольшой водный поток|Bach|noun; masculine
+3090|общение|Деловая или дружеская связь; взаимодействие|Kontakt|noun; masculine
+3091|советовать|Давать советы|raten|verb; imperfective; infinitive
+3092|соседка|Женщина, живущая по соседству|Nachbarin|noun; feminine
+3093|ветвь|Боковой отросток ствола дерева|Ast|noun; masculine
+3094|свалиться|Упасть вниз|hinfallen|verb; perfective; infinitive
+3095|проявить|Обнаружить наличие качеств или свойств|zeigen|verb; perfective; infinitive
+3096|сметь|Иметь смелость; осмеливаться|wagen|verb; imperfective; infinitive
+3097|переулок|Небольшая улица, соединяющая две другие|Gasse|noun; feminine
+3098|неправильный|Не соответствующий нормам|falsch|adjective
+3099|поделать|Совершить; сделать|machen|verb; perfective; infinitive
+3100|толкнуть|Быстро подтолкнуть; толчком привести в движение|stoßen|verb; perfective; infinitive

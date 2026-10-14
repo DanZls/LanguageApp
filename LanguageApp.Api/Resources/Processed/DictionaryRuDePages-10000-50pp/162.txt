@@ -1,0 +1,50 @@
+8101|кромка|Край, кайма чего-либо|Rand|noun; masculine
+8102|милостивый|Проявляющий милость, снисходительный|gnädig|adjective
+8103|машинист|Механик, управляющий локомотивом или машиной|Lokführer|noun; masculine
+8104|неполный|Не содержащий всего необходимого, частичный|unvollständig|adjective
+8105|доверчивый|Легко доверяющий, склонный к доверию|vertrauensselig|adjective
+8106|греться|Согревать своё тело|sich wärmen|verb; imperfective; infinitive; reflexive
+8107|сатана|В религиозной мифологии: воплощение зла, дьявол|Satan|noun; masculine
+8108|незаконный|Не соответствующий закону|illegal|adjective
+8109|пленум|Пленарное заседание|Plenum|noun; neuter
+8110|десантник|Военнослужащий воздушно-десантных войск|Fallschirmjäger|noun; masculine
+8111|ведение|Сфера деятельности или управления|Zuständigkeit|noun; feminine
+8112|побеждать|Одерживать победу в борьбе или соревновании|siegen|verb; imperfective; infinitive
+8113|сиреневый|Светло-лиловый, цвета сирени|fliederfarben|adjective
+8114|сулить|Обещать, предвещать что-либо|versprechen|verb; imperfective; infinitive
+8115|бегемот|Крупное млекопитающее тропической Африки, живущее в воде|Nilpferd|noun; neuter
+8116|памятный|Сохраняемый в памяти, незабываемый|denkwürdig|adjective
+8117|ограбить|Отнять или похитить силой|ausrauben|verb; perfective; infinitive
+8118|окончиться|Прийти к концу, завершиться|enden|verb; perfective; infinitive
+8119|законодательство|Совокупность действующих законов|Gesetzgebung|noun; feminine
+8120|вирус|Мельчайшая частица, вызывающая инфекционное заболевание|Virus|noun; neuter
+8121|откровение|Неожиданное открытие истины или ясности|Offenbarung|noun; feminine
+8122|сожалеть|Испытывать сожаление о чём-либо|bedauern|verb; imperfective; infinitive
+8123|бдительность|Состояние внимательности и настороженности|Wachsamkeit|noun; feminine
+8124|последовательность|Свойство следовать определённому порядку|Konsequenz|noun; feminine
+8125|коломбина|Персонаж итальянской комедии дель арте|Colombina|noun; feminine; proper
+8126|сослуживец|Человек, работающий в одном учреждении с кем-либо|Arbeitskollege|noun; masculine
+8127|исчерпать|Израсходовать полностью|erschöpfen|verb; perfective; infinitive
+8128|шелк|Ткань из нитей шелкопряда|Seide|noun; feminine
+8129|нехитрый|Простой, незамысловатый|schlicht|adjective
+8130|шляпка|Маленькая женская шляпа|Hütchen|noun; neuter; diminutive
+8131|воспитать|Вырастить, формируя личность|erziehen|verb; perfective; infinitive
+8132|безлюдный|Малонаселённый или совсем не имеющий людей|menschenleer|adjective
+8133|обидный|Содержащий обиду, оскорбительный|kränkend|adjective
+8134|серо|В серых тонах, скучно|grau|adverb
+8135|доставаться|Переходить в чью-либо собственность при разделе|zufallen|verb; imperfective; infinitive
+8136|струиться|Течь непрерывными струями|rieseln|verb; imperfective; infinitive
+8137|бесследно|Не оставляя следов|spurlos|adverb
+8138|гармошка|Ручной гармонический инструмент|Handharmonika|noun; feminine
+8139|покрутить|Недолго поворачивать или вращать|drehen|verb; perfective; infinitive
+8140|оживленный|Наполненный жизнью и активностью|lebhaft|adjective
+8141|натрий|Химический элемент, мягкий серебристо-белый металл|Natrium|noun; neuter
+8142|уполномоченный|Официальное лицо, действующее по поручению|Bevollmächtigter|noun; masculine
+8143|объединять|Соединять в единое целое|vereinen|verb; imperfective; infinitive
+8144|щуриться|Прищуривать глаза|die Augen zusammenkneifen|verb; imperfective; infinitive
+8145|поглотить|Вобрать в себя, поглотить целиком|verschlucken|verb; perfective; infinitive
+8146|скромность|Качество скромного человека|Bescheidenheit|noun; feminine
+8147|ватный|Сделанный из ваты или напоминающий вату|wattiert|adjective
+8148|едкий|Химически разъедающий; резкий|ätzend|adjective
+8149|таксист|Водитель такси|Taxifahrer|noun; masculine
+8150|пятачок|Монета или сумма в пять копеек|Fünfkopekenstück|noun; neuter

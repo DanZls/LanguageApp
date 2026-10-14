@@ -1,0 +1,50 @@
+4151|повсюду|Везде, во всех местах|überall|adverb
+4152|сохранять|Не давать утратиться, беречь|erhalten|verb; imperfective; infinitive
+4153|простор|Широкое открытое пространство|Weite|noun; feminine
+4154|чепуха|Вздор, бессмыслица|Unsinn|noun; masculine
+4155|блокнот|Тетрадь из отрывных листков для записей|Notizbuch|noun; neuter
+4156|лозунг|Краткое выражение, отражающее руководящую идею|Slogan|noun; masculine
+4157|неудача|Отсутствие успеха, провал|Misserfolg|noun; masculine
+4158|покойник|Умерший человек|Verstorbene|noun; masculine
+4159|веко|Подвижная кожная складка, закрывающая глаз|Augenlid|noun; neuter
+4160|Эстония|Государство на севере Европы|Estland|noun; neuter; proper
+4161|вправо|В правую сторону|nach rechts|adverb
+4162|сезон|Одно из времён года; определённый период деятельности|Saison|noun; feminine
+4163|Кузьмич|Русское мужское отчество|Kusmitsch|noun; masculine; proper
+4164|основать|Положить начало, учредить|gründen|verb; perfective; infinitive
+4165|крошечный|Очень маленький|winzig|adjective
+4166|замерзнуть|Стать твёрдым от холода; сильно замёрзнуть|einfrieren|verb; perfective; infinitive
+4167|милость|Доброе, человеколюбивое отношение|Gnade|noun; feminine
+4168|снимок|Фотографическое изображение|Foto|noun; neuter
+4169|священник|Служитель церкви, совершающий богослужения|Priester|noun; masculine
+4170|обитатель|Тот, кто живёт в каком-либо месте|Bewohner|noun; masculine
+4171|сопровождаться|Происходить одновременно с чем-либо|begleitet sein|verb; imperfective; infinitive
+4172|парадный|Торжественный, праздничный|feierlich|adjective
+4173|подсказать|Тихо напомнить нужное слово или ответ|einflüstern|verb; perfective; infinitive
+4174|покачиваться|Слегка раскачиваться|schaukeln|verb; imperfective; infinitive
+4175|интонация|Звуковое оформление речи: тон и ритм|Intonation|noun; feminine
+4176|запеть|Начать петь|zu singen beginnen|verb; perfective; infinitive
+4177|разорвать|Разделить на части, нарушить целостность|zerreißen|verb; perfective; infinitive
+4178|отверстие|Дыра, проход в чём-либо|Öffnung|noun; feminine
+4179|метаться|Беспокойно двигаться в разных направлениях|umherirren|verb; imperfective; infinitive
+4180|заботиться|Проявлять внимание и заботу|sich kümmern|verb; imperfective; infinitive; reflexive
+4181|расходиться|Разойтись в разные стороны|auseinandergehen|verb; imperfective; infinitive
+4182|обязательный|Безусловно требуемый к исполнению|obligatorisch|adjective
+4183|пристально|Внимательно, не отрывая взгляда|starr|adverb
+4184|задумать|Мысленно решить что-либо сделать|vorhaben|verb; perfective; infinitive
+4185|набор|Совокупность предметов, составляющих комплект|Satz|noun; masculine
+4186|злоба|Чувство злости и недоброжелательства|Bosheit|noun; feminine
+4187|Одесса|Город на юге Украины|Odessa|noun; feminine; proper
+4188|таблетка|Твёрдая лекарственная форма в виде прессованного диска|Tablette|noun; feminine
+4189|молочный|Относящийся к молоку; содержащий молоко|Milch-|adjective
+4190|уволить|Отстранить от работы, снять с должности|entlassen|verb; perfective; infinitive
+4191|поискать|Провести время в поисках чего-либо|suchen|verb; perfective; infinitive
+4192|разбойник|Грабитель, занимающийся разбоем|Räuber|noun; masculine
+4193|быт|Повседневный жизненный уклад|Alltag|noun; masculine
+4194|объясняться|Выяснять отношения; делать что-либо понятным|sich erklären|verb; imperfective; infinitive; reflexive
+4195|фигурка|Небольшое изображение или миниатюрная скульптура|Figur|noun; feminine
+4196|отбросить|Бросить в сторону, отвергнуть|wegwerfen|verb; perfective; infinitive
+4197|чистота|Состояние чего-либо без загрязнений|Sauberkeit|noun; feminine
+4198|храниться|Находиться на хранении; сохраняться|aufbewahrt werden|verb; imperfective; infinitive
+4199|образованный|Имеющий образование и разносторонние знания|gebildet|adjective
+4200|танцор|Человек, умеющий танцевать|Tänzer|noun; masculine

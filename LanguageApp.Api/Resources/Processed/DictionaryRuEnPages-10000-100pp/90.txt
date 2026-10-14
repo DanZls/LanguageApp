@@ -1,0 +1,97 @@
+8901|соорудить|to construct|verb; perfective
+8902|алло|hello|interjection
+8903|ручаться|to vouch|verb; imperfective; reflexive
+8904|окуляр|eyepiece|noun; singular
+8905|бесплодный|barren|adjective
+8906|запускать|to launch|verb; imperfective
+8907|скрежет|grinding|noun; singular; uncountable
+8908|братский|fraternal|adjective
+8909|посыпать|to sprinkle|verb; perfective
+8910|лимфатический|lethargic|adjective
+8911|истерический|hysterical|adjective
+8912|прибрежный|coastal|adjective
+8913|Коминтерн|Comintern|noun; singular; proper
+8914|устранить|to eliminate|verb; perfective
+8915|захлопать|to start clapping|verb; perfective
+8916|увлекательный|fascinating|adjective
+8917|люкс|luxury suite|noun; singular
+8918|отдаваться|to devote oneself|verb; imperfective; reflexive
+8919|хабар|bribe|noun; singular
+8920|Белоруссия|Belarus|noun; singular; proper
+8921|попутный|passing|adjective
+8922|выручать|to help out|verb; imperfective
+8923|запрещаться|to be forbidden|verb; imperfective; passive; reflexive
+8925|разнообразие|diversity|noun; singular; uncountable
+8926|коротенький|very short|adjective
+8927|сопля|snot|noun; singular; uncountable
+8928|строевой|marching|adjective
+8929|пожениться|to get married|verb; perfective; reflexive
+8930|подворотня|gateway|noun; singular
+8931|обложить|to surround|verb; perfective
+8932|монстр|monster|noun; singular
+8933|извиваться|to twist|verb; imperfective; reflexive
+8934|загадочно|mysteriously|adverb
+8935|известность|fame|noun; singular; uncountable
+8936|экспорт|export|noun; singular; uncountable
+8937|горизонтальный|horizontal|adjective
+8938|док|dock|noun; singular
+8939|Владивосток|Vladivostok|noun; singular; proper
+8940|душистый|fragrant|adjective
+8941|затопить|to flood|verb; perfective
+8942|выключатель|switch|noun; singular
+8943|разрез|cut|noun; singular
+8944|ставиться|to be placed|verb; imperfective; reflexive
+8945|взаимоотношение|relationship|noun; singular
+8946|футболист|footballer|noun; singular
+8947|лом|crowbar|noun; singular
+8948|лосниться|to glisten|verb; imperfective; reflexive
+8949|озабоченно|worriedly|adverb
+8950|ликовать|to rejoice|verb; imperfective
+8952|окаменеть|to petrify|verb; perfective; reflexive
+8953|стереть|to erase|verb; perfective
+8954|ударять|to strike|verb; imperfective
+8955|чуточку|a tiny bit|adverb
+8956|поневоле|involuntarily|adverb
+8957|конкуренция|competition|noun; singular; uncountable
+8958|кошмарный|nightmarish|adjective
+8959|Лапина|Lapina|noun; singular; proper
+8960|теневой|shadow|adjective
+8961|орудовать|to wield|verb; imperfective
+8962|терзать|to torment|verb; imperfective
+8963|сантехника|plumbing|noun; singular; uncountable
+8964|загорать|to sunbathe|verb; imperfective; reflexive
+8965|страничка|little page|noun; singular; diminutive
+8966|созреть|to mature|verb; perfective
+8967|кочка|hummock|noun; singular
+8968|наводчик|gunner|noun; singular
+8969|неспособный|incapable|adjective
+8970|маячить|to loom|verb; imperfective; reflexive
+8971|зажить|to heal|verb; perfective
+8972|превосходить|to surpass|verb; imperfective
+8973|периодически|periodically|adverb
+8974|меньшинство|minority|noun; singular
+8975|сев|sowing|noun; singular; uncountable
+8976|рыжик|saffron milk cap|noun; singular
+8977|корзинка|small basket|noun; singular; diminutive
+8978|гарь|burnt area|noun; singular; uncountable
+8980|подвернуться|to turn up|verb; perfective; reflexive
+8981|экзотический|exotic|adjective
+8982|ориентироваться|to orient oneself|verb; imperfective; reflexive
+8983|древность|antiquity|noun; singular; uncountable
+8984|помеха|hindrance|noun; singular
+8985|обыватель|philistine|noun; singular
+8986|острие|point|noun; singular
+8987|виновник|culprit|noun; singular
+8988|нехватка|shortage|noun; singular
+8989|листовка|leaflet|noun; singular
+8990|богатырь|hero|noun; singular
+8991|шалаш|hut|noun; singular
+8992|тщетно|in vain|adverb
+8993|адский|hellish|adjective
+8994|повязать|to tie|verb; perfective
+8995|заряжать|to load|verb; imperfective
+8996|топчан|cot|noun; singular
+8997|позвоночник|spine|noun; singular
+8998|разгадать|to solve|verb; perfective
+8999|буйный|riotous|adjective
+9000|стих|verse|noun; singular

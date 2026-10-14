@@ -1,0 +1,50 @@
+8201|охапка|Масса чего-либо, помещающаяся в объятии рук|Armvoll|noun; masculine
+8202|вспотеть|Начать потеть|schwitzen|verb; perfective; infinitive
+8203|математик|Специалист в области математики|Mathematiker|noun; masculine
+8204|ротмистр|Офицерский чин в кавалерии царской армии, равный капитану|Rittmeister|noun; masculine
+8205|раса|Крупная группа людей, объединённая наследственными физическими признаками|Rasse|noun; feminine
+8206|навеки|Навсегда, на вечные времена|für immer|adverb
+8207|щетка|Инструмент с пучками щетины для чистки|Bürste|noun; feminine
+8208|нефтяной|Связанный с нефтью или содержащий её|Erdöl-|adjective
+8209|наилучший|Самый лучший|bestmöglich|adjective; superlative
+8210|фсб|Федеральная служба безопасности России|FSB|noun; neuter; abbreviation
+8211|уголовник|Уголовный преступник|Krimineller|noun; masculine
+8212|радужный|Переливающийся цветами радуги|bunt|adjective
+8213|забивать|Вколачивать; забрасывать в ворота|einschlagen|verb; imperfective; infinitive
+8214|повторный|Являющийся повторением, вторичный|wiederholt|adjective
+8215|тринадцатый|Занимающий место после двенадцатого|dreizehnte|numeral; ordinal
+8216|хан|Феодальный владетельный князь у тюркских и монгольских народов|Khan|noun; masculine
+8217|оратор|Человек, произносящий речь; красноречивый человек|Redner|noun; masculine
+8218|веер|Складное опахало, раскрывающееся полукругом|Fächer|noun; masculine
+8219|прилечь|Лечь ненадолго|sich hinlegen|verb; perfective; infinitive; reflexive
+8220|вторжение|Насильственное проникновение на чужую территорию|Einmarsch|noun; masculine
+8221|алкогольный|Содержащий алкоголь или связанный с ним|alkoholisch|adjective
+8222|осмотреться|Оглядеться вокруг, оценить обстановку|sich umsehen|verb; perfective; infinitive; reflexive
+8223|минеральный|Связанный с минеральными веществами|mineralisch|adjective
+8224|добежать|Добраться до места бегом|heranlaufen|verb; perfective; infinitive
+8225|внутренность|То, что находится внутри; внутреннее пространство|Inneres|noun; neuter
+8226|медлить|Слишком долго не приступать к делу|zögern|verb; imperfective; infinitive
+8227|топот|Шум от ударов ног при ходьбе или беге|Getrampel|noun; neuter
+8228|похудеть|Стать более худым, сбросить вес|abnehmen|verb; perfective; infinitive
+8229|пожелание|Приветствие с выражением добрых желаний|Wunsch|noun; masculine
+8230|дружка|Распорядитель свадебного обряда со стороны жениха|Trauzeuge|noun; masculine
+8231|помотать|Несколько раз покачать или помахать|schütteln|verb; perfective; infinitive
+8232|фасад|Передняя сторона здания|Fassade|noun; feminine
+8233|затеряться|Потеряться, бесследно исчезнуть|verloren gehen|verb; perfective; infinitive
+8234|сочный|Обильный соком, насыщенный|saftig|adjective
+8235|шут|Придворный шутник, нанятый для забавы гостей|Narr|noun; masculine
+8236|взрослый|Достигший зрелого возраста|erwachsen|adjective
+8237|кудрявый|Имеющий вьющиеся локоны|lockig|adjective
+8238|выкладывать|Раскладывать наружу для показа|auslegen|verb; imperfective; infinitive
+8239|гитарист|Музыкант, играющий на гитаре|Gitarrist|noun; masculine
+8240|босиком|Без обуви и носков|barfuß|adverb
+8241|въезд|Место или момент въезда|Einfahrt|noun; feminine
+8242|предельно|До максимальной степени|maximal|adverb
+8243|цигарка|Самодельная папироса из бумаги с табаком|Selbstgedrehte|noun; feminine
+8244|взвиться|Резко взлететь вверх|aufsteigen|verb; perfective; infinitive
+8245|подбрасывать|Бросать вверх или подкладывать тайно|hochwerfen|verb; imperfective; infinitive
+8246|световой|Связанный со светом|Licht-|adjective
+8247|угадывать|Пытаться правильно определить или угадать|erraten|verb; imperfective; infinitive
+8248|сенатор|Член сената|Senator|noun; masculine
+8249|шарада|Загадка, в которой слово разбито на слоговые части|Scharade|noun; feminine
+8250|хм|Выражение сомнения, заминки или недоверия|hm|interjection

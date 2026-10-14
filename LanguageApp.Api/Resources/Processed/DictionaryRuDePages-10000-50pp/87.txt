@@ -1,0 +1,50 @@
+4351|чеченский|Относящийся к чеченцам, их языку или Чечне|tschetschenisch|adjective
+4352|изнутри|С внутренней стороны|von innen|adverb
+4353|оборвать|Резко прервать действие или речь|abbrechen|verb; perfective; infinitive
+4354|провал|Полная неудача, поражение|Misserfolg|noun; masculine
+4355|аккуратный|Соблюдающий порядок, тщательный|ordentlich|adjective
+4356|добавлять|Прибавлять, включать дополнительно|hinzufügen|verb; imperfective; infinitive
+4357|шумный|Издающий шум, производящий много звуков|laut|adjective
+4358|малость|Мелочь, незначительная вещь|Kleinigkeit|noun; feminine
+4359|выглянуть|Посмотреть, высунувшись наружу|herausschauen|verb; perfective; infinitive
+4360|гонять|Заставлять двигаться в разных направлениях|treiben|verb; imperfective; infinitive
+4361|негр|Человек негроидной расы|Schwarze|noun; masculine
+4362|вонючий|Издающий неприятный запах|stinkend|adjective
+4363|поспешить|Сделать что-либо быстро, без промедления|sich beeilen|verb; perfective; infinitive; reflexive
+4364|молоденький|Очень молодой|sehr jung|adjective
+4365|стоп|Призыв остановиться|Stop|interjection
+4366|дровосек|Тот, кто рубит лес, лесоруб|Holzfäller|noun; masculine
+4367|упорно|Настойчиво, не сдаваясь|hartnäckig|adverb
+4368|пробежать|Бегом преодолеть расстояние или пройти мимо|vorbeílaufen|verb; perfective; infinitive
+4369|снисходительный|Не строгий, терпимый к недостаткам|nachsichtig|adjective
+4370|невыносимый|Превышающий пределы терпения|unerträglich|adjective
+4371|удовлетворение|Чувство довольства от исполнения желаний|Befriedigung|noun; feminine
+4372|засунуть|Спрятать, положить куда-либо|hineinstecken|verb; perfective; infinitive
+4373|рассердиться|Испытать раздражение или гнев|sich ärgern|verb; perfective; infinitive; reflexive
+4374|ритм|Равномерное чередование элементов|Rhythmus|noun; masculine
+4375|сдерживать|Препятствовать проявлению чего-либо|zurückhalten|verb; imperfective; infinitive
+4376|подбежать|Приблизиться бегом|hinzulaufen|verb; perfective; infinitive
+4377|вплоть|До самого предела, включительно|bis hin zu|adverb
+4378|прелесть|Очарование, привлекательность|Reiz|noun; masculine
+4379|спрятаться|Скрыться так, чтобы нельзя было найти|sich verstecken|verb; perfective; infinitive; reflexive
+4380|открыто|Явно, без скрытности|offen|adverb
+4381|бурый|Серовато-коричневый цвет|braun|adjective
+4382|введение|Вступительная часть текста или дела|Einleitung|noun; feminine
+4383|голубок|Маленький голубь (уменьш.-ласкат.)|Täubchen|noun; neuter
+4384|мороженый|Подвергшийся заморозке|gefroren|adjective
+4385|бессмысленный|Лишённый смысла, неразумный|sinnlos|adjective
+4386|презрение|Глубоко пренебрежительное отношение|Verachtung|noun; feminine
+4387|округ|Административно-территориальное подразделение|Bezirk|noun; masculine
+4388|медсестра|Медицинская работница среднего звена|Krankenschwester|noun; feminine
+4389|па|Отдельное движение в танце|Tanzschritt|noun; masculine
+4390|переводчик|Специалист по переводу с одного языка на другой|Übersetzer|noun; masculine
+4391|складываться|Формироваться, создаваться|sich entwickeln|verb; imperfective; infinitive; reflexive
+4392|дружно|Согласованно, совместно|einträchtig|adverb
+4393|разводить|Отводить кого-либо в разные места; разлучать|trennen|verb; imperfective; infinitive
+4394|уютный|Удобный и приятный, создающий уют|gemütlich|adjective
+4395|японец|Человек японской национальности|Japaner|noun; masculine
+4396|повторяться|Происходить снова, воспроизводиться|sich wiederholen|verb; imperfective; infinitive; reflexive
+4397|мелодия|Последовательность звуков, образующая музыкальное единство|Melodie|noun; feminine
+4398|вал|Длинная земляная насыпь; волна|Wall|noun; masculine
+4399|трудиться|Работать, заниматься трудом|arbeiten|verb; imperfective; infinitive
+4400|формирование|Воинская часть или процесс создания|Formation|noun; feminine

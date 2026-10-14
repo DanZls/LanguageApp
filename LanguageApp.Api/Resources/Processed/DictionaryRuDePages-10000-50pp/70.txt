@@ -1,0 +1,50 @@
+3501|рвануть|Резко тронуться с места|losreißen|verb; perfective; infinitive
+3502|заказ|Заказанный предмет; поручение|Bestellung|noun; feminine
+3503|максимальный|Наибольший; предельный|maximal|adjective
+3504|железнодорожный|Относящийся к железной дороге|Eisenbahn-|adjective
+3505|свидетельство|Документ, удостоверяющий что-либо|Zeugnis|noun; neuter
+3506|казённый|Относящийся к государству; государственный|staatlich|adjective
+3507|отмечать|Помечать; выделять особо|vermerken|verb; imperfective; infinitive
+3508|поклониться|Выразить благоговение; поклониться|sich verbeugen|verb; perfective; infinitive; reflexive
+3509|докладывать|Сообщать; делать доклад|berichten|verb; imperfective; infinitive
+3510|отнести|Неся, доставить куда-либо|hintragen|verb; perfective; infinitive
+3511|фактически|На самом деле; в действительности|tatsächlich|adverb
+3512|привязать|Прикрепить, завязывая|anbinden|verb; perfective; infinitive
+3513|положительный|Выражающий согласие или одобрение|positiv|adjective
+3514|трагедия|Драматическое произведение с неразрешимой коллизией|Tragödie|noun; feminine
+3515|наружу|На внешнюю сторону; за пределы чего-либо|nach draußen|adverb
+3516|ткнуть|Ударить; направить тычком|stoßen|verb; perfective; infinitive
+3517|деятель|Человек, проявивший себя в общественной деятельности|Aktivist|noun; masculine
+3518|прогресс|Поступательное движение; улучшение|Fortschritt|noun; masculine
+3519|зажать|Сжать туго со всех сторон|einklemmen|verb; perfective; infinitive
+3520|реклама|Оповещение для привлечения потребителей|Werbung|noun; feminine
+3521|бокал|Чаша для вина|Weinglas|noun; neuter
+3522|кран|Запорное устройство для выпуска жидкости|Hahn|noun; masculine
+3523|проспект|Большая широкая прямая улица|Boulevard|noun; masculine
+3524|калитка|Небольшая дверца в заборе|Pforte|noun; feminine
+3525|увеличение|Процесс увеличения|Vergrößerung|noun; feminine
+3526|братец|Брат (уменьшительная форма)|Brüderchen|noun; neuter
+3527|маршрут|Путь следования|Route|noun; feminine
+3528|шуба|Зимняя меховая верхняя одежда|Pelzmantel|noun; masculine
+3529|дёрнуть|Резко схватить; дёрнуть|reißen|verb; perfective; infinitive
+3530|энергичный|Полный энергии; решительный и активный|energisch|adjective
+3531|возить|Перевозить; доставлять|fahren|verb; imperfective; infinitive
+3532|продолжение|То, что следует далее; незавершённое|Fortsetzung|noun; feminine
+3533|безнадёжный|Не дающий надежд на улучшение|hoffnungslos|adjective
+3534|размышлять|Углубляться мыслью; раздумывать|nachdenken|verb; imperfective; infinitive
+3535|арест|Заключение под стражу|Verhaftung|noun; feminine
+3536|катиться|Двигаться, вращаясь или скользя|rollen|verb; imperfective; infinitive
+3537|китаец|Человек китайской национальности|Chinese|noun; masculine
+3538|капитал|Деньги; большая сумма денег|Kapital|noun; neuter
+3539|космос|Вселенная; мировое пространство|Kosmos|noun; masculine
+3540|налево|В левую сторону|nach links|adverb
+3541|разбить|Повредить; разрушить|zerbrechen|verb; perfective; infinitive
+3542|абсолютный|Безусловный; ни от чего не зависящий|absolut|adjective
+3543|непосредственно|Без посредников; прямо|unmittelbar|adverb
+3544|обидеть|Причинить обиду|beleidigen|verb; perfective; infinitive
+3545|коснуться|Дотронуться до чего-либо|berühren|verb; perfective; infinitive
+3546|Италия|Государство в Южной Европе|Italien|noun; neuter; proper
+3547|заключённый|Человек, находящийся под арестом|Häftling|noun; masculine
+3548|описание|Изложение, в котором что-либо описывается|Beschreibung|noun; feminine
+3549|выделить|Отделить; обособить|hervorheben|verb; perfective; infinitive
+3550|помереть|Умереть|sterben|verb; perfective; infinitive

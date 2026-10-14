@@ -1,0 +1,50 @@
+5751|новогодний|Относящийся к Новому году|Neujahrs-|adjective
+5752|нежели|Сравнительный союз: чем|als|miscellaneous
+5753|забава|Развлечение, игра|Vergnügen|noun; neuter
+5754|лодочник|Лодочный перевозчик или тот, кто управляет лодкой|Bootsmann|noun; masculine
+5755|совать|Вставлять или засовывать во что-либо|stecken|verb; imperfective; infinitive
+5756|воспалительный|Относящийся к воспалению|entzündlich|adjective
+5757|перелом|Нарушение целости кости|Knochenbruch|noun; masculine
+5758|осуждать|Выражать неодобрение; порицать|verurteilen|verb; imperfective; infinitive
+5759|исчезновение|Прекращение существования или видимости|Verschwinden|noun; neuter
+5760|намекать|Говорить намёками, не называя прямо|andeuten|verb; imperfective; infinitive
+5761|словарь|Собрание слов с толкованиями или переводом|Wörterbuch|noun; neuter
+5762|миля|Путевая мера длины|Meile|noun; feminine
+5763|сознательный|Правильно понимающий и оценивающий окружающее|bewusst|adjective
+5764|ущерб|Потеря, убыток|Schaden|noun; masculine
+5765|безопасный|Не представляющий опасности|sicher|adjective
+5766|отмахнуться|Пренебрежительно отклонить, не вникнув|abwinken|verb; perfective; infinitive
+5767|тренер|Специалист по тренировке спортсменов|Trainer|noun; masculine
+5768|укол|Медицинская инъекция; острая боль|Injektion|noun; feminine
+5769|шарить|Искать ощупью; перебирать|tasten|verb; imperfective; infinitive
+5770|листать|Перелистывать страницы книги|blättern|verb; imperfective; infinitive
+5771|заблудиться|Сбиться с пути; потерять дорогу|sich verirren|verb; perfective; infinitive; reflexive
+5772|пасть|Упасть; погибнуть|fallen|verb; perfective; infinitive
+5773|плат|Платок; кусок ткани|Tuch|noun; neuter
+5774|пророк|В религии: избранник, открывающий волю Бога|Prophet|noun; masculine
+5775|устраиваться|Поступать на работу; обустраиваться|sich einrichten|verb; imperfective; infinitive; reflexive
+5776|храбрый|Смелый, без страха|tapfer|adjective
+5777|аромат|Приятный душистый запах|Aroma|noun; neuter
+5778|переживание|Острое эмоциональное состояние|Erlebnis|noun; neuter
+5779|направлять|Указывать направление; посылать|leiten|verb; imperfective; infinitive
+5780|караул|Вооружённая охрана; часовой|Wache|noun; feminine
+5781|талия|Узкая часть туловища|Taille|noun; feminine
+5782|битый|Расколотый или разбитый|zerbrochen|adjective
+5783|бухгалтер|Специалист, ведущий бухгалтерский учёт|Buchhalter|noun; masculine
+5784|крюк|Металлический стержень с загнутым концом|Haken|noun; masculine
+5785|упрямо|Проявляя упрямство; не уступая|stur|adverb
+5786|горючий|Способный гореть; воспламеняющийся|brennbar|adjective
+5787|сирена|Устройство или прибор для подачи звуковых сигналов|Sirene|noun; feminine
+5788|перевал|Наиболее низкое место в горном хребте для перехода|Pass|noun; masculine
+5789|погреб|Подземное помещение для хранения припасов|Keller|noun; masculine
+5790|коготь|Острый роговой нарост на конце пальца животного|Kralle|noun; feminine
+5791|обнаруживать|Находить; делать явным|entdecken|verb; imperfective; infinitive
+5792|наблюдатель|Лицо, ведущее наблюдение|Beobachter|noun; masculine
+5793|подыматься|Перемещаться вверх; подниматься|aufsteigen|verb; imperfective; infinitive
+5794|думаться|Казаться; представляться|sich denken|verb; imperfective; infinitive
+5795|вражеский|Относящийся к врагу|feindlich|adjective
+5796|фига|Плод фигового дерева|Feige|noun; feminine
+5797|турецкий|Относящийся к Турции или туркам|türkisch|adjective
+5798|урожай|Количество собранных с поля плодов или зерна|Ernte|noun; feminine
+5799|принадлежность|Предмет, входящий в комплект; аксессуар|Zubehör|noun; neuter
+5800|кучка|Небольшое скопление чего-либо сыпучего|Häufchen|noun; neuter

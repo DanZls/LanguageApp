@@ -1,0 +1,50 @@
+7801|вслушиваться|Внимательно и напряжённо прислушиваться|lauschen|verb; imperfective; infinitive
+7802|принципиально|Исходя из принципов; по существу|grundsätzlich|adverb
+7803|прикоснуться|Слегка дотронуться до чего-либо|berühren|verb; perfective; infinitive
+7804|съехать|Спуститься, движась вниз по поверхности|herunterfahren|verb; perfective; infinitive
+7805|томиться|Мучиться ожиданием или томлением|schmachten|verb; imperfective; infinitive
+7806|выбегать|Выходить бегом; убегать наружу|herauslaufen|verb; imperfective; infinitive
+7807|разразиться|Внезапно и стремительно возникнуть (о буре, скандале)|ausbrechen|verb; perfective; infinitive
+7808|помойка|Место для выброса мусора и отбросов|Müllhaufen|noun; masculine
+7809|продолжительность|Временной промежуток действия чего-либо|Dauer|noun; feminine
+7810|зеркальный|Гладкий и блестящий, как зеркальная поверхность|Spiegel-|adjective
+7811|разыгрывать|Исполнять произведение; разыгрывать сцену|aufführen|verb; imperfective; infinitive
+7812|несчастный|Переживающий несчастье; глубоко несчастливый|unglücklich|adjective
+7813|присаживаться|Ненадолго садиться для краткого отдыха|sich setzen|verb; imperfective; infinitive; reflexive
+7814|спелый|Вполне созревший; готовый к употреблению|ausgereift|adjective
+7815|мешочек|Небольшой мягкий мешок (уменьшительное)|Säckchen|noun; neuter
+7816|оформление|Внешний вид; художественное оформление; регистрация|Gestaltung|noun; feminine
+7817|экспертиза|Профессиональное исследование и оценка специалистами|Gutachten|noun; neuter
+7818|невнятный|Плохо различимый на слух; неразборчивый|undeutlich|adjective
+7819|прекращаться|Заканчиваться; переставать происходить|aufhören|verb; imperfective; infinitive
+7820|благополучный|Успешный и удовлетворительный; протекающий без проблем|erfolgreich|adjective
+7821|отказывать|Не давать согласия; лишать чего-либо|verweigern|verb; imperfective; infinitive
+7822|протереть|Очистить поверхность вытиранием|abwischen|verb; perfective; infinitive
+7823|посредине|В середине; в центральном месте|in der Mitte|preposition
+7824|сударь|Вежливое или ироническое обращение к мужчине|mein Herr|noun; masculine
+7825|растянуться|Лечь, вытянув тело; стать длиннее|sich ausstrecken|verb; perfective; infinitive; reflexive
+7826|сползать|Скользить вниз по наклонной поверхности|herunterrutschen|verb; imperfective; infinitive
+7827|посматривать|Периодически бросать взгляд в ту или иную сторону|hinblicken|verb; imperfective; infinitive
+7828|сменяться|Периодически заменять друг друга|sich ablösen|verb; imperfective; infinitive; reflexive
+7829|смотреться|Смотреть на собственное отражение|sich betrachten|verb; imperfective; infinitive; reflexive
+7830|шакал|Хищник семейства псовых, питающийся падалью|Schakal|noun; masculine
+7831|композиция|Структура и расположение частей произведения или конструкции|Komposition|noun; feminine
+7832|сабля|Рубящее холодное оружие с изогнутым клинком|Säbel|noun; masculine
+7833|демонстративно|Намеренно и подчёркнуто; напоказ|demonstrativ|adverb
+7834|тоскливый|Наводящий уныние; пронизанный тоской|trostlos|adjective
+7835|напасть|Беда или неприятность, внезапно обрушившаяся|Unheil|noun; neuter
+7836|диктовать|Медленно произносить текст для записи|diktieren|verb; imperfective; infinitive
+7837|сукно|Плотная шерстяная ткань с гладкой поверхностью|Tuch|noun; neuter
+7838|бедность|Состояние нужды; крайний недостаток средств|Armut|noun; feminine
+7839|воткнуть|Вонзить острый или тонкий предмет|einstechen|verb; perfective; infinitive
+7840|завыть|Начать выть протяжно|aufheulen|verb; perfective; infinitive
+7841|упорство|Твёрдость и настойчивость в достижении цели|Beharrlichkeit|noun; feminine
+7842|извозчик|Кучер наёмного экипажа|Kutscher|noun; masculine
+7843|плескаться|Производить плещущие звуки; тихо колыхаться|plätschern|verb; imperfective; infinitive
+7844|гулкий|Отдающийся эхом; издающий гулкий звук|hallend|adjective
+7845|щедрый|Охотно и много дающий другим; не скупой|großzügig|adjective
+7846|брюшной|Относящийся к брюшной полости|abdominal|adjective
+7847|краешек|Небольшой край или кромка (уменьшительное)|Rand|noun; masculine
+7848|обдумывать|Тщательно взвешивать; продумывать детали|überlegen|verb; imperfective; infinitive
+7849|студентка|Женщина, обучающаяся в высшем учебном заведении|Studentin|noun; feminine
+7850|сумрак|Неполная темнота; состояние между светлым и тёмным|Dämmerung|noun; feminine

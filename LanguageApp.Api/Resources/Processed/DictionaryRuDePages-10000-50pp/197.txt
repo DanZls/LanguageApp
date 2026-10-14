@@ -1,0 +1,50 @@
+9851|начистить|Очистить в каком-либо количестве|putzen|verb; perfective; infinitive
+9852|сжиматься|Уменьшаться в объёме; сжиматься|sich zusammenziehen|verb; imperfective; infinitive; reflexive
+9853|воскреснуть|Ожить; вернуться к жизни|auferstehen|verb; perfective; infinitive
+9854|трепаться|Колебаться от движения воздуха; болтаться|flattern|verb; imperfective; infinitive
+9855|змеиный|Связанный со змеёй|Schlangen-|adjective
+9856|ориентация|Определение положения; направленность|Orientierung|noun; feminine
+9857|усилить|Сделать более сильным; усилить|verstärken|verb; perfective; infinitive
+9858|карабкаться|Подниматься, цепляясь руками и ногами|klettern|verb; imperfective; infinitive
+9859|оккупация|Временный захват чужой территории военной силой|Besatzung|noun; feminine
+9860|проявиться|Обнаружиться; стать явным|sich zeigen|verb; perfective; infinitive; reflexive
+9861|прутик|Тонкая ветка или палочка|Stöckchen|noun; neuter; diminutive
+9862|оборонительный|Относящийся к защите от нападения|Verteidigungs-|adjective
+9863|посему|По этой причине; поэтому|daher|adverb
+9864|вдохновенный|Проникнутый вдохновением|begeistert|adjective
+9865|комендатура|Учреждение, возглавляемое комендантом|Kommandantur|noun; feminine
+9866|критиковать|Подвергать критике; критически оценивать|kritisieren|verb; imperfective; infinitive
+9867|смахивать|Быть похожим на кого-либо|ähneln|verb; imperfective; infinitive
+9868|раненый|Имеющий рану; раненый|verwundet|adjective
+9869|сочетаться|Существовать совместно; гармонировать|sich kombinieren|verb; imperfective; infinitive; reflexive
+9870|карий|О глазах: тёмно-коричневый цвет|kastanienbraun|adjective
+9871|холмик|Маленький холм|Hügelchen|noun; neuter; diminutive
+9872|шлюпка|Небольшая лодка с широким корпусом|Schaluppe|noun; feminine
+9873|пятак|Монета или сумма в пять копеек|Fünfkopekenstück|noun; neuter
+9874|развал|Полный беспорядок; разруха|Zerfall|noun; masculine
+9875|россыпь|Множество рассеянных предметов|Streuung|noun; feminine
+9876|христианин|Последователь христианства|Christ|noun; masculine
+9877|жгут|Туго скрученная полоса мягкого материала|Binde|noun; feminine
+9878|снабжение|Удовлетворение материальных потребностей|Versorgung|noun; feminine
+9879|муть|Мельчайшие частицы, делающие жидкость непрозрачной|Trübe|noun; feminine
+9880|устный|Произносимый вслух; не письменный|mündlich|adjective
+9881|ротный|Относящийся к воинскому подразделению рота|Kompanie-|adjective
+9882|жид|Устар./груб.: пренебрежительное название еврея|Jude|noun; masculine
+9883|выключать|Прекращать работу; отключать|ausschalten|verb; imperfective; infinitive
+9884|мыслящий|Обладающий способностью мыслить|denkend|adjective
+9885|вояка|Опытный или задиристый воин|Recke|noun; masculine
+9886|крапива|Травянистое растение с жгучими волосками|Nessel|noun; feminine
+9887|съедать|Поедать; поглощать пищу|aufessen|verb; imperfective; infinitive
+9888|полицейский|Служащий полиции|Polizist|noun; masculine
+9889|стерва|Грубо: злая и подлая женщина|Hexe|noun; feminine
+9890|сотрудничать|Работать совместно; участвовать в общем деле|zusammenarbeiten|verb; imperfective; infinitive
+9891|реактивный|Относящийся к реактивному движению|Reaktions-|adjective
+9892|придвинуть|Двигая, приблизить к чему-либо|heranschieben|verb; perfective; infinitive
+9893|спонсор|Лицо или организация, финансирующие мероприятие|Sponsor|noun; masculine
+9894|крупица|Небольшое количество чего-либо|Krümchen|noun; neuter; diminutive
+9895|Птицын|Русская фамилия|Ptizyn|noun; masculine; proper
+9896|навал|Нагромождение; скопление|Anhäufung|noun; feminine
+9897|свернуться|Сложиться; скрутиться в клубок|sich zusammenrollen|verb; perfective; infinitive; reflexive
+9898|пневмония|Воспаление лёгких|Lungenentzündung|noun; feminine
+9899|клеенка|Ткань, покрытая водонепроницаемым составом|Wachstuch|noun; neuter
+9900|обучать|Давать знания; учить чему-либо|unterrichten|verb; imperfective; infinitive

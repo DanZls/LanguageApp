@@ -1,0 +1,100 @@
+3501|рвануть|to dash|verb; perfective
+3502|заказ|order|noun; singular
+3503|максимальный|maximum|adjective
+3504|железнодорожный|railway|adjective
+3505|свидетельство|certificate|noun; singular
+3506|казенный|state|adjective
+3507|отмечать|to mark|verb; regular
+3508|поклониться|to bow|verb; perfective; reflexive
+3509|докладывать|to report|verb; regular
+3510|отнести|to carry|verb; perfective
+3511|фактически|actually|adverb
+3512|привязать|to tie|verb; perfective
+3513|положительный|positive|adjective
+3514|трагедия|tragedy|noun; singular
+3515|наружу|outward|adverb
+3516|ткнуть|to poke|verb; perfective
+3517|деятель|figure|noun; singular
+3518|прогресс|progress|noun; singular; uncountable
+3519|зажать|to clamp|verb; perfective
+3520|реклама|advertisement|noun; singular
+3521|бокал|glass|noun; singular
+3522|кран|faucet|noun; singular
+3523|проспект|avenue|noun; singular
+3524|калитка|gate|noun; singular
+3525|увеличение|increase|noun; singular
+3526|братец|brother|noun; singular
+3527|маршрут|route|noun; singular
+3528|шуба|fur coat|noun; singular
+3529|дернуть|to yank|verb; perfective
+3530|энергичный|energetic|adjective
+3531|возить|to transport|verb; irregular
+3532|продолжение|continuation|noun; singular
+3533|безнадежный|hopeless|adjective
+3534|размышлять|to reflect|verb; regular
+3535|арест|arrest|noun; singular
+3536|катиться|to roll|verb; regular; reflexive
+3537|китаец|Chinese person|noun; singular
+3538|капитал|capital|noun; singular; uncountable
+3539|космос|space|noun; singular; uncountable
+3540|налево|to the left|adverb
+3541|разбить|to break|verb; perfective
+3542|абсолютный|absolute|adjective
+3543|непосредственно|directly|adverb
+3544|обидеть|to offend|verb; perfective
+3545|коснуться|to touch|verb; perfective; reflexive
+3546|Италия|Italy|noun; singular; proper
+3547|заключенный|prisoner|noun; singular
+3548|описание|description|noun; singular
+3549|выделить|to allocate|verb; perfective
+3550|помереть|to die|verb; perfective
+3551|смертный|mortal|adjective
+3552|ругать|to scold|verb; regular
+3553|замысел|plan|noun; singular
+3554|хутор|homestead|noun; singular
+3555|матрос|sailor|noun; singular
+3556|полдень|noon|noun; singular
+3557|сынок|sonny|noun; singular
+3558|беспокоить|to disturb|verb; regular
+3559|восстановить|to restore|verb; perfective
+3560|выставка|exhibition|noun; singular
+3561|ноль|zero|noun; singular
+3562|достигать|to reach|verb; regular
+3563|кишка|intestine|noun; singular
+3564|величество|majesty|noun; singular
+3565|зерно|grain|noun; singular; uncountable
+3566|цепочка|small chain|noun; singular
+3567|монета|coin|noun; singular
+3568|волновать|to worry|verb; regular
+3569|отчаянный|desperate|adjective
+3570|протокол|protocol|noun; singular
+3571|идеал|ideal|noun; singular
+3572|перчатка|glove|noun; singular
+3573|село|village|noun; singular
+3574|задержаться|to linger|verb; perfective; reflexive
+3575|нетерпеливый|impatient|adjective
+3576|стукнуть|to knock|verb; perfective
+3577|сердечный|cordial|adjective
+3578|ранее|earlier|adverb
+3579|рожа|mug|noun; singular
+3580|дата|date|noun; singular
+3581|зелень|greenery|noun; singular; uncountable
+3582|подчеркнуть|to emphasize|verb; perfective
+3583|ежели|if|conjunction
+3584|набирать|to dial|verb; regular
+3585|разделить|to divide|verb; perfective
+3586|каюта|cabin|noun; singular
+3587|февраль|February|noun; singular
+3588|происшествие|incident|noun; singular
+3589|исполнять|to perform|verb; regular
+3590|категория|category|noun; singular
+3591|плюнуть|to spit|verb; perfective
+3592|придавать|to give|verb; regular
+3593|трамвай|tram|noun; singular
+3594|любопытный|curious|adjective
+3595|извлечь|to extract|verb; perfective
+3596|светло|light|adverb
+3597|набережная|embankment|noun; singular
+3598|телевидение|television|noun; singular; uncountable
+3599|продукция|production|noun; singular; uncountable
+3600|выгнать|to drive out|verb; perfective

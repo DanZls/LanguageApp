@@ -1,0 +1,50 @@
+951|возникнуть|Начаться, зародиться; появиться|entstehen|verb; perfective; infinitive
+952|способный|Обладающий способностями; одарённый|fähig|adjective
+953|станция|Пункт остановки на транспортных путях с соответствующими сооружениями|Bahnhof|noun; masculine
+954|желать|Испытывать желание; хотеть чего-либо|wünschen|verb; imperfective; infinitive
+955|попробовать|Сделать попытку; попытаться осуществить|versuchen|verb; perfective; infinitive
+956|получаться|Выходить в результате; оказываться|herauskommen|verb; imperfective; infinitive
+957|гражданин|Лицо, принадлежащее к постоянному населению государства|Bürger|noun; masculine
+958|странно|Необычно; вызывая недоумение|seltsam|adverb
+959|вскоре|В скором времени; в недалёком будущем|bald|adverb
+960|интересный|Возбуждающий интерес; занимательный|interessant|adjective
+961|команда|Краткий устный приказ; группа людей, действующих совместно|Befehl|noun; masculine
+962|заболевание|Болезнь; расстройство здоровья|Erkrankung|noun; feminine
+963|живот|Часть тела с органами пищеварения|Bauch|noun; masculine
+964|ставить|Помещать в стоячее положение; располагать|stellen|verb; imperfective; infinitive
+965|ради|Предлог: в интересах кого-либо; с целью чего-либо|wegen|preposition
+966|тишина|Отсутствие шума; безмолвие|Stille|noun; feminine
+967|понятно|Конечно, разумеется; ясно|verständlich|adverb
+968|фронт|Передовая линия соприкосновения воюющих сторон|Front|noun; feminine
+969|щека|Боковая часть лица от скулы до нижней челюсти|Wange|noun; feminine
+970|страшно|В высшей степени; очень|schrecklich|adverb
+971|район|Местность, выделяемая по определённым признакам|Bezirk|noun; masculine
+972|наверно|По всей вероятности; скорее всего|wahrscheinlich|adverb
+973|проводить|Осуществлять деятельность; сопровождать|durchführen|verb; imperfective; infinitive
+974|выражение|То, в чём проявляется что-либо; лингвистическое обозначение|Ausdruck|noun; masculine
+975|слегка|Не сильно; немного, чуть-чуть|leicht|adverb
+976|мешок|Вместилище из мягкого материала для сыпучего|Sack|noun; masculine
+977|обещать|Дать обещание относительно чего-либо|versprechen|verb; imperfective; infinitive
+978|дорогой|Имеющий высокую цену; ценный; близкий сердцу|teuer|adjective
+979|судить|Рассматривать дело в судебном порядке; выносить суждение|urteilen|verb; imperfective; infinitive
+980|большинство|Большая часть кого-либо или чего-либо|Mehrheit|noun; feminine
+981|собраться|Сойтись в одном месте; сосредоточиться|sich versammeln|verb; perfective; infinitive; reflexive
+982|управление|Деятельность по руководству; орган власти|Verwaltung|noun; feminine
+983|колоть|Рассекать на куски острым предметом|spalten|verb; imperfective; infinitive
+984|мокрый|Влажный; насыщенный влагой|nass|adjective
+985|приказ|Официальное указание, обязательное к исполнению|Befehl|noun; masculine
+986|прямой|Ровно идущий без изгибов; непосредственный|gerade|adjective
+987|закричать|Начать кричать; издать крик|aufschreien|verb; perfective; infinitive
+988|кончиться|Прийти к концу; прекратиться|enden|verb; perfective; infinitive
+989|куст|Растение с ветвями без главного ствола|Strauch|noun; masculine
+990|стрелять|Производить выстрел из оружия|schießen|verb; imperfective; infinitive
+991|художник|Человек, творчески работающий в области изобразительного искусства|Künstler|noun; masculine
+992|знак|Изображение или предмет, обозначающий что-либо|Zeichen|noun; neuter
+993|завод|Промышленное предприятие с механизированным производством|Fabrik|noun; feminine
+994|кулак|Кисть руки со сжатыми пальцами|Faust|noun; feminine
+995|использовать|Воспользоваться чем-либо с пользой; применить|nutzen|verb; imperfective; infinitive
+996|стакан|Стеклянный цилиндрический сосуд без ручки для питья|Glas|noun; neuter
+997|пахнуть|Издавать запах|riechen|verb; imperfective; infinitive
+998|отсюда|Из этого места; от этой точки|von hier|adverb
+999|рот|Полость между челюстями, снаружи закрытая губами|Mund|noun; masculine
+1000|пора|Время, период, срок|Zeit|noun; feminine

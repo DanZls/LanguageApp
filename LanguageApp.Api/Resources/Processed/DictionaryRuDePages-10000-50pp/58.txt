@@ -1,0 +1,50 @@
+2901|строка|Ряд слов, написанных в одну линию|Zeile|noun; feminine
+2902|тротуар|Пешеходная дорожка вдоль улицы|Bürgersteig|noun; masculine
+2903|конфликт|Столкновение; серьёзное разногласие|Konflikt|noun; masculine
+2904|справка|Информация в ответ на запрос|Auskunft|noun; feminine
+2905|мебель|Предметы быта для сидения, лежания, хранения|Möbel|noun; plural
+2906|вежливо|Учтиво; с соблюдением правил вежливости|höflich|adverb
+2907|ноготь|Плоский роговой покров на конце пальца|Nagel|noun; masculine
+2908|отнюдь|Совсем; никоим образом|keineswegs|adverb
+2909|химический|Относящийся к химии|chemisch|adjective
+2910|сосуд|Вместилище для жидких или сыпучих тел|Behälter|noun; masculine
+2911|Корея|Государство в Восточной Азии|Korea|noun; neuter; proper
+2912|трудовой|Основанный на применении труда|arbeitsbezogen|adjective
+2913|явный|Совершенно очевидный|offensichtlich|adjective
+2914|владеть|Иметь что-либо в собственности|besitzen|verb; imperfective; infinitive
+2915|достижение|Положительный результат усилий; успех|Errungenschaft|noun; feminine
+2916|дополнительный|Являющийся дополнением к чему-либо|zusätzlich|adjective
+2917|Константин|Мужское личное имя|Konstantin|noun; masculine; proper
+2918|асфальт|Чёрная смолистая масса для покрытия дорог|Asphalt|noun; masculine
+2919|заменить|Использовать или назначить взамен другого|ersetzen|verb; perfective; infinitive
+2920|челюсть|Костная основа лица; орган захватывания пищи|Kiefer|noun; masculine
+2921|подвиг|Героический, самоотверженный поступок|Heldentat|noun; feminine
+2922|колдун|Человек, занимающийся колдовством|Zauberer|noun; masculine
+2923|наряд|Одежда; костюм|Kostüm|noun; neuter
+2924|кончать|Завершать; доводить до конца|beenden|verb; imperfective; infinitive
+2925|письменный|Относящийся к письму; для писания|schriftlich|adjective
+2926|соображать|Понимать; думать|nachdenken|verb; imperfective; infinitive
+2927|соглашаться|Принимать предложение; выражать согласие|zustimmen|verb; imperfective; infinitive
+2928|скрытый|Тайный; не обнаруживающийся явно|verborgen|adjective
+2929|рисунок|Нарисованное изображение|Zeichnung|noun; feminine
+2930|прятаться|Скрываться так, чтобы нельзя было найти|sich verstecken|verb; imperfective; infinitive; reflexive
+2931|плюс|Знак сложения или положительная величина|Plus|noun; neuter
+2932|попадаться|Оказываться где-либо; встречаться|auftauchen|verb; imperfective; infinitive
+2933|частность|Мелкая подробность; частное обстоятельство|Einzelheit|noun; feminine
+2934|жалость|Сострадание; соболезнование|Mitleid|noun; neuter
+2935|транспорт|Отрасль, связанная с перевозкой людей и грузов|Transport|noun; masculine
+2936|наказание|Мера воздействия на нарушителя|Strafe|noun; feminine
+2937|изображать|Создавать изображение; представлять визуально|darstellen|verb; imperfective; infinitive
+2938|выражать|Передавать чувства или мысли|ausdrücken|verb; imperfective; infinitive
+2939|образоваться|Получиться; возникнуть|entstehen|verb; perfective; infinitive
+2940|способствовать|Оказывать помощь; содействовать|fördern|verb; imperfective; infinitive
+2941|съезд|Собрание представителей организаций|Kongress|noun; masculine
+2942|заложить|Положить за что-либо; основать|einlegen|verb; perfective; infinitive
+2943|семьдесят|Число 70|siebzig|numeral; cardinal
+2944|исходить|Происходить; иметь источником|ausgehen|verb; imperfective; infinitive
+2945|накануне|В предыдущий день|am Vorabend|adverb
+2946|окончить|Завершить; довести до конца|abschließen|verb; perfective; infinitive
+2947|отчётливо|Ясно; чётко|deutlich|adverb
+2948|рамка|Небольшая рама|Rahmen|noun; masculine
+2949|акт|Единичное действие; отдельный поступок|Akt|noun; masculine
+2950|посетитель|Тот, кто посещает кого-либо|Besucher|noun; masculine

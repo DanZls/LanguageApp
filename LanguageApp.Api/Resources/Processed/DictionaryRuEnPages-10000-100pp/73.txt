@@ -1,0 +1,100 @@
+7201|пшеница|wheat|noun; singular; uncountable
+7202|обиженно|resentfully|adverb
+7203|гарантировать|to guarantee|verb; imperfective; perfective
+7204|карлик|dwarf|noun; singular
+7205|перебросить|to transfer|verb; perfective
+7206|полюс|pole|noun; singular
+7207|легонько|lightly|adverb
+7208|сухарь|dried bread|noun; singular
+7209|наделать|to make a lot of|verb; perfective
+7210|кобура|holster|noun; singular
+7211|сократить|to reduce|verb; perfective
+7212|клюв|beak|noun; singular
+7213|путник|traveler|noun; singular
+7214|дивизион|battalion|noun; singular
+7215|платочек|small scarf|noun; singular
+7216|ухмыльнуться|to smirk|verb; perfective; reflexive
+7217|аспект|aspect|noun; singular
+7218|медвежий|bear's|adjective
+7219|минуть|to pass|verb; perfective
+7220|езда|riding|noun; singular; uncountable
+7221|больничный|hospital|adjective
+7222|энциклопедия|encyclopedia|noun; singular
+7223|мел|chalk|noun; singular; uncountable
+7224|натянутый|strained|adjective
+7225|постановка|staging|noun; singular
+7226|спастись|to survive|verb; perfective; reflexive
+7227|сельсовет|village council|noun; singular
+7228|украшение|decoration|noun; singular
+7229|патруль|patrol|noun; singular
+7230|миленький|cute|adjective
+7231|фотоаппарат|camera|noun; singular
+7232|отбыть|to depart|verb; perfective
+7233|кверху|upward|adverb
+7234|подымать|to lift|verb; imperfective
+7235|закрепить|to fasten|verb; perfective
+7236|повестка|summons|noun; singular
+7237|суждено|it is destined|predicative
+7238|расстреливать|to shoot|verb; imperfective
+7239|производитель|manufacturer|noun; singular
+7240|пуститься|to set off|verb; perfective; reflexive
+7241|неохота|reluctance|noun; singular; uncountable
+7242|корма|stern|noun; singular
+7243|поздравить|to congratulate|verb; perfective
+7244|допрашивать|to interrogate|verb; imperfective
+7245|подлежать|to be subject to|verb; imperfective
+7246|добродушно|good-naturedly|adverb
+7247|нора|burrow|noun; singular
+7248|внутренне|inwardly|adverb
+7249|вспоминаться|to be recalled|verb; imperfective; reflexive
+7250|невежество|ignorance|noun; singular; uncountable
+7251|самолюбие|self-esteem|noun; singular; uncountable
+7252|великолепно|magnificently|adverb
+7253|багаж|luggage|noun; singular; uncountable
+7254|салфетка|napkin|noun; singular
+7255|устоять|to hold one's ground|verb; perfective
+7256|четвереньки|all fours|noun; plural
+7257|форточка|vent window|noun; singular
+7258|обладатель|holder|noun; singular
+7259|затянутый|tight|adjective
+7260|доводить|to bring to|verb; imperfective
+7261|пристань|pier|noun; singular
+7262|боеприпас|ammunition|noun; plural
+7263|разрезать|to cut|verb; perfective
+7264|правый|right|adjective
+7265|блаженный|blissful|adjective
+7266|кремлевский|Kremlin|adjective
+7267|топтать|to trample|verb; imperfective
+7268|клык|fang|noun; singular
+7269|поправиться|to recover|verb; perfective; reflexive
+7270|индийский|Indian|adjective
+7271|пружина|spring|noun; singular
+7272|русый|light brown|adjective
+7273|чаек|tea|noun; singular; uncountable
+7274|надзиратель|warden|noun; singular
+7275|восхищенный|admiring|adjective
+7276|зафиксировать|to record|verb; perfective
+7277|горница|room|noun; singular
+7278|фестиваль|festival|noun; singular
+7279|кипяток|boiling water|noun; singular; uncountable
+7280|оборудовать|to equip|verb; perfective
+7281|телескоп|telescope|noun; singular
+7282|ритуал|ritual|noun; singular
+7283|управляющий|manager|noun; singular
+7284|формироваться|to be formed|verb; imperfective; reflexive
+7285|расплатиться|to settle up|verb; perfective; reflexive
+7286|творец|creator|noun; singular
+7287|дерзкий|impudent|adjective
+7288|сдохнуть|to die|verb; perfective
+7289|поодаль|at a distance|adverb
+7290|стареть|to age|verb; imperfective
+7291|рассмотрение|consideration|noun; singular; uncountable
+7292|джин|gin|noun; singular; uncountable
+7293|караван|caravan|noun; singular
+7294|перстень|ring|noun; singular
+7295|клятва|oath|noun; singular
+7296|цивилизованный|civilized|adjective
+7297|Бородкин|Borodkin|noun; singular; proper
+7298|ремешок|strap|noun; singular
+7299|соломенный|straw|adjective
+7300|арабский|Arabic|adjective

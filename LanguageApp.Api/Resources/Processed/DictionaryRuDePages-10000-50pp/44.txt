@@ -1,0 +1,50 @@
+2201|пробормотать|Произнести быстро и невнятно|murmeln|verb; perfective; infinitive
+2202|покинуть|Оставить кого-либо; уйти от кого-либо|verlassen|verb; perfective; infinitive
+2203|перо|Роговое образование кожи птицы|Feder|noun; feminine
+2204|сфера|Область распространения чего-либо|Bereich|noun; masculine
+2205|судья|Должностное лицо, разрешающее дела в суде|Richter|noun; masculine
+2206|жизненный|Близкий к реальной жизни; правдивый|lebensnah|adjective
+2207|кончить|Довести до конца; завершить|beenden|verb; perfective; infinitive
+2208|листок|Тонкая зелёная пластинка — орган питания растения|Blatt|noun; neuter
+2209|равный|Одинаковый; совершенно сходный|gleich|adjective
+2210|ужасный|Вызывающий ужас|schrecklich|adjective
+2211|отдых|Время без обычной работы для восстановления сил|Erholung|noun; feminine
+2212|применять|Осуществлять на практике|anwenden|verb; imperfective; infinitive
+2213|непременно|Обязательно; безотлагательно|unbedingt|adverb
+2214|золото|Драгоценный металл жёлтого цвета|Gold|noun; neuter
+2215|угроза|Запугивание; обещание причинить вред|Drohung|noun; feminine
+2216|доложить|Сделать доклад или сообщение|melden|verb; perfective; infinitive
+2217|яблоко|Плод яблони|Apfel|noun; masculine
+2218|меняться|Взаимно обмениваться; изменяться|sich verändern|verb; imperfective; infinitive; reflexive
+2219|обратный|Направленный в противоположную сторону|umgekehrt|adjective
+2220|путешествие|Поездка по различным местам или странам|Reise|noun; feminine
+2221|традиция|То, что унаследовано от предшествующих поколений|Tradition|noun; feminine
+2222|полезный|Приносящий пользу|nützlich|adjective
+2223|Франция|Государство в Западной Европе|Frankreich|noun; neuter; proper
+2224|гнать|Заставлять двигаться в определённом направлении|treiben|verb; imperfective; infinitive
+2225|выяснить|Привести в ясность; прояснить|klären|verb; perfective; infinitive
+2226|драться|Сражаться; биться|kämpfen|verb; imperfective; infinitive
+2227|раненый|Имеющий рану|verwundet|adjective
+2228|депутат|Выборный представитель в законодательном органе|Abgeordneter|noun; masculine
+2229|захотеться|Начать испытывать желание|verlangen|verb; perfective; infinitive
+2230|американец|Гражданин или уроженец США|Amerikaner|noun; masculine
+2231|производить|Изготавливать продукцию; осуществлять|herstellen|verb; imperfective; infinitive
+2232|нигде|Ни в каком месте|nirgends|adverb
+2233|знакомство|Отношения между людьми, знающими друг друга|Bekanntschaft|noun; feminine
+2234|заснуть|Начать спать|einschlafen|verb; perfective; infinitive
+2235|свернуть|Скатать трубкой; плотно завернуть|zusammenrollen|verb; perfective; infinitive
+2236|задумчиво|Сосредоточенно, погружённо в раздумье|nachdenklich|adverb
+2237|подозревать|Иметь подозрение против кого-либо|verdächtigen|verb; imperfective; infinitive
+2238|скромный|Сдержанный; не хвастливый|bescheiden|adjective
+2239|спускаться|Перемещаться сверху вниз|hinuntergehen|verb; imperfective; infinitive
+2240|следствие|То, что вытекает из чего-нибудь; результат|Folge|noun; feminine
+2241|медицинский|Относящийся к медицине|medizinisch|adjective
+2242|договориться|Прийти к соглашению после переговоров|sich einigen|verb; perfective; infinitive; reflexive
+2243|яйцо|Яйцеклетка; яйцо птицы или другого животного|Ei|noun; neuter
+2244|поступок|Совершённое кем-либо действие|Handlung|noun; feminine
+2245|преступник|Человек, совершивший преступление|Verbrecher|noun; masculine
+2246|проверять|Удостоверяться; исследовать|überprüfen|verb; imperfective; infinitive
+2247|присесть|Согнув колени, опуститься|sich hinsetzen|verb; perfective; infinitive; reflexive
+2248|звание|Официально присваиваемое наименование по заслугам или квалификации|Titel|noun; masculine
+2249|дрова|Поленья для топки|Brennholz|noun; neuter
+2250|удобный|Вполне подходящий; удобный в использовании|bequem|adjective

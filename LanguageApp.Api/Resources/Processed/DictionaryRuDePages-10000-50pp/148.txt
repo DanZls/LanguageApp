@@ -1,0 +1,50 @@
+7401|минус|Знак вычитания или отрицательной величины|Minuszeichen|noun; neuter
+7402|шахматный|Относящийся к игре в шахматы|Schach-|adjective
+7403|всхлипывать|Плача, делать судорожные вздохи|schluchzen|verb; imperfective; infinitive
+7404|убогий|Крайне бедный и жалкий; лишённый достатка|armselig|adjective
+7405|дистанция|Промежуток или расстояние между объектами|Distanz|noun; feminine
+7406|репетиция|Предварительное исполнение для подготовки представления|Probe|noun; feminine
+7407|посылка|Упакованный предмет, отправленный по почте|Paket|noun; neuter
+7408|арка|Дугообразное перекрытие пролёта между двумя опорами|Bogen|noun; masculine
+7409|ложе|Место для отдыха и сна|Lager|noun; neuter
+7410|крутило|—|—|—
+7411|химик|Специалист в области химии|Chemiker|noun; masculine
+7412|чемоданчик|Небольшой портативный чемодан|Köfferchen|noun; neuter
+7413|ежедневный|Происходящий или возобновляемый каждый день|täglich|adjective
+7414|щи|Традиционный русский суп из капусты или листовой зелени|Kohlsuppe|noun; feminine
+7415|спрашиваться|Быть предметом вопроса; требовать объяснения|sich fragen|verb; imperfective; infinitive; reflexive
+7416|запахнуть|Начать источать запах|zu riechen anfangen|verb; perfective; infinitive
+7417|покойный|Умерший; тот, кого вспоминают после смерти|Verstorbener|noun; masculine
+7418|заулыбаться|Начать улыбаться|lächeln|verb; perfective; infinitive
+7419|тоннель|Подземное или горное сооружение в виде коридора для движения|Tunnel|noun; masculine
+7420|славно|Хорошо и приятно; отлично|herrlich|adverb
+7421|просвет|Луч или полоса света, проникающая сквозь преграду|Lichtspalt|noun; masculine
+7422|белоснежный|Ярко-белый, как свежий снег|schneeweiß|adjective
+7423|усиление|Процесс наращивания мощности или интенсивности|Verstärkung|noun; feminine
+7424|интимный|Глубоко личный; сокровенный|intim|adjective
+7425|убедительно|Так, что вызывает убеждённость; доказательно|überzeugend|adverb
+7426|прописать|Официально зарегистрировать место жительства|anmelden|verb; perfective; infinitive
+7427|подбить|Вывести из строя выстрелом или ударом|abschießen|verb; perfective; infinitive
+7428|высыпать|Пересыпать или удалить сыпучее вещество|ausschütten|verb; perfective; infinitive
+7429|шевельнуться|Слегка сдвинуться; сделать небольшое движение|sich rühren|verb; perfective; infinitive; reflexive
+7430|питать|Обеспечивать питательными веществами; кормить|ernähren|verb; imperfective; infinitive
+7431|хлопец|Юноша или подросток мужского пола (разговорное)|Bursche|noun; masculine
+7432|расписаться|Поставить личную подпись в подтверждение|unterschreiben|verb; perfective; infinitive
+7433|Полянин|Русская фамилия|Poljanin|noun; masculine; proper
+7434|емкость|Сосуд для хранения жидкостей или сыпучих веществ|Behälter|noun; masculine
+7435|замахать|Начать делать взмахи рукой или другим предметом|schwenken|verb; perfective; infinitive
+7436|нечаянно|Случайно; без преднамеренного умысла|versehentlich|adverb
+7437|дефицит|Нехватка чего-либо относительно потребности|Mangel|noun; masculine
+7438|грузный|Крупного телосложения с избыточным весом|massig|adjective
+7439|головной|Ведущий; главный в системе или колонне|führend|adjective
+7440|заказчик|Лицо или организация, размещающие заказ|Auftraggeber|noun; masculine
+7441|невесть|Неизвестно кто или что; бог знает (разговорное)|unbekannt|adverb
+7442|обострение|Ухудшение состояния; усиление остроты проблемы|Verschlimmerung|noun; feminine
+7443|скончаться|Умереть; завершить жизнь|sterben|verb; perfective; infinitive
+7444|приставать|Надоедливо обращаться; мешать кому-либо|belästigen|verb; imperfective; infinitive
+7445|конвой|Вооружённый отряд для охраны или сопровождения|Eskorte|noun; feminine
+7446|сахарный|Относящийся к сахару или содержащий его|Zucker-|adjective
+7447|мгновенный|Возникающий или совершающийся в долю секунды|sofortig|adjective
+7448|сортир|Туалет; уборная (разговорное)|Abort|noun; masculine
+7449|тюльпан|Луковичное растение с крупными яркими чашевидными цветками|Tulpe|noun; feminine
+7450|МВД|Министерство внутренних дел|Innenministerium|noun; neuter; abbreviation

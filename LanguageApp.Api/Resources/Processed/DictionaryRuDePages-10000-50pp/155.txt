@@ -1,0 +1,50 @@
+7751|подлость|Низкий, бесчестный поступок; предательство|Gemeinheit|noun; feminine
+7752|портной|Мастер по пошиву одежды|Schneider|noun; masculine
+7753|радиостанция|Устройство или сооружение для приёма и передачи радиосигналов|Radiostation|noun; feminine
+7754|гага|Полярная морская утка с мягким ценным пухом|Eiderente|noun; feminine
+7755|марс|Площадка для наблюдателей на мачте судна|Mastkorb|noun; masculine
+7756|голец|Рыба семейства лососевых, обитающая в холодных водах|Saibling|noun; masculine
+7757|зоопарк|Место содержания и показа диких животных|Zoo|noun; masculine
+7758|пчела|Жалящее перепончатокрылое насекомое, производящее мёд|Biene|noun; feminine
+7759|ослабить|Уменьшить силу или напряжение чего-либо|schwächen|verb; perfective; infinitive
+7760|облегчить|Сделать более лёгким; снять лишнюю нагрузку|erleichtern|verb; perfective; infinitive
+7761|населенный|Имеющий постоянных жителей; жилой|besiedelt|adjective
+7762|устремить|Стремительно направить в определённую сторону|richten|verb; perfective; infinitive
+7763|зрелый|Достигший полного развития; сформировавшийся|reif|adjective
+7764|отбрасывать|Бросать в сторону; откидывать|wegwerfen|verb; imperfective; infinitive
+7765|одуванчик|Луговое растение с жёлтыми цветками и пушистыми летучими семенами|Löwenzahn|noun; masculine
+7766|табурет|Сиденье без спинки на четырёх ножках|Hocker|noun; masculine
+7767|побояться|Воздержаться из-за страха; не решиться|sich scheuen|verb; perfective; infinitive; reflexive
+7768|преступность|Совокупность преступлений в обществе; уровень криминала|Kriminalität|noun; feminine
+7769|беспокойный|Лишённый покоя; склонный к тревоге|unruhig|adjective
+7770|закивать|Начать кивать головой в знак согласия|nicken|verb; perfective; infinitive
+7771|моча|Жидкость, выделяемая почками с продуктами обмена|Urin|noun; masculine
+7772|усвоить|Понять и прочно запомнить; овладеть знанием|sich aneignen|verb; perfective; infinitive; reflexive
+7773|грянуть|Внезапно и громко раздаться; разразиться|losbrechen|verb; perfective; infinitive
+7774|снижаться|Уменьшаться; опускаться до меньшего уровня|sinken|verb; imperfective; infinitive
+7775|контур|Внешняя очерченная линия формы предмета|Kontur|noun; feminine
+7776|страж|Человек, охраняющий кого-либо или что-либо|Wächter|noun; masculine
+7777|величественный|Производящий впечатление величия и мощи|majestätisch|adjective
+7778|установление|Нормативный акт; закон или устав|Vorschrift|noun; feminine
+7779|обозначать|Являться знаком или обозначением чего-либо|bezeichnen|verb; imperfective; infinitive
+7780|целиться|Направлять оружие на цель|zielen|verb; imperfective; infinitive
+7781|подножие|Нижняя часть горы или возвышенности|Fuß|noun; masculine
+7782|стекать|Течь вниз по поверхности|herabfließen|verb; imperfective; infinitive
+7783|отворачиваться|Поворачиваться в сторону; отводить взгляд|sich abwenden|verb; imperfective; infinitive; reflexive
+7784|пирожок|Небольшой выпеченный пирог с начинкой|Pirogge|noun; feminine
+7785|Лубянка|Название площади и здания ФСБ в Москве (историческое)|Lubjanka|noun; feminine; proper
+7786|математический|Относящийся к математике|mathematisch|adjective
+7787|стряхнуть|Сбросить тряхнув; избавиться от чего-либо|abschütteln|verb; perfective; infinitive
+7788|влечь|Привлекать к себе; вести за собой как следствие|nach sich ziehen|verb; imperfective; infinitive
+7789|клавиша|Пластинка в клавишном механизме, при нажатии на которую извлекается звук|Taste|noun; feminine
+7790|задохнуться|Умереть от отсутствия кислорода; задохнуться|ersticken|verb; perfective; infinitive
+7791|бомбардировщик|Военный самолёт для нанесения бомбовых ударов|Bomber|noun; masculine
+7792|лепешка|Плоское круглое изделие из печёного теста|Fladenbrot|noun; neuter
+7793|вязать|Создавать изделия из нитей спицами, крючком или на машине|stricken|verb; imperfective; infinitive
+7794|выдержка|Самообладание; способность сохранять спокойствие в трудных обстоятельствах|Selbstbeherrschung|noun; feminine
+7795|Великобритания|Государство в Западной Европе, включающее Англию, Шотландию и Уэльс|Großbritannien|noun; neuter; proper
+7796|низ|Нижняя часть предмета или пространства|Unterseite|noun; feminine
+7797|издатель|Человек или организация, выпускающие печатные произведения|Verleger|noun; masculine
+7798|сень|То, что укрывает и даёт тень; защита и кров|Dach|noun; neuter
+7799|госдума|Государственная дума — нижняя палата российского парламента|Staatsduma|noun; feminine
+7800|смешаться|Слиться в одно целое; перемешаться; прийти в смятение|sich vermischen|verb; perfective; infinitive; reflexive

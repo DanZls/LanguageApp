@@ -1,0 +1,50 @@
+2351|задержать|Временно лишить свободы до выяснения обстоятельств|festhalten|verb; perfective; infinitive
+2352|подбородок|Нижняя передняя часть лица|Kinn|noun; neuter
+2353|стиль|Совокупность выразительных художественных приёмов|Stil|noun; masculine
+2354|вещий|Предвидящий будущее; пророческий|prophetisch|adjective
+2355|редактор|Специалист по редактированию текстов|Redakteur|noun; masculine
+2356|потребовать|Выдвинуть требование; вызвать кого-либо|fordern|verb; perfective; infinitive
+2357|щель|Узкое продольное отверстие|Spalt|noun; masculine
+2358|вслух|Так, что слышно другим; громко|laut|adverb
+2359|блестеть|Ярко светиться; излучать отражённый свет|glänzen|verb; imperfective; infinitive
+2360|противоположный|Совершенно несходный; противоречащий другому|entgegengesetzt|adjective
+2361|давление|Сила действия одного тела на поверхность другого|Druck|noun; masculine
+2362|коммунистический|Относящийся к коммунистам или их взглядам|kommunistisch|adjective
+2363|режиссер|Художественный руководитель театральной или кино-постановки|Regisseur|noun; masculine
+2364|значительно|В значительной степени; существенно|bedeutend|adverb
+2365|дар|Способность; талант|Begabung|noun; feminine
+2366|метро|Подземный городской железнодорожный транспорт|U-Bahn|noun; feminine; indeclinable
+2367|шанс|Вероятная возможность осуществления чего-либо|Chance|noun; feminine
+2368|конкретный|Реально существующий; точно определённый|konkret|adjective
+2369|наблюдение|Слежение за кем-либо или чем-либо|Beobachtung|noun; feminine
+2370|май|Пятый месяц календарного года|Mai|noun; masculine
+2371|усесться|Сесть удобно или надолго|sich setzen|verb; perfective; infinitive; reflexive
+2372|сиять|Испускать сияние; ярко светиться|leuchten|verb; imperfective; infinitive
+2373|туча|Большое тёмное облако, несущее дождь или град|Gewitterwolke|noun; feminine
+2374|стоящий|Имеющий ценность; заслуживающий внимания|wertvoll|adjective
+2375|вырваться|Силой освободиться из чего-либо|sich losreißen|verb; perfective; infinitive; reflexive
+2376|отвернуться|Повернуться в сторону; отвести взгляд|sich abwenden|verb; perfective; infinitive; reflexive
+2377|дума|Мысль; размышление|Gedanke|noun; masculine
+2378|закончиться|Прийти к завершению|enden|verb; perfective; infinitive
+2379|клиент|Тот, кого обслуживают; заказчик|Kunde|noun; masculine
+2380|двигатель|Машина, преобразующая энергию в механическое движение|Motor|noun; masculine
+2381|сентябрь|Девятый месяц календарного года|September|noun; masculine
+2382|дежурный|Несущий дежурство; ответственный по смене|Diensthabender|noun; masculine
+2383|бормотать|Говорить тихо, быстро и невнятно|murmeln|verb; imperfective; infinitive
+2384|завтрак|Утренний приём пищи|Frühstück|noun; neuter
+2385|состояться|Произойти; осуществиться|stattfinden|verb; perfective; infinitive
+2386|рыбак|Специалист по добыче рыбы или любитель рыбной ловли|Fischer|noun; masculine
+2387|взвод|Подразделение роты|Zug|noun; masculine
+2388|особо|В отдельности; специально|besonders|adverb
+2389|поправить|Привести в порядок; исправить|verbessern|verb; perfective; infinitive
+2390|альбом|Тетрадь из плотных листов для рисунков или фотографий|Album|noun; neuter
+2391|болото|Избыточно увлажнённый участок земли со стоячей водой|Sumpf|noun; masculine
+2392|ответственность|Обязанность отдавать отчёт в своих действиях|Verantwortung|noun; feminine
+2393|ощутить|Воспринять путём ощущения|wahrnehmen|verb; perfective; infinitive
+2394|беспокоиться|Испытывать тревогу; волноваться|sich sorgen|verb; imperfective; infinitive; reflexive
+2395|пламя|Горящий и светящийся раскалённый газ; огонь|Flamme|noun; feminine
+2396|задавать|Давать задание; поручать|aufgeben|verb; imperfective; infinitive
+2397|выдавать|Предоставить; снабдить чем-либо|ausgeben|verb; imperfective; infinitive
+2398|полететь|Начать лететь|losfliegen|verb; perfective; infinitive
+2399|художественный|Относящийся к искусству или деятельности в его области|künstlerisch|adjective
+2400|отдохнуть|Сделать перерыв для восстановления сил|sich erholen|verb; perfective; infinitive; reflexive

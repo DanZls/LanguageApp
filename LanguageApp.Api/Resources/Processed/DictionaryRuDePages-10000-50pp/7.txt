@@ -1,0 +1,50 @@
+351|также|Выражает добавление; равным образом|auch|adverb
+352|любовь|Глубокое эмоциональное влечение; сильное сердечное чувство|Liebe|noun; feminine
+353|солдат|Военнослужащий рядового состава|Soldat|noun; masculine
+354|откуда|Из какого места или источника|woher|adverb
+355|чтоб|Союз цели или желания (вариант «чтобы»)|damit|conjunction
+356|называть|Давать имя или обозначение чему-либо|nennen|verb; imperfective; infinitive
+357|третий|Следующий после второго|dritte|numeral; ordinal; masculine
+358|хозяин|Владелец, собственник|Besitzer|noun; masculine
+359|вроде|Подобно кому-либо или чему-либо; наподобие|wie|preposition
+360|уходить|Отправляться, удаляться прочь|weggehen|verb; imperfective; infinitive
+361|подойти|Приблизиться к кому-либо или чему-либо пешком|hinzugehen|verb; perfective; infinitive
+362|поднять|Взять лежащее внизу; переместить вверх|heben|verb; perfective; infinitive
+363|особенно|В особенности; прежде всего|besonders|adverb
+364|спрашивать|Обращаться с вопросом|fragen|verb; imperfective; infinitive
+365|начальник|Должностное лицо, руководящее подразделением|Chef|noun; masculine
+366|оба|И тот и другой; оба вместе|beide|numeral
+367|бросить|Оставить, покинуть; прекратить делать что-либо|werfen|verb; perfective; infinitive
+368|школа|Учебно-воспитательное учреждение; здание такого учреждения|Schule|noun; feminine
+369|парень|Юноша, молодой человек|Kerl|noun; masculine
+370|кровь|Красная жидкость, циркулирующая в кровеносной системе|Blut|noun; neuter
+371|двадцать|Число и количество 20|zwanzig|numeral
+372|солнце|Небесная звезда, вокруг которой обращается Земля|Sonne|noun; feminine
+373|неделя|Единица времени, равная семи дням|Woche|noun; feminine
+374|послать|Отправить с поручением или направить куда-либо|schicken|verb; perfective; infinitive
+375|находиться|Быть расположенным в каком-либо месте|sich befinden|verb; imperfective; infinitive; reflexive
+376|ребята|Дети или молодые люди (собирательно)|Jungs|noun; plural
+377|поставить|Поместить что-либо в определённое место|stellen|verb; perfective; infinitive
+378|встать|Принять вертикальное положение; подняться на ноги|aufstehen|verb; perfective; infinitive
+379|например|Для примера или пояснения|zum Beispiel|adverb
+380|шаг|Движение ногой при ходьбе или беге; единица расстояния|Schritt|noun; masculine
+381|мужчина|Лицо мужского пола|Mann|noun; masculine
+382|равно|Одинаково; в равной степени|gleich|adverb
+383|нос|Орган обоняния на лице человека|Nase|noun; feminine
+384|мало|Немного; недостаточно|wenig|adverb
+385|внимание|Сосредоточённость мыслей или восприятия на чём-либо|Aufmerksamkeit|noun; feminine
+386|капитан|Офицерское звание или лицо, его имеющее|Kapitän|noun; masculine
+387|ухо|Орган слуха и его наружная часть|Ohr|noun; neuter
+388|туда|В то место, в ту сторону|dorthin|adverb
+389|сюда|В это место, в эту сторону|hierher|adverb
+390|играть|Проводить время в игре; исполнять роль|spielen|verb; imperfective; infinitive
+391|следовать|Идти следом; наступать в определённой последовательности|folgen|verb; imperfective; infinitive
+392|рассказать|Словесно изложить или сообщить что-либо|erzählen|verb; perfective; infinitive
+393|великий|Превосходящий общий уровень; выдающийся|groß|adjective
+394|действительно|На самом деле; в действительности|tatsächlich|adverb
+395|слишком|Сверх меры; чрезмерно|zu|adverb
+396|тяжелый|Имеющий большой вес; трудный|schwer|adjective
+397|спать|Находиться в состоянии сна|schlafen|verb; imperfective; infinitive
+398|оставить|Намеренно не взять с собой; покинуть|lassen|verb; perfective; infinitive
+399|войти|Вступить, проникнуть внутрь чего-либо|eintreten|verb; perfective; infinitive
+400|длинный|Имеющий большую длину или протяжённость|lang|adjective

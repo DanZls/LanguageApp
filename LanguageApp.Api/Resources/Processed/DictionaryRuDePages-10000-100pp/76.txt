@@ -1,0 +1,100 @@
+7501|цветочек|Небольшой цветок (уменьшительное)|Blümchen|noun; neuter
+7502|импортный|Ввозимый из-за границы; не отечественного производства|importiert|adjective
+7503|помалкивать|Намеренно молчать; воздерживаться от высказываний|schweigen|verb; imperfective; infinitive
+7504|алкоголик|Человек с зависимостью от алкоголя|Alkoholiker|noun; masculine
+7505|венец|Драгоценный головной убор; корона|Krone|noun; feminine
+7506|маневр|Передвижение войск с целью получить тактическое преимущество|Manöver|noun; neuter
+7507|пошевелить|Слегка сдвинуть с места|bewegen|verb; perfective; infinitive
+7508|изъять|Официально изъять или удалить; конфисковать|einziehen|verb; perfective; infinitive
+7509|постигнуть|Понять суть; глубоко уяснить|begreifen|verb; perfective; infinitive
+7510|оседать|Медленно опускаться; уходить вниз|absinken|verb; imperfective; infinitive
+7511|дрозд|Лесная певчая птица семейства дроздовых|Drossel|noun; feminine
+7512|бей|Феодальный и чиновничий титул в ряде стран Ближнего Востока|Bei|noun; masculine
+7513|жгучий|Вызывающий ощущение жжения; обжигающий|brennend|adjective
+7514|тягостный|Обременительный и мучительный; тяжело переносимый|beschwerlich|adjective
+7515|мафия|Преступная организованная группировка, действующая тайно|Mafia|noun; feminine
+7516|котлета|Блюдо из рубленого или отбивного мяса в виде лепёшки|Kotelett|noun; neuter
+7517|корона|Металлический венец с украшениями как символ монаршей власти|Krone|noun; feminine
+7518|казна|Государственные или общественные финансовые ресурсы|Staatskasse|noun; feminine
+7519|татарин|Представитель татарского народа|Tatare|noun; masculine
+7520|словечко|Маленькое или особое словцо (уменьшительное)|Wörtchen|noun; neuter
+7521|подобраться|Тихо и незаметно приблизиться|sich heranschleichen|verb; perfective; infinitive; reflexive
+7522|вероятный|Допустимый; имеющий высокую вероятность|wahrscheinlich|adjective
+7523|борец|Человек, активно сражающийся за что-либо|Kämpfer|noun; masculine
+7524|фронтовик|Солдат или ветеран, воевавший на передовой|Frontsoldat|noun; masculine
+7525|душно|С нехваткой свежего воздуха; в духоте|stickig|adverb
+7526|палить|Вести интенсивный огонь из оружия|schießen|verb; imperfective; infinitive
+7527|одеколон|Парфюмерное средство на спиртовой основе для освежения|Eau de Cologne|noun; neuter
+7528|переступить|Сделав шаг, перейти через преграду|überschreiten|verb; perfective; infinitive
+7529|промежуток|Пространство или время между двумя точками|Abstand|noun; masculine
+7530|ножик|Маленький нож (уменьшительное)|Messerchen|noun; neuter
+7531|почудиться|Привидеться; показаться нереальным (однократно)|erscheinen|verb; perfective; infinitive
+7532|задевать|Случайно касаться; зацепляться за что-либо|streifen|verb; imperfective; infinitive
+7533|теплоход|Судно, приводимое в движение двигателем внутреннего сгорания|Motorschiff|noun; neuter
+7534|веять|Дуть лёгким ветерком; провеивать зерно|wehen|verb; imperfective; infinitive
+7535|Грузия|Государство в Закавказье|Georgien|noun; neuter; proper
+7536|неинтересно|Без интереса; скучно|langweilig|adverb
+7537|снайпер|Специально подготовленный меткий стрелок|Scharfschütze|noun; masculine
+7538|излагать|Передавать содержание устно или письменно|darlegen|verb; imperfective; infinitive
+7539|батон|Белый хлеб продолговатой формы|Weißbrot|noun; neuter
+7540|горелый|Повреждённый или обугленный огнём|verbrannt|adjective
+7541|горлышко|Узкая верхняя часть сосуда или горло (уменьшительное)|Flaschenhals|noun; masculine
+7542|поэтический|Относящийся к поэзии; проникнутый поэзией|poetisch|adjective
+7543|влага|Вода в виде сырости или в составе чего-либо|Feuchtigkeit|noun; feminine
+7544|характерно|Являясь отличительным признаком; типично|charakteristisch|adverb
+7545|костлявый|Худощавый с выступающими костями|knochig|adjective
+7546|прославить|Создать широкую известность; сделать знаменитым|verherrlichen|verb; perfective; infinitive
+7547|предисловие|Вводный текст к литературному произведению|Vorwort|noun; neuter
+7548|увидать|Заметить взглядом; различить|erblicken|verb; perfective; infinitive
+7549|Греция|Государство на юге Европы|Griechenland|noun; neuter; proper
+7550|принадлежащий|Являющийся чьей-либо собственностью; свойственный кому-либо|zugehörig|adjective
+7551|полено|Кусок распиленного бревна, используемый как дрова|Scheit|noun; neuter
+7552|обход|Путь или процесс обхода препятствия; патрулирование|Umgehung|noun; feminine
+7553|преданность|Верность и глубокая привязанность к кому-либо|Treue|noun; feminine
+7554|отвергнуть|Не принять; отказать в принятии|ablehnen|verb; perfective; infinitive
+7555|джунгли|Густые непроходимые тропические лесные заросли|Dschungel|noun; masculine
+7556|кукуруза|Злаковое растение с початками, содержащими крупные зёрна|Mais|noun; masculine
+7557|поединок|Вооружённый бой двух противников; дуэль|Duell|noun; neuter
+7558|запястье|Часть руки между предплечьем и пальцами|Handgelenk|noun; neuter
+7559|шпага|Колющее оружие с длинным прямым клинком|Degen|noun; masculine
+7560|понюхать|Воспринять запах носом; обнюхать|riechen|verb; perfective; infinitive
+7561|злобно|С ненавистью; проявляя злобу|böse|adverb
+7562|полушубок|Короткая шуба из овчины до колен|Pelzmantel|noun; masculine
+7563|жила|Разговорное название вены или сухожилия|Ader|noun; feminine
+7564|валек|Плоский брусок с рукояткой для выбивания белья при стирке|Waschklopfer|noun; masculine
+7565|трудящийся|Живущий доходом от собственного труда|werktätig|adjective
+7566|подземелье|Подземное помещение; темница|Verlies|noun; neuter
+7567|копченый|Приготовленный методом копчения|geräuchert|adjective
+7568|опередить|Выйти вперёд; обогнать|überholen|verb; perfective; infinitive
+7569|гладко|Ровно, без шероховатостей|glatt|adverb
+7570|шлепать|Идти с шаркающей или шлёпающей походкой|schlurfen|verb; imperfective; infinitive
+7571|боб|Однолетнее бобовое растение с семенами в стручках|Bohne|noun; feminine
+7572|материться|Употреблять грубую нецензурную брань|fluchen|verb; imperfective; infinitive
+7573|петербургский|Относящийся к Санкт-Петербургу|Petersburger|adjective
+7574|лупить|Сильно бить; наносить удары|verprügeln|verb; imperfective; infinitive
+7575|дружный|Связанный взаимным согласием; единодушный|harmonisch|adjective
+7576|мило|Приятно и любезно|nett|adverb
+7577|освобождать|Делать свободным; высвобождать|befreien|verb; imperfective; infinitive
+7578|старец|Пожилой человек, обычно пользующийся уважением|Greis|noun; masculine
+7579|робот|Автоматическое устройство, выполняющее действия человека|Roboter|noun; masculine
+7580|прикрикнуть|Строго и угрожающе крикнуть на кого-либо|anbrüllen|verb; perfective; infinitive
+7581|вахта|Сменное дежурство на судне или станции|Wache|noun; feminine
+7582|потечь|Начать течь|fließen|verb; perfective; infinitive
+7583|жительство|Постоянное место проживания|Wohnort|noun; masculine
+7584|выкрикивать|Произносить громко и прерывисто; кричать|herausschreien|verb; imperfective; infinitive
+7585|избирательный|Осуществляющий отбор; относящийся к выборам|selektiv|adjective
+7586|раскрыться|Стать открытым; обнаружить себя|sich öffnen|verb; perfective; infinitive; reflexive
+7587|ограничиться|Удовольствоваться чем-либо определённым|sich begnügen|verb; perfective; infinitive; reflexive
+7588|толкаться|Толкать кого-либо или друг друга|sich drängeln|verb; imperfective; infinitive; reflexive
+7589|обогнать|Выйти вперёд в движении; обогнать|überholen|verb; perfective; infinitive
+7590|фыркнуть|Резко выдохнуть через нос; сделать звук фырканья|schnauben|verb; perfective; infinitive
+7591|угнетать|Жестоко притеснять; лишать свободы и прав|unterdrücken|verb; imperfective; infinitive
+7592|останки|Тело умершего или его остатки|Überreste|noun; plural
+7593|задушить|Умертвить сдавливанием горла|erdrosseln|verb; perfective; infinitive
+7594|скрипучий|Издающий скрип при движении или нагрузке|knarrend|adjective
+7595|юбилей|Значимая годовщина деятельности или жизни|Jubiläum|noun; neuter
+7596|стемнеть|Наступить темноте; стать тёмно|dunkel werden|verb; perfective; infinitive
+7597|отличить|Установить различие; определить одно от другого|unterscheiden|verb; perfective; infinitive
+7598|кара|Наказание за провинность; возмездие|Strafe|noun; feminine
+7599|покушение|Попытка убийства или тяжкого преступления|Attentat|noun; neuter
+7600|безумно|В крайней степени; как сумасшедший|wahnsinnig|adverb

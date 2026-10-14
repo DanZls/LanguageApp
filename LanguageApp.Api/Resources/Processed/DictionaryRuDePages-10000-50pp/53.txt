@@ -1,0 +1,50 @@
+2651|лента|Длинная узкая полоса материала|Band|noun; neuter
+2652|громадный|Очень большой; огромный|riesig|adjective
+2653|сопровождать|Следовать рядом с кем-либо|begleiten|verb; imperfective; infinitive
+2654|открываться|Становиться видимым или доступным|sich öffnen|verb; imperfective; infinitive; reflexive
+2655|бочок|Уменьшительное от «бок»; боковая часть тела|Seite|noun; feminine
+2656|музыкант|Человек, играющий на музыкальном инструменте|Musiker|noun; masculine
+2657|договор|Письменное соглашение о взаимных обязательствах|Vertrag|noun; masculine
+2658|поход|Организованное путешествие с определённой целью|Marsch|noun; masculine
+2659|подготовить|Заранее сделать необходимое для чего-либо|vorbereiten|verb; perfective; infinitive
+2660|мастерская|Небольшое производственное или ремонтное предприятие|Werkstatt|noun; feminine
+2661|защищать|Отстаивать чьи-либо интересы; выступать защитником|verteidigen|verb; imperfective; infinitive
+2662|происхождение|Источник; начало чего-либо|Herkunft|noun; feminine
+2663|спора|Зачаток организма для размножения в неблагоприятных условиях|Spore|noun; feminine
+2664|ломать|Разделять силовым воздействием; разрушать|brechen|verb; imperfective; infinitive
+2665|пушок|Мягкий первый волосяной покров|Flaum|noun; masculine
+2666|рубаха|Нательная одежда с рукавами|Hemd|noun; neuter
+2667|оболочка|Поверхностный слой, покрывающий что-либо|Hülle|noun; feminine
+2668|нормально|В пределах нормы; как обычно|normal|adverb
+2669|вступить|Стать членом или участником чего-либо|beitreten|verb; perfective; infinitive
+2670|недалеко|На небольшом расстоянии|nahe|adverb
+2671|выставить|Поставить на показ; выдвинуть вперёд|ausstellen|verb; perfective; infinitive
+2672|прижать|Нажав, прислонить или придавить к чему-либо|drücken|verb; perfective; infinitive
+2673|препарат|Биологический образец для исследования|Präparat|noun; neuter
+2674|передавать|Сообщать; переносить к другому лицу|übermitteln|verb; imperfective; infinitive
+2675|догадываться|Правильно понять что-либо без прямых указаний|ahnen|verb; imperfective; infinitive
+2676|заметный|Такой, что можно заметить; явный|auffällig|adjective
+2677|недостаток|Изъян; несовершенство|Mangel|noun; masculine
+2678|министерство|Центральное правительственное учреждение|Ministerium|noun; neuter
+2679|выступить|Исполнить что-либо публично|auftreten|verb; perfective; infinitive
+2680|отрезать|Отделить, разрезав|abschneiden|verb; perfective; infinitive
+2681|искра|Мельчайшая частица горящего вещества|Funke|noun; masculine
+2682|дурной|Плохой; негативный|schlecht|adjective
+2683|трус|Человек, подверженный страху|Feigling|noun; masculine
+2684|заключение|Вывод на основании чего-либо|Schlussfolgerung|noun; feminine
+2685|экзамен|Проверочное испытание по учебному предмету|Prüfung|noun; feminine
+2686|скамейка|Предмет мебели для сидения нескольких человек|Bank|noun; feminine
+2687|хохотать|Громко смеяться|lachen|verb; imperfective; infinitive
+2688|охотник|Человек, занимающийся охотой|Jäger|noun; masculine
+2689|разглядеть|Внимательно рассмотреть|erkennen|verb; perfective; infinitive
+2690|пустыня|Незаселённое пространство без растительности|Wüste|noun; feminine
+2691|разбираться|Хорошо понимать что-либо; ориентироваться|sich auskennen|verb; imperfective; infinitive; reflexive
+2692|понимание|Способность постигать смысл и значение чего-либо|Verständnis|noun; neuter
+2693|дважды|Два раза|zweimal|adverb
+2694|пресса|Периодические печатные издания|Presse|noun; feminine
+2695|молния|Мгновенный электрический разряд в атмосфере|Blitz|noun; masculine
+2696|воспользоваться|Использовать что-либо для своей нужды|nutzen|verb; perfective; infinitive
+2697|психический|Связанный с психикой|psychisch|adjective
+2698|достаться|Перейти в чью-либо собственность при разделе|zufallen|verb; perfective; infinitive
+2699|сахар|Кристаллическое белое сладкое вещество|Zucker|noun; masculine
+2700|реальность|Действительное существование; действительность|Realität|noun; feminine

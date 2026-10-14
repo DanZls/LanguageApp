@@ -1,0 +1,100 @@
+2901|строка|line|noun; singular
+2902|тротуар|sidewalk|noun; singular
+2903|конфликт|conflict|noun; singular
+2904|справка|certificate|noun; singular
+2905|мебель|furniture|noun; plural; uncountable
+2906|вежливо|politely|adverb
+2907|ноготь|nail|noun; singular
+2908|отнюдь|by no means|adverb
+2909|химический|chemical|adjective
+2910|сосуд|vessel|noun; singular
+2911|Корея|Korea|noun; singular; proper
+2912|трудовой|labor|adjective
+2913|явный|obvious|adjective
+2914|владеть|to own|verb; regular
+2915|достижение|achievement|noun; singular
+2916|дополнительный|additional|adjective
+2917|Константин|Konstantin|noun; singular; proper
+2918|асфальт|asphalt|noun; singular; uncountable
+2919|заменить|to replace|verb; perfective
+2920|челюсть|jaw|noun; singular
+2921|подвиг|feat|noun; singular
+2922|колдун|sorcerer|noun; singular
+2923|наряд|outfit|noun; singular
+2924|кончать|to finish|verb; regular
+2925|письменный|written|adjective
+2926|соображать|to think|verb; regular
+2927|соглашаться|to agree|verb; regular; reflexive
+2928|скрытый|hidden|adjective
+2929|рисунок|drawing|noun; singular
+2930|прятаться|to hide|verb; regular; reflexive
+2931|плюс|plus|noun; singular
+2932|попадаться|to be caught|verb; regular; reflexive
+2933|частность|detail|noun; singular
+2934|жалость|pity|noun; singular; uncountable
+2935|транспорт|transport|noun; singular; uncountable
+2936|наказание|punishment|noun; singular
+2937|изображать|to depict|verb; regular
+2938|выражать|to express|verb; regular
+2939|образоваться|to form|verb; perfective; reflexive
+2940|способствовать|to contribute|verb; regular
+2941|съезд|congress|noun; singular
+2942|заложить|to lay|verb; perfective
+2943|семьдесят|seventy|numeral; cardinal
+2944|исходить|to originate|verb; regular
+2945|накануне|the day before|adverb
+2946|окончить|to finish|verb; perfective
+2947|отчетливо|distinctly|adverb
+2948|рамка|frame|noun; singular
+2949|акт|act|noun; singular
+2950|посетитель|visitor|noun; singular
+2951|долина|valley|noun; singular
+2952|невероятный|incredible|adjective
+2953|влажный|humid|adjective
+2954|вылезть|to climb out|verb; perfective
+2955|выпасть|to fall out|verb; perfective
+2956|божий|god's|adjective
+2957|социалистический|socialist|adjective
+2958|обсуждать|to discuss|verb; regular
+2959|очнуться|to come to|verb; perfective; reflexive
+2960|рисковать|to risk|verb; regular
+2961|выступление|performance|noun; singular
+2962|гордиться|to be proud|verb; regular; reflexive
+2963|загадочный|mysterious|adjective
+2964|издание|publication|noun; singular
+2965|выразить|to express|verb; perfective
+2966|окружающий|surrounding|adjective
+2967|чашка|cup|noun; singular
+2968|соображение|consideration|noun; singular
+2969|жир|fat|noun; singular; uncountable
+2970|миновать|to pass by|verb; perfective
+2971|намерение|intention|noun; singular
+2972|жаркий|hot|adjective
+2973|спасать|to save|verb; regular
+2974|ванный|bath|adjective
+2975|ложь|lie|noun; singular
+2976|отходить|to move away|verb; regular
+2977|кузнец|blacksmith|noun; singular
+2978|балкон|balcony|noun; singular
+2979|запереть|to lock|verb; perfective
+2980|полевой|field|adjective
+2981|жарко|hot|adverb
+2982|допрос|interrogation|noun; singular
+2983|подходящий|suitable|adjective
+2984|спектакль|performance|noun; singular
+2985|предупреждать|to warn|verb; regular
+2986|длительный|prolonged|adjective
+2987|почва|soil|noun; singular
+2988|легенда|legend|noun; singular
+2989|отыскать|to find|verb; perfective
+2990|оборачиваться|to turn around|verb; regular; reflexive
+2991|срочно|urgently|adverb
+2992|малейший|slightest|adjective; irregular comparison
+2993|жидкость|liquid|noun; singular
+2994|приемный|reception|adjective
+2995|охватить|to embrace|verb; perfective
+2996|благодарить|to thank|verb; regular
+2997|вздыхать|to sigh|verb; regular
+2998|блок|block|noun; singular
+2999|усталость|fatigue|noun; singular; uncountable
+3000|рисовать|to draw|verb; regular

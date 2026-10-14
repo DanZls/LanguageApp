@@ -1,0 +1,50 @@
+8151|изгородь|Ограда из жердей, прутьев или штакетника|Zaun|noun; masculine
+8152|футляр|Вместилище для хранения и защиты предмета|Etui|noun; neuter
+8153|довоенный|Существовавший или бывший до войны|Vorkriegs-|adjective
+8154|чесать|Скрести для облегчения зуда|kratzen|verb; imperfective; infinitive
+8155|катушка|Цилиндр, на который наматывается нить или провод|Spule|noun; feminine
+8156|приз|Награда победителю в состязании|Preis|noun; masculine
+8157|сунуться|Попытаться проникнуть куда-либо|sich hineindrängen|verb; perfective; infinitive; reflexive
+8158|покрывало|Ткань, которой накрывают что-либо|Tagesdecke|noun; feminine
+8159|наклоняться|Изменять положение тела, отклоняя его вперёд или вниз|sich beugen|verb; imperfective; infinitive; reflexive
+8160|безобразный|Крайне некрасивый, уродливый|hässlich|adjective
+8161|свадебный|Относящийся к свадьбе|Hochzeits-|adjective
+8162|осесть|Опуститься, провалиться вниз|sich setzen|verb; perfective; infinitive; reflexive
+8163|захлебываться|Задыхаться от попавшей в горло жидкости|sich verschlucken|verb; imperfective; infinitive; reflexive
+8164|работяга|Простой трудолюбивый человек (разг.)|Arbeitstier|noun; neuter
+8165|побелеть|Стать белым|weiß werden|verb; perfective; infinitive
+8166|олимпийский|Относящийся к Олимпийским играм|olympisch|adjective
+8167|голодать|Испытывать голод|hungern|verb; imperfective; infinitive
+8168|храпеть|Издавать во сне хриплые сопящие звуки|schnarchen|verb; imperfective; infinitive
+8169|абориген|Коренной житель страны или местности|Ureinwohner|noun; masculine
+8170|спутать|Смешать, перепутать|durcheinanderbringen|verb; perfective; infinitive
+8171|преодоление|Преодоление препятствия или трудности|Überwindung|noun; feminine
+8172|кровообращение|Движение крови по кровеносной системе|Blutkreislauf|noun; masculine
+8173|подхватывать|Поддерживать снизу, подхватывать|aufgreifen|verb; imperfective; infinitive
+8174|воспитанный|Имеющий хорошее воспитание, умеющий себя вести|wohlerzogen|adjective
+8175|бушлат|Форменная суконная куртка (морская или военная)|Matrosenjacke|noun; feminine
+8176|бунт|Стихийное восстание, мятеж|Aufstand|noun; masculine
+8177|арена|Круглая площадка в центре цирка|Arena|noun; feminine
+8178|проклятие|Крайнее осуждение, проклятие|Fluch|noun; masculine
+8179|курносый|С коротким вздёрнутым носом|stupsnasig|adjective
+8180|ненавистный|Вызывающий ненависть и отвращение|verhasst|adjective
+8181|послевоенный|Относящийся к периоду после войны|Nachkriegs-|adjective
+8182|эстрада|Возвышение для выступлений перед публикой|Bühne|noun; feminine
+8183|бомж|Человек без определённого места жительства|Obdachloser|noun; masculine
+8184|вертикальный|Перпендикулярный горизонту, отвесный|vertikal|adjective
+8185|извинение|Слова или основания для оправдания вины|Entschuldigung|noun; feminine
+8186|оконный|Относящийся к окну|Fenster-|adjective
+8187|шарф|Полоса ткани, надеваемая на шею или плечи|Schal|noun; masculine
+8188|смазать|Покрыть слоем жирного или вязкого вещества|schmieren|verb; perfective; infinitive
+8189|проступать|Появляться, проявляться на поверхности|durchschimmern|verb; imperfective; infinitive
+8190|выставлять|Помещать для общественного обозрения|ausstellen|verb; imperfective; infinitive
+8191|книжечка|Небольшая книга (уменьш.)|Büchlein|noun; neuter; diminutive
+8192|приучить|Выработать привычку или навык к чему-либо|gewöhnen|verb; perfective; infinitive
+8193|условно|С оговоркой, не буквально|bedingt|adverb
+8194|штамп|Инструмент для серийного изготовления давлением; клише|Stempel|noun; masculine
+8195|уголовный|Относящийся к преступности и её наказанию|kriminell|adjective
+8196|сладость|Приятный сладкий вкус; сладкое изделие|Süßigkeit|noun; feminine
+8197|житься|О наличии условий для жизни (безличн.)|leben|verb; imperfective; impersonal
+8198|сойтись|Собраться вместе в одном месте|zusammenkommen|verb; perfective; infinitive
+8199|отворить|Открыть (дверь, окно)|öffnen|verb; perfective; infinitive
+8200|затихать|Постепенно становиться тише|verstummen|verb; imperfective; infinitive

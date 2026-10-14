@@ -1,0 +1,18 @@
+<section class="card card--grammar">
+  <div class="grammar__topics" role="tablist" aria-label="Grammar topics">
+    @for (topic of topics(); track topic.id) {
+      <button
+        class="topic"
+        type="button"
+        role="tab"
+        [class.topic--active]="topic.id === selectedTopicId()"
+        [attr.aria-selected]="topic.id === selectedTopicId()"
+        (click)="selectTopic(topic.id)"
+      >
+        {{ topic.title }}
+      </button>
+    }
+  </div>
+
+  <article class="grammar__content" [innerHTML]="renderedTopicContent()"></article>
+</section>

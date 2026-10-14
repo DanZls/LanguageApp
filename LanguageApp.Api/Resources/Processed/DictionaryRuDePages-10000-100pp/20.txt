@@ -1,0 +1,100 @@
+1901|молодец|Молодой, сильный и крепкий человек|Kerl|noun; masculine
+1902|замолчать|Перестать говорить или издавать звуки|verstummen|verb; perfective; infinitive
+1903|завести|Приобрести; обзавестись чем-либо|anschaffen|verb; perfective; infinitive
+1904|прибыть|Прийти или приехать куда-либо|ankommen|verb; perfective; infinitive
+1905|собрание|Совместное присутствие для обсуждения вопросов|Versammlung|noun; feminine
+1906|девять|Число и количество 9|neun|numeral; cardinal
+1907|слон|Крупное хоботное млекопитающее тропических стран|Elefant|noun; masculine
+1908|подтвердить|Засвидетельствовать правильность; удостоверить|bestätigen|verb; perfective; infinitive
+1909|глубоко|На значительную глубину; в высокой степени|tief|adverb
+1910|естественный|Натуральный; непринуждённый|natürlich|adjective
+1911|юноша|Мужчина в возрасте между отрочеством и зрелостью|Jüngling|noun; masculine
+1912|сойти|Спуститься; покинуть место|hinabsteigen|verb; perfective; infinitive
+1913|поступать|Действовать определённым образом; совершать поступки|handeln|verb; imperfective; infinitive
+1914|крутой|Почти отвесный; обрывистый|steil|adjective
+1915|валить|Заставлять падать; обрушивать вниз|fällen|verb; imperfective; infinitive
+1916|объект|Предмет или явление, на которое направлена деятельность|Objekt|noun; neuter
+1917|убитый|Человек, лишённый жизни насильственным путём|getötet|adjective
+1918|сравнение|Сопоставление для выявления сходств или различий|Vergleich|noun; masculine
+1919|справа|С правой стороны|rechts|adverb
+1920|благородный|Высоконравственный; самоотверженно честный|edel|adjective
+1921|океан|Обширное водное пространство, окружающее материки|Ozean|noun; masculine
+1922|посёлок|Небольшой населённый пункт|Siedlung|noun; feminine
+1923|тайга|Хвойный лес на севере Евразии и Северной Америки|Taiga|noun; feminine
+1924|борода|Волосяной покров на нижней части лица мужчины|Bart|noun; masculine
+1925|пачка|Несколько предметов, упакованных вместе; упаковка|Packung|noun; feminine
+1926|надоесть|Стать скучным из-за однообразия или повторения|lästig werden|verb; perfective; infinitive
+1927|привычка|Поведение, ставшее обычным и постоянным|Gewohnheit|noun; feminine
+1928|сумма|Итог сложения; общий итог|Summe|noun; feminine
+1929|вывести|Ведя, направить куда-либо; удалить|herausführen|verb; perfective; infinitive
+1930|прыгать|Делать прыжки; двигаться скачками|springen|verb; imperfective; infinitive
+1931|создавать|Делать; производить; творить|schaffen|verb; imperfective; infinitive
+1932|грубый|Недостаточно культурный; нечуткий; грубый|grob|adjective
+1933|поездка|Короткое путешествие; поездка|Reise|noun; feminine
+1934|убедиться|Поверить; стать убеждённым в чём-либо|sich überzeugen|verb; perfective; infinitive; reflexive
+1935|ненавидеть|Питать ненависть к кому-либо или чему-либо|hassen|verb; imperfective; infinitive
+1936|заявление|Официальное сообщение в устной или письменной форме|Erklärung|noun; feminine
+1937|поражение|Неудача в борьбе; разгром|Niederlage|noun; feminine
+1938|август|Восьмой месяц календарного года|August|noun; masculine
+1939|привычный|Ставший обычным; знакомый|gewöhnlich|adjective
+1940|официальный|Исходящий от властей или администрации|offiziell|adjective
+1941|передний|Находящийся впереди; обращённый вперёд|vordere|adjective
+1942|север|Сторона света, противоположная югу|Norden|noun; masculine
+1943|шляпа|Головной убор с тульей и полями|Hut|noun; masculine
+1944|изо|Предлог, употребляемый вместо «из» перед рядом согласных|aus|preposition
+1945|молчание|Отсутствие речи или звуков; тишина|Schweigen|noun; neuter
+1946|исчезать|Постепенно становиться невидимым; пропадать|verschwinden|verb; imperfective; infinitive
+1947|эй|Восклицание для привлечения внимания|hey|interjection
+1948|топор|Инструмент для рубки с металлическим лезвием и рукоятью|Axt|noun; feminine
+1949|ощущать|Воспринимать через органы чувств|empfinden|verb; imperfective; infinitive
+1950|тащить|Нести или двигать волоком|schleppen|verb; imperfective; infinitive
+1951|брюки|Верхние штаны, покрывающие каждую ногу отдельно|Hose|noun; feminine; plural
+1952|соответствующий|Подходящий к данному случаю; такой, какой следует|entsprechend|adjective
+1953|элемент|Составная часть чего-либо|Element|noun; neuter
+1954|одеяло|Тёплое покрывало для тела, используемое в постели|Decke|noun; feminine
+1955|мотор|Двигатель, преимущественно внутреннего сгорания или электрический|Motor|noun; masculine
+1956|везде|Во всех местах; повсюду|überall|adverb
+1957|дружба|Близкие отношения, основанные на доверии и общих интересах|Freundschaft|noun; feminine
+1958|безопасность|Состояние защищённости от опасности|Sicherheit|noun; feminine
+1959|скрывать|Утаивать; делать неизвестным|verbergen|verb; imperfective; infinitive
+1960|совершить|Осуществить; выполнить|begehen|verb; perfective; infinitive
+1961|крест|Фигура из двух пересекающихся под прямым углом линий|Kreuz|noun; neuter
+1962|земной|Относящийся к планете Земля; принадлежащий суше|irdisch|adjective
+1963|школьный|Относящийся к школе|schulisch|adjective
+1964|замереть|Стать неподвижным; затаить дыхание|erstarren|verb; perfective; infinitive
+1965|прозрачный|Пропускающий сквозь себя свет|durchsichtig|adjective
+1966|подавать|Давать, поднося; предоставлять|reichen|verb; imperfective; infinitive
+1967|истинный|Соответствующий истине; подлинный|wahrhaftig|adjective
+1968|кабина|Небольшое помещение специального назначения|Kabine|noun; feminine
+1969|пальто|Верхняя одежда, обычно до колен или ниже|Mantel|noun; masculine
+1970|восторг|Подъём радостных чувств; восхищение|Begeisterung|noun; feminine
+1971|экономика|Совокупность производственных и хозяйственных отношений общества|Wirtschaft|noun; feminine
+1972|забота|Деятельность, направленная к благополучию кого-либо|Sorge|noun; feminine
+1973|произвести|Осуществить; выполнить; изготовить|herstellen|verb; perfective; infinitive
+1974|дождаться|Пробыть в ожидании и получить желаемое|abwarten|verb; perfective; infinitive
+1975|талант|Выдающиеся природные способности|Talent|noun; neuter
+1976|плыть|Передвигаться по воде|schwimmen|verb; imperfective; infinitive
+1977|запись|То, что записано; фиксация в письменной форме|Aufzeichnung|noun; feminine
+1978|ведро|Цилиндрический сосуд с ручкой для жидкостей|Eimer|noun; masculine
+1979|крестьянин|Сельский житель, занимающийся земледелием|Bauer|noun; masculine
+1980|поворот|Место, где происходит поворот; изменение направления|Kurve|noun; feminine
+1981|подробность|Мелкое обстоятельство какого-либо дела или события|Detail|noun; neuter
+1982|столб|Бревно или брус, вертикально укреплённый в земле|Pfahl|noun; masculine
+1983|канал|Искусственное русло с водой|Kanal|noun; masculine
+1984|пассажир|Тот, кто совершает поездку в транспортном средстве|Passagier|noun; masculine
+1985|выполнить|Осуществить порученное; провести в жизнь|ausführen|verb; perfective; infinitive
+1986|устройство|Конструкция; расположение и соотношение частей|Einrichtung|noun; feminine
+1987|благодаря|По причине; вследствие кого-либо или чего-либо|dank|preposition
+1988|направиться|Двинуться в определённом направлении|sich begeben|verb; perfective; infinitive; reflexive
+1989|влияние|Воздействие на кого-либо или что-либо|Einfluss|noun; masculine
+1990|ракета|Летательный аппарат с реактивным двигателем|Rakete|noun; feminine
+1991|гражданский|Относящийся к гражданам и их правовым отношениям|zivil|adjective
+1992|шутить|Говорить или поступать ради забавы|scherzen|verb; imperfective; infinitive
+1993|смена|Промежуток рабочего времени; чередование|Schicht|noun; feminine
+1994|случаться|Происходить; совершаться|passieren|verb; imperfective; infinitive
+1995|спрятать|Убрать в скрытое место; скрыть|verstecken|verb; perfective; infinitive
+1996|предстоять|Быть предстоящим; ожидаться в будущем|bevorstehen|verb; imperfective; infinitive
+1997|затылок|Задняя часть черепа и головы|Hinterkopf|noun; masculine
+1998|юг|Сторона света, противоположная северу|Süden|noun; masculine
+1999|эпоха|Длительный исторический период, выделяемый по характерным событиям|Epoche|noun; feminine
+2000|товар|Продукт труда, предназначенный для обмена или продажи|Ware|noun; feminine

@@ -1,0 +1,50 @@
+3201|чётко|Отчётливо; разборчиво|deutlich|adverb
+3202|проехать|Миновать; преодолеть расстояние|vorbeifahren|verb; perfective; infinitive
+3203|отобрать|Взять обратно; отнять|wegnehmen|verb; perfective; infinitive
+3204|вина|Проступок; преступление|Schuld|noun; feminine
+3205|ведьма|Злая волшебница|Hexe|noun; feminine
+3206|подлинный|Настоящий; оригинальный|echt|adjective
+3207|адвокат|Юрист, защищающий интересы в суде|Anwalt|noun; masculine
+3208|апрель|Четвёртый месяц года|April|noun; masculine
+3209|бюджет|Роспись доходов и расходов|Budget|noun; neuter
+3210|боцман|Лицо, которому подчинена палубная команда|Bootsmann|noun; masculine
+3211|разрушить|Уничтожить; превратить в развалины|zerstören|verb; perfective; infinitive
+3212|барак|Здание лёгкой постройки для временного жилья|Baracke|noun; feminine
+3213|алый|Ярко-красный|knallrot|adjective
+3214|архив|Учреждение для хранения документов|Archiv|noun; neuter
+3215|выслушать|Прослушать до конца|anhören|verb; perfective; infinitive
+3216|цветной|Окрашенный; имеющий цвет|farbig|adjective
+3217|прыгнуть|Сделать прыжок|springen|verb; perfective; infinitive
+3218|палуба|Горизонтальное перекрытие в корпусе судна|Deck|noun; neuter
+3219|кровавый|Покрытый кровью|blutig|adjective
+3220|вольный|Свободный; независимый|frei|adjective
+3221|доверять|Проявлять доверие; поручать|vertrauen|verb; imperfective; infinitive
+3222|юность|Возраст между отрочеством и зрелостью|Jugend|noun; feminine
+3223|сбор|То, что собрано вместе|Sammlung|noun; feminine
+3224|базар|Рынок; место для розничной торговли|Basar|noun; masculine
+3225|нарушить|Помешать нормальному состоянию; прервать|stören|verb; perfective; infinitive
+3226|готовность|Состояние полной готовности|Bereitschaft|noun; feminine
+3227|рубеж|Граница; пограничная линия|Grenze|noun; feminine
+3228|искренне|От всего сердца; без лицемерия|aufrichtig|adverb
+3229|ай|Выражает испуг, боль или удивление|au|interjection
+3230|прибыль|Сумма, превышающая затраты|Gewinn|noun; masculine
+3231|передо|Предлог «перед» перед некоторыми сочетаниями согласных|vor|preposition
+3232|дескать|Употребляется при передаче чужой речи|angeblich|particle
+3233|интеллигенция|Люди умственного труда с образованием|Intelligenz|noun; feminine
+3234|почта|Учреждение для пересылки писем и посылок|Post|noun; feminine
+3235|сдавать|Передавать имеющееся или порученное|übergeben|verb; imperfective; infinitive
+3236|монастырь|Религиозная община монахов или монахинь|Kloster|noun; neuter
+3237|практика|Деятельность по применению знаний в жизни; опыт|Praxis|noun; feminine
+3238|тратить|Расходовать; производить затраты|ausgeben|verb; imperfective; infinitive
+3239|ярость|Сильный гнев|Wut|noun; feminine
+3240|совершать|Делать; выполнять что-либо|vollbringen|verb; imperfective; infinitive
+3241|нарисовать|Создать изображение|zeichnen|verb; perfective; infinitive
+3242|сниться|Представляться во сне|träumen|verb; imperfective; infinitive
+3243|академия|Высшее научное или художественное учреждение|Akademie|noun; feminine
+3244|грустный|Полный грусти; печальный|traurig|adjective
+3245|физиономия|Лицо; физиономия человека|Gesicht|noun; neuter
+3246|струя|Узкий поток жидкости или газа|Strahl|noun; masculine
+3247|столичный|Относящийся к столице|hauptstädtisch|adjective
+3248|подземный|Находящийся под поверхностью земли|unterirdisch|adjective
+3249|головной|Ведущий; главный|führend|adjective
+3250|поджечь|Поджечь; подпалить|anzünden|verb; perfective; infinitive

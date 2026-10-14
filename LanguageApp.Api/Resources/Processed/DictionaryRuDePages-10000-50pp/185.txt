@@ -1,0 +1,50 @@
+9251|капризный|Склонный к капризам; причудливый|launisch|adjective
+9252|становление|Возникновение чего-либо в процессе развития|Entstehung|noun; feminine
+9253|трибунал|Чрезвычайный судебный орган|Tribunal|noun; neuter
+9254|рождество|Христианский праздник в память рождения Иисуса Христа|Weihnachten|noun; plural; proper
+9255|подоспеть|Успеть появиться в нужный момент|rechtzeitig eintreffen|verb; perfective; infinitive
+9256|прислонить|Поставить, оперев верхней частью|anlehnen|verb; perfective; infinitive
+9257|чемпионат|Соревнование на звание чемпиона|Meisterschaft|noun; feminine
+9258|спеть|Созревать; достигать зрелости|reifen|verb; imperfective; infinitive
+9259|тура|Шахматная фигура — ладья|Turm|noun; masculine
+9260|заманчивый|Обещающий выгоду или удовольствие; привлекательный|verlockend|adjective
+9261|фиксировать|Отмечать; записывать|festhalten|verb; imperfective; infinitive
+9262|хихикнуть|Тихо засмеяться|kichern|verb; perfective; infinitive
+9263|расплыться|О жидкости: растечься; расплыться|zerfließen|verb; perfective; infinitive
+9264|баночка|Небольшая банка или баночка|Gläschen|noun; neuter; diminutive
+9265|экспонат|Предмет, выставленный для показа|Exponat|noun; neuter
+9266|социолог|Специалист в области социологии|Soziologe|noun; masculine
+9267|провокация|Намеренное подстрекательство к нежелательным действиям|Provokation|noun; feminine
+9268|продовольственный|Относящийся к продуктам питания|Lebens­mittel-|adjective
+9269|ударный|Действующий посредством удара; ударный|Schlag-|adjective
+9270|оторопеть|Растеряться от неожиданности|verblüfft sein|verb; perfective; infinitive
+9271|обзор|Краткое изложение по общей теме; обзор|Überblick|noun; masculine
+9272|пристрелить|Застрелить; убить выстрелом|erschießen|verb; perfective; infinitive
+9273|обрабатывать|Подвергать обработке; готовить|bearbeiten|verb; imperfective; infinitive
+9274|глазной|Относящийся к глазу|Augen-|adjective
+9275|сбиваться|Сбиваться с пути; терять направление|abkommen|verb; imperfective; infinitive
+9276|вредно|Во вред; нанося ущерб здоровью|schädlich|adverb
+9277|сумасброд|Импульсивный; непредсказуемый человек|Wirrkopf|noun; masculine
+9278|осадить|Резко остановить; осадить|zurückdrängen|verb; perfective; infinitive
+9279|шина|Резиновая или металлическая оболочка на колесе|Reifen|noun; masculine
+9280|давеча|Недавно; незадолго до этого|neulich|adverb
+9281|тлеть|Гореть без пламени; медленно сгорать|glimmen|verb; imperfective; infinitive
+9282|благой|Хороший; благой|gut|adjective
+9283|замотать|Обмотать вокруг чего-либо|einwickeln|verb; perfective; infinitive
+9284|ободрать|Содрать покрытие или кожу|abschälen|verb; perfective; infinitive
+9285|разбегаться|Разбегаться в разные стороны|auseinanderlaufen|verb; perfective; infinitive
+9286|бич|Длинная плеть; кнут|Geißel|noun; feminine
+9287|клин|Конусообразный кусок твёрдого материала|Keil|noun; masculine
+9288|винный|Относящийся к вину|Wein-|adjective
+9289|герб|Официальная эмблема государства, города или рода|Wappen|noun; neuter
+9290|установиться|Наступить; сложиться|sich einstellen|verb; perfective; infinitive; reflexive
+9291|рушиться|Падать, разрушаясь|einstürzen|verb; imperfective; infinitive
+9292|пятнышко|Маленькое пятно иного цвета на поверхности|Fleckchen|noun; neuter; diminutive
+9293|разрабатывать|Тщательно исследовать; прорабатывать|ausarbeiten|verb; imperfective; infinitive
+9294|пижама|Домашний костюм из куртки и брюк свободного покроя|Pyjama|noun; masculine
+9295|закашляться|Начать кашлять приступом|sich verschlucken|verb; perfective; infinitive; reflexive
+9296|противоположность|Предмет или явление, полностью расходящееся с другим|Gegensatz|noun; masculine
+9297|нестерпимо|Крайне трудно переносить|unerträglich|adverb
+9298|Вергасов|Русская фамилия|Wergassow|noun; masculine; proper
+9299|взад|В обратном направлении; назад|zurück|adverb
+9300|наглость|Нахальное поведение; дерзость|Frechheit|noun; feminine

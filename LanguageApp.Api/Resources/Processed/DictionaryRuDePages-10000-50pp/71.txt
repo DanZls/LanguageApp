@@ -1,0 +1,50 @@
+3551|смертный|Живущий не вечно; смертный|sterblich|adjective
+3552|ругать|Грубо бранить|beschimpfen|verb; imperfective; infinitive
+3553|замысел|Задуманный план действий; намерение|Vorhaben|noun; neuter
+3554|хутор|Обособленный земельный участок с усадьбой|Gehöft|noun; neuter
+3555|матрос|Рядовой флота|Matrose|noun; masculine
+3556|полдень|Середина дня; 12 часов|Mittag|noun; masculine
+3557|сынок|Ласковое обращение к мальчику|Söhnchen|noun; neuter
+3558|беспокоить|Нарушать покой; мешать|stören|verb; imperfective; infinitive
+3559|восстановить|Привести в прежнее состояние|wiederherstellen|verb; perfective; infinitive
+3560|выставка|Собрание предметов для обозрения|Ausstellung|noun; feminine
+3561|ноль|Число, от прибавления которого ничего не меняется|Null|noun; feminine
+3562|достигать|Доходить до чего-либо; достигать результата|erreichen|verb; imperfective; infinitive
+3563|кишка|Эластичная трубка, часть пищеварительного аппарата|Darm|noun; masculine
+3564|величество|Титулование монархов|Majestät|noun; feminine
+3565|зерно|Плод или семя злаков|Korn|noun; neuter
+3566|цепочка|Маленькая тонкая цепь|Kettchen|noun; neuter
+3567|монета|Металлический денежный знак|Münze|noun; feminine
+3568|волновать|Приводить в волнение|beunruhigen|verb; imperfective; infinitive
+3569|отчаянный|Чрезвычайно тяжёлый; безвыходный|verzweifelt|adjective
+3570|протокол|Документ с записью происходящего|Protokoll|noun; neuter
+3571|идеал|Высшая цель деятельности|Ideal|noun; neuter
+3572|перчатка|Предмет одежды, закрывающий руку|Handschuh|noun; masculine
+3573|село|Большое крестьянское поселение|Dorf|noun; neuter
+3574|задержаться|Остановиться; замедлить движение|sich aufhalten|verb; perfective; infinitive; reflexive
+3575|нетерпеливый|Отличающийся нетерпением|ungeduldig|adjective
+3576|стукнуть|Сделать удар; ударить|schlagen|verb; perfective; infinitive
+3577|сердечный|Задушевный; искренний; добрый|herzlich|adjective
+3578|ранее|Раньше; в более раннее время|früher|adverb
+3579|рожа|Некрасивое лицо|Fratze|noun; feminine
+3580|дата|Календарное время события|Datum|noun; neuter
+3581|зелень|Растительность; растения|Grün|noun; neuter
+3582|подчеркнуть|Особо выделить; обратить внимание|betonen|verb; perfective; infinitive
+3583|ежели|Союз: если|wenn|conjunction
+3584|набирать|Производить набор; собирать|sammeln|verb; imperfective; infinitive
+3585|разделить|Разъединить на части; произвести деление|teilen|verb; perfective; infinitive
+3586|каюта|Отдельное помещение на судне|Kabine|noun; feminine
+3587|февраль|Второй месяц года|Februar|noun; masculine
+3588|происшествие|Событие, нарушившее обычный ход вещей|Vorfall|noun; masculine
+3589|исполнять|Производить требуемое действие|ausführen|verb; imperfective; infinitive
+3590|категория|Общее понятие; класс явлений|Kategorie|noun; feminine
+3591|плюнуть|Выпустить слюну; презрительно отвергнуть|spucken|verb; perfective; infinitive
+3592|придавать|Прибавлять; сообщать свойство|verleihen|verb; imperfective; infinitive
+3593|трамвай|Городская наземная электрическая железная дорога|Straßenbahn|noun; feminine
+3594|любопытный|Отличающийся любопытством|neugierig|adjective
+3595|извлечь|Вынуть; достать|herausholen|verb; perfective; infinitive
+3596|светло|Хорошо освещённо; ярко|hell|adverb
+3597|набережная|Укреплённый берег; улица вдоль берега|Uferstraße|noun; feminine
+3598|телевидение|Передача и приём изображений на расстоянии|Fernsehen|noun; neuter
+3599|продукция|Совокупность продуктов производства|Produktion|noun; feminine
+3600|выгнать|Удалить гоня; прогнать|hinaustreiben|verb; perfective; infinitive

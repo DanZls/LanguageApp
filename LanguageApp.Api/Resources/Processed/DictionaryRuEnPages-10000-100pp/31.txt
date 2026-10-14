@@ -1,0 +1,100 @@
+3001|беседовать|to converse|verb; regular
+3002|надеть|to put on|verb; perfective
+3003|небось|probably|particle
+3004|поспешно|hastily|adverb
+3005|заключить|to conclude|verb; perfective
+3006|надежный|reliable|adjective
+3007|нужда|need|noun; singular
+3008|окошко|small window|noun; singular
+3009|гудеть|to hum|verb; irregular
+3010|сюжет|plot|noun; singular
+3011|приличный|decent|adjective
+3012|генеральный|general|adjective
+3013|угадать|to guess|verb; perfective
+3014|хитрый|cunning|adjective
+3015|осколок|fragment|noun; singular
+3016|кинуться|to rush|verb; perfective; reflexive
+3017|дурацкий|silly|adjective
+3018|сок|juice|noun; singular; uncountable
+3019|будущий|future|adjective
+3020|испытать|to experience|verb; perfective
+3021|усталый|tired|adjective
+3022|кремль|kremlin|noun; singular
+3023|мышка|little mouse|noun; singular; irregular plural
+3024|эффект|effect|noun; singular
+3025|пещера|cave|noun; singular
+3026|покраснеть|to blush|verb; perfective
+3027|зад|rear|noun; singular
+3028|возиться|to fuss|verb; regular; reflexive
+3029|хранить|to keep|verb; regular
+3030|небесный|heavenly|adjective
+3031|сменить|to change|verb; perfective
+3032|приподнять|to lift slightly|verb; perfective
+3033|шагнуть|to step|verb; perfective
+3034|разрыв|rupture|noun; singular
+3035|цех|workshop|noun; singular
+3036|браться|to undertake|verb; regular; reflexive
+3037|задумываться|to ponder|verb; regular; reflexive
+3038|подоконник|windowsill|noun; singular
+3039|великолепный|magnificent|adjective
+3040|тыл|rear|noun; singular
+3041|металл|metal|noun; singular
+3042|отсутствовать|to be absent|verb; regular
+3043|фонд|fund|noun; singular
+3044|догнать|to catch up|verb; perfective
+3045|майка|undershirt|noun; singular
+3046|испуганно|fearfully|adverb
+3047|полгода|half a year|noun; singular
+3048|ночевать|to spend the night|verb; regular
+3049|выехать|to leave|verb; perfective
+3050|рай|paradise|noun; singular; uncountable
+3051|корреспондент|correspondent|noun; singular
+3052|один|one|numeral; cardinal
+3053|схема|scheme|noun; singular
+3054|четверть|quarter|noun; singular
+3055|ерунда|nonsense|noun; singular; uncountable
+3056|жевать|to chew|verb; irregular
+3057|несчастье|misfortune|noun; singular
+3058|радостный|joyful|adjective
+3059|окружение|environment|noun; singular
+3060|учительница|teacher|noun; singular
+3061|давний|old|adjective
+3062|предок|ancestor|noun; singular
+3063|кислота|acid|noun; singular
+3064|пропадать|to disappear|verb; regular
+3065|солдатский|soldier's|adjective
+3066|напрасно|in vain|adverb
+3067|просыпаться|to wake up|verb; regular; reflexive
+3068|анекдот|joke|noun; singular
+3069|подпись|signature|noun; singular
+3070|гнев|anger|noun; singular; uncountable
+3071|общежитие|dormitory|noun; singular
+3072|рог|horn|noun; singular
+3073|штурман|navigator|noun; singular
+3074|физика|physics|noun; singular; uncountable
+3075|резать|to cut|verb; regular
+3076|тронуть|to touch|verb; perfective
+3077|десятый|tenth|numeral; ordinal
+3078|чудесный|wonderful|adjective
+3079|виднеться|to be visible|verb; regular; reflexive
+3080|стоя|standing|adverb
+3081|совместный|joint|adjective
+3082|змея|snake|noun; singular
+3083|некуда|nowhere|adverb
+3084|монах|monk|noun; singular
+3085|осенний|autumn|adjective
+3086|промышленность|industry|noun; singular; uncountable
+3087|картинка|picture|noun; singular
+3088|тихонько|quietly|adverb
+3089|ручей|stream|noun; singular
+3090|общение|communication|noun; singular; uncountable
+3091|советовать|to advise|verb; regular
+3092|соседка|neighbor|noun; singular
+3093|ветвь|branch|noun; singular
+3094|свалиться|to fall|verb; perfective; reflexive
+3095|проявить|to show|verb; perfective
+3096|сметь|to dare|verb; regular
+3097|переулок|lane|noun; singular
+3098|неправильный|incorrect|adjective
+3099|поделать|to do|verb; perfective
+3100|толкнуть|to push|verb; perfective

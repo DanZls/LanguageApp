@@ -1,0 +1,50 @@
+4251|преследовать|Гнаться за кем-либо с целью поимки|verfolgen|verb; imperfective; infinitive
+4252|осложнение|Явление, затрудняющее или ухудшающее ход дела|Komplikation|noun; feminine
+4253|вдали|На далёком расстоянии|in der Ferne|adverb
+4254|торжественный|Связанный с торжеством, праздничный|feierlich|adjective
+4255|пестрый|Окрашенный в несколько разных цветов|bunt|adjective
+4256|справедливый|Соответствующий справедливости, правомерный|gerecht|adjective
+4257|откликнуться|Ответить на зов или обращение|sich melden|verb; perfective; infinitive; reflexive
+4258|четкий|Ясный, точный, хорошо различимый|deutlich|adjective
+4259|дорого|По высокой цене|teuer|adverb
+4260|комар|Мелкое летающее кровососущее насекомое|Mücke|noun; feminine
+4261|пошутить|Сказать что-либо в шутку|scherzen|verb; perfective; infinitive
+4262|военно|В военном отношении (приставка)|militärisch|adverb
+4263|проживать|Жить, постоянно обитать где-либо|wohnen|verb; imperfective; infinitive
+4264|устало|С проявлением усталости|müde|adverb
+4265|выложить|Вынуть и положить на поверхность|auslegen|verb; perfective; infinitive
+4266|флаг|Полотнище на древке, символ государства или организации|Fahne|noun; feminine
+4267|кастрюля|Металлическая посуда для варки пищи|Kochtopf|noun; masculine
+4268|скучный|Неинтересный, наводящий скуку|langweilig|adjective
+4269|известие|Сообщение о каком-либо событии|Nachricht|noun; feminine
+4270|терпеливо|С терпением, без поспешности|geduldig|adverb
+4271|всадник|Тот, кто едет верхом на животном|Reiter|noun; masculine
+4272|забраться|Залезть куда-либо; проникнуть|sich hineinschleichen|verb; perfective; infinitive; reflexive
+4273|упираться|Встречать препятствие; упрямо сопротивляться|sich stemmen|verb; imperfective; infinitive; reflexive
+4274|мрачно|Без света и радости, угрюмо|düster|adverb
+4275|узнавать|Получать сведения; распознавать знакомое|erkennen|verb; imperfective; infinitive
+4276|постоять|Стоять некоторое время|eine Weile stehen|verb; perfective; infinitive
+4277|вправду|В самом деле, действительно|wirklich|adverb
+4278|мостовый|Относящийся к мосту или мостовой|Pflaster-|adjective
+4279|миллиард|Тысяча миллионов|Milliarde|numeral; cardinal
+4280|влево|В левую сторону|nach links|adverb
+4281|взлететь|Подняться в воздух|aufsteigen|verb; perfective; infinitive
+4282|испуг|Внезапный страх|Schreck|noun; masculine
+4283|восемнадцать|Количественное числительное: 18|achtzehn|numeral; cardinal
+4284|заросль|Густой кустарник, покрывающий местность|Gestrüpp|noun; neuter
+4285|барьер|Преграда, препятствие на пути|Barriere|noun; feminine
+4286|дырка|Небольшое отверстие, дыра|Loch|noun; neuter
+4287|матушка|Мать (ласкат.)|Mutter|noun; feminine
+4288|проиграть|Потерпеть поражение в игре или соревновании|verlieren|verb; perfective; infinitive
+4289|гордо|С достоинством и чувством гордости|stolz|adverb
+4290|поморщиться|Слегка сморщить лицо|die Stirn runzeln|verb; perfective; infinitive; reflexive
+4291|смутный|Неясный, плохо различимый|verschwommen|adjective
+4292|насквозь|Через всю толщину, от начала до конца|durch und durch|adverb
+4293|целиком|Полностью, без изъятий|vollständig|adverb
+4294|атомный|Относящийся к атому или ядерной энергии|atomar|adjective
+4295|бытие|Существование, жизнь|Sein|noun; neuter
+4296|размахивать|Делать взмахи, махать в разные стороны|schwingen|verb; imperfective; infinitive
+4297|икра|Яйца рыб, используемые в пищу|Kaviar|noun; masculine
+4298|историк|Специалист в области истории|Historiker|noun; masculine
+4299|водиться|Иметься, встречаться в каком-либо месте|vorkommen|verb; imperfective; infinitive
+4300|подчиняться|Быть в подчинении, выполнять приказы|sich unterordnen|verb; imperfective; infinitive; reflexive

@@ -1,0 +1,100 @@
+8401|дореволюционный|prerevolutionary|adjective
+8402|департамент|department|noun; singular
+8403|бритый|shaved|adjective
+8404|лепить|to mold|verb; imperfective
+8405|тайвань|Taiwan|noun; singular; proper
+8406|могущественный|powerful|adjective
+8407|выбивать|to knock out|verb; imperfective
+8408|шестерка|six|noun; singular
+8409|освоить|to master|verb; perfective
+8410|диапазон|range|noun; singular
+8411|нюхать|to sniff|verb; imperfective
+8412|наручник|handcuff|noun; plural
+8413|разинуть|to gape|verb; perfective
+8414|строгость|strictness|noun; singular; uncountable
+8415|назло|out of spite|adverb
+8416|бесцветный|colorless|adjective
+8417|выспаться|to get enough sleep|verb; perfective; reflexive
+8418|просмотреть|to look through|verb; perfective
+8419|наброситься|to pounce|verb; perfective; reflexive
+8420|переплет|binding|noun; singular
+8421|либеральный|liberal|adjective
+8422|грядка|garden bed|noun; singular
+8423|миллионер|millionaire|noun; singular
+8424|недостаточный|insufficient|adjective
+8425|эвакуация|evacuation|noun; singular; uncountable
+8426|афиша|poster|noun; singular
+8427|кадровый|personnel|adjective
+8428|выбрить|to shave|verb; perfective
+8429|отвыкнуть|to lose the habit|verb; perfective
+8430|обыкновенно|usually|adverb
+8431|опешить|to be taken aback|verb; perfective; reflexive
+8432|накопиться|to accumulate|verb; perfective; reflexive
+8433|графиня|countess|noun; singular
+8434|шведский|Swedish|adjective
+8435|отопление|heating|noun; singular; uncountable
+8436|параллельно|simultaneously|adverb
+8437|гаркнуть|to bark out|verb; perfective
+8438|фляга|flask|noun; singular
+8439|чаща|thicket|noun; singular
+8440|вкрадчивый|insinuating|adjective
+8441|сущий|utter|adjective
+8442|конный|mounted|adjective
+8443|будильник|alarm clock|noun; singular
+8444|отрывок|excerpt|noun; singular
+8445|усиливать|to intensify|verb; imperfective
+8446|заглушить|to drown out|verb; perfective
+8447|равенство|equality|noun; singular; uncountable
+8448|прорвать|to breach|verb; perfective
+8449|извне|from outside|adverb
+8450|взлет|takeoff|noun; singular
+8451|облепить|to cover|verb; perfective
+8452|обняться|to embrace each other|verb; perfective; reflexive
+8453|улавливать|to detect|verb; imperfective
+8454|немедленный|immediate|adjective
+8455|отмахиваться|to wave off|verb; imperfective; reflexive
+8456|сумрачный|gloomy|adjective
+8457|угадываться|to be discernible|verb; imperfective; reflexive
+8458|содрать|to rip off|verb; perfective
+8459|мучение|torment|noun; singular
+8460|корочка|little crust|noun; singular; diminutive
+8461|рассудок|reason|noun; singular; uncountable
+8462|согнутый|bent|adjective; participle
+8463|затруднение|difficulty|noun; singular
+8464|престарелый|aged|adjective
+8465|скудный|scarce|adjective
+8466|намерен|intends|adjective; short form; predicative
+8467|обойма|magazine|noun; singular
+8468|мыс|cape|noun; singular
+8469|панель|sidewalk|noun; singular
+8470|окрасить|to color|verb; perfective
+8471|графика|graphics|noun; singular; uncountable
+8472|инвестор|investor|noun; singular
+8473|джаз|jazz|noun; singular; uncountable
+8474|преобладать|to prevail|verb; imperfective
+8475|зазвонить|to start ringing|verb; perfective
+8476|окровавленный|bloodied|adjective; participle
+8477|повышаться|to increase|verb; imperfective; reflexive
+8478|входящий|incoming|adjective; participle
+8479|исходный|initial|adjective
+8480|подчас|sometimes|adverb
+8481|мотылек|little moth|noun; singular; diminutive
+8482|рекорд|record|noun; singular
+8483|операционный|operational|adjective
+8484|ругань|swearing|noun; singular; uncountable
+8485|гримаса|grimace|noun; singular
+8486|писарь|clerk|noun; singular
+8487|гормон|hormone|noun; singular
+8488|ладоши|palms|noun; plural
+8489|компас|compass|noun; singular
+8490|сказываться|to affect|verb; imperfective; reflexive
+8491|гимнастика|gymnastics|noun; singular; uncountable
+8492|утешение|consolation|noun; singular
+8493|лось|elk|noun; singular
+8494|засохнуть|to dry up|verb; perfective
+8495|облачко|small cloud|noun; singular; diminutive
+8496|пони|pony|noun; singular
+8497|смыть|to wash off|verb; perfective
+8498|отвлечь|to distract|verb; perfective
+8499|тракторист|tractor driver|noun; singular
+8500|крякнуть|to quack|verb; perfective

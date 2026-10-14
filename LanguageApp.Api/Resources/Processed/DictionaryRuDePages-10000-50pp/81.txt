@@ -1,0 +1,50 @@
+4051|различать|Воспринимать различия; отличать одно от другого|unterscheiden|verb; imperfective; infinitive
+4052|граната|Разрывной боевой снаряд|Granate|noun; feminine
+4053|беспомощный|Не способный самостоятельно справиться с чем-либо|hilflos|adjective
+4054|упор|Предмет или место, служащее опорой|Stütze|noun; feminine
+4055|обходить|Обойти вокруг; посещать по очереди|umgehen|verb; imperfective; infinitive
+4056|котенок|Детёныш кошки|Kätzchen|noun; neuter
+4057|эффективный|Дающий нужный результат, действенный|effektiv|adjective
+4058|ежедневно|Каждый день, изо дня в день|täglich|adverb
+4059|очевидный|Явный, не вызывающий сомнений|offensichtlich|adjective
+4060|наивный|Простодушный, обнаруживающий неопытность|naiv|adjective
+4061|порошок|Измельчённое твёрдое вещество|Pulver|noun; neuter
+4062|поворачивать|Изменять направление или положение|wenden|verb; imperfective; infinitive
+4063|утратить|Перестать обладать чем-либо, потерять|verlieren|verb; perfective; infinitive
+4064|польский|Относящийся к Польше, её народу и языку|polnisch|adjective
+4065|кол|Толстая заострённая палка|Pfahl|noun; masculine
+4066|оранжевый|Цвета апельсина, жёлто-красный|orange|adjective
+4067|интеллектуальный|Относящийся к интеллекту, умственный|intellektuell|adjective
+4068|голубчик|Ласковое обращение к человеку|Täubchen|noun; neuter
+4069|удержать|Не дать упасть или уйти|festhalten|verb; perfective; infinitive
+4070|промышленный|Связанный с производством, индустрией|industriell|adjective
+4071|седло|Сиденье для езды верхом на животном|Sattel|noun; masculine
+4072|склониться|Нагнуться, опустить голову вниз|sich neigen|verb; perfective; infinitive; reflexive
+4073|формула|Краткое точное выражение или определение|Formel|noun; feminine
+4074|отступить|Шагнуть назад, отойти|zurücktreten|verb; perfective; infinitive
+4075|эмоция|Внутреннее душевное переживание, чувство|Emotion|noun; feminine
+4076|тройка|Цифра три; группа из трёх|Drei|noun; feminine
+4077|посольство|Дипломатическое представительство во главе с послом|Botschaft|noun; feminine
+4078|длиться|Продолжаться, происходить в течение времени|dauern|verb; imperfective; infinitive
+4079|вздох|Глубокий вдох с последующим выдохом|Seufzer|noun; masculine
+4080|командование|Руководящий офицерский состав воинского формирования|Kommando|noun; neuter
+4081|эмоциональный|Насыщенный эмоциями, выразительный|emotional|adjective
+4082|окурок|Остаток выкуренной сигареты|Zigarettenstummel|noun; masculine
+4083|непосредственный|Прямой, без промежуточных звеньев|unmittelbar|adjective
+4084|лагерный|Относящийся к лагерю|Lager-|adjective
+4085|сонный|Погружённый в сон; вялый|schläfrig|adjective
+4086|переспросить|Спросить ещё раз, не расслышав или не поняв|nachfragen|verb; perfective; infinitive
+4087|мяч|Полый упругий шар для игры|Ball|noun; masculine
+4088|швырнуть|С силой бросить что-либо|schleudern|verb; perfective; infinitive
+4089|философ|Специалист в области философии|Philosoph|noun; masculine
+4090|вмешаться|Стать участником чужого дела|sich einmischen|verb; perfective; infinitive; reflexive
+4091|отрицательный|Содержащий отрицание; неудовлетворительный|negativ|adjective
+4092|расстройство|Нарушение нормального состояния; беспорядок|Störung|noun; feminine
+4093|деться|Исчезнуть, пропасть|verschwinden|verb; perfective; infinitive
+4094|аэродром|Комплекс сооружений для взлёта и посадки воздушных судов|Flugplatz|noun; masculine
+4095|закат|Заход солнца за горизонт; время этого события|Sonnenuntergang|noun; masculine
+4096|добиваться|Прилагая усилия, достигать цели|anstreben|verb; imperfective; infinitive
+4097|грубо|Несдержанно, грубо по отношению к кому-либо|grob|adverb
+4098|напиться|Выпить в большом количестве|sich betrinken|verb; perfective; infinitive; reflexive
+4099|лопнуть|Треснуть, разорваться под давлением|platzen|verb; perfective; infinitive
+4100|дерьмо|Кал; груб. о чём-либо плохом|Scheiße|noun; neuter

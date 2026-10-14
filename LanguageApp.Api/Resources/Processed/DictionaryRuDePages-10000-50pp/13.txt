@@ -1,0 +1,50 @@
+651|менее|В меньшей степени; меньше|weniger|adverb
+652|предложить|Высказать как возможное; представить на рассмотрение|vorschlagen|verb; perfective; infinitive
+653|желтый|Цвета яичного желтка|gelb|adjective
+654|приходиться|Оказываться подходящим; выпадать на долю; быть вынужденным|müssen|verb; imperfective; infinitive
+655|выпить|Принять жидкость до конца|austrinken|verb; perfective; infinitive
+656|крикнуть|Громко позвать; подать голос|rufen|verb; perfective; infinitive
+657|трубка|Полый удлинённый предмет цилиндрической формы|Rohr|noun; neuter
+658|враг|Человек, находящийся во враждебных отношениях; противник|Feind|noun; masculine
+659|показывать|Демонстрировать; делать видимым или известным|zeigen|verb; imperfective; infinitive
+660|двое|Два человека вместе; количество два|zwei|numeral; collective
+661|доктор|Врач; специалист с медицинским образованием|Arzt|noun; masculine
+662|ладонь|Внутренняя сторона кисти руки|Handfläche|noun; feminine
+663|вызвать|Позвать или пригласить явиться откуда-либо|rufen|verb; perfective; infinitive
+664|спокойно|Без волнения; уравновешенно|ruhig|adverb
+665|попросить|Обратиться к кому-либо с просьбой|bitten|verb; perfective; infinitive
+666|наука|Система знаний о закономерностях природы, общества и мышления|Wissenschaft|noun; feminine
+667|лейтенант|Первое офицерское звание или лицо, его имеющее|Leutnant|noun; masculine
+668|служба|Работа в качестве служащего; место такой работы|Dienst|noun; masculine
+669|оказываться|Выясняться; становиться очевидным|sich herausstellen|verb; imperfective; infinitive; reflexive
+670|привести|Помочь дойти, ведя за собой; доставить|führen|verb; perfective; infinitive
+671|сорок|Число и количество 40|vierzig|numeral; cardinal
+672|счет|Результат подсчёта; числовое выражение итога|Rechnung|noun; feminine
+673|возвращаться|Двигаться обратно; приходить назад|zurückkehren|verb; imperfective; infinitive
+674|золотой|Цвета золота; блестяще-жёлтый|golden|adjective
+675|местный|Относящийся к определённой местности; не общий|lokal|adjective
+676|кухня|Помещение с плитой для приготовления пищи|Küche|noun; feminine
+677|крупный|Большой по размеру или значению|groß|adjective
+678|решение|Постановление; итог обдумывания|Entscheidung|noun; feminine
+679|молодая|Женщина, недавно вступившая в брак|Braut|noun; feminine
+680|тридцать|Число и количество 30|dreißig|numeral; cardinal
+681|роман|Большое повествовательное произведение со сложным сюжетом|Roman|noun; masculine
+682|требовать|Просить в категорической форме; настаивать|fordern|verb; imperfective; infinitive
+683|компания|Группа лиц, проводящих время вместе|Gesellschaft|noun; feminine
+684|частый|Повторяющийся через небольшие промежутки|häufig|adjective
+685|российский|Относящийся к России, её народу и культуре|russisch|adjective
+686|рабочий|Работник, занятый физическим производительным трудом|Arbeiter|noun; masculine
+687|потерять|Лишиться чего-либо; утратить|verlieren|verb; perfective; infinitive
+688|течение|Поток воды или воздуха; направление такого потока|Strömung|noun; feminine
+689|синий|Цвета спектра между фиолетовым и зелёным|blau|adjective
+690|столько|В таком количестве; так много|so viel|adverb
+691|теплый|Нагретый; содержащий тепло|warm|adjective
+692|метр|Основная единица длины, равная 100 сантиметрам|Meter|noun; masculine
+693|достать|Взять находящееся на расстоянии или извлечь откуда-либо|holen|verb; perfective; infinitive
+694|железный|Сделанный из железа; очень крепкий|eisern|adjective
+695|институт|Высшее учебное заведение|Institut|noun; neuter
+696|сообщить|Уведомить; довести до сведения|mitteilen|verb; perfective; infinitive
+697|интерес|Особое внимание к чему-либо; желание узнать или понять|Interesse|noun; neuter
+698|обычный|Постоянный, привычный; не выделяющийся|gewöhnlich|adjective
+699|появляться|Возникать; становиться видимым|erscheinen|verb; imperfective; infinitive
+700|упасть|Потерять равновесие и оказаться на более низком уровне|fallen|verb; perfective; infinitive

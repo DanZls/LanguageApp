@@ -1,0 +1,50 @@
+9751|неестественно|Не так, как бывает обычно; противоестественно|unnatürlich|adverb
+9752|госбезопасность|Орган государственной безопасности|Staatssicherheit|noun; feminine
+9753|всхлипнуть|Судорожно вздохнуть при плаче|aufschluchzen|verb; perfective; infinitive
+9754|попутчик|Спутник в дороге|Reisebegleiter|noun; masculine
+9755|глухарь|Крупная лесная птица семейства тетеревиных|Auerhahn|noun; masculine
+9756|зной|Сильная жара от нагретого солнцем воздуха|Gluthitze|noun; feminine
+9757|Плоткин|Русская фамилия|Plotkin|noun; masculine; proper
+9758|ярмарка|Регулярно устраиваемый большой торг с развлечениями|Jahrmarkt|noun; masculine
+9759|чертить|Проводить линии; делать чертёж|zeichnen|verb; imperfective; infinitive
+9760|зарядка|Комплекс утренних гимнастических упражнений|Morgengymnastik|noun; feminine
+9761|заем|Получение денег в долг на определённых условиях|Darlehen|noun; neuter
+9762|загораться|Воспламеняться; начинать гореть|sich entzünden|verb; imperfective; infinitive; reflexive
+9763|Таллинн|Столица Эстонии|Tallinn|noun; masculine; proper
+9764|древесный|Получаемый из древесины; относящийся к дереву|Holz-|adjective
+9765|сквозняк|Сквозной поток воздуха через помещение|Durchzug|noun; masculine
+9766|снабдить|Предоставить что-либо нужное; снабдить|ausstatten|verb; perfective; infinitive
+9767|перевалить|Переместить через преграду|übersteigen|verb; perfective; infinitive
+9768|высадить|Дать выйти из транспортного средства|aussteigen lassen|verb; perfective; infinitive
+9769|рюмочка|Небольшой стаканчик для крепких напитков|Schnäpschen|noun; neuter; diminutive
+9770|заслонять|Закрывать; становиться преградой|verdecken|verb; imperfective; infinitive
+9771|зажечься|Начать гореть; вспыхнуть|sich entzünden|verb; perfective; infinitive; reflexive
+9772|добросовестно|Старательно и честно|gewissenhaft|adverb
+9773|копить|Собирать и сберегать впрок|sparen|verb; imperfective; infinitive
+9774|радиограмма|Телеграмма, переданная по радио|Radiogramm|noun; neuter
+9775|обменять|Отдать одно в обмен на другое|tauschen|verb; perfective; infinitive
+9776|каток|Ледяная площадка для катания на коньках|Eisbahn|noun; feminine
+9777|Псков|Исторический город на северо-западе России|Pskow|noun; masculine; proper
+9778|руководствоваться|Действовать согласно правилам или указаниям|sich leiten lassen|verb; imperfective; infinitive; reflexive
+9779|устанавливаться|Входить в определённое состояние; налаживаться|sich einpendeln|verb; imperfective; infinitive; reflexive
+9780|банан|Тропическое растение и его сладкий удлинённый плод|Banane|noun; feminine
+9781|окутать|Обернуть; плотно окружить|einhüllen|verb; perfective; infinitive
+9782|рукоять|Ручка инструмента или оружия|Griff|noun; masculine
+9783|сыпь|Мелкие пятнышки или прыщики на коже при болезни|Ausschlag|noun; masculine
+9784|поощрять|Одобрять и стимулировать к действиям|fördern|verb; imperfective; infinitive
+9785|соловей|Певчая птица семейства мухоловковых|Nachtigall|noun; feminine
+9786|блуждать|Бродить в поисках дороги|umherirren|verb; imperfective; infinitive
+9787|ослепительно|Очень ярко; ослепляя взгляд|blendend|adverb
+9788|рыдание|Громкий судорожный плач|Schluchzen|noun; neuter
+9789|пехотинец|Военнослужащий пехоты|Infanterist|noun; masculine
+9790|электрод|Проводник для соединения с неметаллической средой в цепи|Elektrode|noun; feminine
+9791|бурьян|Высокие сорные травы|Unkraut|noun; neuter
+9792|выронить|Уронить; дать упасть из рук|fallenlassen|verb; perfective; infinitive
+9793|семьсот|Число 700|siebenhundert|numeral; cardinal
+9794|зыбкий|Неустойчивый; легко колеблющийся|wackelig|adjective
+9795|семинар|Групповые практические занятия под руководством преподавателя|Seminar|noun; neuter
+9796|морщинистый|Покрытый морщинами|faltig|adjective
+9797|широта|Географическая координата, определяющая положение на Земле|Breitengrad|noun; masculine
+9798|самогон|Кустарно изготовленный алкогольный напиток|Schnaps|noun; masculine
+9799|восемьсот|Число 800|achthundert|numeral; cardinal
+9800|ровесник|Человек одинакового возраста с кем-либо|Altersgenosse|noun; masculine

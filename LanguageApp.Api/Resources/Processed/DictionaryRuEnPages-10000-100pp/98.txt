@@ -1,0 +1,100 @@
+9701|выползти|to crawl out|verb; perfective
+9702|путаница|confusion|noun; singular; uncountable
+9703|сентиментальный|sentimental|adjective
+9704|разумно|reasonably|adverb
+9705|старание|effort|noun; singular
+9706|осознание|realization|noun; singular; uncountable
+9707|растрепать|to tousle|verb; perfective
+9708|настороженный|wary|adjective
+9709|клапан|valve|noun; singular
+9710|коробок|matchbox|noun; singular
+9711|океанский|ocean|adjective
+9712|мерещиться|to seem|verb; imperfective; reflexive
+9713|увозить|to take away|verb; imperfective
+9714|спазма|spasm|noun; singular
+9715|каяться|to repent|verb; imperfective; reflexive
+9716|слог|syllable|noun; singular
+9717|губить|to ruin|verb; imperfective
+9718|бандитский|gangster|adjective
+9719|завладеть|to seize|verb; perfective
+9720|расширяться|to expand|verb; imperfective; reflexive
+9721|заливаться|to be flooded|verb; imperfective; reflexive
+9722|насильно|forcibly|adverb
+9723|дремучий|dense|adjective
+9724|включиться|to join in|verb; perfective; reflexive
+9725|безграничный|boundless|adjective
+9726|заторопиться|to hurry|verb; perfective; reflexive
+9727|девать|to put|verb; imperfective
+9728|нагрудный|chest|adjective
+9729|пролезть|to squeeze through|verb; perfective; reflexive
+9730|гнаться|to chase|verb; imperfective; reflexive
+9731|наркоман|drug addict|noun; singular
+9732|курортный|resort|adjective
+9733|плеснуть|to splash|verb; perfective
+9734|вбить|to drive in|verb; perfective
+9735|квалификация|qualification|noun; singular
+9736|веточка|little branch|noun; singular; diminutive
+9737|музейный|museum|adjective
+9738|мощь|might|noun; singular; uncountable
+9739|назойливый|intrusive|adjective
+9740|региональный|regional|adjective
+9741|пыхтеть|to puff|verb; imperfective
+9742|бездонный|bottomless|adjective
+9743|иврит|Hebrew|noun; singular; uncountable
+9744|выздоровление|recovery|noun; singular; uncountable
+9745|пытать|to torture|verb; imperfective
+9746|передернуть|to shift|verb; perfective
+9747|романтика|romance|noun; singular; uncountable
+9748|калифорний|californium|noun; singular; uncountable
+9749|фанера|plywood|noun; singular; uncountable
+9750|высохший|dried up|adjective
+9751|неестественно|unnaturally|adverb
+9752|госбезопасность|state security|noun; singular
+9753|всхлипнуть|to sob|verb; perfective
+9754|попутчик|fellow traveler|noun; singular
+9755|глухарь|capercaillie|noun; singular
+9756|зной|scorching heat|noun; singular; uncountable
+9757|Плоткин|Plotkin|noun; singular; proper
+9758|ярмарка|fair|noun; singular
+9759|чертить|to draw|verb; imperfective
+9760|зарядка|exercise|noun; singular; uncountable
+9761|заем|loan|noun; singular
+9762|загораться|to catch fire|verb; imperfective; reflexive
+9763|Таллинн|Tallinn|noun; singular; proper
+9764|древесный|wood|adjective
+9765|сквозняк|draft|noun; singular
+9766|снабдить|to supply|verb; perfective
+9767|перевалить|to shift over|verb; perfective
+9768|высадить|to drop off|verb; perfective
+9769|рюмочка|small shot glass|noun; singular; diminutive
+9770|заслонять|to block|verb; imperfective
+9771|зажечься|to ignite|verb; perfective; reflexive
+9772|добросовестно|conscientiously|adverb
+9773|копить|to save up|verb; imperfective
+9774|радиограмма|radiogram|noun; singular
+9775|обменять|to exchange|verb; perfective
+9776|каток|ice rink|noun; singular
+9777|Псков|Pskov|noun; singular; proper
+9778|руководствоваться|to be guided|verb; imperfective; reflexive
+9779|устанавливаться|to be established|verb; imperfective; reflexive
+9780|банан|banana|noun; singular
+9781|окутать|to wrap|verb; perfective
+9782|рукоять|handle|noun; singular
+9783|сыпь|rash|noun; singular
+9784|поощрять|to encourage|verb; imperfective
+9785|соловей|nightingale|noun; singular
+9786|блуждать|to wander|verb; imperfective
+9787|ослепительно|dazzlingly|adverb
+9788|рыдание|sobbing|noun; singular
+9789|пехотинец|infantryman|noun; singular
+9790|электрод|electrode|noun; singular
+9791|бурьян|weeds|noun; singular; uncountable; collective
+9792|выронить|to drop|verb; perfective
+9793|семьсот|seven hundred|numeral; cardinal
+9794|зыбкий|shaky|adjective
+9795|семинар|seminar|noun; singular
+9796|морщинистый|wrinkled|adjective
+9797|широта|latitude|noun; singular
+9798|самогон|moonshine|noun; singular; uncountable
+9799|восемьсот|eight hundred|numeral; cardinal
+9800|ровесник|peer|noun; singular

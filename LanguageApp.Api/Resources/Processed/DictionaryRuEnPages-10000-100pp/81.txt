@@ -1,0 +1,100 @@
+8001|переделать|to redo|verb; perfective
+8002|раздавать|to distribute|verb; imperfective
+8003|леший|forest spirit|noun; singular
+8004|гасить|to extinguish|verb; imperfective
+8005|воплощение|embodiment|noun; singular
+8006|бриться|to shave|verb; imperfective; reflexive
+8007|Шмаков|Shmakov|noun; singular; proper
+8008|лужайка|lawn|noun; singular
+8009|скрестить|to cross|verb; perfective
+8010|валютный|currency|adjective
+8011|застучать|to start knocking|verb; perfective
+8012|сползти|to crawl down|verb; perfective
+8013|ножницы|scissors|noun; plural
+8014|проспать|to oversleep|verb; perfective
+8015|политрук|political commissar|noun; singular
+8016|желчный|irritable|adjective
+8017|цвести|to bloom|verb; imperfective
+8018|сметана|sour cream|noun; singular; uncountable
+8019|отклонение|deviation|noun; singular
+8020|любимец|favorite|noun; singular
+8021|фракция|faction|noun; singular
+8022|рождать|to give birth|verb; imperfective
+8023|насмерть|to death|adverb
+8024|очкарик|four-eyes|noun; singular
+8025|выцветший|faded|adjective; participle
+8026|ль|whether|particle
+8027|близ|near|preposition
+8028|девятьсот|nine hundred|numeral; cardinal
+8029|седина|gray hair|noun; singular; uncountable
+8030|крокодил|crocodile|noun; singular
+8031|ловля|catching|noun; singular; uncountable
+8032|разливать|to pour out|verb; imperfective
+8033|дымить|to smoke|verb; imperfective
+8034|смущенный|embarrassed|adjective; participle
+8035|барахло|junk|noun; singular; uncountable; collective
+8036|авторитетный|authoritative|adjective
+8037|уговор|agreement|noun; singular
+8038|безобидный|harmless|adjective
+8039|ребеночек|little child|noun; singular; diminutive
+8040|монитор|monitor|noun; singular
+8041|акула|shark|noun; singular
+8042|странник|wanderer|noun; singular
+8043|вздор|nonsense|noun; singular; uncountable
+8044|компартия|communist party|noun; singular
+8045|забавно|amusingly|adverb
+8046|отбой|retreat signal|noun; singular
+8047|стихнуть|to die down|verb; perfective
+8048|кооператив|cooperative|noun; singular
+8049|вилла|villa|noun; singular
+8050|хихикать|to giggle|verb; imperfective; reflexive
+8051|дуэль|duel|noun; singular
+8052|добром|willingly|adverb
+8053|подпольный|underground|adjective
+8054|укрытие|cover|noun; singular
+8055|ураган|hurricane|noun; singular
+8056|причинить|to cause|verb; perfective
+8057|си|B (note)|noun; singular; indeclinable
+8058|затвор|latch|noun; singular
+8059|элегантный|elegant|adjective
+8060|прокатиться|to take a ride|verb; perfective; reflexive
+8061|помедлить|to linger|verb; perfective
+8062|насыпь|embankment|noun; singular
+8063|аптекарь|pharmacist|noun; singular
+8064|вбежать|to run in|verb; perfective
+8065|хвастаться|to boast|verb; imperfective; reflexive
+8066|завалиться|to fail|verb; perfective; reflexive
+8067|хромой|lame|adjective
+8068|отстранить|to remove|verb; perfective
+8069|нутро|insides|noun; singular; uncountable
+8070|подача|serving|noun; singular
+8071|сверх|beyond|preposition
+8072|доброволец|volunteer|noun; singular
+8073|перекинуть|to toss over|verb; perfective
+8074|свисток|whistle|noun; singular
+8075|рассеянный|absentminded|adjective
+8076|грузчик|loader|noun; singular
+8077|мах|swing|noun; singular
+8078|болван|blockhead|noun; singular
+8079|вверху|above|adverb
+8080|фланг|flank|noun; singular
+8081|печатный|printed|adjective
+8082|заключать|to conclude|verb; imperfective
+8083|безразличный|indifferent|adjective
+8084|попятиться|to step back|verb; perfective; reflexive
+8085|карниз|cornice|noun; singular
+8086|рыхлый|loose|adjective
+8087|настежь|wide open|adverb
+8088|утешить|to console|verb; perfective
+8089|забежать|to stop by|verb; perfective
+8090|инерция|inertia|noun; singular; uncountable
+8091|бар|bar|noun; singular
+8092|переливаться|to shimmer|verb; imperfective; reflexive
+8093|веник|broom|noun; singular
+8094|подталкивать|to nudge|verb; imperfective
+8095|поделить|to divide|verb; perfective
+8096|пурга|blizzard|noun; singular
+8097|впиться|to dig into|verb; perfective; reflexive
+8098|ближний|nearest|adjective
+8099|отбор|selection|noun; singular
+8100|отвлекаться|to get distracted|verb; imperfective; reflexive

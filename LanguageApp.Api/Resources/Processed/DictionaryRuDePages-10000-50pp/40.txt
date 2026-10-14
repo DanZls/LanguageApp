@@ -1,0 +1,50 @@
+2001|проклятый|Ненавистный, достойный проклятия|verdammt|adjective
+2002|ветка|Небольшой боковой побег дерева или кустарника|Ast|noun; masculine
+2003|кормить|Давать пищу; обеспечивать питанием|füttern|verb; imperfective; infinitive
+2004|продолжаться|Длиться, не прекращаться|andauern|verb; imperfective; infinitive
+2005|разведчик|Военнослужащий, ведущий разведку|Aufklärer|noun; masculine
+2006|отлично|Превосходно; очень хорошо|ausgezeichnet|adverb
+2007|боже|Восклицание, выражающее удивление или негодование|Gott|interjection
+2008|молодость|Период жизни между юностью и зрелостью|Jugend|noun; feminine
+2009|отдыхать|Восстанавливать силы отдыхом|sich erholen|verb; imperfective; infinitive; reflexive
+2010|октябрь|Десятый месяц календарного года|Oktober|noun; masculine
+2011|широко|На большое расстояние; в широком масштабе|weit|adverb
+2012|храм|Здание для богослужения|Tempel|noun; masculine
+2013|третий|Порядковое числительное к числу три|dritte|numeral; ordinal
+2014|сдать|Передать что-либо кому-либо|abgeben|verb; perfective; infinitive
+2015|шестой|Порядковое числительное к числу шесть|sechste|numeral; ordinal
+2016|жаловаться|Выражать недовольство; подавать жалобу|sich beschweren|verb; imperfective; infinitive; reflexive
+2017|скала|Каменистая возвышенность с крутыми склонами|Fels|noun; masculine
+2018|расчет|Вычисление; план; урегулирование отношений|Berechnung|noun; feminine
+2019|решиться|Принять решение; получить исход|sich entschließen|verb; perfective; infinitive; reflexive
+2020|грозный|Суровый, внушающий страх|grimmig|adjective
+2021|сделаться|Стать кем-либо; приобрести какое-либо свойство|werden|verb; perfective; infinitive
+2022|обида|Несправедливо причинённое огорчение или оскорбление|Kränkung|noun; feminine
+2023|наступать|Продвигаться вперёд в ходе военных действий|angreifen|verb; imperfective; infinitive
+2024|скрыться|Спрятаться; исчезнуть из виду|sich verbergen|verb; perfective; infinitive; reflexive
+2025|огород|Участок земли для выращивания овощей|Gemüsegarten|noun; masculine
+2026|насколько|В какой мере или степени|inwiefern|adverb
+2027|запас|Накопленное для использования в будущем|Vorrat|noun; masculine
+2028|особенность|Характерное, отличительное свойство|Besonderheit|noun; feminine
+2029|уезжать|Покидать место на транспортном средстве|abfahren|verb; imperfective; infinitive
+2030|заняться|Приступить к какому-либо занятию|sich beschäftigen|verb; perfective; infinitive; reflexive
+2031|шар|Тело правильной сферической формы|Kugel|noun; feminine
+2032|печка|Устройство для отопления помещения или приготовления пищи|Ofen|noun; masculine
+2033|неприятный|Вызывающий неприятные ощущения|unangenehm|adjective
+2034|могучий|Обладающий большой силой; мощный|mächtig|adjective
+2035|заранее|До наступления события; заблаговременно|im Voraus|adverb
+2036|открытие|Новое установленное или обнаруженное знание|Entdeckung|noun; feminine
+2037|переходить|Перемещаться через что-либо пешком|überqueren|verb; imperfective; infinitive
+2038|орден|Знак государственного отличия за заслуги|Orden|noun; masculine
+2039|попадать|Достигать цели; оказываться в определённом месте|treffen|verb; imperfective; infinitive
+2040|ботинок|Обувь, закрывающая ногу до щиколотки|Schnürschuh|noun; masculine
+2041|польза|Положительный результат; выгода|Nutzen|noun; masculine
+2042|печать|Оттиск знаков для удостоверения документов|Stempel|noun; masculine
+2043|пот|Жидкость, выделяемая кожными железами|Schweiß|noun; masculine
+2044|корпус|Туловище человека или животного|Rumpf|noun; masculine
+2045|склад|Помещение для хранения товаров или материалов|Lager|noun; neuter
+2046|компьютер|Электронное устройство для обработки данных|Computer|noun; masculine
+2047|слева|С левой стороны|links|adverb
+2048|уважать|Относиться с почтением к кому-либо|respektieren|verb; imperfective; infinitive
+2049|женить|Содействовать вступлению в брак|verheiraten|verb; perfective; infinitive
+2050|рана|Открытое повреждение тканей тела|Wunde|noun; feminine

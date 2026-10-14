@@ -1,0 +1,100 @@
+2301|ценность|Важность; значение|Wert|noun; masculine
+2302|заяц|Зверёк с длинными ушами и сильными задними ногами|Hase|noun; masculine
+2303|сэр|Почтительное обращение к мужчине в англоязычных странах|Sir|noun; masculine
+2304|желудок|Орган пищеварения, следующий за пищеводом|Magen|noun; masculine
+2305|слабость|Недостаток физических сил или энергии|Schwäche|noun; feminine
+2306|танец|Искусство ритмических и пластических движений тела|Tanz|noun; masculine
+2307|изучать|Целенаправленно осваивать предмет, науку или язык|studieren|verb; imperfective; infinitive
+2308|удивительно|Чрезвычайно; необычайно|erstaunlich|adverb
+2309|пилить|Резать пилой|sägen|verb; imperfective; infinitive
+2310|князь|Феодальный правитель; предводитель войска|Fürst|noun; masculine
+2311|партийный|Относящийся к партии; выражающий интересы партии|parteilich|adjective
+2312|бомба|Разрывной снаряд или взрывное устройство|Bombe|noun; feminine
+2313|воин|Человек, служащий в армии или сражающийся|Krieger|noun; masculine
+2314|подписать|Заверить, поставив подпись|unterzeichnen|verb; perfective; infinitive
+2315|стрелок|Тот, кто стреляет; умеющий метко стрелять|Schütze|noun; masculine
+2316|посылать|Отправлять с поручением; направлять куда-либо|schicken|verb; imperfective; infinitive
+2317|комитет|Коллегиальный орган, руководящий работой|Komitee|noun; neuter
+2318|карточка|Листок определённого назначения небольшого формата|Karte|noun; feminine
+2319|итог|Конечный вывод; результат|Ergebnis|noun; neuter
+2320|девка|Молодая женщина; девушка (разг.)|Mädchen|noun; neuter
+2321|воображение|Способность творчески мыслить и фантазировать|Phantasie|noun; feminine
+2322|душевный|Исполненный искреннего дружелюбия|herzlich|adjective
+2323|плотный|Имеющий тесно соединённые части; густой|dicht|adjective
+2324|танцевать|Исполнять танец|tanzen|verb; imperfective; infinitive
+2325|склон|Наклонная поверхность горы или холма|Hang|noun; masculine
+2326|действительность|Объективный мир; окружающая обстановка|Wirklichkeit|noun; feminine
+2327|объяснение|То, что разъясняет или помогает понять|Erklärung|noun; feminine
+2328|серебряный|Сделанный из серебра|silbern|adjective
+2329|коротко|Кратко; немного по времени|kurz|adverb
+2330|подобрать|Выбрать в соответствии с потребностью|auswählen|verb; perfective; infinitive
+2331|незаметно|Так, что не бросается в глаза|unauffällig|adverb
+2332|осветить|Сделать светлым; направить лучи света|beleuchten|verb; perfective; infinitive
+2333|дешевый|Имеющий низкую цену|billig|adjective
+2334|многочисленный|Состоящий из большого числа|zahlreich|adjective
+2335|степь|Безлесное равнинное пространство с травянистой растительностью|Steppe|noun; feminine
+2336|стеклянный|Сделанный из стекла|gläsern|adjective
+2337|вор|Преступник, занимающийся кражами|Dieb|noun; masculine
+2338|внук|Сын сына или дочери|Enkel|noun; masculine
+2339|голодный|Чувствующий голод; не насытившийся|hungrig|adjective
+2340|винтовка|Ручное огнестрельное оружие с нарезным стволом|Gewehr|noun; neuter
+2341|лев|Крупное хищное животное семейства кошачьих с гривой|Löwe|noun; masculine
+2342|тяжесть|Сила, с которой тело притягивается к Земле; тяжёлый предмет|Last|noun; feminine
+2343|приобрести|Стать обладателем чего-либо; получить|erwerben|verb; perfective; infinitive
+2344|оборона|Вид боевых действий для отражения наступления противника|Verteidigung|noun; feminine
+2345|ужасно|Очень плохо; в страшной степени|schrecklich|adverb
+2346|огонек|Небольшое пламя; маленький источник света|Flämmchen|noun; neuter
+2347|поинтересоваться|Проявить интерес к кому-либо или чему-либо|sich interessieren|verb; perfective; infinitive; reflexive
+2348|вечерний|Относящийся к вечеру; происходящий вечером|abendlich|adjective
+2349|заорать|Громко закричать|aufschreien|verb; perfective; infinitive
+2350|трогать|Прикасаться к кому-либо или чему-либо|anfassen|verb; imperfective; infinitive
+2351|задержать|Временно лишить свободы до выяснения обстоятельств|festhalten|verb; perfective; infinitive
+2352|подбородок|Нижняя передняя часть лица|Kinn|noun; neuter
+2353|стиль|Совокупность выразительных художественных приёмов|Stil|noun; masculine
+2354|вещий|Предвидящий будущее; пророческий|prophetisch|adjective
+2355|редактор|Специалист по редактированию текстов|Redakteur|noun; masculine
+2356|потребовать|Выдвинуть требование; вызвать кого-либо|fordern|verb; perfective; infinitive
+2357|щель|Узкое продольное отверстие|Spalt|noun; masculine
+2358|вслух|Так, что слышно другим; громко|laut|adverb
+2359|блестеть|Ярко светиться; излучать отражённый свет|glänzen|verb; imperfective; infinitive
+2360|противоположный|Совершенно несходный; противоречащий другому|entgegengesetzt|adjective
+2361|давление|Сила действия одного тела на поверхность другого|Druck|noun; masculine
+2362|коммунистический|Относящийся к коммунистам или их взглядам|kommunistisch|adjective
+2363|режиссер|Художественный руководитель театральной или кино-постановки|Regisseur|noun; masculine
+2364|значительно|В значительной степени; существенно|bedeutend|adverb
+2365|дар|Способность; талант|Begabung|noun; feminine
+2366|метро|Подземный городской железнодорожный транспорт|U-Bahn|noun; feminine; indeclinable
+2367|шанс|Вероятная возможность осуществления чего-либо|Chance|noun; feminine
+2368|конкретный|Реально существующий; точно определённый|konkret|adjective
+2369|наблюдение|Слежение за кем-либо или чем-либо|Beobachtung|noun; feminine
+2370|май|Пятый месяц календарного года|Mai|noun; masculine
+2371|усесться|Сесть удобно или надолго|sich setzen|verb; perfective; infinitive; reflexive
+2372|сиять|Испускать сияние; ярко светиться|leuchten|verb; imperfective; infinitive
+2373|туча|Большое тёмное облако, несущее дождь или град|Gewitterwolke|noun; feminine
+2374|стоящий|Имеющий ценность; заслуживающий внимания|wertvoll|adjective
+2375|вырваться|Силой освободиться из чего-либо|sich losreißen|verb; perfective; infinitive; reflexive
+2376|отвернуться|Повернуться в сторону; отвести взгляд|sich abwenden|verb; perfective; infinitive; reflexive
+2377|дума|Мысль; размышление|Gedanke|noun; masculine
+2378|закончиться|Прийти к завершению|enden|verb; perfective; infinitive
+2379|клиент|Тот, кого обслуживают; заказчик|Kunde|noun; masculine
+2380|двигатель|Машина, преобразующая энергию в механическое движение|Motor|noun; masculine
+2381|сентябрь|Девятый месяц календарного года|September|noun; masculine
+2382|дежурный|Несущий дежурство; ответственный по смене|Diensthabender|noun; masculine
+2383|бормотать|Говорить тихо, быстро и невнятно|murmeln|verb; imperfective; infinitive
+2384|завтрак|Утренний приём пищи|Frühstück|noun; neuter
+2385|состояться|Произойти; осуществиться|stattfinden|verb; perfective; infinitive
+2386|рыбак|Специалист по добыче рыбы или любитель рыбной ловли|Fischer|noun; masculine
+2387|взвод|Подразделение роты|Zug|noun; masculine
+2388|особо|В отдельности; специально|besonders|adverb
+2389|поправить|Привести в порядок; исправить|verbessern|verb; perfective; infinitive
+2390|альбом|Тетрадь из плотных листов для рисунков или фотографий|Album|noun; neuter
+2391|болото|Избыточно увлажнённый участок земли со стоячей водой|Sumpf|noun; masculine
+2392|ответственность|Обязанность отдавать отчёт в своих действиях|Verantwortung|noun; feminine
+2393|ощутить|Воспринять путём ощущения|wahrnehmen|verb; perfective; infinitive
+2394|беспокоиться|Испытывать тревогу; волноваться|sich sorgen|verb; imperfective; infinitive; reflexive
+2395|пламя|Горящий и светящийся раскалённый газ; огонь|Flamme|noun; feminine
+2396|задавать|Давать задание; поручать|aufgeben|verb; imperfective; infinitive
+2397|выдавать|Предоставить; снабдить чем-либо|ausgeben|verb; imperfective; infinitive
+2398|полететь|Начать лететь|losfliegen|verb; perfective; infinitive
+2399|художественный|Относящийся к искусству или деятельности в его области|künstlerisch|adjective
+2400|отдохнуть|Сделать перерыв для восстановления сил|sich erholen|verb; perfective; infinitive; reflexive

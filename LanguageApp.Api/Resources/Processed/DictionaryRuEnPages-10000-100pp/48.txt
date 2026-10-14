@@ -1,0 +1,100 @@
+4701|сектор|sector|noun; singular
+4702|санитар|medical orderly|noun; singular
+4703|ссылка|exile|noun; singular
+4704|госпожа|madam|noun; singular
+4705|механический|mechanical|adjective
+4706|роща|grove|noun; singular
+4707|нагнуться|to bend down|verb; perfective; reflexive
+4708|предназначить|to intend|verb; perfective
+4709|грек|Greek|noun; singular
+4710|усмешка|smirk|noun; singular
+4711|дружить|to be friends|verb; regular
+4712|уникальный|unique|adjective
+4713|восприятие|perception|noun; singular
+4714|потомок|descendant|noun; singular
+4715|номенклатура|nomenclature|noun; singular
+4716|тропа|trail|noun; singular
+4717|почтительный|respectful|adjective
+4718|казнь|execution|noun; singular
+4719|судебный|judicial|adjective
+4720|сало|lard|noun; singular; uncountable
+4721|мучительный|agonizing|adjective
+4722|сочувствие|sympathy|noun; singular; uncountable
+4723|ветерок|breeze|noun; singular
+4724|распорядиться|to order|verb; perfective
+4725|живо|briskly|adverb
+4726|цепляться|to cling|verb; regular; reflexive
+4727|увеличиваться|to increase|verb; regular; reflexive
+4728|Питер|Peter|noun; singular; proper
+4729|светило|luminary|noun; singular
+4730|подробный|detailed|adjective
+4731|мед|honey|noun; singular; uncountable
+4732|восхищение|admiration|noun; singular; uncountable
+4733|выдумать|to invent|verb; perfective
+4734|мисс|miss|noun; singular
+4735|кавказ|Caucasus|noun; singular; proper
+4736|ноздря|nostril|noun; singular
+4737|сочетание|combination|noun; singular
+4738|наполовину|halfway|adverb
+4739|отправлять|to send|verb; regular
+4740|независимо|independently|adverb
+4741|прочный|durable|adjective
+4742|ворваться|to burst in|verb; perfective; reflexive
+4743|магический|magical|adjective
+4744|выпивать|to drink|verb; regular
+4745|мм|hmm|interjection
+4746|нагрузка|load|noun; singular
+4747|группировка|grouping|noun; singular
+4748|тревожно|anxiously|adverb
+4749|перец|pepper|noun; singular
+4750|правительственный|governmental|adjective
+4751|дрожь|shiver|noun; singular; uncountable
+4752|обсуждение|discussion|noun; singular
+4753|ползать|to crawl|verb; regular
+4754|ручной|manual|adjective
+4755|достаточный|sufficient|adjective
+4756|постановление|resolution|noun; singular
+4757|семнадцать|seventeen|numeral; cardinal
+4758|вытянуться|to stretch out|verb; perfective; reflexive
+4759|заметка|note|noun; singular
+4760|принцесса|princess|noun; singular
+4761|посещать|to visit|verb; regular
+4762|самоубийство|suicide|noun; singular
+4763|отодвинуть|to move aside|verb; perfective
+4764|раздавить|to crush|verb; perfective
+4765|нежность|tenderness|noun; singular; uncountable
+4766|тоненький|thin|adjective
+4767|сейф|safe|noun; singular
+4768|миф|myth|noun; singular
+4769|пятеро|five|numeral; cardinal
+4770|объявлять|to announce|verb; regular
+4771|противно|disgustingly|adverb
+4772|правление|board|noun; singular
+4773|выдающийся|outstanding|adjective
+4774|валюта|currency|noun; singular
+4775|разработать|to develop|verb; perfective
+4776|рассыпаться|to scatter|verb; perfective; reflexive
+4777|блин|pancake|noun; singular
+4778|выезд|departure|noun; singular
+4779|туго|tightly|adverb
+4780|складка|fold|noun; singular
+4781|шелковый|silk|adjective
+4782|предатель|traitor|noun; singular
+4783|купец|merchant|noun; singular
+4784|удаляться|to move away|verb; regular; reflexive
+4785|психика|psyche|noun; singular
+4786|живопись|painting|noun; singular; uncountable
+4787|кровотечение|bleeding|noun; singular; uncountable
+4788|ворчать|to grumble|verb; regular
+4789|демократ|democrat|noun; singular
+4790|откинуть|to throw back|verb; perfective
+4791|трещина|crack|noun; singular
+4792|мораль|morality|noun; singular; uncountable
+4793|распахнуться|to fling open|verb; perfective; reflexive
+4794|помниться|to be remembered|verb; regular; reflexive
+4795|факультет|faculty|noun; singular
+4796|поражать|to strike|verb; regular
+4797|аллея|alley|noun; singular
+4798|настать|to come|verb; perfective
+4799|поляна|glade|noun; singular
+4800|валенок|felt boot|noun; singular

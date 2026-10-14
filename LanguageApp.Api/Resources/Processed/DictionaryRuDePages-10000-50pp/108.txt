@@ -1,0 +1,50 @@
+5401|веселье|Радостное и оживлённое настроение; весёлое времяпрепровождение|Fröhlichkeit|noun; feminine
+5402|корпорация|Объединение лиц одной профессии или общих интересов|Körperschaft|noun; feminine
+5403|штора|Оконная занавеска|Vorhang|noun; masculine
+5404|въехать|Попасть внутрь на транспортном средстве|einfahren|verb; perfective; infinitive
+5405|нападать|Внезапно атаковать; накапливаться|angreifen|verb; imperfective; infinitive
+5406|сложно|Непросто, с трудом|kompliziert|adverb
+5407|рвота|Непроизвольное выбрасывание содержимого желудка|Erbrechen|noun; neuter
+5408|сборник|Издание, объединяющее несколько произведений или документов|Sammelband|noun; masculine
+5409|посмеяться|Смеяться некоторое время|lachen|verb; perfective; infinitive
+5410|догадка|Предположение о возможном|Vermutung|noun; feminine
+5411|выезжать|Уезжать; регулярно отправляться куда-либо|ausfahren|verb; imperfective; infinitive
+5412|сумочка|Маленькая дамская сумка|Handtäschchen|noun; neuter
+5413|мощность|Физическая величина работы в единицу времени|Leistung|noun; feminine
+5414|исследователь|Учёный, занимающийся научными исследованиями|Forscher|noun; masculine
+5415|оживиться|Стать более энергичным и живым|aufleben|verb; perfective; infinitive
+5416|нить|Тонкая длинная нитка|Faden|noun; masculine
+5417|отбить|Отразить удар; отвоевать|abwehren|verb; perfective; infinitive
+5418|испанский|Относящийся к Испании или испанцам|spanisch|adjective
+5419|фургон|Крытый транспорт для перевозки грузов|Lieferwagen|noun; masculine
+5420|вяло|Без энергии и живости|träge|adverb
+5421|продаваться|Быть выставленным на продажу|verkauft werden|verb; imperfective; infinitive
+5422|дослать|Отправить дополнительно|nachsenden|verb; perfective; infinitive
+5423|ворон|Крупная птица с чёрным оперением|Rabe|noun; masculine
+5424|показатель|Данные, характеризующие состояние или развитие|Indikator|noun; masculine
+5425|пушистый|Покрытый мягким пухом или густой шерстью|flauschig|adjective
+5426|влиять|Оказывать воздействие на кого-либо|beeinflussen|verb; imperfective; infinitive
+5427|барабан|Ударный мембранный музыкальный инструмент|Trommel|noun; feminine
+5428|композитор|Создатель музыкальных произведений|Komponist|noun; masculine
+5429|заветный|Сокровенный, дорогой сердцу|ersehnt|adjective
+5430|упрямый|Не поддающийся уговорам; настаивающий на своём|stur|adjective
+5431|отослать|Отправить что-либо или кого-либо|abschicken|verb; perfective; infinitive
+5432|адъютант|Офицер при военном начальнике для выполнения поручений|Adjutant|noun; masculine
+5433|скинуть|Сбросить, снять|abwerfen|verb; perfective; infinitive
+5434|классик|Выдающийся деятель науки или искусства с непреходящим значением|Klassiker|noun; masculine
+5435|отравить|Убить или причинить вред ядом|vergiften|verb; perfective; infinitive
+5436|переть|Идти напролом; двигаться с усилием (разг.)|vorwärtsdrängen|verb; imperfective; infinitive
+5437|важнейший|Наиболее важный; главный|wichtigste|adjective; superlative
+5438|решающий|Имеющий определяющее значение|entscheidend|adjective
+5439|отчество|Имя, образованное от имени отца|Vatersname|noun; masculine
+5440|привычно|Обычным, привычным образом|gewohnt|adverb
+5441|вспомниться|Возникнуть в памяти|einfallen|verb; perfective; infinitive
+5442|отнестись|Проявить определённое отношение к кому-либо|sich verhalten|verb; perfective; infinitive; reflexive
+5443|откровенный|Искренний, чистосердечный|aufrichtig|adjective
+5444|даба|—|—|—
+5445|увлечение|Сильный интерес к чему-либо|Begeisterung|noun; feminine
+5446|отравление|Болезненное состояние вследствие попадания яда|Vergiftung|noun; feminine
+5447|заработок|Денежное вознаграждение за труд|Verdienst|noun; masculine
+5448|строительный|Относящийся к строительству|Bau-|adjective
+5449|массивный|Тяжёлый и крупный; монолитный|massiv|adjective
+5450|сражение|Крупное боевое столкновение|Schlacht|noun; feminine

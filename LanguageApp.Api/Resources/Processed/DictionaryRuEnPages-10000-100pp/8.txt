@@ -1,0 +1,100 @@
+701|остальной|remaining|pronoun
+702|половина|half|noun; singular
+703|московский|Moscow|adjective
+704|шесть|six|numeral; cardinal
+705|получиться|to turn out|verb; perfective
+706|качество|quality|noun; singular
+707|бой|battle|noun; singular
+708|шея|neck|noun; singular
+709|вон|out|adverb
+710|идея|idea|noun; singular
+711|видимо|apparently|adverb
+712|достаточно|enough|adverb
+713|провести|to conduct|verb; perfective
+714|важный|important|adjective
+715|трава|grass|noun; singular; uncountable
+716|дед|grandfather|noun; singular
+717|сознание|consciousness|noun; singular
+718|родитель|parent|noun; singular
+719|простить|to forgive|verb; perfective
+720|бить|to beat|verb; irregular
+721|чай|tea|noun; singular; uncountable
+722|поздний|late|adjective
+723|кивнуть|to nod|verb; perfective
+724|род|kin|noun; singular
+725|исчезнуть|to disappear|verb; perfective
+726|тонкий|thin|adjective
+727|немецкий|German|adjective
+728|звук|sound|noun; singular
+729|отдать|to give back|verb; perfective
+730|магазин|store|noun; singular
+731|президент|president|noun; singular
+732|поэт|poet|noun; singular
+733|спасибо|thanks|interjection
+734|болезнь|illness|noun; singular
+735|событие|event|noun; singular
+736|помочь|to help|verb; irregular
+737|кожа|skin|noun; singular
+738|лист|leaf|noun; singular; irregular plural
+739|слать|to send|verb; irregular
+740|вспоминать|to recall|verb; regular
+741|прекрасный|beautiful|adjective
+742|слеза|tear|noun; singular
+743|надежда|hope|noun; singular
+744|молча|silently|adverb
+745|сильно|strongly|adverb
+746|верный|correct|adjective
+747|литература|literature|noun; singular; uncountable
+748|оружие|weapon|noun; singular
+749|готовый|ready|adjective
+750|запах|smell|noun; singular
+751|неожиданно|unexpectedly|adverb
+752|вчера|yesterday|adverb
+753|вздохнуть|to sigh|verb; perfective
+754|роль|role|noun; singular
+755|рост|growth|noun; singular
+756|природа|nature|noun; singular
+757|политический|political|adjective
+758|точка|dot|noun; singular
+759|звезда|star|noun; singular
+760|петь|to sing|verb; irregular
+761|садиться|to sit down|verb; regular
+762|фамилия|surname|noun; singular
+763|характер|character|noun; singular
+764|пожалуйста|please|particle
+765|выше|higher|adverb
+766|офицер|officer|noun; singular
+767|толпа|crowd|noun; singular
+768|перестать|to stop|verb; perfective
+769|придтись|to have to|verb; perfective; impersonal
+770|уровень|level|noun; singular
+771|неизвестный|unknown|adjective
+772|кресло|armchair|noun; singular
+773|баба|woman|noun; singular
+774|секунда|second|noun; singular
+775|пожаловать|to arrive|verb; perfective
+776|банк|bank|noun; singular
+777|опыт|experience|noun; singular
+778|тихий|quiet|adjective
+779|поскольку|since|conjunction
+780|сапог|boot|noun; singular
+781|правило|rule|noun; singular
+782|стекло|glass|noun; singular; uncountable
+783|получать|to receive|verb; regular
+784|внутренний|internal|adjective
+785|дочь|daughter|noun; singular; irregular plural
+786|называться|to be called|verb; regular
+787|надеяться|to hope|verb; regular
+788|член|member|noun; singular
+789|протянуть|to stretch out|verb; perfective
+790|государственный|state|adjective
+791|десяток|ten|noun; singular
+792|глубокий|deep|adjective
+793|цветок|flower|noun; singular
+794|ах|ah|interjection
+795|желание|wish|noun; singular
+796|дождь|rain|noun; singular; uncountable
+797|впереди|ahead|adverb
+798|подходить|to approach|verb; regular
+799|много|much|adverb
+800|лоб|forehead|noun; singular

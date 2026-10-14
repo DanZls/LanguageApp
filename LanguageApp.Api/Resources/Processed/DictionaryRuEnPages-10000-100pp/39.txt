@@ -1,0 +1,100 @@
+3801|шпион|spy|noun; singular
+3802|дуб|oak|noun; singular
+3803|лениво|lazily|adverb
+3804|свист|whistle|noun; singular
+3805|технология|technology|noun; singular
+3806|дремать|to doze|verb; irregular
+3807|возбудить|to excite|verb; perfective
+3808|столетие|century|noun; singular
+3809|болезненный|painful|adjective
+3810|крутить|to twist|verb; regular
+3811|партизан|partisan|noun; singular
+3812|выходной|day off|adjective
+3813|неуверенный|unsure|adjective
+3814|защитить|to protect|verb; perfective
+3815|применяться|to be applied|verb; regular; reflexive
+3816|симпатичный|likeable|adjective
+3817|незнакомец|stranger|noun; singular
+3818|младенец|infant|noun; singular
+3819|облик|appearance|noun; singular
+3820|эпизод|episode|noun; singular
+3821|подчиненный|subordinate|adjective
+3822|желающий|willing person|noun; singular
+3823|весло|oar|noun; singular
+3824|преподаватель|instructor|noun; singular
+3825|пошло|vulgarly|adverb
+3826|мусор|garbage|noun; singular; uncountable
+3827|выключить|to turn off|verb; perfective
+3828|рекомендовать|to recommend|verb; perfective
+3829|нравственный|moral|adjective
+3830|племя|tribe|noun; singular; irregular plural
+3831|расстегнуть|to unbutton|verb; perfective
+3832|оказывать|to render|verb; regular
+3833|подход|approach|noun; singular
+3834|прижимать|to press|verb; regular
+3835|выстрелить|to fire|verb; perfective
+3836|снижение|reduction|noun; singular
+3837|звенеть|to ring|verb; irregular
+3838|луг|meadow|noun; singular
+3839|ржавый|rusty|adjective
+3840|заодно|together|adverb
+3841|як|yak|noun; singular
+3842|сжать|to squeeze|verb; perfective
+3843|тоня|fishing spot|noun; singular
+3844|подмигнуть|to wink|verb; perfective
+3845|том|volume|noun; singular
+3846|диск|disk|noun; singular
+3847|реветь|to roar|verb; irregular
+3848|прозвучать|to sound|verb; perfective
+3849|нежно|gently|adverb
+3850|прижаться|to press against|verb; perfective; reflexive
+3851|управлять|to manage|verb; regular
+3852|загадка|riddle|noun; singular
+3853|сего|this|pronoun; neuter
+3854|дуть|to blow|verb; irregular
+3855|пациент|patient|noun; singular
+3856|покоситься|to lean|verb; perfective; reflexive
+3857|стонать|to moan|verb; irregular
+3858|хата|hut|noun; singular
+3859|суета|fuss|noun; singular; uncountable
+3860|дрогнуть|to falter|verb; perfective
+3861|оттенок|shade|noun; singular
+3862|пребывание|stay|noun; singular
+3863|любоваться|to admire|verb; regular; reflexive
+3864|гусь|goose|noun; singular; irregular plural
+3865|решительный|resolute|adjective
+3866|улететь|to fly away|verb; perfective
+3867|бессмертный|immortal|adjective
+3868|перебирать|to sort through|verb; regular
+3869|бензин|gasoline|noun; singular; uncountable
+3870|занести|to bring in|verb; perfective
+3871|инвалид|disabled person|noun; singular
+3872|зловещий|ominous|adjective
+3873|убежденный|convinced|adjective
+3874|роса|dew|noun; singular; uncountable
+3875|крючок|hook|noun; singular
+3876|косой|slanting|adjective
+3877|нервно|nervously|adverb
+3878|сочинять|to compose|verb; regular
+3879|вероника|veronica|noun; singular
+3880|резиновый|rubber|adjective
+3881|вопль|scream|noun; singular
+3882|вложить|to invest|verb; perfective
+3883|плевать|to spit|verb; irregular
+3884|сложенный|built|adjective
+3885|купаться|to bathe|verb; regular; reflexive
+3886|боевик|militant|noun; singular
+3887|поди|go|verb; imperative
+3888|очаг|hearth|noun; singular
+3889|пленный|captive|adjective
+3890|ребятишки|kids|noun; plural
+3891|уловить|to catch|verb; perfective
+3892|проникнуть|to penetrate|verb; perfective
+3893|уцелеть|to survive|verb; perfective
+3894|заговор|conspiracy|noun; singular
+3895|сдаваться|to surrender|verb; regular; reflexive
+3896|елка|christmas tree|noun; singular
+3897|сдвинуть|to move|verb; perfective
+3898|гром|thunder|noun; singular
+3899|медленный|slow|adjective
+3900|порыв|gust|noun; singular

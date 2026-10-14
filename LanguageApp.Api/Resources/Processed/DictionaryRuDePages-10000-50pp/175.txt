@@ -1,0 +1,50 @@
+8751|портсигар|Карманная плоская коробка для сигарет или папирос|Zigarettenetui|noun; neuter
+8752|преобразование|Крупное изменение, реформирование|Umgestaltung|noun; feminine
+8753|шестьсот|Число 600|sechshundert|numeral; cardinal
+8754|колдунья|Женщина, занимающаяся колдовством|Hexe|noun; feminine
+8755|хозяйский|Относящийся к хозяину; рачительный|Hausherren-|adjective
+8756|пролетарский|Относящийся к пролетариату|proletarisch|adjective
+8757|приземлиться|Опуститься на землю (о самолёте или прыгуне)|landen|verb; perfective; infinitive
+8758|проситься|Просить разрешения что-либо сделать|bitten|verb; imperfective; infinitive
+8759|управиться|Завершить работу, справиться|fertig werden|verb; perfective; infinitive
+8760|храбрость|Мужество и решительность, отсутствие страха|Tapferkeit|noun; feminine
+8761|противостоять|Сопротивляться воздействию, сохраняя устойчивость|widerstehen|verb; imperfective; infinitive
+8762|оскорблять|Обижать, унижать словом или действием|beleidigen|verb; imperfective; infinitive
+8763|правота|Соответствие истине, правильность позиции|Recht|noun; neuter
+8764|лопух|Репейник с большими листьями|Klette|noun; feminine
+8765|корешок|Часть книги, где скреплены листы|Buchrücken|noun; masculine
+8766|привилегия|Преимущественное право, льгота|Privileg|noun; neuter
+8767|добровольный|Совершаемый по собственному желанию|freiwillig|adjective
+8768|колючка|Шип, острый вырост растения|Stachel|noun; masculine
+8769|походный|Пригодный для использования в походе|Feld-|adjective
+8770|мара|Призрак, наваждение (в славянской мифологии)|Gespenst|noun; neuter
+8771|Финляндия|Государство в Северной Европе|Finnland|noun; neuter; proper
+8772|являть|Проявлять, демонстрировать|zeigen|verb; imperfective; infinitive
+8773|иней|Слой ледяных кристаллов на охлаждённой поверхности|Raureif|noun; masculine
+8774|свинец|Мягкий тяжёлый металл синевато-серого цвета|Blei|noun; neuter
+8775|трофейный|Относящийся к трофею или захваченный как трофей|Beute-|adjective
+8776|гастроль|Выступление артиста за пределами основного места работы|Gastspiel|noun; neuter
+8777|заикаться|Страдать заиканием; говорить с затруднением|stottern|verb; imperfective; infinitive
+8778|проработать|Проработать определённое время|durcharbeiten|verb; perfective; infinitive
+8779|вышибить|Резким толчком выбить|herausschlagen|verb; perfective; infinitive
+8780|гулко|С гулким эхом, с раскатистым звуком|hallend|adverb
+8781|нырять|Погружаться в воду с головой|tauchen|verb; imperfective; infinitive
+8782|умываться|Умывать лицо или руки|sich waschen|verb; imperfective; infinitive; reflexive
+8783|продержаться|Пробыть некоторое время, сохраняя позицию|sich halten|verb; perfective; infinitive; reflexive
+8784|ограничивать|Устанавливать границу, сдерживать|einschränken|verb; imperfective; infinitive
+8785|подложить|Положить что-либо подо что-то|unterlegen|verb; perfective; infinitive
+8786|прогуливаться|Неторопливо прохаживаться|spazieren gehen|verb; imperfective; infinitive
+8787|раздражить|Вызвать раздражение, рассердить|reizen|verb; perfective; infinitive
+8788|собрат|Товарищ по профессии или роду занятий|Kollege|noun; masculine
+8789|тулуп|Длинная меховая шуба|Pelzmantel|noun; masculine
+8790|жаба|Бесхвостое земноводное с бородавчатой кожей|Kröte|noun; feminine
+8791|монолог|Речь одного лица, обращённая к другим или к себе|Monolog|noun; masculine
+8792|картофель|Клубнеплод семейства пасленовых, богатый крахмалом|Kartoffel|noun; feminine
+8793|возглавить|Встать во главе, взять руководство|leiten|verb; perfective; infinitive
+8794|анализировать|Проводить анализ чего-либо|analysieren|verb; imperfective; perfective; infinitive
+8795|скопление|Большое количество собравшихся людей или предметов|Ansammlung|noun; feminine
+8796|поражаться|Удивляться, изумляться чему-либо|staunen|verb; imperfective; infinitive
+8797|чум|Конусообразное переносное жилище северных народов|Zelt|noun; neuter
+8798|снеговой|Относящийся к снегу|Schnee-|adjective
+8799|сказаться|Обнаружиться, проявиться как следствие|sich auswirken|verb; perfective; infinitive; reflexive
+8800|синеватый|Слегка синий, с оттенком синевы|bläulich|adjective

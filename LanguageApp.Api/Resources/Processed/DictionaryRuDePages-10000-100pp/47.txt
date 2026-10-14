@@ -1,0 +1,100 @@
+4601|поделиться|Поделить с кем-либо; рассказать, поведать|teilen|verb; perfective; infinitive
+4602|обещание|Добровольное обязательство что-либо сделать|Versprechen|noun; neuter
+4603|вестись|Производиться, осуществляться|betrieben werden|verb; imperfective; infinitive
+4604|веранда|Застеклённая или открытая пристройка к дому|Veranda|noun; feminine
+4605|стон|Протяжный звук от боли или страдания|Stöhnen|noun; neuter
+4606|равновесие|Состояние покоя под действием уравновешенных сил|Gleichgewicht|noun; neuter
+4607|скука|Томление от безделья и отсутствия интереса|Langeweile|noun; feminine
+4608|прорваться|Силой проложить себе путь сквозь препятствие|durchbrechen|verb; perfective; infinitive
+4609|отставать|Не успевать, оставаться позади|zurückbleiben|verb; imperfective; infinitive
+4610|пятьсот|Количественное числительное: 500|fünfhundert|numeral; cardinal
+4611|отмечаться|Обнаруживаться, проявляться|beobachtet werden|verb; imperfective; infinitive
+4612|торжество|Большое торжественное мероприятие|Feier|noun; feminine
+4613|прокуратура|Государственный орган надзора за соблюдением законности|Staatsanwaltschaft|noun; feminine
+4614|проникать|Пробираться внутрь, достигать чего-либо|eindringen|verb; imperfective; infinitive
+4615|чудак|Странный, необычный человек|Sonderling|noun; masculine
+4616|неизбежный|Невозможный к предотвращению, неминуемый|unvermeidlich|adjective
+4617|видимость|Условия для наблюдения; степень различимости|Sichtbarkeit|noun; feminine
+4618|паренек|Молодой человек, юноша (разг.)|Bursche|noun; masculine
+4619|погрузить|Поместить в транспорт для перевозки|verladen|verb; perfective; infinitive
+4620|семейство|Группа людей, связанных родством; семья|Familie|noun; feminine
+4621|царство|Государство во главе с царём|Königreich|noun; neuter
+4622|употреблять|Использовать, применять|verwenden|verb; imperfective; infinitive
+4623|вскричать|Громко и возбуждённо произнести|ausrufen|verb; perfective; infinitive
+4624|устав|Свод правил, регулирующих деятельность|Statut|noun; neuter
+4625|погон|Наплечный знак воинского различия|Schulterstück|noun; neuter
+4626|мудрость|Глубокий ум, основанный на опыте|Weisheit|noun; feminine
+4627|высунуться|Выдвинуться, показаться наружу|herausstrecken|verb; perfective; infinitive
+4628|смело|Без страха, решительно|mutig|adverb
+4629|фонтан|Струя воды, выбрасываемая вверх давлением|Brunnen|noun; masculine
+4630|битва|Сражение, боевое столкновение|Schlacht|noun; feminine
+4631|жилец|Тот, кто снимает жилое помещение|Mieter|noun; masculine
+4632|наткнуться|Натолкнуться, неожиданно столкнуться|stoßen auf|verb; perfective; infinitive
+4633|горечь|Горький вкус; горестное чувство|Bitterkeit|noun; feminine
+4634|трещать|Издавать треск, потрескивать|knistern|verb; imperfective; infinitive
+4635|паника|Внезапный неудержимый страх|Panik|noun; feminine
+4636|возникновение|Начало существования, образование|Entstehung|noun; feminine
+4637|мыть|Очищать с помощью воды|waschen|verb; imperfective; infinitive
+4638|смутиться|Прийти в замешательство, растеряться|sich schämen|verb; perfective; infinitive; reflexive
+4639|удачный|Завершившийся успехом|erfolgreich|adjective
+4640|печатать|Воспроизводить текст с помощью печатных устройств|drucken|verb; imperfective; infinitive
+4641|сексуальный|Относящийся к половым отношениям|sexuell|adjective
+4642|насмешливо|С иронией, насмешливо|spöttisch|adverb
+4643|публикация|Опубликованный материал; процесс публикации|Veröffentlichung|noun; feminine
+4644|демонстрировать|Наглядно показывать; обнаруживать|demonstrieren|verb; imperfective; infinitive
+4645|римский|Относящийся к Риму или Древнему Риму|römisch|adjective
+4646|оправдать|Признать невиновным; подтвердить оправданность|rechtfertigen|verb; perfective; infinitive
+4647|расследование|Официальный разбор дела, особенно преступления|Ermittlung|noun; feminine
+4648|оборудование|Совокупность механизмов для производства|Ausrüstung|noun; feminine
+4649|вредный|Причиняющий вред|schädlich|adjective
+4650|пульт|Устройство для дистанционного управления|Fernbedienung|noun; feminine
+4651|прихватить|Взять с собой дополнительно|mitnehmen|verb; perfective; infinitive
+4652|язва|Долго не заживающее воспалённое место на коже|Geschwür|noun; neuter
+4653|рок|Несчастливая судьба, неотвратимый удел|Schicksal|noun; neuter
+4654|распространить|Сделать известным среди многих; распространить|verbreiten|verb; perfective; infinitive
+4655|ишь|Восклицание удивления или неодобрения|na so was|particle
+4656|сытый|Утоливший голод, не испытывающий голода|satt|adjective
+4657|разбирать|Тщательно рассматривать или анализировать|auseinandernehmen|verb; imperfective; infinitive
+4658|груша|Фруктовое дерево и его плод|Birne|noun; feminine
+4659|переглянуться|Обменяться многозначительным взглядом|sich anschauen|verb; perfective; infinitive; reflexive
+4660|старенький|Пожилой, немного старый (ласкат.)|alt|adjective
+4661|гроза|Ненастье с дождём, громом и молниями|Gewitter|noun; neuter
+4662|кислород|Химический элемент, бесцветный газ для дыхания|Sauerstoff|noun; masculine
+4663|шахта|Горная выработка с выходом на поверхность|Schacht|noun; masculine
+4664|прохладный|Умеренно холодный|kühl|adjective
+4665|протекать|Длиться, происходить|verlaufen|verb; imperfective; infinitive
+4666|удав|Крупная хищная тропическая змея|Boa|noun; feminine
+4667|выпуск|Группа учащихся, окончивших обучение|Abschlussjahrgang|noun; masculine
+4668|ля|Шестая нота музыкальной гаммы|A|noun; neuter
+4669|хирург|Врач, специализирующийся на хирургии|Chirurg|noun; masculine
+4670|брезгливый|Испытывающий отвращение к нечистоплотности|wählerisch|adjective
+4671|объединить|Создать единое целое из нескольких частей|vereinigen|verb; perfective; infinitive
+4672|символ|Условный знак понятия или явления|Symbol|noun; neuter
+4673|хозяйственный|Относящийся к хозяйству или экономике|wirtschaftlich|adjective
+4674|магия|Совокупность обрядов и заклинаний с предполагаемой чудодейственной силой|Magie|noun; feminine
+4675|убирать|Приводить в порядок; убирать|aufräumen|verb; imperfective; infinitive
+4676|расставаться|Прекращать видеться, разлучаться|sich trennen|verb; imperfective; infinitive; reflexive
+4677|прибежать|Добраться бегом до места назначения|herbeilaufen|verb; perfective; infinitive
+4678|развод|Расторжение брака|Scheidung|noun; feminine
+4679|звонкий|Звучный, чистый по тону|klar|adjective
+4680|звездный|Относящийся к звёздам; имеющий форму звезды|stern-|adjective
+4681|неправда|Ложь, несоответствие истине|Unwahrheit|noun; feminine
+4682|перестройка|Реорганизация, изменение структуры|Umstrukturierung|noun; feminine
+4683|стратегический|Относящийся к стратегии|strategisch|adjective
+4684|непривычный|Несвойственный, не похожий на привычное|ungewohnt|adjective
+4685|просидеть|Провести время сидя в каком-либо месте|verbringen|verb; perfective; infinitive
+4686|заведующий|Должностное лицо, руководящее чем-либо|Leiter|noun; masculine
+4687|творить|Создавать творчески|erschaffen|verb; imperfective; infinitive
+4688|мерцать|Слабо светиться, колеблясь|flimmern|verb; imperfective; infinitive
+4689|инициатива|Первый побудительный шаг к новой деятельности|Initiative|noun; feminine
+4690|КПСС|Коммунистическая партия Советского Союза (аббр.)|KPdSU|noun; feminine; proper
+4691|индивидуальный|Присущий отдельному лицу, личный|individuell|adjective
+4692|единица|Отдельная самостоятельная часть целого; число 1|Einheit|noun; feminine
+4693|трагический|Исполненный трагедии, страдания|tragisch|adjective
+4694|излишний|Лишний, превышающий необходимое|überflüssig|adjective
+4695|загнать|Заставить войти куда-либо|hineintreiben|verb; perfective; infinitive
+4696|подчеркивать|Особо выделять, акцентировать внимание|betonen|verb; imperfective; infinitive
+4697|регион|Большая территория с общими признаками|Region|noun; feminine
+4698|защитник|Тот, кто защищает и охраняет|Verteidiger|noun; masculine
+4699|немой|Лишённый способности говорить|stumm|adjective
+4700|напасть|Броситься на кого-либо с враждебной целью|angreifen|verb; perfective; infinitive

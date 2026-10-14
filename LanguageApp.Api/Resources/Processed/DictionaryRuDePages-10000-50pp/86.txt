@@ -1,0 +1,50 @@
+4301|коза|Самка козла, домашнее молочное животное|Ziege|noun; feminine
+4302|дымок|Небольшая струйка или клуб дыма|Rauchwölkchen|noun; neuter
+4303|визг|Высокий резкий крик или звук|Kreischen|noun; neuter
+4304|офис|Рабочее помещение, контора|Büro|noun; neuter
+4305|бесшумно|Без шума, тихо|lautlos|adverb
+4306|знающий|Хорошо осведомлённый, компетентный|sachkundig|adjective
+4307|босой|Не обутый, с голыми ногами|barfuß|adjective
+4308|предстоящий|Ожидаемый в ближайшем будущем|bevorstehend|adjective
+4309|повар|Специалист по приготовлению пищи|Koch|noun; masculine
+4310|спрыгнуть|Прыгнуть сверху вниз|hinunterspringen|verb; perfective; infinitive
+4311|здоровенный|Высокий и крепко сложённый|stämmig|adjective
+4312|переносить|Перемещать что-либо с места на место|tragen|verb; imperfective; infinitive
+4313|касса|Место или устройство для денежных расчётов|Kasse|noun; feminine
+4314|независимый|Самостоятельный, не находящийся в подчинении|unabhängig|adjective
+4315|презирать|Относиться к кому-либо с презрением|verachten|verb; imperfective; infinitive
+4316|зарасти|Покрыться растительностью|überwuchern|verb; perfective; infinitive
+4317|тяжкий|Очень тяжёлый, мучительный, суровый|schwer|adjective
+4318|опускать|Перемещать в более низкое положение|senken|verb; imperfective; infinitive
+4319|изящный|Отличающийся тонкостью и красотой|elegant|adjective
+4320|переехать|Проехать через что-либо; сменить место жительства|umziehen|verb; perfective; infinitive
+4321|скатерть|Ткань, которой накрывают стол|Tischdecke|noun; feminine
+4322|негодяй|Подлый, низкий человек|Schurke|noun; masculine
+4323|убегать|Уходить бегом, спасаясь|weglaufen|verb; imperfective; infinitive
+4324|украинский|Относящийся к Украине, украинцам или их языку|ukrainisch|adjective
+4325|кампания|Совокупность мероприятий для достижения определённой цели|Kampagne|noun; feminine
+4326|графа|Столбец в таблице, ограниченный вертикальными линиями|Spalte|noun; feminine
+4327|армейский|Относящийся к армии|Armee-|adjective
+4328|прислушаться|Напрячь слух, чтобы расслышать|lauschen|verb; perfective; infinitive
+4329|освободиться|Получить свободу; избавиться от зависимости|sich befreien|verb; perfective; infinitive; reflexive
+4330|преступный|Являющийся преступлением, криминальный|verbrecherisch|adjective
+4331|уличный|Относящийся к улице|Straßen-|adjective
+4332|крыса|Крупный грызун семейства мышиных|Ratte|noun; feminine
+4333|расспрашивать|Задавать вопросы для выяснения сведений|ausfragen|verb; imperfective; infinitive
+4334|толкать|Ударять, касаться резким движением|stoßen|verb; imperfective; infinitive
+4335|отчаянно|Крайне, с предельным напряжением|verzweifelt|adverb
+4336|издать|Выпустить в свет напечатанное|veröffentlichen|verb; perfective; infinitive
+4337|схватиться|Взяться за что-либо; вступить в схватку|sich festhalten|verb; perfective; infinitive; reflexive
+4338|кружиться|Вращаться, делать круговые движения|sich drehen|verb; imperfective; infinitive; reflexive
+4339|освобождение|Получение свободы от зависимости или заключения|Befreiung|noun; feminine
+4340|поползти|Начать ползти|zu kriechen beginnen|verb; perfective; infinitive
+4341|бетонный|Изготовленный из бетона|Beton-|adjective
+4342|прогноз|Научно обоснованное предсказание о будущем развитии|Prognose|noun; feminine
+4343|съемка|Производство кино- или фотоизображений|Filmaufnahme|noun; feminine
+4344|спохватиться|Внезапно вспомнить об упущенном|sich besinnen|verb; perfective; infinitive; reflexive
+4345|икона|Живописное изображение Бога или святого в православной традиции|Ikone|noun; feminine
+4346|похоронить|Совершить обряд погребения умершего|begraben|verb; perfective; infinitive
+4347|сжимать|Давить, уплотнять, делать плотнее|zusammendrücken|verb; imperfective; infinitive
+4348|местность|Определённый участок земной поверхности|Gegend|noun; feminine
+4349|драгоценный|Очень ценный, высококачественный|wertvoll|adjective
+4350|нарастать|Постепенно увеличиваться|zunehmen|verb; imperfective; infinitive

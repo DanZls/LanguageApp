@@ -1,0 +1,99 @@
+6302|муравей|Общественное насекомое, живущее колониями|Ameise|noun; feminine
+6303|Никитина|Русская фамилия|Nikitina|noun; feminine; proper
+6304|прикинуть|Приблизительно подсчитать|abschätzen|verb; perfective; infinitive
+6305|осудить|Выразить неодобрение; признать виновным|verurteilen|verb; perfective; infinitive
+6306|топтаться|Переступать с ноги на ногу, оставаясь на месте|auf der Stelle treten|verb; imperfective; infinitive
+6307|макушка|Верхняя часть головы|Scheitel|noun; masculine
+6308|подпрыгивать|Делать небольшие прыжки|hüpfen|verb; imperfective; infinitive
+6309|вдвое|В два раза|doppelt|adverb
+6310|навести|Направить к кому-либо или привести куда-либо|hinweisen|verb; perfective; infinitive
+6311|выдавить|Давлением извлечь содержимое из чего-либо|herausdrücken|verb; perfective; infinitive
+6312|капелька|Очень малое количество чего-либо|Tröpfchen|noun; neuter
+6313|мелко|Некрупно; на малые части|fein|adverb
+6314|прогрессивный|Стремящийся к прогрессу; передовой|fortschrittlich|adjective
+6315|псих|Психически неуравновешенный человек|Verrückter|noun; masculine
+6316|обком|Областной комитет партии|Gebietskomitee|noun; neuter
+6317|свирепый|Жестокий и неукротимый|grausam|adjective
+6318|тележка|Небольшая повозка для перевозки грузов|Wagen|noun; masculine
+6319|струйка|Тонкая узкая струя жидкости или газа|Rinnsal|noun; neuter
+6320|желательный|Нужный; соответствующий желаниям|wünschenswert|adjective
+6321|отек|Скопление избыточной жидкости в тканях организма|Ödem|noun; neuter
+6322|превращать|Переводить в другое состояние или вид|verwandeln|verb; imperfective; infinitive
+6323|укрыться|Скрыться или спрятаться|sich verstecken|verb; perfective; infinitive; reflexive
+6324|подвергаться|Оказываться под воздействием чего-либо неблагоприятного|ausgesetzt sein|verb; imperfective; infinitive
+6325|пустырь|Незастроенное запущенное место|Brachland|noun; neuter
+6326|взаимодействие|Взаимная связь и влияние явлений|Wechselwirkung|noun; feminine
+6327|трап|Лестница на судне или у летательного аппарата|Gangway|noun; feminine
+6328|пытка|Физическое насилие при допросе|Folter|noun; feminine
+6329|сурово|Строго; с жёсткостью|streng|adverb
+6330|мгла|Туман; непрозрачный воздух|Dunst|noun; masculine
+6331|фу|Выражение отвращения или неодобрения|pfui|interjection
+6332|березовый|Сделанный из берёзы или относящийся к ней|Birken-|adjective
+6333|великан|Существо или предмет гигантских размеров|Riese|noun; masculine
+6334|распознавание|Определение чего-либо по характерным признакам|Erkennung|noun; feminine
+6335|брезентовый|Сделанный из брезента|Plane-|adjective
+6336|наутро|Утром следующего дня|am nächsten Morgen|adverb
+6337|валять|Ворочать, катать по поверхности|wälzen|verb; imperfective; infinitive
+6338|мертвец|Умерший человек; покойник|Toter|noun; masculine
+6339|набить|Плотно заполнить что-либо|vollstopfen|verb; perfective; infinitive
+6340|ТВ|Телевидение|TV|noun; neuter; abbreviation
+6341|исключительный|Являющийся исключением; необычный|außergewöhnlich|adjective
+6342|грядущий|Предстоящий; будущий|zukünftig|adjective
+6343|колокол|Металлический полый конус с язычком, издающий звон|Glocke|noun; feminine
+6344|мотать|Навивать круговым движением|wickeln|verb; imperfective; infinitive
+6345|тереть|Водить по поверхности взад-вперёд, нажимая|reiben|verb; imperfective; infinitive
+6346|пал|Степной или лесной пожар|Steppenbrand|noun; masculine
+6347|изрядно|Достаточно; в значительной мере|ziemlich|adverb
+6348|величие|Наличие выдающихся свойств, внушающих уважение|Größe|noun; feminine
+6349|приставить|Поставить вплотную к чему-либо|anlehnen|verb; perfective; infinitive
+6350|легендарный|Овеянный славой; вызывающий восхищение|legendär|adjective
+6351|буржуазный|Относящийся к буржуазии и её взглядам|bürgerlich|adjective
+6352|греть|Делать тёплым или горячим; разогревать|wärmen|verb; imperfective; infinitive
+6353|чрезвычайный|Исключительный; значительно превосходящий обычное|außerordentlich|adjective
+6354|соглашение|Взаимная договорённость|Vereinbarung|noun; feminine
+6355|физиологический|Относящийся к жизненным процессам организма|physiologisch|adjective
+6356|немыслимый|Невозможный; трудно представимый|undenkbar|adjective
+6357|зараза|Болезнетворный микроб или инфекция|Ansteckung|noun; feminine
+6358|лавра|Крупный православный мужской монастырь|Lawra|noun; feminine
+6359|яростный|Полный ярости и гнева|wütend|adjective
+6360|вздумать|Неожиданно решить что-либо сделать|sich einfallen lassen|verb; perfective; infinitive; reflexive
+6361|троп|Слово в переносном иносказательном значении|Tropus|noun; masculine
+6362|сосать|Втягивать жидкость в рот губами|saugen|verb; imperfective; infinitive
+6363|костра|Жёсткие остатки стеблей льна после обработки|Schäben|noun; plural
+6364|рака|Церковный ковчег для мощей святого|Reliquiar|noun; neuter
+6365|тосковать|Испытывать тоску и душевное страдание|sich sehnen|verb; imperfective; infinitive; reflexive
+6366|обсудить|Разобрать и оценить, высказав мнение|besprechen|verb; perfective; infinitive
+6367|разбежаться|Разойтись в разные стороны; разогнаться|auseinanderlaufen|verb; perfective; infinitive
+6368|бычок|Молодой бык|Bullenkalb|noun; neuter
+6369|смениться|Замениться другим|sich ablösen|verb; perfective; infinitive; reflexive
+6370|подсудимый|Обвиняемый, находящийся под судом|Angeklagter|noun; masculine
+6371|тормоз|Устройство для снижения скорости или остановки|Bremse|noun; feminine
+6372|кинжал|Обоюдоострое колющее оружие с коротким клинком|Dolch|noun; masculine
+6373|мудрец|Человек, обладающий мудростью|Weiser|noun; masculine
+6374|выскакивать|Выпрыгивать; внезапно появляться|herausspringen|verb; imperfective; infinitive
+6375|повреждение|Место поломки или неисправности|Schaden|noun; masculine
+6376|объединение|Организация или общество|Vereinigung|noun; feminine
+6377|вилок|Кочан капусты|Kohlkopf|noun; masculine
+6378|писаться|Изображаться на письме определённым образом|sich schreiben|verb; imperfective; infinitive; reflexive
+6379|наставник|Учитель и воспитатель|Mentor|noun; masculine
+6380|толщина|Величина в поперечнике|Dicke|noun; feminine
+6381|врезать|Вставить в вырезанное место|einlassen|verb; perfective; infinitive
+6382|аплодисменты|Рукоплескания в знак одобрения|Applaus|noun; masculine
+6383|укрепление|Оборонительное сооружение|Befestigung|noun; feminine
+6384|грош|Старинная мелкая монета; мелкие деньги|Groschen|noun; masculine
+6385|оператор|Специалист, управляющий сложным оборудованием|Operator|noun; masculine
+6386|ступить|Шагнуть; стать ногой куда-либо|treten|verb; perfective; infinitive
+6387|календарь|Таблица или книжка с перечнем дней года|Kalender|noun; masculine
+6388|штатский|Гражданский; не военный|zivil|adjective
+6389|уменьшение|Снижение размера или количества|Verringerung|noun; feminine
+6390|ух|Выражение удивления или восхищения|uh|interjection
+6391|сокровище|Драгоценность; дорогая вещь|Schatz|noun; masculine
+6392|быстрота|Скорость; стремительность|Schnelligkeit|noun; feminine
+6393|мирон|Освящённое миро|Myron|noun; neuter
+6394|прибытие|Приезд или прилёт куда-либо|Ankunft|noun; feminine
+6395|познакомить|Представить кого-либо кому-либо|bekannt machen|verb; perfective; infinitive
+6396|лечиться|Принимать лечение; проходить врачебный курс|sich behandeln lassen|verb; imperfective; infinitive; reflexive
+6397|пронзительный|Резкий и острый на слух|durchdringend|adjective
+6398|честный|Проникнутый искренностью; добросовестный|ehrlich|adjective
+6399|чинить|Исправлять; приводить в пригодное состояние|reparieren|verb; imperfective; infinitive
+6400|отход|Удаление или отступление|Abzug|noun; masculine

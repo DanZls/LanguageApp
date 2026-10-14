@@ -1,0 +1,83 @@
+<section class="card card--settings">
+  <div class="settings__grid">
+    <section class="settings-block">
+      <h3>Account</h3>
+      <label class="field-control">
+        <span>Email</span>
+        <input type="email" [value]="userSettings.userEmail()" (change)="setUserEmail($event)" />
+      </label>
+    </section>
+
+    <section class="settings-block">
+      <h3>Vocabulary</h3>
+
+      <label class="field-control field-control--row" for="auto-play-audio">
+        <span>Auto-play translation audio</span>
+        <input
+          id="auto-play-audio"
+          type="checkbox"
+          [checked]="userSettings.autoPlayAudio()"
+          (change)="setAutoPlayAudio($event)"
+        />
+      </label>
+
+      <label class="field-control" for="audio-loudness">
+        <span>Audio loudness ({{ userSettings.audioLoudnessPercent() }}%)</span>
+        <input
+          id="audio-loudness"
+          type="range"
+          min="0"
+          max="100"
+          step="5"
+          [value]="userSettings.audioLoudnessPercent()"
+          (input)="setAudioLoudness($event)"
+        />
+      </label>
+
+      <div class="field-control field-control--split">
+        <label>
+          <span>Language 1</span>
+          <select [value]="userSettings.language1Tag()" (change)="setLanguage1Tag($event)">
+            @for (language of userSettings.languages; track language) {
+              <option [value]="language" [selected]="language === userSettings.language1Tag()">
+                {{ language }}
+              </option>
+            }
+          </select>
+        </label>
+
+        <label>
+          <span>Language 2</span>
+          <select [value]="userSettings.language2Tag()" (change)="setLanguage2Tag($event)">
+            @for (language of userSettings.languages; track language) {
+              <option [value]="language" [selected]="language === userSettings.language2Tag()">
+                {{ language }}
+              </option>
+            }
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="settings-block">
+      <h3>Appearance</h3>
+
+      <div class="theme-switch" role="radiogroup" aria-label="Theme">
+        <button
+          type="button"
+          [class.theme-switch__option--active]="userSettings.theme() === 'light'"
+          (click)="setTheme('light')"
+        >
+          Light
+        </button>
+        <button
+          type="button"
+          [class.theme-switch__option--active]="userSettings.theme() === 'dark'"
+          (click)="setTheme('dark')"
+        >
+          Dark
+        </button>
+      </div>
+    </section>
+  </div>
+</section>

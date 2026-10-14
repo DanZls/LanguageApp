@@ -1,0 +1,50 @@
+3801|шпион|Тот, кто тайно следит за кем-либо|Spion|noun; masculine
+3802|дуб|Крупное лиственное дерево с твёрдой древесиной и желудями|Eiche|noun; feminine
+3803|лениво|Без усилий, проявляя лень|träge|adverb
+3804|свист|Резкий высокий звук без участия голоса|Pfeifen|noun; neuter
+3805|технология|Совокупность методов и процессов в производстве|Technologie|noun; feminine
+3806|дремать|Находиться в лёгком поверхностном сне|dösen|verb; imperfective; infinitive
+3807|возбудить|Вызвать возбуждённое состояние|erregen|verb; perfective; infinitive
+3808|столетие|Период в сто лет|Jahrhundert|noun; neuter
+3809|болезненный|Склонный к болезням; нездоровый|kränklich|adjective
+3810|крутить|Вращать кругообразно|drehen|verb; imperfective; infinitive
+3811|партизан|Участник народного вооружённого отряда в тылу врага|Partisan|noun; masculine
+3812|выходной|Нерабочий день|freier Tag|noun; masculine
+3813|неуверенный|Не имеющий уверенности, сомневающийся|unsicher|adjective
+3814|защитить|Оградить от опасности или враждебных действий|schützen|verb; perfective; infinitive
+3815|применяться|Использоваться, употребляться|angewendet werden|verb; imperfective; infinitive
+3816|симпатичный|Вызывающий симпатию, привлекательный|sympathisch|adjective
+3817|незнакомец|Неизвестный, незнакомый человек|Fremde|noun; masculine
+3818|младенец|Новорождённый или маленький ребёнок|Säugling|noun; masculine
+3819|облик|Внешний вид, наружность|Erscheinung|noun; feminine
+3820|эпизод|Отдельный случай или происшествие|Episode|noun; feminine
+3821|подчиненный|Лицо, подчиняющееся старшему по должности|Untergebene|noun; masculine
+3822|желающий|Тот, кто хочет чего-либо|Interessent|noun; masculine
+3823|весло|Шест с лопастью для гребли|Ruder|noun; neuter
+3824|преподаватель|Педагог учебного заведения, ведущий учебный предмет|Lehrer|noun; masculine
+3825|пошло|Вульгарно, банально|ordinär|adverb
+3826|мусор|Отходы, отбросы|Müll|noun; masculine
+3827|выключить|Прекратить действие устройства|ausschalten|verb; perfective; infinitive
+3828|рекомендовать|Дать благоприятный отзыв; предложить использовать|empfehlen|verb; perfective; infinitive
+3829|нравственный|Относящийся к нормам морали|moralisch|adjective
+3830|племя|Этническая общность людей, связанных родством и культурой|Stamm|noun; masculine
+3831|расстегнуть|Раскрыть застёжку, освободить от застёгнутого|aufknöpfen|verb; perfective; infinitive
+3832|оказывать|Совершать какое-либо действие по отношению к кому-либо|erweisen|verb; imperfective; infinitive
+3833|подход|Совокупность методов воздействия или изучения|Ansatz|noun; masculine
+3834|прижимать|Нажимать, прислонять к чему-либо|andrücken|verb; imperfective; infinitive
+3835|выстрелить|Произвести один выстрел|schießen|verb; perfective; infinitive
+3836|снижение|Уменьшение, понижение уровня|Senkung|noun; feminine
+3837|звенеть|Издавать звук высокого металлического тембра|klingeln|verb; imperfective; infinitive
+3838|луг|Участок земли, покрытый травянистой растительностью|Wiese|noun; feminine
+3839|ржавый|Покрытый ржавчиной|rostig|adjective
+3840|заодно|Вместе, в согласии|gemeinsam|adverb
+3841|як|Крупный длинношёрстный бык Центральной Азии|Yak|noun; masculine
+3842|сжать|Сдавить, уменьшить в объёме|zusammendrücken|verb; perfective; infinitive
+3843|тоня|Участок водоёма для рыболовства неводом|Fischereistelle|noun; feminine
+3844|подмигнуть|Мигнуть, подавая знак|zuzwinkern|verb; perfective; infinitive
+3845|том|Отдельная книга многотомного издания|Band|noun; masculine
+3846|диск|Предмет в виде плоского круга|Scheibe|noun; feminine
+3847|реветь|Издавать громкий протяжный крик|brüllen|verb; imperfective; infinitive
+3848|прозвучать|Раздаться, быть услышанным (о звуке)|ertönen|verb; perfective; infinitive
+3849|нежно|Проявляя нежность, мягко|zärtlich|adverb
+3850|прижаться|Тесно прислониться к кому-либо|sich anschmiegen|verb; perfective; infinitive; reflexive

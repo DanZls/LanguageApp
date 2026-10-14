@@ -1,0 +1,50 @@
+5251|гвардия|Отборные, привилегированные войска|Garde|noun; feminine
+5252|беременность|Состояние женщины в период вынашивания плода|Schwangerschaft|noun; feminine
+5253|коляска|Маленькая ручная повозка для перевозки детей|Kinderwagen|noun; masculine
+5254|установленный|Закреплённый, определённый в качестве нормы|festgelegt|adjective
+5255|сосредоточить|Собрать в одном месте; направить на одно|konzentrieren|verb; perfective; infinitive
+5256|обижать|Причинять обиду, оскорблять|kränken|verb; imperfective; infinitive
+5257|заинтересовать|Вызвать интерес у кого-либо|interessieren|verb; perfective; infinitive
+5258|чародей|Волшебник, маг|Zauberer|noun; masculine
+5259|поблагодарить|Выразить благодарность|sich bedanken|verb; perfective; infinitive; reflexive
+5260|воинский|Относящийся к военной службе|militärisch|adjective
+5261|связать|Соединить, завязав|binden|verb; perfective; infinitive
+5262|соавтор|Человек, совместно создавший произведение|Mitautor|noun; masculine
+5263|издавать|Выпускать в свет в печатном виде|herausgeben|verb; imperfective; infinitive
+5264|гаснуть|Переставать гореть или светить|erlöschen|verb; imperfective; infinitive
+5265|коса|Волосы, сплетённые в несколько прядей|Zopf|noun; masculine
+5266|повредить|Причинить вред; испортить|beschädigen|verb; perfective; infinitive
+5267|превышать|Быть больше чего-либо по размеру или количеству|überschreiten|verb; imperfective; infinitive
+5268|оформить|Придать окончательный или официальный вид|gestalten|verb; perfective; infinitive
+5269|обнаженный|Лишённый покровов; нагой|nackt|adjective
+5270|автомобильный|Относящийся к автомобилю|Auto-|adjective
+5271|входной|Относящийся ко входу|Eingangs-|adjective
+5272|доброта|Душевная отзывчивость и стремление делать добро|Güte|noun; feminine
+5273|танковый|Относящийся к танкам|Panzer-|adjective
+5274|выдвинуть|Переместить вперёд; предложить кандидатуру|vorschieben|verb; perfective; infinitive
+5275|знакомиться|Вступать в знакомство с кем-либо|sich kennenlernen|verb; imperfective; infinitive; reflexive
+5276|снести|Разрушить, снести|abreißen|verb; perfective; infinitive
+5277|комсомолец|Член Коммунистического союза молодёжи|Komsomolze|noun; masculine
+5278|поработать|Провести время за работой|arbeiten|verb; perfective; infinitive
+5279|логика|Наука о законах и формах правильного мышления|Logik|noun; feminine
+5280|критический|Связанный с критикой; оценивающий недостатки|kritisch|adjective
+5281|предъявить|Показать официальный документ или требование|vorlegen|verb; perfective; infinitive
+5282|черно|Об очень тёмном, чёрном цвете|schwarz|adverb
+5283|творение|Произведение, результат творческого труда|Werk|noun; neuter
+5284|ухаживать|Заботиться о ком-либо; оказывать знаки внимания|pflegen|verb; imperfective; infinitive
+5285|солнышко|Ласковое название солнца|Sonne|noun; feminine
+5286|любовник|Мужчина, состоящий во внебрачной связи с женщиной|Liebhaber|noun; masculine
+5287|обильный|Имеющийся в большом количестве|reichlich|adjective
+5288|дворник|Работник, следящий за чистотой двора и прилегающей территории|Hausmeister|noun; masculine
+5289|лишиться|Утратить что-либо, потерять|verlieren|verb; perfective; infinitive
+5290|наложить|Положить на поверхность чего-либо|auflegen|verb; perfective; infinitive
+5291|белеть|Становиться белым; выделяться белым цветом|weißlich werden|verb; imperfective; infinitive
+5292|замечательно|Очень хорошо; отлично|wunderbar|adverb
+5293|вс|—|—|—
+5294|осуществить|Воплотить в жизнь, претворить в действительность|verwirklichen|verb; perfective; infinitive
+5295|красноармеец|Боец Красной Армии|Rotarmist|noun; masculine
+5296|начальный|Являющийся началом чего-либо|anfänglich|adjective
+5297|бутерброд|Ломтик хлеба с маслом, сыром или иной закуской|Butterbrot|noun; neuter
+5298|скелет|Костная основа тела человека или животного|Skelett|noun; neuter
+5299|былой|Относящийся к прошлому; минувший|einstig|adjective
+5300|стройка|Место строительства; возводимое сооружение|Baustelle|noun; feminine

@@ -1,0 +1,50 @@
+5551|яхта|Небольшое судно для прогулок или спортивных гонок|Jacht|noun; feminine
+5552|пронестись|Быстро промчаться мимо|vorbeirasen|verb; perfective; infinitive
+5553|комбинезон|Цельный костюм, совмещающий верхнюю часть и брюки|Overall|noun; masculine
+5554|комедия|Драматическое произведение с комичным сюжетом|Komödie|noun; feminine
+5555|юридический|Относящийся к праву; правовой|juristisch|adjective
+5556|предварительный|Предшествующий основному; подготовительный|vorläufig|adjective
+5557|жечь|Уничтожать огнём; причинять ожог|verbrennen|verb; imperfective; infinitive
+5558|уткнуться|Упереться во что-либо; зарыться лицом|sich vergraben|verb; perfective; infinitive; reflexive
+5559|классовый|Свойственный определённому общественному классу|Klassen-|adjective
+5560|очертание|Контур, вид предмета, образованный ограничивающей линией|Umriss|noun; masculine
+5561|старина|Давнее прошлое; прежние времена|alte Zeiten|noun; plural
+5562|галерея|Художественный музей; длинный коридор|Galerie|noun; feminine
+5563|сионистский|Относящийся к сионизму|zionistisch|adjective
+5564|любовный|Проникнутый любовью; относящийся к любви|Liebes-|adjective
+5565|доехать|Достигнуть места назначения на транспорте|ankommen|verb; perfective; infinitive
+5566|мигать|Быстро открывать и закрывать глаза|blinzeln|verb; imperfective; infinitive
+5567|познание|Приобретение знаний; постижение истины|Erkenntnis|noun; feminine
+5568|ограничение|Правило, сужающее действия или права|Einschränkung|noun; feminine
+5569|держава|Крупная и могущественная страна|Großmacht|noun; feminine
+5570|предшествовать|Быть прежде чего-либо по времени или порядку|vorangehen|verb; imperfective; infinitive
+5571|чугунный|Сделанный из чугуна; очень тяжёлый|eisern|adjective
+5572|носилки|Приспособление для переноски тяжестей или людей|Trage|noun; feminine
+5573|выругаться|Произнести ругательство|fluchen|verb; perfective; infinitive
+5574|ведомство|Государственное учреждение, управляющее отраслью|Behörde|noun; feminine
+5575|наплевать|Выплюнуть; презрительно игнорировать (разг.)|sich nicht kümmern|verb; perfective; infinitive
+5576|файл|Именованная область данных в вычислительной технике|Datei|noun; feminine
+5577|преданный|Исполненный верности и любви к кому-либо|treu|adjective
+5578|сборный|Составленный из разнородных частей или лиц|zusammengesetzt|adjective
+5579|заполнять|Полностью занимать пространство или форму|ausfüllen|verb; imperfective; infinitive
+5580|продавщица|Женщина, работающая продавцом в магазине|Verkäuferin|noun; feminine
+5581|побледнеть|Стать бледным|erblassen|verb; perfective; infinitive
+5582|пепельница|Сосуд для окурков и пепла|Aschenbecher|noun; masculine
+5583|парад|Торжественное прохождение войск или спортсменов|Parade|noun; feminine
+5584|жилище|Помещение для проживания|Wohnung|noun; feminine
+5585|выдерживать|Терпеть; противостоять воздействию|aushalten|verb; imperfective; infinitive
+5586|скользкий|Гладкий, с малым трением|glatt|adjective
+5587|возвратиться|Вернуться обратно|zurückkehren|verb; perfective; infinitive
+5588|сражаться|Вести боевые действия|kämpfen|verb; imperfective; infinitive
+5589|агентство|Местное представительство организации|Agentur|noun; feminine
+5590|поклонник|Почитатель, преданный восхвалитель|Verehrer|noun; masculine
+5591|сундук|Тяжёлый напольный ящик для хранения|Truhe|noun; feminine
+5592|осуществлять|Воплощать в жизнь; выполнять|verwirklichen|verb; imperfective; infinitive
+5593|диета|Специальный режим питания|Diät|noun; feminine
+5594|свисать|Висеть опустившись вниз|herabhängen|verb; imperfective; infinitive
+5595|любопытно|С интересом и желанием узнать|neugierig|adverb
+5596|кора|Наружная ткань ствола и корня древесных растений|Rinde|noun; feminine
+5597|президентский|Относящийся к президенту|Präsidenten-|adjective
+5598|развлечение|Занятие, доставляющее удовольствие|Unterhaltung|noun; feminine
+5599|шапочка|Маленькая шапка|Mützchen|noun; neuter
+5600|административный|Относящийся к органам государственного управления|administrativ|adjective

@@ -1,0 +1,100 @@
+5601|совпадение|coincidence|noun; singular
+5602|захлопнуть|to slam shut|verb; perfective
+5603|ясность|clarity|noun; singular; uncountable
+5604|трибуна|podium|noun; singular
+5605|частица|particle|noun; singular
+5606|румяный|rosy|adjective
+5607|ловкий|dexterous|adjective
+5608|пионерский|pioneer|adjective
+5609|наместник|governor|noun; singular
+5610|скот|cattle|noun; singular; collective
+5611|общественность|public|noun; singular; uncountable
+5612|кланяться|to bow|verb; imperfective; reflexive
+5613|шибко|very|adverb
+5614|отцовский|paternal|adjective
+5615|прическа|hairstyle|noun; singular
+5616|инструктор|instructor|noun; singular
+5617|рявкнуть|to bark|verb; perfective
+5618|сравнивать|to compare|verb; imperfective
+5619|дожить|to live to see|verb; perfective
+5620|парламент|parliament|noun; singular
+5621|вблизи|nearby|adverb
+5622|недостаточность|insufficiency|noun; singular; uncountable
+5623|планировать|to plan|verb; imperfective
+5624|закрыться|to close|verb; perfective; reflexive
+5625|резерв|reserve|noun; singular
+5626|подлец|scoundrel|noun; singular
+5627|сюрприз|surprise|noun; singular
+5628|поистине|truly|adverb
+5629|пень|stump|noun; singular
+5630|текущий|current|adjective
+5631|вывезти|to take out|verb; perfective
+5632|косить|to mow|verb; imperfective
+5633|посол|ambassador|noun; singular
+5634|гадать|to guess|verb; imperfective
+5635|Швейцария|Switzerland|noun; singular; proper
+5636|млрд|billion|noun; singular; abbreviation
+5637|предварительно|in advance|adverb
+5638|довестись|to happen to|verb; perfective; impersonal
+5639|хмуро|gloomily|adverb
+5640|выделение|allocation|noun; singular
+5641|мощь|might|noun; singular; uncountable
+5642|ого|wow|interjection
+5643|тревожить|to worry|verb; imperfective
+5644|финский|Finnish|adjective
+5645|напряженно|tensely|adverb
+5646|вытянутый|elongated|adjective
+5647|санаторий|sanatorium|noun; singular
+5648|мостик|small bridge|noun; singular
+5649|знаток|connoisseur|noun; singular
+5650|сторонник|supporter|noun; singular
+5651|пылать|to blaze|verb; imperfective
+5652|дитя|child|noun; singular
+5653|захватывать|to seize|verb; imperfective
+5654|жестокость|cruelty|noun; singular
+5655|иголка|needle|noun; singular
+5656|заграничный|foreign|adjective
+5657|спускать|to lower|verb; imperfective
+5658|повалить|to knock down|verb; perfective
+5659|заменять|to replace|verb; imperfective
+5660|Наполеон|Napoleon|noun; singular; proper
+5661|улечься|to lie down|verb; perfective; reflexive
+5662|вымыть|to wash|verb; perfective
+5663|неужто|really|particle; interrogative
+5664|равнина|plain|noun; singular
+5665|поправлять|to correct|verb; imperfective
+5666|ученый|learned|adjective
+5667|топать|to stomp|verb; imperfective
+5668|сжатый|concise|adjective
+5669|превосходство|superiority|noun; singular; uncountable
+5670|заслуживать|to deserve|verb; imperfective
+5671|полночь|midnight|noun; singular
+5672|кухонный|kitchen|adjective
+5673|костыль|crutch|noun; singular
+5674|окликнуть|to call out|verb; perfective
+5675|открытка|postcard|noun; singular
+5676|привозить|to bring|verb; imperfective
+5677|крошка|little one|noun; singular
+5678|вовсю|full force|adverb
+5679|охотиться|to hunt|verb; imperfective; reflexive
+5680|намеренный|intentional|adjective
+5681|вред|harm|noun; singular; uncountable
+5682|гарантия|guarantee|noun; singular
+5683|двигать|to move|verb; imperfective
+5684|окрестность|vicinity|noun; singular
+5685|пальма|palm tree|noun; singular
+5686|присоединиться|to join|verb; perfective; reflexive
+5687|песчаный|sandy|adjective
+5688|загореться|to catch fire|verb; perfective; reflexive
+5689|гудок|horn|noun; singular
+5690|космонавт|cosmonaut|noun; singular
+5691|чекист|Chekist|noun; singular
+5692|путаться|to get confused|verb; imperfective; reflexive
+5693|разбиться|to shatter|verb; perfective; reflexive
+5694|поразительный|striking|adjective
+5695|стариков|old man's|adjective
+5696|социально|socially|adverb
+5697|неизбежно|inevitably|adverb
+5698|свинцовый|leaden|adjective
+5699|обвести|to trace around|verb; perfective
+5700|освещать|to illuminate|verb; imperfective

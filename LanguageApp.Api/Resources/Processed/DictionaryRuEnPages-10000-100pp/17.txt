@@ -1,0 +1,100 @@
+1601|подать|to serve|verb; perfective
+1602|домашний|home|adjective
+1603|готовить|to cook|verb; regular
+1604|участие|participation|noun; singular; uncountable
+1605|жалеть|to pity|verb; regular
+1606|фон|background|noun; singular
+1607|признак|sign|noun; singular
+1608|врать|to lie|verb; irregular
+1609|возразить|to object|verb; perfective
+1610|дача|country house|noun; singular
+1611|обо|about|preposition
+1612|довольный|satisfied|adjective
+1613|готовиться|to prepare|verb; regular; reflexive
+1614|слой|layer|noun; singular
+1615|охрана|guard|noun; singular
+1616|превратиться|to turn into|verb; perfective; reflexive
+1617|милиционер|policeman|noun; singular; irregular plural
+1618|портрет|portrait|noun; singular
+1619|терпеть|to endure|verb; irregular
+1620|махнуть|to wave|verb; perfective
+1621|шкаф|wardrobe|noun; singular
+1622|вес|weight|noun; singular
+1623|холод|cold|noun; singular
+1624|определить|to determine|verb; perfective
+1625|выпустить|to release|verb; perfective
+1626|тревога|anxiety|noun; singular
+1627|выступать|to perform|verb; regular
+1628|полок|shelf|noun; singular
+1629|куртка|jacket|noun; singular
+1630|спустя|after|preposition
+1631|отчего|why|adverb
+1632|изба|hut|noun; singular
+1633|русский|Russian|adjective
+1634|редко|rarely|adverb
+1635|вершина|peak|noun; singular
+1636|тайный|secret|adjective
+1637|занятый|busy|adjective
+1638|рассматривать|to consider|verb; regular
+1639|отойти|to step away|verb; perfective
+1640|вырасти|to grow up|verb; perfective
+1641|Париж|Paris|noun; singular; proper
+1642|убийство|murder|noun; singular
+1643|рубашка|shirt|noun; singular
+1644|ох|oh|interjection
+1645|хозяйство|economy|noun; singular
+1646|парк|park|noun; singular
+1647|перевести|to translate|verb; perfective
+1648|режим|regime|noun; singular
+1649|руководство|guidance|noun; singular; uncountable
+1650|посадить|to plant|verb; perfective
+1651|преступление|crime|noun; singular
+1652|стенка|wall|noun; singular
+1653|орать|to yell|verb; irregular
+1654|кругом|around|adverb
+1655|обойтись|to manage|verb; perfective; reflexive
+1656|луна|moon|noun; singular
+1657|богатый|rich|adjective
+1658|гостиница|hotel|noun; singular
+1659|беседа|conversation|noun; singular
+1660|твердый|hard|adjective
+1661|полк|regiment|noun; singular
+1662|выдать|to issue|verb; perfective
+1663|лапа|paw|noun; singular
+1664|воевать|to wage war|verb; regular
+1665|останавливаться|to stop|verb; regular; reflexive
+1666|никуда|nowhere|adverb
+1667|обладать|to possess|verb; regular
+1668|продать|to sell|verb; perfective
+1669|спорить|to argue|verb; regular
+1670|солнечный|sunny|adjective
+1671|забор|fence|noun; singular
+1672|больший|bigger|adjective; irregular comparison
+1673|пост|post|noun; singular
+1674|полезть|to climb|verb; perfective
+1675|печальный|sad|adjective
+1676|выполнять|to fulfill|verb; regular
+1677|требоваться|to be required|verb; regular; impersonal
+1678|бледный|pale|adjective
+1679|умирать|to die|verb; regular
+1680|шапка|hat|noun; singular
+1681|дойти|to reach|verb; perfective
+1682|успокоиться|to calm down|verb; perfective; reflexive
+1683|университет|university|noun; singular
+1684|бабка|grandma|noun; singular
+1685|журналист|journalist|noun; singular
+1686|должность|position|noun; singular
+1687|приближаться|to approach|verb; regular; reflexive
+1688|истина|truth|noun; singular
+1689|раствор|solution|noun; singular
+1690|газ|gas|noun; singular; uncountable
+1691|позиция|position|noun; singular
+1692|летать|to fly|verb; irregular
+1693|неожиданный|unexpected|adjective
+1694|убивать|to kill|verb; regular
+1695|появление|appearance|noun; singular
+1696|глухой|deaf|adjective
+1697|обыкновенный|ordinary|adjective
+1698|двинуться|to move|verb; perfective; reflexive
+1699|решительно|resolutely|adverb
+1700|спуститься|to descend|verb; perfective; reflexive

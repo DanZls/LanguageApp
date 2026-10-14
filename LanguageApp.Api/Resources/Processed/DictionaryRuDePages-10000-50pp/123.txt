@@ -1,0 +1,50 @@
+6151|присяжный|Член суда присяжных|Geschworener|noun; masculine
+6152|церемония|Установленный торжественный обряд|Zeremonie|noun; feminine
+6153|натягивать|Туго натягивать или обтягивать|anziehen|verb; imperfective; infinitive
+6154|глыба|Большой обломок твёрдого вещества|Brocken|noun; masculine
+6155|деление|Математическая операция нахождения частного|Division|noun; feminine
+6156|диссертация|Научная работа для получения учёной степени|Dissertation|noun; feminine
+6157|толпиться|Собираться или стоять толпой|sich drängen|verb; imperfective; infinitive; reflexive
+6158|несправедливый|Противоречащий справедливости|ungerecht|adjective
+6159|обстоять|Находиться в каком-либо состоянии|sich verhalten|verb; imperfective; infinitive; reflexive
+6160|футбол|Командная игра с мячом, забиваемым ногами в ворота|Fußball|noun; masculine
+6161|Русь|Историческое название Древнерусского государства|Russland|noun; neuter
+6162|морщина|Складка на коже лица или тела|Falte|noun; feminine
+6163|наклонить|Опустить вниз; направить книзу|neigen|verb; perfective; infinitive
+6164|изготовление|Производство или создание чего-либо|Herstellung|noun; feminine
+6165|всматриваться|Внимательно смотреть, присматриваться|starren|verb; imperfective; infinitive
+6166|броня|Прочная защитная облицовка из специальных плит|Panzer|noun; masculine
+6167|поляк|Уроженец или житель Польши|Pole|noun; masculine
+6168|рыбный|Относящийся к рыбе или рыболовству|Fisch-|adjective
+6169|каска|Защитный головной убор в виде шлема|Helm|noun; masculine
+6170|забитый|Измученный и запуганный|eingeschüchtert|adjective
+6171|эксперт|Специалист, дающий заключение по вопросу|Experte|noun; masculine
+6172|туберкулез|Инфекционная болезнь, поражающая лёгкие и другие органы|Tuberkulose|noun; feminine
+6173|помещаться|Укладываться в пределах чего-либо|unterbringen|verb; imperfective; infinitive
+6174|утешать|Успокаивать и облегчать горе|trösten|verb; imperfective; infinitive
+6175|профилактика|Совокупность мер по предупреждению болезней|Prophylaxe|noun; feminine
+6176|посметь|Осмелиться; решиться|wagen|verb; perfective; infinitive
+6177|заинтересованный|Проявляющий интерес к чему-либо|interessiert|adjective
+6178|подводить|Ведя, приближать к чему-либо|heranführen|verb; imperfective; infinitive
+6179|бизнесмен|Человек, занимающийся предпринимательством|Geschäftsmann|noun; masculine
+6180|начисто|В окончательном виде; набело|ins Reine|adverb
+6181|трогательный|Вызывающий умиление и сочувствие|rührend|adjective
+6182|тракт|Большая наезженная дорога|Landstraße|noun; feminine
+6183|сосудистый|Относящийся к кровеносным сосудам|vaskulär|adjective
+6184|смелость|Решимость; способность действовать вопреки страху|Mut|noun; masculine
+6185|клиника|Стационарное лечебное учреждение|Klinik|noun; feminine
+6186|упражнение|Занятие для приобретения и совершенствования навыков|Übung|noun; feminine
+6187|насекомое|Маленькое беспозвоночное членистоногое животное|Insekt|noun; neuter
+6188|ронять|Нечаянно давать выпасть из рук|fallen lassen|verb; imperfective; infinitive
+6189|стандартный|Соответствующий стандарту; типовой|standard|adjective
+6190|опустеть|Стать пустым или безлюдным|sich leeren|verb; perfective; infinitive; reflexive
+6191|потребление|Использование ресурсов для удовлетворения потребностей|Verbrauch|noun; masculine
+6192|зачастую|Часто, нередко|häufig|adverb
+6193|прогнать|Заставить уйти или удалиться|verjagen|verb; perfective; infinitive
+6194|сука|Самка домашней собаки|Hündin|noun; feminine
+6195|взмахнуть|Сделать резкое движение вверх|schwingen|verb; perfective; infinitive
+6196|хрупкий|Ломкий, легко раскалывающийся|zerbrechlich|adjective
+6197|причал|Место у берега, оборудованное для стоянки судов|Anlegestelle|noun; feminine
+6198|частенько|Довольно часто; нередко|öfters|adverb
+6199|бритва|Инструмент для бритья|Rasiermesser|noun; neuter
+6200|феномен|Явление, обнаруживающее сущность чего-либо|Phänomen|noun; neuter

@@ -1,0 +1,100 @@
+9201|хрип|Хриплый звук при дыхании|Röcheln|noun; neuter
+9202|авось|Может быть; выражение надежды на удачу|vielleicht|adverb
+9203|компромисс|Соглашение на основе взаимных уступок|Kompromiss|noun; masculine
+9204|поломать|Сломать; привести в негодность|zerbrechen|verb; perfective; infinitive
+9205|переступать|Шагать через что-либо; переступать|übertreten|verb; imperfective; infinitive
+9206|престол|Трон монарха|Thron|noun; masculine
+9207|пнуть|Нанести удар ногой|treten|verb; perfective; infinitive
+9208|антисоветский|Направленный против советской власти|antisowjetisch|adjective
+9209|недолгий|Кратковременный; длящийся недолго|kurz|adjective
+9210|жаться|Съёживаться; стараться занять меньше места|sich drücken|verb; imperfective; infinitive; reflexive
+9211|почем|По какой цене; сколько стоит|wie viel|adverb
+9212|тряпье|Старые тряпки и лоскуты; ветхая одежда|Lumpen|noun; plural
+9213|грабеж|Открытое хищение чужого имущества|Raub|noun; masculine
+9214|расхаживать|Неспешно ходить взад и вперёд|auf und ab gehen|verb; imperfective; infinitive
+9215|грабитель|Человек, совершающий грабёж|Räuber|noun; masculine
+9216|полноценный|Полностью соответствующий требованиям; полноценный|vollwertig|adjective
+9217|вага|Значимость; степень важности|Gewicht|noun; neuter
+9218|перспективный|Имеющий хорошие перспективы; многообещающий|vielversprechend|adjective
+9219|капрал|Низшее командирское звание в армии|Gefreiter|noun; masculine
+9220|вглядеться|Всмотреться; пристально посмотреть|genau hinsehen|verb; perfective; infinitive
+9221|пастись|О животных: щипать траву; пастись|weiden|verb; imperfective; infinitive
+9222|выскользнуть|Выпасть, скользнув; вырваться|herausgleiten|verb; perfective; infinitive
+9223|дефект|Изъян; недостаток|Defekt|noun; masculine
+9224|субъективный|Обусловленный личными взглядами субъекта|subjektiv|adjective
+9225|галактика|Гигантская звёздная система|Galaxie|noun; feminine
+9226|камыш|Высокое водно-болотное растение|Schilf|noun; neuter
+9227|замполит|Заместитель командира по политической части|Politoffizier|noun; masculine
+9228|самосознание|Осознание себя, своей роли в обществе|Selbstbewusstsein|noun; neuter
+9229|наскоро|Наспех; второпях|hastig|adverb
+9230|обряд|Совокупность ритуальных действий традиции|Ritus|noun; masculine
+9231|резиденция|Официальное место пребывания высокопоставленного лица|Residenz|noun; feminine
+9232|дворцовый|Относящийся к дворцу|Palast-|adjective
+9233|рабство|Состояние полной зависимости человека от другого|Sklaverei|noun; feminine
+9234|публично|Открыто; в присутствии всех|öffentlich|adverb
+9235|печенье|Кондитерское изделие из сладкого теста|Keks|noun; masculine
+9236|интенсивный|Напряжённый; усиленный|intensiv|adjective
+9237|возбудитель|То, что вызывает или стимулирует процесс|Erreger|noun; masculine
+9238|перечитывать|Читать повторно|wiederlesen|verb; imperfective; infinitive
+9239|урна|Сосуд для хранения праха кремированного|Urne|noun; feminine
+9240|ожирение|Избыточное накопление жира в организме|Fettleibigkeit|noun; feminine
+9241|обсуждаться|Подвергаться рассмотрению и обсуждению|besprochen werden|verb; imperfective; infinitive
+9242|предлагаться|Быть предложенным к рассмотрению|angeboten werden|verb; imperfective; infinitive
+9243|навоз|Помёт животных, используемый как удобрение|Mist|noun; masculine
+9244|великодушный|Обладающий щедростью духа; благородный|großmütig|adjective
+9245|грязно|В нечистом виде; неопрятно|schmutzig|adverb
+9246|задумчивость|Состояние мечтательной погружённости в мысли|Nachdenklichkeit|noun; feminine
+9247|бродячий|Постоянно кочующий; скитающийся|wandernd|adjective
+9248|ставень|Деревянная или металлическая створка для закрытия окна|Fensterladen|noun; masculine
+9249|отбиваться|Отражать нападение; защищаться|sich wehren|verb; imperfective; infinitive; reflexive
+9250|сплетня|Слух, основанный на неточных или ложных сведениях|Klatsch|noun; masculine
+9251|капризный|Склонный к капризам; причудливый|launisch|adjective
+9252|становление|Возникновение чего-либо в процессе развития|Entstehung|noun; feminine
+9253|трибунал|Чрезвычайный судебный орган|Tribunal|noun; neuter
+9254|рождество|Христианский праздник в память рождения Иисуса Христа|Weihnachten|noun; plural; proper
+9255|подоспеть|Успеть появиться в нужный момент|rechtzeitig eintreffen|verb; perfective; infinitive
+9256|прислонить|Поставить, оперев верхней частью|anlehnen|verb; perfective; infinitive
+9257|чемпионат|Соревнование на звание чемпиона|Meisterschaft|noun; feminine
+9258|спеть|Созревать; достигать зрелости|reifen|verb; imperfective; infinitive
+9259|тура|Шахматная фигура — ладья|Turm|noun; masculine
+9260|заманчивый|Обещающий выгоду или удовольствие; привлекательный|verlockend|adjective
+9261|фиксировать|Отмечать; записывать|festhalten|verb; imperfective; infinitive
+9262|хихикнуть|Тихо засмеяться|kichern|verb; perfective; infinitive
+9263|расплыться|О жидкости: растечься; расплыться|zerfließen|verb; perfective; infinitive
+9264|баночка|Небольшая банка или баночка|Gläschen|noun; neuter; diminutive
+9265|экспонат|Предмет, выставленный для показа|Exponat|noun; neuter
+9266|социолог|Специалист в области социологии|Soziologe|noun; masculine
+9267|провокация|Намеренное подстрекательство к нежелательным действиям|Provokation|noun; feminine
+9268|продовольственный|Относящийся к продуктам питания|Lebensmittel-|adjective
+9269|ударный|Действующий посредством удара; ударный|Schlag-|adjective
+9270|оторопеть|Растеряться от неожиданности|verblüfft sein|verb; perfective; infinitive
+9271|обзор|Краткое изложение по общей теме; обзор|Überblick|noun; masculine
+9272|пристрелить|Застрелить; убить выстрелом|erschießen|verb; perfective; infinitive
+9273|обрабатывать|Подвергать обработке; готовить|bearbeiten|verb; imperfective; infinitive
+9274|глазной|Относящийся к глазу|Augen-|adjective
+9275|сбиваться|Сбиваться с пути; терять направление|abkommen|verb; imperfective; infinitive
+9276|вредно|Во вред; нанося ущерб здоровью|schädlich|adverb
+9277|сумасброд|Импульсивный; непредсказуемый человек|Wirrkopf|noun; masculine
+9278|осадить|Резко остановить; осадить|zurückdrängen|verb; perfective; infinitive
+9279|шина|Резиновая или металлическая оболочка на колесе|Reifen|noun; masculine
+9280|давеча|Недавно; незадолго до этого|neulich|adverb
+9281|тлеть|Гореть без пламени; медленно сгорать|glimmen|verb; imperfective; infinitive
+9282|благой|Хороший; благой|gut|adjective
+9283|замотать|Обмотать вокруг чего-либо|einwickeln|verb; perfective; infinitive
+9284|ободрать|Содрать покрытие или кожу|abschälen|verb; perfective; infinitive
+9285|разбегаться|Разбегаться в разные стороны|auseinanderlaufen|verb; perfective; infinitive
+9286|бич|Длинная плеть; кнут|Geißel|noun; feminine
+9287|клин|Конусообразный кусок твёрдого материала|Keil|noun; masculine
+9288|винный|Относящийся к вину|Wein-|adjective
+9289|герб|Официальная эмблема государства, города или рода|Wappen|noun; neuter
+9290|установиться|Наступить; сложиться|sich einstellen|verb; perfective; infinitive; reflexive
+9291|рушиться|Падать, разрушаясь|einstürzen|verb; imperfective; infinitive
+9292|пятнышко|Маленькое пятно иного цвета на поверхности|Fleckchen|noun; neuter; diminutive
+9293|разрабатывать|Тщательно исследовать; прорабатывать|ausarbeiten|verb; imperfective; infinitive
+9294|пижама|Домашний костюм из куртки и брюк свободного покроя|Pyjama|noun; masculine
+9295|закашляться|Начать кашлять приступом|sich verschlucken|verb; perfective; infinitive; reflexive
+9296|противоположность|Предмет или явление, полностью расходящееся с другим|Gegensatz|noun; masculine
+9297|нестерпимо|Крайне трудно переносить|unerträglich|adverb
+9298|Вергасов|Русская фамилия|Wergassow|noun; masculine; proper
+9299|взад|В обратном направлении; назад|zurück|adverb
+9300|наглость|Нахальное поведение; дерзость|Frechheit|noun; feminine

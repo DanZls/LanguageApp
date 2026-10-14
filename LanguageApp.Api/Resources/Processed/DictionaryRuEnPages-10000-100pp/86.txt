@@ -1,0 +1,99 @@
+8501|питье|drink|noun; singular
+8502|выговаривать|to pronounce|verb; imperfective
+8503|передохнуть|to catch one's breath|verb; perfective; reflexive
+8504|долбить|to peck at|verb; imperfective
+8505|разрешаться|to be permitted|verb; imperfective; reflexive
+8506|запретный|forbidden|adjective
+8507|репортер|reporter|noun; singular
+8508|напоить|to give a drink|verb; perfective
+8509|декорация|set decoration|noun; singular
+8510|экономить|to save|verb; imperfective
+8511|прилив|tide|noun; singular
+8512|бездельник|idler|noun; singular
+8513|выслушивать|to listen to|verb; imperfective
+8514|переправа|crossing|noun; singular
+8515|припадок|seizure|noun; singular
+8516|Подмосковье|Moscow region|noun; singular; proper
+8517|опубликованный|published|adjective; participle
+8518|доносить|to carry to term|verb; perfective
+8519|сирень|lilac|noun; singular
+8520|сукин|son of a bitch|adjective
+8521|ограничить|to limit|verb; perfective
+8522|контролер|inspector|noun; singular
+8523|бешено|furiously|adverb
+8524|расстроиться|to be upset|verb; perfective; reflexive
+8525|зазвенеть|to start ringing|verb; perfective
+8526|озарить|to illuminate|verb; perfective
+8527|ознакомиться|to familiarize oneself|verb; perfective; reflexive
+8528|мышей|mice|noun; plural
+8529|кружевной|lace|adjective
+8530|психолог|psychologist|noun; singular
+8531|овчарка|shepherd dog|noun; singular
+8532|бесконечность|infinity|noun; singular; uncountable
+8533|заснеженный|snow-covered|adjective; participle
+8534|мычать|to moo|verb; imperfective
+8535|позорный|shameful|adjective
+8536|тушь|mascara|noun; singular; uncountable
+8537|холст|canvas|noun; singular
+8538|иль|or|conjunction
+8539|блистать|to shine|verb; imperfective
+8540|лирический|lyrical|adjective
+8541|долговязый|lanky|adjective
+8542|багажник|trunk|noun; singular
+8543|присмотреться|to take a closer look|verb; perfective; reflexive
+8544|плотность|density|noun; singular; uncountable
+8545|виконт|viscount|noun; singular
+8546|гражданство|citizenship|noun; singular; uncountable
+8547|окрестный|surrounding|adjective
+8548|трактир|inn|noun; singular
+8549|ночлег|overnight stay|noun; singular
+8550|игрушечный|toy|adjective
+8552|кофточка|blouse|noun; singular
+8553|дюжина|dozen|noun; singular
+8554|увеличивать|to increase|verb; imperfective
+8555|поводок|leash|noun; singular
+8556|характеризоваться|to be characterized|verb; imperfective; reflexive
+8557|африканский|African|adjective
+8558|подносить|to bring closer|verb; imperfective
+8559|подставлять|to put under|verb; imperfective
+8560|бесстрашный|fearless|adjective
+8561|шеренга|line|noun; singular
+8562|атаковать|to attack|verb; perfective; imperfective
+8563|одобрительно|approvingly|adverb
+8564|гильза|cartridge case|noun; singular
+8565|звуковой|sound|adjective
+8566|толковый|sensible|adjective
+8567|лада|beloved|noun; singular
+8568|лоток|stall|noun; singular
+8569|пробыть|to stay|verb; perfective
+8570|отлететь|to fly off|verb; perfective
+8571|позавтракать|to have breakfast|verb; perfective; reflexive
+8572|расплачиваться|to pay off|verb; imperfective; reflexive
+8573|переполненный|overcrowded|adjective
+8574|идейный|ideological|adjective
+8575|галька|pebble|noun; singular; uncountable
+8576|вторичный|secondary|adjective
+8577|следопыт|tracker|noun; singular
+8578|лабиринт|labyrinth|noun; singular
+8579|склоняться|to decline|verb; imperfective; reflexive
+8580|носитель|carrier|noun; singular
+8581|добряк|kind man|noun; singular
+8582|бомбить|to bomb|verb; imperfective
+8583|перерезать|to cut in two|verb; perfective
+8584|ансамбль|ensemble|noun; singular
+8585|соблазн|temptation|noun; singular
+8586|сгинуть|to vanish|verb; perfective
+8587|репрессия|repression|noun; singular
+8588|погрозить|to threaten|verb; perfective
+8589|уборка|cleaning|noun; singular; uncountable
+8590|почтение|respect|noun; singular; uncountable
+8591|гражданка|citizen|noun; singular
+8592|воз|cart|noun; singular
+8593|трусливый|cowardly|adjective
+8594|смущаться|to get embarrassed|verb; imperfective; reflexive
+8595|меню|menu|noun; singular; indeclinable
+8596|преграда|barrier|noun; singular
+8597|упрекать|to reproach|verb; imperfective
+8598|голосок|little voice|noun; singular; diminutive
+8599|мотаться|to swing|verb; imperfective; reflexive
+8600|полумрак|semi-darkness|noun; singular; uncountable

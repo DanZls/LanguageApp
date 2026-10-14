@@ -1,0 +1,50 @@
+3701|просторный|Поместительный; не тесный|geräumig|adjective
+3702|отступать|Отходить назад; уходить|zurückweichen|verb; imperfective; infinitive
+3703|соответственно|В соответствии с чем-либо|entsprechend|adverb
+3704|умение|Навык в деле; опыт|Können|noun; neuter
+3705|завалить|Загромоздить; наполнить|überhäufen|verb; perfective; infinitive
+3706|внести|Принести внутрь|hineintragen|verb; perfective; infinitive
+3707|упереться|Опереться плотно; прижаться|sich stützen|verb; perfective; infinitive; reflexive
+3708|застать|Найти в каком-либо месте или состоянии|antreffen|verb; perfective; infinitive
+3709|постоялый|Предназначенный для временного проживания|Gast-|adjective
+3710|перерыв|Промежуток, на время которого прекращается деятельность|Pause|noun; feminine
+3711|губернатор|Начальник крупной административной единицы|Gouverneur|noun; masculine
+3712|славка|Небольшая певчая птица|Grasmücke|noun; feminine
+3713|опускаться|Спускаться вниз|sich senken|verb; imperfective; infinitive; reflexive
+3714|доверие|Уверенность в чьей-либо добросовестности|Vertrauen|noun; neuter
+3715|подряд|Договор на выполнение определённой работы|Vertrag|noun; masculine
+3716|фантастический|Относящийся к фантастике; нереальный|fantastisch|adjective
+3717|темнеть|Становиться тёмным|dunkeln|verb; imperfective; infinitive
+3718|яд|Вещество, вызывающее отравление|Gift|noun; neuter
+3719|гостиный|Относящийся к гостям; предназначенный для гостей|Gast-|adjective
+3720|доход|Деньги, получаемые от деятельности|Einkommen|noun; neuter
+3721|оказать|Обнаружить; проявить|erweisen|verb; perfective; infinitive
+3722|роскошный|Отличающийся роскошью и богатством|luxuriös|adjective
+3723|мак|Травянистое растение с крупными цветками|Mohn|noun; masculine
+3724|инструкция|Свод правил по выполнению чего-либо|Anleitung|noun; feminine
+3725|ир|Растение ирис|Iris|noun; feminine
+3726|спокойствие|Покой; отсутствие волнения|Ruhe|noun; feminine
+3727|недоумение|Состояние сомнения от невозможности понять|Ratlosigkeit|noun; feminine
+3728|психологический|Относящийся к психологии|psychologisch|adjective
+3729|хоббит|Вымышленный народ из произведений Толкина|Hobbit|noun; masculine
+3730|бинокль|Ручной оптический прибор с двумя трубками|Fernglas|noun; neuter
+3731|лысый|Имеющий лысину|kahl|adjective
+3732|вглядываться|Внимательно смотреть; вникать|hineinschauen|verb; imperfective; infinitive
+3733|килограмм|Единица массы, равная 1000 граммов|Kilogramm|noun; neuter
+3734|печально|С прискорбием; с грустью|traurig|adverb
+3735|революционный|Направленный к осуществлению революции|revolutionär|adjective
+3736|меньший|Уступающий другому по величине|kleiner|adjective
+3737|двойной|Вдвое больший|doppelt|adjective
+3738|марш|Музыкальное произведение для сопровождения шествий|Marsch|noun; masculine
+3739|вселенная|Все мироздание; весь мир|Universum|noun; neuter
+3740|прибавить|Добавить; причислить|hinzufügen|verb; perfective; infinitive
+3741|тварь|Всякое живое существо|Kreatur|noun; feminine
+3742|чайник|Сосуд с носиком для кипячения воды|Wasserkocher|noun; masculine
+3743|лыжа|Длинная узкая доска для скольжения по снегу|Ski|noun; masculine
+3744|спустить|Переместить сверху вниз|herunterlassen|verb; perfective; infinitive
+3745|беспокойство|Нарушение покоя; тревога|Unruhe|noun; feminine
+3746|опубликовать|Сделать доступным широкой публике|veröffentlichen|verb; perfective; infinitive
+3747|отпускать|Пускать; освобождать|loslassen|verb; imperfective; infinitive
+3748|намёк|Слова, предполагающие понимание по догадке|Andeutung|noun; feminine
+3749|пробить|Ударами сделать отверстие|durchbohren|verb; perfective; infinitive
+3750|воровать|Преступно присваивать чужое|stehlen|verb; imperfective; infinitive

@@ -1,0 +1,50 @@
+2101|уважение|Почтительное отношение, основанное на признании достоинств|Respekt|noun; masculine
+2102|цепь|Ряд металлических звеньев, соединённых одно с другим|Kette|noun; feminine
+2103|подвал|Помещение в здании ниже уровня земли|Keller|noun; masculine
+2104|некогда|Нет свободного времени|keine Zeit|adverb
+2105|сохранить|Сберечь; не дать утратиться|bewahren|verb; perfective; infinitive
+2106|лампа|Осветительный прибор различного устройства|Lampe|noun; feminine
+2107|закрывать|Делать закрытым; запирать|schließen|verb; imperfective; infinitive
+2108|доля|Часть чего-либо|Anteil|noun; masculine
+2109|неплохо|Достаточно хорошо|nicht schlecht|adverb
+2110|смешной|Вызывающий смех|lustig|adjective
+2111|понадобиться|Стать нужным; потребоваться|brauchen|verb; perfective; infinitive
+2112|старушка|Пожилая женщина (уменьш.-ласк.)|Greisin|noun; feminine
+2113|покачать|Качнуть несколько раз|schaukeln|verb; perfective; infinitive
+2114|выясниться|Стать ясным; прояснить|sich herausstellen|verb; perfective; infinitive; reflexive
+2115|уничтожить|Прекратить существование чего-либо; истребить|vernichten|verb; perfective; infinitive
+2116|отвести|Доставить, ведя куда-либо|wegführen|verb; perfective; infinitive
+2117|гриб|Организм, размножающийся спорами и не образующий цветков|Pilz|noun; masculine
+2118|бродить|Ходить без цели в разных направлениях|umherwandern|verb; imperfective; infinitive
+2119|погода|Состояние атмосферы в данном месте в данное время|Wetter|noun; neuter
+2120|памятник|Скульптурное или архитектурное сооружение в память о чём-либо|Denkmal|noun; neuter
+2121|жар|Сильный горячий воздух; зной|Hitze|noun; feminine
+2122|валяться|Лежать небрежно; бездельничать лёжа|herumliegen|verb; imperfective; infinitive
+2123|кожаный|Сделанный из кожи|ledern|adjective
+2124|механизм|Внутреннее устройство машины или прибора|Mechanismus|noun; masculine
+2125|Израиль|Государство на Ближнем Востоке|Israel|noun; masculine; proper
+2126|мирный|Дружелюбный; связанный с миром|friedlich|adjective
+2127|потеря|То, что утрачено; убыль|Verlust|noun; masculine
+2128|произносить|Выговаривать слова; говорить вслух|aussprechen|verb; imperfective; infinitive
+2129|контроль|Проверка; наблюдение с целью надзора|Kontrolle|noun; feminine
+2130|профессиональный|Относящийся к профессии; занимающийся чем-либо как профессией|professionell|adjective
+2131|дверца|Небольшая дверь или створка отверстия|Türchen|noun; neuter
+2132|предупредить|Заранее известить о чём-либо|warnen|verb; perfective; infinitive
+2133|добиться|Достичь чего-либо путём усилий|erreichen|verb; perfective; infinitive
+2134|норма|Установленная мера; средний показатель|Norm|noun; feminine
+2135|ложка|Предмет для зачерпывания жидкой или рассыпчатой пищи|Löffel|noun; masculine
+2136|зарплата|Заработная плата|Gehalt|noun; neuter
+2137|веревка|Изделие из крученых прядей материала|Seil|noun; neuter
+2138|метода|Система практических способов осуществления чего-либо|Methode|noun; feminine
+2139|исключение|То, что не подчиняется общему правилу|Ausnahme|noun; feminine
+2140|убрать|Унести; удалить; поместить куда-либо|entfernen|verb; perfective; infinitive
+2141|волнение|Сильная тревога; душевное беспокойство|Aufregung|noun; feminine
+2142|вечно|Не прекращаясь; всегда|ewig|adverb
+2143|смешно|Очень забавно|lächerlich|adverb
+2144|поддерживать|Оказывать помощь или содействие|unterstützen|verb; imperfective; infinitive
+2145|продавать|Отдавать за плату|verkaufen|verb; imperfective; infinitive
+2146|нежный|Ласковый; исполненный любви|zärtlich|adjective
+2147|баня|Помещение для мытья и парения|Badehaus|noun; neuter
+2148|путем|Как следует; надлежащим образом|ordentlich|adverb
+2149|повесить|Прикрепить, подвесив сверху|aufhängen|verb; perfective; infinitive
+2150|ужин|Вечерний приём пищи|Abendessen|noun; neuter

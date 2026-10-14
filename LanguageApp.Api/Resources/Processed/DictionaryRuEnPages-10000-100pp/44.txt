@@ -1,0 +1,100 @@
+4301|коза|goat|noun; singular
+4302|дымок|puff of smoke|noun; singular
+4303|визг|squeal|noun; singular
+4304|офис|office|noun; singular
+4305|бесшумно|silently|adverb
+4306|знающий|knowledgeable|adjective
+4307|босой|barefoot|adjective
+4308|предстоящий|upcoming|adjective
+4309|повар|cook|noun; singular
+4310|спрыгнуть|to jump down|verb; perfective
+4311|здоровенный|huge|adjective
+4312|переносить|to transfer|verb; regular
+4313|касса|cash register|noun; singular
+4314|независимый|independent|adjective
+4315|презирать|to despise|verb; regular
+4316|зарасти|to overgrow|verb; perfective
+4317|тяжкий|grave|adjective
+4318|опускать|to lower|verb; regular
+4319|изящный|elegant|adjective
+4320|переехать|to move|verb; perfective
+4321|скатерть|tablecloth|noun; singular
+4322|негодяй|scoundrel|noun; singular
+4323|убегать|to run away|verb; regular
+4324|украинский|Ukrainian|adjective
+4325|кампания|campaign|noun; singular
+4326|графа|column|noun; singular
+4327|армейский|army|adjective
+4328|прислушаться|to listen closely|verb; perfective; reflexive
+4329|освободиться|to free oneself|verb; perfective; reflexive
+4330|преступный|criminal|adjective
+4331|уличный|street|adjective
+4332|крыса|rat|noun; singular
+4333|расспрашивать|to question|verb; regular
+4334|толкать|to push|verb; regular
+4335|отчаянно|desperately|adverb
+4336|издать|to publish|verb; perfective
+4337|схватиться|to grab|verb; perfective; reflexive
+4338|кружиться|to spin|verb; regular; reflexive
+4339|освобождение|liberation|noun; singular; uncountable
+4340|поползти|to start crawling|verb; perfective
+4341|бетонный|concrete|adjective
+4342|прогноз|forecast|noun; singular
+4343|съемка|filming|noun; singular
+4344|спохватиться|to suddenly remember|verb; perfective; reflexive
+4345|икона|icon|noun; singular
+4346|похоронить|to bury|verb; perfective
+4347|сжимать|to squeeze|verb; regular
+4348|местность|area|noun; singular
+4349|драгоценный|precious|adjective
+4350|нарастать|to grow|verb; regular
+4351|чеченский|Chechen|adjective
+4352|изнутри|from inside|preposition
+4353|оборвать|to cut off|verb; perfective
+4354|провал|failure|noun; singular
+4355|аккуратный|neat|adjective
+4356|добавлять|to add|verb; regular
+4357|шумный|noisy|adjective
+4358|малость|trifle|noun; singular
+4359|выглянуть|to peek out|verb; perfective
+4360|гонять|to chase|verb; irregular
+4361|негр|black man|noun; singular
+4362|вонючий|stinky|adjective
+4363|поспешить|to hurry|verb; perfective
+4364|молоденький|youngish|adjective
+4365|стоп|stop|interjection
+4366|дровосек|woodcutter|noun; singular
+4367|упорно|persistently|adverb
+4368|пробежать|to run past|verb; perfective
+4369|снисходительный|condescending|adjective
+4370|невыносимый|unbearable|adjective
+4371|удовлетворение|satisfaction|noun; singular; uncountable
+4372|засунуть|to shove|verb; perfective
+4373|рассердиться|to get angry|verb; perfective; reflexive
+4374|ритм|rhythm|noun; singular
+4375|сдерживать|to restrain|verb; regular
+4376|подбежать|to run up|verb; perfective
+4377|вплоть|up to|adverb
+4378|прелесть|charm|noun; singular
+4379|спрятаться|to hide|verb; perfective; reflexive
+4380|открыто|openly|adverb
+4381|бурый|brown|adjective
+4382|введение|introduction|noun; singular
+4383|голубок|little dove|noun; singular
+4384|мороженый|frozen|adjective
+4385|бессмысленный|meaningless|adjective
+4386|презрение|contempt|noun; singular; uncountable
+4387|округ|district|noun; singular
+4388|медсестра|nurse|noun; singular
+4389|па|step|noun; singular
+4390|переводчик|translator|noun; singular
+4391|складываться|to develop|verb; regular; reflexive
+4392|дружно|together|adverb
+4393|разводить|to lead away|verb; regular
+4394|уютный|cozy|adjective
+4395|японец|Japanese person|noun; singular
+4396|повторяться|to repeat oneself|verb; regular; reflexive
+4397|мелодия|melody|noun; singular
+4398|вал|rampart|noun; singular
+4399|трудиться|to labor|verb; regular; reflexive
+4400|формирование|formation|noun; singular

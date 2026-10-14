@@ -1,0 +1,50 @@
+3851|управлять|Руководить, направлять деятельность кого-либо|leiten|verb; imperfective; infinitive
+3852|загадка|Выражение или явление, требующее разгадки|Rätsel|noun; neuter
+3853|сего|Устар.: этого (указательное местоимение)|dieses|pronoun; neuter
+3854|дуть|Выпускать сильную струю воздуха ртом|blasen|verb; imperfective; infinitive
+3855|пациент|Человек, проходящий лечение у врача|Patient|noun; masculine
+3856|покоситься|Принять косое или наклонное положение|sich neigen|verb; perfective; infinitive; reflexive
+3857|стонать|Издавать стоны от боли или страдания|stöhnen|verb; imperfective; infinitive
+3858|хата|Крестьянский жилой дом|Hütte|noun; feminine
+3859|суета|Беспорядочная торопливость в действиях|Hektik|noun; feminine
+3860|дрогнуть|Начать отступать, не выдержав натиска|zittern|verb; perfective; infinitive
+3861|оттенок|Разновидность цвета или смысла|Nuance|noun; feminine
+3862|пребывание|Нахождение где-либо в течение времени|Aufenthalt|noun; masculine
+3863|любоваться|Рассматривать с восхищением и удовольствием|bewundern|verb; imperfective; infinitive
+3864|гусь|Крупная водоплавающая птица с длинной шеей|Gans|noun; feminine
+3865|решительный|Твёрдый в поступках, не колеблющийся|entschlossen|adjective
+3866|улететь|Отправиться в полёт, удалиться летя|wegfliegen|verb; perfective; infinitive
+3867|бессмертный|Не подверженный смерти, вечно живущий|unsterblich|adjective
+3868|перебирать|Делать частые короткие движения пальцами или ногами|durchwühlen|verb; imperfective; infinitive
+3869|бензин|Бесцветная горючая жидкость из лёгких углеводородов|Benzin|noun; neuter
+3870|занести|Доставить куда-либо по пути|vorbeibringen|verb; perfective; infinitive
+3871|инвалид|Человек, частично или полностью лишённый трудоспособности|Invalide|noun; masculine
+3872|зловещий|Предвещающий несчастье или зло|unheilverkündend|adjective
+3873|убежденный|Твёрдо уверенный в чём-либо|überzeugt|adjective
+3874|роса|Мелкие капли влаги, оседающие на растениях при похолодании|Tau|noun; masculine
+3875|крючок|Стержень с загнутым концом для захвата или подвески|Haken|noun; masculine
+3876|косой|Наклонный, непрямой, не вертикальный|schräg|adjective
+3877|нервно|С волнением, нервозно|nervös|adverb
+3878|сочинять|Создавать литературное или музыкальное произведение|verfassen|verb; imperfective; infinitive
+3879|вероника|Травянистое растение семейства подорожниковых|Ehrenpreis|noun; masculine
+3880|резиновый|Изготовленный из резины|gummi|adjective
+3881|вопль|Громкий протяжный крик|Schrei|noun; masculine
+3882|вложить|Поместить что-либо внутрь|hineinstecken|verb; perfective; infinitive
+3883|плевать|Выбрасывать слюну изо рта|spucken|verb; imperfective; infinitive
+3884|сложенный|Имеющий определённое телосложение|gebaut|adjective
+3885|купаться|Погружаться в воду для мытья или освежения|schwimmen|verb; imperfective; infinitive
+3886|боевик|Вооружённый член нелегальной группировки|Kämpfer|noun; masculine
+3887|поди|Ступай; иди (повелительное наклонение)|geh|verb; imperative
+3888|очаг|Устройство для разведения огня|Herd|noun; masculine
+3889|пленный|Захваченный и содержащийся в плену|Gefangene|adjective
+3890|ребятишки|Маленькие дети (ласкат.)|Kinder|noun; plural
+3891|уловить|Воспринять, поймать на слух|auffangen|verb; perfective; infinitive
+3892|проникнуть|Пробраться внутрь, достичь чего-либо|eindringen|verb; perfective; infinitive
+3893|уцелеть|Остаться невредимым, сохраниться|überleben|verb; perfective; infinitive
+3894|заговор|Тайное соглашение против кого-либо|Verschwörung|noun; feminine
+3895|сдаваться|Прекращать сопротивление, признавать себя побеждённым|sich ergeben|verb; imperfective; infinitive; reflexive
+3896|елка|Наряженная ель на Новый год или Рождество|Weihnachtsbaum|noun; masculine
+3897|сдвинуть|Переместить с места|verschieben|verb; perfective; infinitive
+3898|гром|Раскаты звука, сопровождающие молнию|Donner|noun; masculine
+3899|медленный|Совершающийся с небольшой скоростью|langsam|adjective
+3900|порыв|Внезапное резкое усиление ветра|Windböe|noun; feminine

@@ -1,0 +1,50 @@
+3451|фуражка|Головной убор с жёстким козырьком|Schirmmütze|noun; feminine
+3452|рассмотреть|Внимательно осмотреть; распознать|erkennen|verb; perfective; infinitive
+3453|учитывать|Принимать во внимание|berücksichtigen|verb; imperfective; infinitive
+3454|признание|Открытое сообщение о своих поступках|Geständnis|noun; neuter
+3455|демократический|Соответствующий принципам демократии|demokratisch|adjective
+3456|окраина|Удалённая от центра часть города|Stadtrand|noun; masculine
+3457|греметь|Производить громкие звуки|donnern|verb; imperfective; infinitive
+3458|оглядеться|Осмотреться вокруг|sich umsehen|verb; perfective; infinitive; reflexive
+3459|гениальный|Обладающий гением|genial|adjective
+3460|пыльный|Покрытый пылью|staubig|adjective
+3461|маг|Человек, владеющий тайнами магии|Magier|noun; masculine
+3462|ступать|Шагать; идти|schreiten|verb; imperfective; infinitive
+3463|сгореть|Сгореть полностью|abbrennen|verb; perfective; infinitive
+3464|плотно|Прочно; впритык|dicht|adverb
+3465|обращение|Проявление отношения к кому-либо|Behandlung|noun; feminine
+3466|командировка|Служебная поездка|Dienstreise|noun; feminine
+3467|подозрение|Предположение, основанное на сомнении|Verdacht|noun; masculine
+3468|ген|Единица наследственного материала|Gen|noun; neuter
+3469|погаснуть|Перестать гореть; потухнуть|erlöschen|verb; perfective; infinitive
+3470|торговый|Относящийся к ведению торговли|kommerziell|adjective
+3471|злость|Раздражённо-враждебное чувство|Wut|noun; feminine
+3472|пузырь|Наполненный воздухом шарик в жидкости|Blase|noun; feminine
+3473|испытание|Проверочный опрос или экзамен|Prüfung|noun; feminine
+3474|нанести|Причинить удар или вред|zufügen|verb; perfective; infinitive
+3475|прохожий|Идущий мимо|Passant|noun; masculine
+3476|прыжок|Быстрое перемещение тела с отталкиванием|Sprung|noun; masculine
+3477|вена|Кровеносный сосуд, проводящий кровь к сердцу|Vene|noun; feminine
+3478|вытирать|Удалять с поверхности|abwischen|verb; imperfective; infinitive
+3479|включая|В том числе; вместе с кем-либо|einschließlich|preposition
+3480|неподвижно|Без движения; статично|reglos|adverb
+3481|осознать|Полностью понять; осмыслить|begreifen|verb; perfective; infinitive
+3482|пройтись|Пройти немного; прогуляться|spazieren|verb; perfective; infinitive
+3483|обидно|С обидой; досадно|ärgerlich|adverb
+3484|палочка|Узкий длинный предмет|Stäbchen|noun; neuter
+3485|ленинградский|Связанный с Ленинградом|Leningrader|adjective
+3486|годиться|Быть годным для чего-либо|taugen|verb; imperfective; infinitive
+3487|мысленно|В уме; в воображении|gedanklich|adverb
+3488|КГБ|Комитет государственной безопасности|KGB|noun; neuter; proper
+3489|заполнить|Наполнить; занять целиком|ausfüllen|verb; perfective; infinitive
+3490|взор|Взгляд|Blick|noun; masculine
+3491|раздражать|Вызывать раздражение|reizen|verb; imperfective; infinitive
+3492|нары|Дощатый настил для спанья|Pritsche|noun; feminine
+3493|катастрофа|Событие с трагическими последствиями|Katastrophe|noun; feminine
+3494|коллектив|Группа лиц, объединённых общей работой|Kollektiv|noun; neuter
+3495|новенький|Человек, новый в коллективе|Neuling|noun; masculine
+3496|хор|Ансамбль певцов|Chor|noun; masculine
+3497|отказать|Ответить отрицательно на просьбу|ablehnen|verb; perfective; infinitive
+3498|отложить|Положить в сторону; отдельно|zurücklegen|verb; perfective; infinitive
+3499|свести|Ведя, доставить куда-нибудь|hinführen|verb; perfective; infinitive
+3500|зарабатывать|Добывать деньги трудом|verdienen|verb; imperfective; infinitive

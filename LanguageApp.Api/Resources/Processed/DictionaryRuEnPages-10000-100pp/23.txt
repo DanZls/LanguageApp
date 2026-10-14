@@ -1,0 +1,100 @@
+2201|пробормотать|to mutter|verb; perfective
+2202|покинуть|to leave|verb; perfective
+2203|перо|feather|noun; singular
+2204|сфера|sphere|noun; singular
+2205|судья|judge|noun; singular
+2206|жизненный|vital|adjective
+2207|кончить|to finish|verb; perfective
+2208|листок|leaflet|noun; singular
+2209|равный|equal|adjective
+2210|ужасный|terrible|adjective
+2211|отдых|rest|noun; singular; uncountable
+2212|применять|to apply|verb; regular
+2213|непременно|certainly|adverb
+2214|золото|gold|noun; singular; uncountable
+2215|угроза|threat|noun; singular
+2216|доложить|to report|verb; perfective
+2217|яблоко|apple|noun; singular
+2218|меняться|to exchange|verb; regular; reflexive
+2219|обратный|reverse|adjective
+2220|путешествие|journey|noun; singular
+2221|традиция|tradition|noun; singular
+2222|полезный|useful|adjective
+2223|Франция|France|noun; singular; proper
+2224|гнать|to drive|verb; irregular
+2225|выяснить|to clarify|verb; perfective
+2226|драться|to fight|verb; regular; reflexive
+2227|раненый|wounded|adjective
+2228|депутат|deputy|noun; singular
+2229|захотеться|to feel like|verb; perfective; reflexive; impersonal
+2230|американец|American|noun; singular
+2231|производить|to produce|verb; regular
+2232|нигде|nowhere|adverb
+2233|знакомство|acquaintance|noun; singular
+2234|заснуть|to fall asleep|verb; perfective
+2235|свернуть|to turn|verb; perfective
+2236|задумчиво|thoughtfully|adverb
+2237|подозревать|to suspect|verb; regular
+2238|скромный|modest|adjective
+2239|спускаться|to descend|verb; regular; reflexive
+2240|следствие|consequence|noun; singular
+2241|медицинский|medical|adjective
+2242|договориться|to agree|verb; perfective; reflexive
+2243|яйцо|egg|noun; singular; irregular plural
+2244|поступок|act|noun; singular
+2245|преступник|criminal|noun; singular
+2246|проверять|to check|verb; regular
+2247|присесть|to sit down|verb; perfective
+2248|звание|rank|noun; singular
+2249|дрова|firewood|noun; plural; uncountable
+2250|удобный|convenient|adjective
+2251|аккуратно|neatly|adverb
+2252|подушка|pillow|noun; singular
+2253|бег|run|noun; singular
+2254|тетка|aunt|noun; singular
+2255|пропустить|to let pass|verb; perfective
+2256|высоко|high|adverb
+2257|дивизия|division|noun; singular
+2258|коньяк|cognac|noun; singular; uncountable
+2259|др|etc|abbreviation
+2260|распахнуть|to fling open|verb; perfective
+2261|исключительно|exclusively|adverb
+2262|мягко|softly|adverb
+2263|горизонт|horizon|noun; singular
+2264|китайский|Chinese|adjective
+2265|ползти|to crawl|verb; irregular
+2266|выбраться|to get out|verb; perfective; reflexive
+2267|мрачный|gloomy|adjective
+2268|деталь|detail|noun; singular
+2269|контакт|contact|noun; singular
+2270|жук|beetle|noun; singular
+2271|шеф|chief|noun; singular
+2272|Петербург|Petersburg|noun; singular; proper
+2273|правильный|correct|adjective
+2274|погодить|to wait a bit|verb; perfective
+2275|новость|news|noun; singular; uncountable
+2276|утренний|morning|adjective
+2277|гений|genius|noun; singular
+2278|передача|transmission|noun; singular
+2279|редакция|editorial office|noun; singular
+2280|опуститься|to lower oneself|verb; perfective; reflexive
+2281|декабрь|December|noun; singular
+2282|публика|audience|noun; singular; uncountable
+2283|колхоз|kolkhoz|noun; singular
+2284|свадьба|wedding|noun; singular
+2285|лук|onion|noun; singular; uncountable
+2286|городок|small town|noun; singular
+2287|немало|quite a lot|adverb
+2288|бандит|bandit|noun; singular
+2289|москвич|Muscovite|noun; singular
+2290|лаборатория|laboratory|noun; singular
+2291|прекратить|to stop|verb; perfective
+2292|согласно|in accordance|adverb
+2293|справиться|to cope|verb; perfective; reflexive
+2294|молодежь|youth|noun; singular; uncountable
+2295|ноябрь|November|noun; singular
+2296|строительство|construction|noun; singular; uncountable
+2297|прислушиваться|to listen closely|verb; regular; reflexive
+2298|пакет|package|noun; singular
+2299|пенсия|pension|noun; singular
+2300|постараться|to try|verb; perfective; reflexive

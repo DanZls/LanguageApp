@@ -1,0 +1,100 @@
+7501|цветочек|little flower|noun; singular; diminutive
+7502|импортный|imported|adjective
+7503|помалкивать|to keep quiet|verb; imperfective
+7504|алкоголик|alcoholic|noun; singular
+7505|венец|crown|noun; singular
+7506|маневр|maneuver|noun; singular
+7507|пошевелить|to move|verb; perfective
+7508|изъять|to withdraw|verb; perfective
+7509|постигнуть|to comprehend|verb; perfective
+7510|оседать|to settle|verb; imperfective
+7511|дрозд|thrush|noun; singular
+7512|бей|bey|noun; singular
+7513|жгучий|burning|adjective
+7514|тягостный|burdensome|adjective
+7515|мафия|mafia|noun; singular
+7516|котлета|cutlet|noun; singular
+7517|корона|crown|noun; singular
+7518|казна|treasury|noun; singular; uncountable
+7519|татарин|Tatar|noun; singular
+7520|словечко|little word|noun; singular; diminutive
+7521|подобраться|to sneak up|verb; perfective; reflexive
+7522|вероятный|probable|adjective
+7523|борец|fighter|noun; singular
+7524|фронтовик|frontline veteran|noun; singular
+7525|душно|stuffy|adverb
+7526|палить|to shoot|verb; imperfective
+7527|одеколон|cologne|noun; singular; uncountable
+7528|переступить|to step over|verb; perfective
+7529|промежуток|interval|noun; singular
+7530|ножик|little knife|noun; singular; diminutive
+7531|почудиться|to seem|verb; perfective; reflexive
+7532|задевать|to brush against|verb; imperfective
+7533|теплоход|motor ship|noun; singular
+7534|веять|to winnow|verb; imperfective
+7535|Грузия|Georgia|noun; singular; proper
+7536|неинтересно|uninterestingly|adverb
+7537|снайпер|sniper|noun; singular
+7538|излагать|to expound|verb; imperfective
+7539|батон|loaf|noun; singular
+7540|горелый|burnt|adjective
+7541|горлышко|neck|noun; singular; diminutive
+7542|поэтический|poetic|adjective
+7543|влага|moisture|noun; singular; uncountable
+7544|характерно|characteristically|adverb
+7545|костлявый|bony|adjective
+7546|прославить|to glorify|verb; perfective
+7547|предисловие|preface|noun; singular
+7548|увидать|to see|verb; perfective
+7549|Греция|Greece|noun; singular; proper
+7550|принадлежащий|belonging|adjective
+7551|полено|log|noun; singular
+7552|обход|detour|noun; singular
+7553|преданность|devotion|noun; singular; uncountable
+7554|отвергнуть|to reject|verb; perfective
+7555|джунгли|jungle|noun; plural
+7556|кукуруза|corn|noun; singular; uncountable
+7557|поединок|duel|noun; singular
+7558|запястье|wrist|noun; singular
+7559|шпага|sword|noun; singular
+7560|понюхать|to sniff|verb; perfective
+7561|злобно|maliciously|adverb
+7562|полушубок|sheepskin coat|noun; singular
+7563|жила|vein|noun; singular
+7564|валек|beater|noun; singular
+7565|трудящийся|working|adjective; participle
+7566|подземелье|dungeon|noun; singular
+7567|копченый|smoked|adjective
+7568|опередить|to overtake|verb; perfective
+7569|гладко|smoothly|adverb
+7570|шлепать|to shuffle|verb; imperfective
+7571|боб|bean|noun; singular
+7572|материться|to swear|verb; imperfective; reflexive
+7573|петербургский|Petersburg|adjective
+7574|лупить|to thrash|verb; imperfective
+7575|дружный|amicable|adjective
+7576|мило|nicely|adverb
+7577|освобождать|to free|verb; imperfective
+7578|старец|elder|noun; singular
+7579|робот|robot|noun; singular
+7580|прикрикнуть|to shout at|verb; perfective
+7581|вахта|watch|noun; singular
+7582|потечь|to start flowing|verb; perfective
+7583|жительство|residence|noun; singular; uncountable
+7584|выкрикивать|to shout out|verb; imperfective
+7585|избирательный|selective|adjective
+7586|раскрыться|to open up|verb; perfective; reflexive
+7587|ограничиться|to limit oneself|verb; perfective; reflexive
+7588|толкаться|to push|verb; imperfective; reflexive
+7589|обогнать|to overtake|verb; perfective
+7590|фыркнуть|to snort|verb; perfective
+7591|угнетать|to oppress|verb; imperfective
+7592|останки|remains|noun; plural
+7593|задушить|to strangle|verb; perfective
+7594|скрипучий|creaky|adjective
+7595|юбилей|anniversary|noun; singular
+7596|стемнеть|to get dark|verb; perfective
+7597|отличить|to distinguish|verb; perfective
+7598|кара|punishment|noun; singular; uncountable
+7599|покушение|attempt|noun; singular
+7600|безумно|insanely|adverb

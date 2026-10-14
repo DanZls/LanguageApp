@@ -1,0 +1,50 @@
+3901|переводить|Передавать текст или речь с одного языка на другой|übersetzen|verb; imperfective; infinitive
+3902|вцепиться|Крепко схватить кого-либо или что-либо|sich festkrallen|verb; perfective; infinitive; reflexive
+3903|обман|Намеренное введение в заблуждение, ложь|Täuschung|noun; feminine
+3904|подробно|Детально, со всеми частностями|ausführlich|adverb
+3905|противоречие|Несоответствие, несовместимость между чем-либо|Widerspruch|noun; masculine
+3906|нефть|Минеральная горючая жидкость, сырьё для топлива|Erdöl|noun; neuter
+3907|медицина|Комплекс наук о здоровье, болезнях и лечении|Medizin|noun; feminine
+3908|сбоку|С боковой стороны|seitlich|adverb
+3909|полно|Довольно, хватит|genug|adverb
+3910|напечатать|Воспроизвести текст или изображение печатью|drucken|verb; perfective; infinitive
+3911|руководить|Направлять деятельность кого-либо|leiten|verb; imperfective; infinitive
+3912|видный|Заметный, доступный взгляду|sichtbar|adjective
+3913|нисколько|Ни в какой мере, совсем не|gar nicht|adverb
+3914|землянка|Жилое углубление в земле, покрытое сверху|Erdhütte|noun; feminine
+3915|француз|Человек французской национальности|Franzose|noun; masculine
+3916|откровенно|Открыто, без утайки|offen|adverb
+3917|донестись|Достичь чьего-либо слуха или обоняния|herübertragen|verb; perfective; infinitive
+3918|нуль|Число, обозначающее отсутствие величины|Null|noun; feminine
+3919|соответствие|Согласованность, равенство в каком-либо отношении|Übereinstimmung|noun; feminine
+3920|разнообразный|Различный, неодинаковый по признакам|vielfältig|adjective
+3921|практический|Относящийся к реальному опыту и действиям|praktisch|adjective
+3922|капуста|Огородное растение, растущее кочаном|Kohl|noun; masculine
+3923|неплохой|Достаточно хороший, удовлетворительный|nicht schlecht|adjective
+3924|вкусный|Приятный на вкус|lecker|adjective
+3925|бесплатно|Без оплаты, даром|kostenlos|adverb
+3926|верховный|Высший, главенствующий|oberste|adjective
+3927|выбить|Ударом удалить; вытеснить с боем|herausschlagen|verb; perfective; infinitive
+3928|повиснуть|Начать висеть, зависнуть|hängen bleiben|verb; perfective; infinitive
+3929|мрак|Непроглядная тьма|Finsternis|noun; feminine
+3930|осведомиться|Навести справки, узнать что-либо|sich erkundigen|verb; perfective; infinitive; reflexive
+3931|окружать|Находиться вокруг, составлять чью-либо среду|umgeben|verb; imperfective; infinitive
+3932|сук|Крупный боковой отросток ствола дерева|Ast|noun; masculine
+3933|травма|Повреждение органа в результате внешнего воздействия|Trauma|noun; neuter
+3934|законный|Соответствующий закону, правомерный|rechtmäßig|adjective
+3935|предоставить|Отдать в распоряжение или пользование|bereitstellen|verb; perfective; infinitive
+3936|интеллигентный|Обладающий высокой культурой и образованностью|gebildet|adjective
+3937|отражение|Изображение на отражающей поверхности|Spiegelung|noun; feminine
+3938|котел|Большой металлический сосуд для нагревания воды|Kessel|noun; masculine
+3939|самостоятельный|Независимый, действующий без посторонней помощи|selbstständig|adjective
+3940|изумление|Крайнее удивление|Erstaunen|noun; neuter
+3941|длина|Протяжённость предмета по наибольшему измерению|Länge|noun; feminine
+3942|похороны|Обряд погребения умершего|Beerdigung|noun; feminine
+3943|обширный|Занимающий большое пространство, просторный|weiträumig|adjective
+3944|ресурс|Запасы или источники чего-либо|Ressource|noun; feminine
+3945|сценарий|Подробный текст для создания кинофильма|Drehbuch|noun; neuter
+3946|свидетельствовать|Удостоверять в качестве очевидца|bezeugen|verb; imperfective; infinitive
+3947|пропаганда|Целенаправленное распространение взглядов или идей|Propaganda|noun; feminine
+3948|смертельный|Приводящий или способный привести к смерти|tödlich|adjective
+3949|вытаскивать|Извлекать наружу|herausziehen|verb; imperfective; infinitive
+3950|официант|Работник, подающий блюда и напитки в кафе|Kellner|noun; masculine

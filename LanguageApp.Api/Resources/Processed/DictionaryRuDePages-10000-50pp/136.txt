@@ -1,0 +1,50 @@
+6801|трепетать|Колебаться; дрожать|zittern|verb; imperfective; infinitive
+6802|толковать|Давать объяснение; определять смысл|auslegen|verb; imperfective; infinitive
+6803|находка|Найденная вещь|Fund|noun; masculine
+6804|легкомысленный|Полный легкомыслия; несерьёзный|leichtsinnig|adjective
+6805|волчий|Принадлежащий волку; волчий|Wolf-|adjective
+6806|телогрейка|Ватная стёганая куртка|Steppjacke|noun; feminine
+6807|паразит|Организм, питающийся за счёт другого|Parasit|noun; masculine
+6808|красоваться|Привлекать к себе внимание своей красотой|sich zeigen|verb; imperfective; infinitive; reflexive
+6809|отвлечься|Отвлечься от занятия; отклониться|sich ablenken|verb; perfective; infinitive; reflexive
+6810|уставать|Утомляться; чувствовать усталость|sich ermüden|verb; imperfective; infinitive; reflexive
+6811|гибкий|Легко сгибаемый; упругий|flexibel|adjective
+6812|полководец|Военачальник; военный вождь|Feldherr|noun; masculine
+6813|желанный|Ожидаемый; такой, которого желают|ersehnt|adjective
+6814|спасаться|Избегать опасности; спасать себя|sich retten|verb; imperfective; infinitive; reflexive
+6815|тонко|Деликатно; тонким образом|fein|adverb
+6816|торжествовать|Справлять торжество; праздновать победу|triumphieren|verb; imperfective; infinitive
+6817|консульство|Дипломатическое представительство под руководством консула|Konsulat|noun; neuter
+6818|организованный|Объединённый в организацию; сплочённый|organisiert|adjective
+6819|ненормальный|Отклоняющийся от нормы|anormal|adjective
+6820|приспособить|Сделать пригодным для определённой цели|anpassen|verb; perfective; infinitive
+6821|мертвый|Умерший; лишённый жизни|tot|adjective
+6822|слепить|Сформировать из пластической массы|formen|verb; perfective; infinitive
+6823|кишечный|Относящийся к кишечнику|Darm-|adjective
+6824|магнитный|Относящийся к магниту или магнетизму|magnetisch|adjective
+6825|синяк|Посиневший кровоподтёк на теле|blauer Fleck|noun; masculine
+6826|задерживать|Сдерживать; останавливать|aufhalten|verb; imperfective; infinitive
+6827|предвидеть|Заранее знать или предполагать о чём-либо|voraussehen|verb; imperfective; infinitive
+6828|швейцар|Сторож при подъезде учреждения или гостиницы|Portier|noun; masculine
+6829|рыбалка|Рыбная ловля|Angeln|noun; neuter
+6830|ти|Местоимение второго лица единственного числа (просторечное)|du|pronoun; singular; second person
+6831|культ|Религиозное служение и обряды; поклонение|Kult|noun; masculine
+6832|пирога|Узкая длинная лодка народов Океании и Америки|Einbaum|noun; masculine
+6833|итальянец|Уроженец или житель Италии|Italiener|noun; masculine
+6834|умолк|Не умолкая; не затихая (устаревшее)|ohne Unterbrechung|adverb
+6835|проследить|Следуя, выследить или отследить|verfolgen|verb; perfective; infinitive
+6836|штурм|Решительная атака укреплённой позиции|Sturm|noun; masculine
+6837|граф|Дворянский титул выше баронского|Graf|noun; masculine
+6838|превосходный|Отличный; очень хороший|ausgezeichnet|adjective
+6839|откладывать|Складывать в сторону; переносить на более позднее время|verschieben|verb; imperfective; infinitive
+6840|тапочки|Лёгкие туфли без каблуков|Hausschuhe|noun; plural
+6841|дурачок|Глупец (ласкательное)|Dummchen|noun; neuter
+6842|передаваться|Сообщаться; переходить к другому|übertragen werden|verb; imperfective; infinitive
+6843|очаровательный|Прекрасный; способный очаровывать|bezaubernd|adjective
+6844|горсть|Ладонь с согнутыми пальцами, удерживающая что-либо|Handvoll|noun; feminine
+6845|новейший|Самый новый; самый современный|neueste|adjective
+6846|инстанция|Одна из ступеней в иерархии органов|Instanz|noun; feminine
+6847|побрать|Взять в каком-либо количестве|wegnehmen|verb; perfective; infinitive
+6848|фото|Фотографический снимок|Foto|noun; neuter
+6849|сердитый|Склонный сердиться; раздражительный|verärgert|adjective
+6850|отразиться|Получить изображение на гладкой поверхности; сказаться|sich widerspiegeln|verb; perfective; infinitive; reflexive

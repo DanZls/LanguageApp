@@ -1,0 +1,50 @@
+8501|питье|Напиток; процесс питья|Getränk|noun; neuter
+8502|выговаривать|Произносить чётко; высказывать упрёк|aussprechen|verb; imperfective; infinitive
+8503|передохнуть|Сделать короткий перерыв для отдыха|sich kurz ausruhen|verb; perfective; infinitive; reflexive
+8504|долбить|Ударами делать углубление|meißeln|verb; imperfective; infinitive
+8505|разрешаться|Быть позволенным, допускаться|erlaubt sein|verb; imperfective
+8506|запретный|Запрещённый для использования или доступа|verboten|adjective
+8507|репортер|Корреспондент, пишущий репортажи|Reporter|noun; masculine
+8508|напоить|Пропитать жидкостью; дать выпить|tränken|verb; perfective; infinitive
+8509|декорация|Сценическое оформление места действия|Kulisse|noun; feminine
+8510|экономить|Расходовать бережно, без лишних трат|sparen|verb; imperfective; infinitive
+8511|прилив|Периодическое подъём уровня моря|Flut|noun; feminine
+8512|бездельник|Лентяй, человек, уклоняющийся от работы|Faulenzer|noun; masculine
+8513|выслушивать|Внимательно слушать до конца|anhören|verb; imperfective; infinitive
+8514|переправа|Место или средство для пересечения водной преграды|Überfahrt|noun; feminine
+8515|припадок|Внезапный острый приступ болезни|Anfall|noun; masculine
+8516|Подмосковье|Территория вокруг Москвы|Moskauer Umland|noun; neuter; proper
+8517|опубликованный|Обнародованный, напечатанный|veröffentlicht|adjective; participle
+8518|доносить|Донести сведения; довынашивать|melden|verb; perfective; infinitive
+8519|сирень|Кустарник с душистыми лиловыми соцветиями|Flieder|noun; masculine
+8520|сукин|Относящийся к суке (бранное)|hundsgemein|adjective
+8521|ограничить|Установить границы, сократить охват|einschränken|verb; perfective; infinitive
+8522|контролер|Должностное лицо, осуществляющее контроль|Kontrolleur|noun; masculine
+8523|бешено|С большой силой и страстью, неистово|rasend|adverb
+8524|расстроиться|Прийти в беспорядок; огорчиться|sich aufregen|verb; perfective; infinitive; reflexive
+8525|зазвенеть|Начать звенеть|anfangen zu klingeln|verb; perfective; infinitive
+8526|озарить|Ярко осветить|erleuchten|verb; perfective; infinitive
+8527|ознакомиться|Получить сведения о чём-либо|sich vertraut machen|verb; perfective; infinitive; reflexive
+8528|мышей|Родительный падеж мн.ч. от «мышь»|Mäuse|noun; feminine; plural
+8529|кружевной|Сделанный из кружева|Spitzen-|adjective
+8530|психолог|Специалист в области психологии|Psychologe|noun; masculine
+8531|овчарка|Порода служебных собак|Schäferhund|noun; masculine
+8532|бесконечность|Неограниченность, отсутствие конца|Unendlichkeit|noun; feminine
+8533|заснеженный|Покрытый снегом|verschneit|adjective; participle
+8534|мычать|Издавать характерный коровий звук|muhen|verb; imperfective; infinitive
+8535|позорный|Постыдный, достойный порицания|schändlich|adjective
+8536|тушь|Краска для черчения или рисования; тушь для ресниц|Tusche|noun; feminine
+8537|холст|Грубая льняная ткань|Leinwand|noun; feminine
+8538|иль|То же, что «или» (устар.)|oder|conjunction
+8539|блистать|Ярко блестеть, сиять|glänzen|verb; imperfective; infinitive
+8540|лирический|Относящийся к лирике; выражающий чувства|lyrisch|adjective
+8541|долговязый|Высокий, худощавый и нескладный|hochgewachsen|adjective
+8542|багажник|Отсек для багажа в автомобиле|Kofferraum|noun; masculine
+8543|присмотреться|Внимательно разглядеть, освоиться|sich einschauen|verb; perfective; infinitive; reflexive
+8544|плотность|Масса единицы объёма вещества|Dichte|noun; feminine
+8545|виконт|Дворянский титул между бароном и графом|Viscount|noun; masculine
+8546|гражданство|Правовая принадлежность к государству|Staatsbürgerschaft|noun; feminine
+8547|окрестный|Находящийся в окрестностях|umliegend|adjective
+8548|трактир|Недорогая харчевня, постоялый двор|Gasthaus|noun; neuter
+8549|ночлег|Место или ночёвка|Übernachtung|noun; feminine
+8550|игрушечный|Маленький; ненастоящий|Spielzeug-|adjective

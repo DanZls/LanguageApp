@@ -1,0 +1,100 @@
+5001|фашистский|fascist|adjective
+5002|искренний|sincere|adjective
+5003|разделять|to share|verb; imperfective
+5004|стиснуть|to clench|verb; perfective
+5005|вечность|eternity|noun; singular; uncountable
+5006|закусить|to have a snack|verb; perfective
+5007|перекресток|crossroads|noun; singular
+5008|озираться|to look around|verb; imperfective; reflexive
+5009|вручить|to hand over|verb; perfective
+5010|значок|badge|noun; singular
+5011|победитель|winner|noun; singular
+5012|контракт|contract|noun; singular
+5013|няня|nanny|noun; singular
+5014|погоня|chase|noun; singular
+5015|мраморный|marble|adjective
+5016|взорваться|to explode|verb; perfective; reflexive
+5017|пролететь|to fly past|verb; perfective
+5018|сугроб|snowdrift|noun; singular
+5019|топливо|fuel|noun; singular; uncountable
+5020|вдова|widow|noun; singular
+5021|случайность|coincidence|noun; singular
+5022|раздел|section|noun; singular
+5023|плен|captivity|noun; singular; uncountable
+5024|откинуться|to lean back|verb; perfective; reflexive
+5025|психология|psychology|noun; singular; uncountable
+5026|взаимный|mutual|adjective
+5027|посещение|visit|noun; singular
+5028|бронзовый|bronze|adjective
+5029|ничтожный|insignificant|adjective
+5030|различие|difference|noun; singular
+5031|оправдываться|to justify oneself|verb; imperfective; reflexive
+5032|пятница|Friday|noun; singular
+5033|ринуться|to rush|verb; perfective; reflexive
+5034|ирония|irony|noun; singular; uncountable
+5035|плот|raft|noun; singular
+5036|распространяться|to spread|verb; imperfective; reflexive
+5037|потный|sweaty|adjective
+5038|заканчивать|to finish|verb; imperfective
+5039|изложить|to state|verb; perfective
+5040|чуять|to sense|verb; imperfective
+5041|почерк|handwriting|noun; singular; uncountable
+5042|выгодный|profitable|adjective
+5043|покойный|deceased|adjective
+5044|предупреждение|warning|noun; singular
+5045|отражать|to reflect|verb; imperfective
+5046|раскалить|to make red-hot|verb; perfective
+5047|копать|to dig|verb; imperfective
+5048|рубить|to chop|verb; imperfective
+5049|хвататься|to grab|verb; imperfective; reflexive
+5050|выписать|to write out|verb; perfective
+5051|мат|checkmate|noun; singular
+5052|удачно|successfully|adverb
+5053|разрешать|to allow|verb; imperfective
+5054|трижды|three times|adverb
+5055|скомандовать|to command|verb; perfective
+5056|зрачок|pupil|noun; singular
+5057|соленый|salty|adjective
+5058|опрокинуть|to overturn|verb; perfective
+5059|оппозиция|opposition|noun; singular; uncountable
+5060|рваный|torn|adjective
+5061|порок|vice|noun; singular
+5062|милицейский|police|adjective
+5063|протест|protest|noun; singular
+5064|активность|activity|noun; singular; uncountable
+5065|кашель|cough|noun; singular
+5066|пострадать|to suffer|verb; perfective
+5067|газовый|gas|adjective
+5068|необычайный|extraordinary|adjective
+5069|подставить|to put under|verb; perfective
+5070|удивлять|to surprise|verb; imperfective
+5071|силуэт|silhouette|noun; singular
+5072|всевозможный|all kinds of|adjective
+5073|девяносто|ninety|numeral; cardinal
+5074|обхватить|to embrace|verb; perfective
+5075|постройка|building|noun; singular
+5076|мыслить|to think|verb; imperfective
+5077|сооружение|structure|noun; singular
+5078|всемирный|worldwide|adjective
+5079|подразделение|subdivision|noun; singular
+5080|ныть|to ache|verb; imperfective
+5081|запросто|simply|adverb
+5082|дорожный|road|adjective
+5083|обнаружиться|to be discovered|verb; perfective; reflexive
+5084|дипломат|diplomat|noun; singular
+5085|выглядывать|to peek out|verb; imperfective
+5086|постой|billeting|noun; singular
+5087|отныне|from now on|adverb
+5088|певец|singer|noun; singular
+5089|Рим|Rome|noun; singular; proper
+5090|сибирский|Siberian|adjective
+5091|налет|raid|noun; singular
+5092|литр|liter|noun; singular
+5093|угрожающий|threatening|adjective
+5094|срочный|urgent|adjective
+5095|судорога|cramp|noun; singular
+5096|горячо|hotly|adverb
+5097|располагать|to have at one's disposal|verb; imperfective
+5098|краткий|brief|adjective
+5099|суетиться|to fuss|verb; imperfective; reflexive
+5100|консервы|canned food|noun; plural

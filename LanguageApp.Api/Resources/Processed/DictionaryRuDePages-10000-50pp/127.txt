@@ -1,0 +1,50 @@
+6351|буржуазный|Относящийся к буржуазии и её взглядам|bürgerlich|adjective
+6352|греть|Делать тёплым или горячим; разогревать|wärmen|verb; imperfective; infinitive
+6353|чрезвычайный|Исключительный; значительно превосходящий обычное|außerordentlich|adjective
+6354|соглашение|Взаимная договорённость|Vereinbarung|noun; feminine
+6355|физиологический|Относящийся к жизненным процессам организма|physiologisch|adjective
+6356|немыслимый|Невозможный; трудно представимый|undenkbar|adjective
+6357|зараза|Болезнетворный микроб или инфекция|Ansteckung|noun; feminine
+6358|лавра|Крупный православный мужской монастырь|Lawra|noun; feminine
+6359|яростный|Полный ярости и гнева|wütend|adjective
+6360|вздумать|Неожиданно решить что-либо сделать|sich einfallen lassen|verb; perfective; infinitive; reflexive
+6361|троп|Слово в переносном иносказательном значении|Tropus|noun; masculine
+6362|сосать|Втягивать жидкость в рот губами|saugen|verb; imperfective; infinitive
+6363|костра|Жёсткие остатки стеблей льна после обработки|Schäben|noun; plural
+6364|рака|Церковный ковчег для мощей святого|Reliquiar|noun; neuter
+6365|тосковать|Испытывать тоску и душевное страдание|sich sehnen|verb; imperfective; infinitive; reflexive
+6366|обсудить|Разобрать и оценить, высказав мнение|besprechen|verb; perfective; infinitive
+6367|разбежаться|Разойтись в разные стороны; разогнаться|auseinanderlaufen|verb; perfective; infinitive
+6368|бычок|Молодой бык|Bullenkalb|noun; neuter
+6369|смениться|Замениться другим|sich ablösen|verb; perfective; infinitive; reflexive
+6370|подсудимый|Обвиняемый, находящийся под судом|Angeklagter|noun; masculine
+6371|тормоз|Устройство для снижения скорости или остановки|Bremse|noun; feminine
+6372|кинжал|Обоюдоострое колющее оружие с коротким клинком|Dolch|noun; masculine
+6373|мудрец|Человек, обладающий мудростью|Weiser|noun; masculine
+6374|выскакивать|Выпрыгивать; внезапно появляться|herausspringen|verb; imperfective; infinitive
+6375|повреждение|Место поломки или неисправности|Schaden|noun; masculine
+6376|объединение|Организация или общество|Vereinigung|noun; feminine
+6377|вилок|Кочан капусты|Kohlkopf|noun; masculine
+6378|писаться|Изображаться на письме определённым образом|sich schreiben|verb; imperfective; infinitive; reflexive
+6379|наставник|Учитель и воспитатель|Mentor|noun; masculine
+6380|толщина|Величина в поперечнике|Dicke|noun; feminine
+6381|врезать|Вставить в вырезанное место|einlassen|verb; perfective; infinitive
+6382|аплодисменты|Рукоплескания в знак одобрения|Applaus|noun; masculine
+6383|укрепление|Оборонительное сооружение|Befestigung|noun; feminine
+6384|грош|Старинная мелкая монета; мелкие деньги|Groschen|noun; masculine
+6385|оператор|Специалист, управляющий сложным оборудованием|Operator|noun; masculine
+6386|ступить|Шагнуть; стать ногой куда-либо|treten|verb; perfective; infinitive
+6387|календарь|Таблица или книжка с перечнем дней года|Kalender|noun; masculine
+6388|штатский|Гражданский; не военный|zivil|adjective
+6389|уменьшение|Снижение размера или количества|Verringerung|noun; feminine
+6390|ух|Выражение удивления или восхищения|uh|interjection
+6391|сокровище|Драгоценность; дорогая вещь|Schatz|noun; masculine
+6392|быстрота|Скорость; стремительность|Schnelligkeit|noun; feminine
+6393|мирон|Освящённое миро|Myron|noun; neuter
+6394|прибытие|Приезд или прилёт куда-либо|Ankunft|noun; feminine
+6395|познакомить|Представить кого-либо кому-либо|bekannt machen|verb; perfective; infinitive
+6396|лечиться|Принимать лечение; проходить врачебный курс|sich behandeln lassen|verb; imperfective; infinitive; reflexive
+6397|пронзительный|Резкий и острый на слух|durchdringend|adjective
+6398|честный|Проникнутый искренностью; добросовестный|ehrlich|adjective
+6399|чинить|Исправлять; приводить в пригодное состояние|reparieren|verb; imperfective; infinitive
+6400|отход|Удаление или отступление|Abzug|noun; masculine

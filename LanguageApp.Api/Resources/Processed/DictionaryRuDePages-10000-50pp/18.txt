@@ -1,0 +1,50 @@
+901|американский|Относящийся к США, их народу и культуре|amerikanisch|adjective
+902|дым|Летучие продукты горения, поднимающиеся вверх|Rauch|noun; masculine
+903|гореть|Поддаваться огню; уничтожаться пламенем|brennen|verb; imperfective; infinitive
+904|плакать|Проливать слёзы, обычно с голосовыми звуками|weinen|verb; imperfective; infinitive
+905|весьма|В высокой степени; очень|sehr|adverb
+906|факт|Реальное событие или явление, которое действительно произошло|Tatsache|noun; feminine
+907|двигаться|Находиться в движении; перемещаться|sich bewegen|verb; imperfective; infinitive; reflexive
+908|рыба|Водное позвоночное животное с плавниками и жаберным дыханием|Fisch|noun; masculine
+909|добавить|Присоединить дополнительно; прибавить|hinzufügen|verb; perfective; infinitive
+910|удивиться|Прийти в состояние удивления или изумления|sich wundern|verb; perfective; infinitive; reflexive
+911|бабушка|Мать отца или матери|Großmutter|noun; feminine
+912|вино|Алкогольный напиток из сброженного виноградного сока|Wein|noun; masculine
+913|ибо|Союз причины: потому что|denn|conjunction
+914|учитель|Человек, занимающийся обучением; преподаватель|Lehrer|noun; masculine
+915|действовать|Совершать действия; функционировать|handeln|verb; imperfective; infinitive
+916|осторожно|Без риска; внимательно и бережно|vorsichtig|adverb
+917|круг|Часть плоскости, ограниченная окружностью|Kreis|noun; masculine
+918|папа|Отец (в бытовом употреблении)|Papa|noun; masculine
+919|правильно|В соответствии с нормой; без ошибок|richtig|adverb
+920|недавно|В недалёком прошлом|kürzlich|adverb
+921|держаться|Сохранять положение, ухватившись за что-либо|sich festhalten|verb; imperfective; infinitive; reflexive
+922|причем|Союз присоединения: при этом; к тому же|wobei|conjunction
+923|лететь|Передвигаться по воздуху|fliegen|verb; imperfective; infinitive
+924|носить|Неоднократно или регулярно перемещать что-либо|tragen|verb; imperfective; infinitive
+925|повод|Обстоятельство, служащее основанием для чего-либо|Anlass|noun; masculine
+926|лагерь|Стоянка под открытым небом; временное поселение|Lager|noun; neuter
+927|птица|Позвоночное животное с перьями, крыльями и клювом|Vogel|noun; masculine
+928|корабль|Крупное морское судно|Schiff|noun; neuter
+929|мнение|Суждение, выражающее взгляд или оценку|Meinung|noun; feminine
+930|ночной|Относящийся к ночи; происходящий ночью|nächtlich|adjective
+931|здоровый|Обладающий хорошим здоровьем; не больной|gesund|adjective
+932|зима|Самое холодное время года между осенью и весной|Winter|noun; masculine
+933|сухой|Не содержащий влаги; не мокрый|trocken|adjective
+934|километр|Единица длины, равная 1000 метрам|Kilometer|noun; masculine
+935|кровать|Предмет мебели для сна с рамой и матрасом|Bett|noun; neuter
+936|привыкнуть|Приобрести привычку к чему-либо|sich gewöhnen|verb; perfective; infinitive; reflexive
+937|прочее|Остальное; всё другое|übrige|pronoun; plural
+938|свободный|Пользующийся свободой; не занятый|frei|adjective
+939|лестница|Конструкция из ступеней для подъёма и спуска|Treppe|noun; feminine
+940|неужели|Частица выражения сомнения или удивления|wirklich|particle; interrogative
+941|обязательно|Непременно; безусловно|unbedingt|adverb
+942|вверх|По направлению снизу вверх|nach oben|adverb
+943|детство|Ранний возраст; период жизни до отрочества|Kindheit|noun; feminine
+944|остров|Участок суши, окружённый водой со всех сторон|Insel|noun; feminine
+945|статья|Небольшое научное или публицистическое сочинение|Artikel|noun; masculine
+946|позвонить|Связаться по телефону; дать звонок|anrufen|verb; perfective; infinitive
+947|столь|В такой мере; настолько|so|adverb
+948|мешать|Создавать препятствие; быть помехой|stören|verb; imperfective; infinitive
+949|водка|Крепкий алкогольный напиток из спирта и воды|Wodka|noun; masculine
+950|темнота|Отсутствие света; тёмное пространство|Dunkelheit|noun; feminine

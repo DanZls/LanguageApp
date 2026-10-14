@@ -1,0 +1,50 @@
+6951|эволюция|Процесс постепенного непрерывного развития|Evolution|noun; feminine
+6952|приближение|Подход; движение к чему-либо|Annäherung|noun; feminine
+6953|душный|Насыщенный испарениями; тяжёлый для дыхания|stickig|adjective
+6954|эстонский|Относящийся к Эстонии или эстонцам|estnisch|adjective
+6955|несправедливость|Несправедливый поступок или слова|Ungerechtigkeit|noun; feminine
+6956|скверный|Очень плохой; дурной|schlecht|adjective
+6957|ослепительный|Очень яркий; ослепляющий|blendend|adjective
+6958|позаботиться|Проявить заботу о ком-либо или чём-либо|sich kümmern|verb; perfective; infinitive; reflexive
+6959|треснуть|Лопнуть; образовать трещину|einen Riss bekommen|verb; perfective; infinitive
+6960|Изабелла|Женское имя собственное|Isabella|noun; feminine; proper
+6961|сердечно|С чувством; от всего сердца|herzlich|adverb
+6962|значиться|Числиться; находиться в каком-либо статусе|verzeichnet sein|verb; imperfective; infinitive
+6963|сторож|Работник, охраняющий что-либо|Wächter|noun; masculine
+6964|одобрить|Признать хорошим; принять с согласием|billigen|verb; perfective; infinitive
+6965|тесть|Отец жены|Schwiegervater|noun; masculine
+6966|привстать|Приподняться; встать не во весь рост|sich aufzurichten|verb; perfective; infinitive; reflexive
+6967|житейский|Обыденный; свойственный повседневной жизни|alltäglich|adjective
+6968|встрепенуться|Внезапно вздрогнуть; прийти в движение|aufschrecken|verb; perfective; infinitive
+6969|командующий|Начальник военного округа или крупного соединения|Kommandeur|noun; masculine
+6970|парадокс|Утверждение, противоречащее здравому смыслу|Paradox|noun; neuter
+6971|сводиться|Постепенно сокращаться до чего-либо|sich reduzieren|verb; imperfective; infinitive; reflexive
+6972|блиндаж|Углублённое укреплённое полевое укрытие|Bunker|noun; masculine
+6973|уборный|Предназначенный для уборки или связанный с ней|Reinigungs-|adjective
+6974|медь|Металл красновато-жёлтого цвета|Kupfer|noun; neuter
+6975|кража|Тайное присвоение чужого имущества|Diebstahl|noun; masculine
+6976|трос|Гибкий металлический или пеньковый канат|Seil|noun; neuter
+6977|лишение|Утрата; потеря чего-либо|Entbehrung|noun; feminine
+6978|ядро|Внутренняя центральная часть чего-либо|Kern|noun; masculine
+6979|договариваться|Приходить к соглашению после переговоров|sich einigen|verb; imperfective; infinitive; reflexive
+6980|вешалка|Планка или стойка для одежды и головных уборов|Garderobe|noun; feminine
+6981|прижиматься|Тесно прислоняться к чему-либо|sich anschmiegen|verb; imperfective; infinitive; reflexive
+6982|сознательно|С пониманием того, что делаешь|bewusst|adverb
+6983|выдернуть|Дёрнув, извлечь|herausreißen|verb; perfective; infinitive
+6984|бородка|Небольшая борода; фигурный выступ ключа|Bärtchen|noun; neuter
+6985|полежать|Побыть некоторое время лёжа|eine Weile liegen|verb; perfective; infinitive
+6986|переезд|Место, где переезжают через что-либо; переселение|Umzug|noun; masculine
+6987|оправдывать|Признавать невиновным; делать оправданным|rechtfertigen|verb; imperfective; infinitive
+6988|соседство|Близость по месту жительства|Nachbarschaft|noun; feminine
+6989|балка|Опорный брус в конструкции|Träger|noun; masculine
+6990|возмутить|Вызвать чувство негодования|empören|verb; perfective; infinitive
+6991|беглец|Тот, кто предпринял побег|Flüchtling|noun; masculine
+6992|соотечественник|Человек из одной страны|Landsmann|noun; masculine
+6993|пахать|Рыхлить почву при помощи плуга|pflügen|verb; imperfective; infinitive
+6994|напевать|Петь тихо, про себя|summen|verb; imperfective; infinitive
+6995|героиня|Главный женский персонаж или женщина-герой|Heldin|noun; feminine
+6996|бинт|Длинная лента из марли для лечебных повязок|Bandage|noun; feminine
+6997|механик|Специалист по механике|Mechaniker|noun; masculine
+6998|раскачиваться|Переходить в колебательное движение|schaukeln|verb; imperfective; infinitive
+6999|расхохотаться|Начать громко хохотать|losprusten|verb; perfective; infinitive
+7000|лаять|О собаке: издавать характерные резкие звуки|bellen|verb; imperfective; infinitive

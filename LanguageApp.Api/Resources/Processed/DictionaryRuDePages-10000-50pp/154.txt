@@ -1,0 +1,50 @@
+7701|подсунуть|Обманом передать что-либо нежелательное; подложить тайно|unterschieben|verb; perfective; infinitive
+7702|писательский|Относящийся к писателю или литературной деятельности|Schriftsteller-|adjective
+7703|порасти|Покрыться растительностью; зарасти|bewachsen|verb; perfective; infinitive
+7704|запоминать|Сохранять информацию в памяти|sich einprägen|verb; imperfective; infinitive; reflexive
+7705|пласт|Плоский ровный слой вещества или породы|Schicht|noun; feminine
+7706|грузовой|Предназначенный для перевозки грузов|Fracht-|adjective
+7707|перевязать|Наложить повязку на рану или больное место|verbinden|verb; perfective; infinitive
+7708|прописка|Официальная регистрация места проживания|Wohnsitzanmeldung|noun; feminine
+7709|предлог|Служебная часть речи, выражающая отношения между словами|Präposition|noun; feminine
+7710|популярность|Широкая известность и расположение публики|Popularität|noun; feminine
+7711|обслуживать|Обеспечивать услугами; осуществлять сервисное обслуживание|bedienen|verb; imperfective; infinitive
+7712|сочувственно|С выражением сочувствия и понимания|mitfühlend|adverb
+7713|цилиндр|Тело вращения с круглым основанием и прямобоковой поверхностью|Zylinder|noun; masculine
+7714|договорить|Завершить речь; досказать до конца|zu Ende reden|verb; perfective; infinitive
+7715|пробегать|Передвигаться бегом; пробегать расстояние|durchlaufen|verb; imperfective; infinitive
+7716|сапер|Военнослужащий, занимающийся инженерными и минными работами|Pionier|noun; masculine
+7717|царапина|Неглубокая ранка на коже от острого предмета|Kratzer|noun; masculine
+7718|румянец|Розово-красный цвет кожи щёк|Röte|noun; feminine
+7719|страстно|С сильным чувством и душевным порывом|leidenschaftlich|adverb
+7720|невозможность|Отсутствие возможности; нереализуемость|Unmöglichkeit|noun; feminine
+7721|рискованный|Связанный с опасностью; сопряжённый с риском|riskant|adjective
+7722|замужем|О женщине, состоящей в браке|verheiratet|adverb
+7723|неумолимый|Непреклонный; не поддающийся просьбам|unerbittlich|adjective
+7724|накладывать|Помещать сверху; наносить слой на поверхность|auflegen|verb; imperfective; infinitive
+7725|красноватый|Имеющий лёгкий красноватый оттенок|rötlich|adjective
+7726|старческий|Свойственный преклонному возрасту|greisenhaft|adjective
+7727|ошеломить|Крайне удивить; поставить в замешательство|verblüffen|verb; perfective; infinitive
+7728|любезно|Вежливо и внимательно; с любезностью|freundlich|adverb
+7729|тренировка|Занятие для совершенствования навыков и физической формы|Training|noun; neuter
+7730|вставлять|Помещать внутрь; вставлять в предназначенное место|einsetzen|verb; imperfective; infinitive
+7731|бездарный|Лишённый таланта; не способный к творчеству|talentlos|adjective
+7732|торт|Кондитерское изделие из теста с кремом и украшениями|Torte|noun; feminine
+7733|печататься|Публиковать свои произведения в печати|erscheinen|verb; imperfective; infinitive
+7734|чертеж|Техническое графическое изображение конструкции или объекта|Zeichnung|noun; feminine
+7735|бессонница|Расстройство сна; неспособность заснуть|Schlaflosigkeit|noun; feminine
+7736|разочаровать|Вызвать разочарование; не оправдать ожиданий|enttäuschen|verb; perfective; infinitive
+7737|выкрикнуть|Произнести что-либо громко одним восклицанием|herausschreien|verb; perfective; infinitive
+7738|тщательный|Проведённый с большой тщательностью и вниманием|sorgfältig|adjective
+7739|придавить|Прижать сверху с усилием|niederdrücken|verb; perfective; infinitive
+7740|Дудырев|Русская фамилия|Dudyrew|noun; masculine; proper
+7741|усиленный|Повышенный; более интенсивный по сравнению с обычным|verstärkt|adjective
+7742|силен|Обладающий большой силой; мощный|kräftig|adjective
+7743|органический|Относящийся к живым организмам; природного происхождения|organisch|adjective
+7744|прерывать|Нарушать ход чего-либо; делать перерыв|unterbrechen|verb; imperfective; infinitive
+7745|заказывать|Давать поручение на изготовление или доставку чего-либо|bestellen|verb; imperfective; infinitive
+7746|плотник|Мастер по обработке дерева и изготовлению деревянных конструкций|Zimmermann|noun; masculine
+7747|плавание|Передвижение в воде; мореплавание|Schwimmen|noun; neuter
+7748|прибить|Укрепить гвоздями к поверхности|annageln|verb; perfective; infinitive
+7749|унизительный|Оскорбляющий достоинство; причиняющий унижение|erniedrigend|adjective
+7750|истинно|По-настоящему; в полном соответствии с истиной|wahrhaft|adverb

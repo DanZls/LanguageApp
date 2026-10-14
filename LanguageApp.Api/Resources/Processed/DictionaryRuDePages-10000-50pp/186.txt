@@ -1,0 +1,50 @@
+9301|утихнуть|Затихнуть; прекратить шум или активность|verstummen|verb; perfective; infinitive
+9302|додуматься|Прийти к выводу в результате размышлений|drauf kommen|verb; perfective; infinitive
+9303|цыпленок|Птенец курицы или другой домашней птицы|Küken|noun; neuter
+9304|отстоять|Защитить от нападения или посягательства|verteidigen|verb; perfective; infinitive
+9305|блатной|Относящийся к преступному миру или жаргону|kriminell|adjective
+9306|поглаживать|Легко и ласково гладить|streicheln|verb; imperfective; infinitive
+9307|упрямство|Крайняя неуступчивость; упрямое поведение|Sturheit|noun; feminine
+9308|латинский|Относящийся к Древнему Риму и его культуре|lateinisch|adjective
+9309|крашеный|Покрытый краской; окрашенный|gefärbt|adjective
+9310|покинутый|Оставленный; заброшенный|verlassen|adjective
+9311|автоматный|Относящийся к автоматическому оружию|Maschinengewehr-|adjective
+9312|унитаз|Сантехнический прибор для туалета|Toilette|noun; feminine
+9313|кондор|Крупная хищная птица семейства американских грифов|Kondor|noun; masculine
+9314|теперешний|Существующий в данное время; нынешний|heutig|adjective
+9315|лауреат|Человек, удостоенный премии за выдающиеся заслуги|Preisträger|noun; masculine
+9316|подчиниться|Оказаться в зависимости; покориться|sich unterordnen|verb; perfective; infinitive; reflexive
+9317|дорожить|Высоко ценить; беречь|schätzen|verb; imperfective; infinitive
+9318|расписать|Покрыть рисунками; расписать|bemalen|verb; perfective; infinitive
+9319|крестик|Маленький крест|Kreuzchen|noun; neuter; diminutive
+9320|передышка|Короткий перерыв для отдыха|Atempause|noun; feminine
+9321|истерика|Приступ истерии с плачем и криком|Hysterie|noun; feminine
+9322|слететь|Летя, спуститься вниз|herunterfliegen|verb; perfective; infinitive
+9323|перебрать|Пересортировать; перебрать заново|durchsortieren|verb; perfective; infinitive
+9324|подкатить|Катя, подвезти; приблизить катя|heranrollen|verb; perfective; infinitive
+9325|ушанка|Тёплая шапка с опускающимися наушниками|Fellmütze|noun; feminine
+9326|закрутить|Начать крутить; завернуть|eindrehen|verb; perfective; infinitive
+9327|партийный|Отражающий интересы партии; партийный|Partei-|adjective
+9328|троица|В христианстве: три лица единого Бога|Dreifaltigkeit|noun; feminine; proper
+9329|капот|Откидная крышка двигателя автомобиля|Motorhaube|noun; feminine
+9330|отделить|Разъединить; отнять часть от целого|abtrennen|verb; perfective; infinitive
+9331|патриотический|Связанный с патриотизмом|patriotisch|adjective
+9332|грунт|Почва; грунт|Boden|noun; masculine
+9333|побеседовать|Провести некоторое время в беседе|sich unterhalten|verb; perfective; infinitive; reflexive
+9334|огрызнуться|Резко ответить с недовольством|aufschnappen|verb; perfective; infinitive
+9335|нелегальный|Не разрешённый законом; подпольный|illegal|adjective
+9336|украдкой|Скрытно; тайком|heimlich|adverb
+9337|показательный|Образцовый; служащий примером|vorbildlich|adjective
+9338|петушок|Маленький петух|Hähnchen|noun; neuter; diminutive
+9339|опоздание|Приход позднее установленного срока|Verspätung|noun; feminine
+9340|остроумный|Отличающийся острым умом и юмором|witzig|adjective
+9341|избыточный|Излишний; превышающий необходимое|überschüssig|adjective
+9342|взбираться|Подниматься наверх с усилием|hinaufklettern|verb; imperfective; infinitive
+9343|казино|Игорное заведение|Kasino|noun; neuter
+9344|киллер|Профессиональный наёмный убийца|Auftragskiller|noun; masculine
+9345|панорама|Широкий вид с высоты или открытого места|Panorama|noun; neuter
+9346|избить|Причинить увечья ударами|verprügeln|verb; perfective; infinitive
+9347|цепкий|Крепко хватающийся; цепкий|zäh|adjective
+9348|сенсация|Событие, вызывающее всеобщий интерес и волнение|Sensation|noun; feminine
+9349|техникум|Среднее специальное учебное заведение|Fachschule|noun; feminine
+9350|термос|Сосуд для хранения жидкостей при постоянной температуре|Thermosflasche|noun; feminine

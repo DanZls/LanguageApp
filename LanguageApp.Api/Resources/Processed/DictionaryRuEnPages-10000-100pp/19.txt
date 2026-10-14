@@ -1,0 +1,100 @@
+1801|столовый|dining|adjective
+1802|ткань|fabric|noun; singular; uncountable
+1803|открыться|to open|verb; perfective; reflexive
+1804|поток|stream|noun; singular
+1805|вынужденный|forced|adjective
+1806|полиция|police|noun; singular; uncountable
+1807|стыдный|shameful|adjective
+1808|база|base|noun; singular
+1809|слышно|audible|adverb
+1810|строгий|strict|adjective
+1811|шинель|overcoat|noun; singular
+1812|блестящий|brilliant|adjective
+1813|выбор|choice|noun; singular
+1814|сведение|information|noun; singular
+1815|комиссия|commission|noun; singular
+1816|направить|to direct|verb; perfective
+1817|палка|stick|noun; singular
+1818|запомнить|to remember|verb; perfective
+1819|бороться|to fight|verb; regular; reflexive
+1820|везти|to transport|verb; irregular
+1821|колонна|column|noun; singular
+1822|лед|ice|noun; singular; uncountable
+1823|замечательный|wonderful|adjective
+1824|надпись|inscription|noun; singular
+1825|одинокий|lonely|adjective
+1826|пиджак|jacket|noun; singular
+1827|тарелка|plate|noun; singular
+1828|научиться|to learn|verb; perfective; reflexive
+1829|пища|food|noun; singular; uncountable
+1830|назначить|to appoint|verb; perfective
+1831|подруга|girlfriend|noun; singular
+1832|выбирать|to choose|verb; regular
+1833|взрыв|explosion|noun; singular
+1834|сущность|essence|noun; singular
+1835|батарея|battery|noun; singular
+1836|техника|equipment|noun; singular; uncountable
+1837|пастух|shepherd|noun; singular
+1838|напомнить|to remind|verb; perfective
+1839|сомневаться|to doubt|verb; regular; reflexive
+1840|крыльцо|porch|noun; singular
+1841|радоваться|to rejoice|verb; regular; reflexive
+1842|покрыть|to cover|verb; perfective
+1843|глянуть|to glance|verb; perfective
+1844|значительный|significant|adjective
+1845|громкий|loud|adjective
+1846|захватить|to seize|verb; perfective
+1847|вождь|leader|noun; singular
+1848|восточный|eastern|adjective
+1849|приносить|to bring|verb; regular
+1850|международный|international|adjective
+1851|необходимость|necessity|noun; singular
+1852|оттого|that is why|adverb
+1853|духовный|spiritual|adjective
+1854|голод|hunger|noun; singular; uncountable
+1855|девица|maiden|noun; singular
+1856|временный|temporary|adjective
+1857|составить|to compile|verb; perfective
+1858|ровно|exactly|adverb
+1859|мечта|dream|noun; singular
+1860|кольцо|ring|noun; singular; irregular plural
+1861|ага|aha|interjection
+1862|дочка|daughter|noun; singular; irregular plural
+1863|королева|queen|noun; singular
+1864|картошка|potato|noun; singular
+1865|достоинство|dignity|noun; singular; uncountable
+1866|медведь|bear|noun; singular
+1867|содержание|content|noun; singular
+1868|проект|project|noun; singular
+1869|костить|to scold|verb; regular
+1870|согласный|agreeable|adjective
+1871|покупать|to buy|verb; regular
+1872|сперва|at first|adverb
+1873|юный|youthful|adjective
+1874|любопытство|curiosity|noun; singular; uncountable
+1875|создание|creation|noun; singular
+1876|паспорт|passport|noun; singular
+1877|двести|two hundred|numeral; cardinal
+1878|коллега|colleague|noun; singular
+1879|девчонка|girl|noun; singular
+1880|луч|ray|noun; singular
+1881|стучать|to knock|verb; irregular
+1882|коммунист|communist|noun; singular
+1883|просьба|request|noun; singular
+1884|домик|little house|noun; singular
+1885|полчаса|half an hour|noun; singular
+1886|железо|iron|noun; singular; uncountable
+1887|отличие|distinction|noun; singular
+1888|менять|to change|verb; regular
+1889|мгновенно|instantly|adverb
+1890|пес|dog|noun; singular
+1891|разглядывать|to examine|verb; regular
+1892|горький|bitter|adjective
+1893|орудие|tool|noun; singular
+1894|специально|specifically|adverb
+1895|сказка|fairy tale|noun; singular
+1896|закурить|to light up|verb; perfective
+1897|семейный|family|adjective
+1898|устать|to get tired|verb; perfective
+1899|прикрыть|to cover|verb; perfective
+1900|твердо|firmly|adverb

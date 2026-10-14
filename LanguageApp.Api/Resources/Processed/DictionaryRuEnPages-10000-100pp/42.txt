@@ -1,0 +1,100 @@
+4101|разряд|category|noun; singular
+4102|головка|head|noun; singular
+4103|свойственный|characteristic|adjective
+4104|упустить|to miss|verb; perfective
+4105|подъехать|to drive up|verb; perfective
+4106|объявление|announcement|noun; singular
+4107|десятилетие|decade|noun; singular
+4108|каблук|heel|noun; singular
+4109|бурный|stormy|adjective
+4110|слушаться|to obey|verb; regular; reflexive
+4111|пропускать|to miss|verb; regular
+4112|равнодушно|indifferently|adverb
+4113|своеобразный|peculiar|adjective
+4114|выполнение|execution|noun; singular
+4115|забирать|to take|verb; regular
+4116|пейзаж|landscape|noun; singular
+4117|реагировать|to react|verb; regular
+4118|поэзия|poetry|noun; singular; uncountable
+4119|гладить|to iron|verb; regular
+4120|терпение|patience|noun; singular; uncountable
+4121|порода|breed|noun; singular
+4122|занавеска|curtain|noun; singular
+4123|отвезти|to take|verb; perfective
+4124|корзина|basket|noun; singular
+4125|огурец|cucumber|noun; singular
+4126|корейский|Korean|adjective
+4127|пацан|kid|noun; singular
+4128|обманывать|to deceive|verb; regular
+4129|кузов|body|noun; singular
+4130|уронить|to drop|verb; perfective
+4131|партнер|partner|noun; singular
+4132|религиозный|religious|adjective
+4133|вой|howl|noun; singular
+4134|шлем|helmet|noun; singular
+4135|шепнуть|to whisper|verb; perfective
+4136|выраженный|pronounced|adjective
+4137|обреченный|doomed|adjective
+4138|конференция|conference|noun; singular
+4139|продавец|seller|noun; singular
+4140|гнездо|nest|noun; singular
+4141|казак|cossack|noun; singular
+4142|доза|dose|noun; singular
+4143|вылезать|to climb out|verb; regular
+4144|приоткрыть|to open slightly|verb; perfective
+4145|одиночка|loner|noun; singular
+4146|пленка|film|noun; singular
+4147|пруд|pond|noun; singular
+4148|добыть|to obtain|verb; perfective
+4149|давить|to press|verb; regular
+4150|рождаться|to be born|verb; regular; reflexive
+4151|повсюду|everywhere|adverb
+4152|сохранять|to preserve|verb; regular
+4153|простор|expanse|noun; singular
+4154|чепуха|nonsense|noun; singular; uncountable
+4155|блокнот|notepad|noun; singular
+4156|лозунг|slogan|noun; singular
+4157|неудача|failure|noun; singular
+4158|покойник|deceased|noun; singular
+4159|веко|eyelid|noun; singular
+4160|Эстония|Estonia|noun; singular; proper
+4161|вправо|to the right|adverb
+4162|сезон|season|noun; singular
+4163|Кузьмич|Kuzmich|noun; singular; proper
+4164|основать|to found|verb; perfective
+4165|крошечный|tiny|adjective
+4166|замерзнуть|to freeze|verb; perfective
+4167|милость|mercy|noun; singular
+4168|снимок|photograph|noun; singular
+4169|священник|priest|noun; singular
+4170|обитатель|inhabitant|noun; singular
+4171|сопровождаться|to be accompanied|verb; regular; reflexive
+4172|парадный|ceremonial|adjective
+4173|подсказать|to prompt|verb; perfective
+4174|покачиваться|to sway|verb; regular; reflexive
+4175|интонация|intonation|noun; singular
+4176|запеть|to start singing|verb; perfective
+4177|разорвать|to tear|verb; perfective
+4178|отверстие|opening|noun; singular
+4179|метаться|to rush about|verb; regular; reflexive
+4180|заботиться|to take care|verb; regular; reflexive
+4181|расходиться|to disperse|verb; regular; reflexive
+4182|обязательный|mandatory|adjective
+4183|пристально|intently|adverb
+4184|задумать|to conceive|verb; perfective
+4185|набор|set|noun; singular
+4186|злоба|malice|noun; singular; uncountable
+4187|Одесса|Odessa|noun; singular; proper
+4188|таблетка|tablet|noun; singular
+4189|молочный|milk|adjective
+4190|уволить|to fire|verb; perfective
+4191|поискать|to look for|verb; perfective
+4192|разбойник|robber|noun; singular
+4193|быт|everyday life|noun; singular; uncountable
+4194|объясняться|to explain oneself|verb; regular; reflexive
+4195|фигурка|figurine|noun; singular
+4196|отбросить|to discard|verb; perfective
+4197|чистота|cleanliness|noun; singular; uncountable
+4198|храниться|to be stored|verb; regular; reflexive
+4199|образованный|educated|adjective
+4200|танцор|dancer|noun; singular

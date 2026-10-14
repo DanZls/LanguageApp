@@ -1,0 +1,50 @@
+1701|крепко|Очень сильно; прочно|fest|adverb
+1702|песнь|Поэтическое произведение эпического или лирического характера (уст.)|Gesang|noun; masculine
+1703|облако|Скопление водяных капель и кристаллов льда в атмосфере|Wolke|noun; feminine
+1704|морда|Передняя часть головы животного|Schnauze|noun; feminine
+1705|записка|Листок с короткой записью; краткое письмо|Zettel|noun; masculine
+1706|иностранный|Относящийся к другой стране|ausländisch|adjective
+1707|незнакомый|Не известный; не знакомый ранее|unbekannt|adjective
+1708|установить|Поставить надлежащим образом; смонтировать|installieren|verb; perfective; infinitive
+1709|забывать|Переставать помнить; упускать из памяти|vergessen|verb; imperfective; infinitive
+1710|позвать|Подозвать; пригласить|rufen|verb; perfective; infinitive
+1711|физический|Относящийся к телу; телесный; связанный с физикой|körperlich|adjective
+1712|ус|Волосяной покров над верхней губой|Schnurrbart|noun; masculine
+1713|помещение|Внутреннее пространство здания; комната|Raum|noun; masculine
+1714|испугаться|Почувствовать внезапный страх|erschrecken|verb; perfective; infinitive; reflexive
+1715|плащ|Широкая верхняя одежда без рукавов; накидка|Mantel|noun; masculine
+1716|еле|С трудом; едва|kaum|adverb
+1717|темно|Когда нет или мало света|dunkel|adverb
+1718|подъезд|Вход в многоквартирный дом; парадное|Hauseingang|noun; masculine
+1719|съесть|Принять пищу; употребить|aufessen|verb; perfective; infinitive
+1720|прочесть|Ознакомиться с текстом путём чтения|lesen|verb; perfective; infinitive
+1721|следователь|Должностное лицо, ведущее предварительное следствие|Ermittler|noun; masculine
+1722|двенадцать|Число и количество 12|zwölf|numeral; cardinal
+1723|задуматься|Погрузиться в размышления|nachdenken|verb; perfective; infinitive; reflexive
+1724|решать|Принимать решение; выбирать способ действия|entscheiden|verb; imperfective; infinitive
+1725|особенный|Не такой, как все; необычный|besonders|adjective
+1726|подарить|Преподнести что-либо даром|schenken|verb; perfective; infinitive
+1727|измениться|Стать иным; претерпеть изменения|sich verändern|verb; perfective; infinitive; reflexive
+1728|платок|Кусок ткани квадратной формы для головы или рук|Tuch|noun; neuter
+1729|мощный|Очень сильный; значительный; могучий|mächtig|adjective
+1730|середина|Средняя часть, равно удалённая от краёв|Mitte|noun; feminine
+1731|сумасшедший|Страдающий психическим расстройством|verrückt|adjective
+1732|наверняка|Несомненно; обязательно|bestimmt|adverb
+1733|здорово|Очень хорошо; отлично|prima|adverb
+1734|напряжение|Сосредоточенность сил или внимания; электрическое напряжение|Spannung|noun; feminine
+1735|могила|Яма для погребения; насыпь на месте захоронения|Grab|noun; neuter
+1736|тоска|Душевная тревога; уныние|Sehnsucht|noun; feminine
+1737|приводить|Доводить кого-либо до места назначения|führen|verb; imperfective; infinitive
+1738|удивляться|Испытывать удивление; выражать изумление|sich wundern|verb; imperfective; infinitive; reflexive
+1739|буквально|В буквальном смысле; дословно|buchstäblich|adverb
+1740|борт|Боковая стенка корпуса судна или самолёта|Bord|noun; masculine
+1741|забрать|Взять, забрав с собой|mitnehmen|verb; perfective; infinitive
+1742|грех|У верующих: нарушение нравственных или религиозных правил|Sünde|noun; feminine
+1743|несчастный|Переживающий несчастье; страдающий|unglücklich|adjective
+1744|строй|Система государственного устройства|Ordnung|noun; feminine
+1745|занять|Взять взаймы; занять место|einnehmen|verb; perfective; infinitive
+1746|исследование|Научное изучение; научный труд|Forschung|noun; feminine
+1747|доказать|Подтвердить фактами или доводами|beweisen|verb; perfective; infinitive
+1748|буква|Графический знак алфавита|Buchstabe|noun; masculine
+1749|реакция|Отклик на внешнее воздействие|Reaktion|noun; feminine
+1750|варить|Приготовлять пищу кипячением|kochen|verb; imperfective; infinitive

@@ -1,0 +1,100 @@
+401|чувство|feeling|noun; singular
+402|молчать|to be silent|verb; irregular
+403|рассказывать|to tell|verb; regular
+404|отвечать|to answer|verb; regular
+405|становиться|to become|verb; irregular
+406|остановиться|to stop|verb; perfective
+407|берег|shore|noun; singular
+408|семья|family|noun; singular
+409|искать|to search|verb; irregular
+410|генерал|general|noun; singular
+411|момент|moment|noun; singular
+412|десять|ten|numeral; cardinal
+413|начать|to start|verb; irregular
+414|следующий|next|adjective
+415|личный|personal|adjective
+416|труд|labor|noun; singular
+417|верить|to believe|verb; regular
+418|группа|group|noun; singular
+419|немного|a little|adverb
+420|впрочем|however|conjunction
+421|видно|apparently|adverb
+422|являться|to be|verb; irregular
+423|муж|husband|noun; singular; irregular plural
+424|разве|really|particle
+425|движение|movement|noun; singular
+426|порядок|order|noun; singular
+427|ответ|answer|noun; singular
+428|тихо|quietly|adverb
+429|знакомый|familiar|adjective
+430|газета|newspaper|noun; singular
+431|помощь|help|noun; singular
+432|сильный|strong|adjective; irregular comparison
+433|скорый|fast|adjective
+434|собака|dog|noun; singular
+435|дерево|tree|noun; singular; irregular plural
+436|снег|snow|noun; singular; uncountable
+437|сон|sleep|noun; singular
+438|смысл|meaning|noun; singular
+439|смочь|to manage|verb; perfective
+440|против|against|preposition
+441|бежать|to run|verb; irregular
+442|двор|yard|noun; singular
+443|форма|form|noun; singular
+444|простой|simple|adjective
+445|приехать|to arrive|verb; perfective
+446|иной|different|adjective
+447|кричать|to shout|verb; irregular
+448|возможность|possibility|noun; singular
+449|общество|society|noun; singular
+450|зеленый|green|adjective
+451|грудь|chest|noun; singular
+452|угол|corner|noun; singular
+453|открыть|to open|verb; perfective
+454|происходить|to happen|verb; regular
+455|ладно|alright|adverb
+456|черный|black|adjective
+457|век|century|noun; singular
+458|карман|pocket|noun; singular
+459|ехать|to go|verb; irregular
+460|немец|German|noun; singular
+461|наверное|probably|adverb
+462|губа|lip|noun; singular
+463|дядя|uncle|noun; singular
+464|приходить|to come|verb; regular
+465|часто|often|adverb; irregular comparison
+466|домой|home|adverb
+467|огонь|fire|noun; singular
+468|писатель|writer|noun; singular
+469|армия|army|noun; singular
+470|состояние|condition|noun; singular
+471|зуб|tooth|noun; singular; irregular plural
+472|очередь|queue|noun; singular
+473|кой|which|pronoun
+474|подняться|to rise|verb; perfective
+475|камень|stone|noun; singular
+476|гость|guest|noun; singular
+477|показаться|to appear|verb; perfective
+478|ветер|wind|noun; singular
+479|собираться|to prepare|verb; regular
+480|попасть|to end up|verb; perfective
+481|принять|to accept|verb; irregular
+482|сначала|at first|adverb
+483|либо|or|conjunction
+484|поехать|to go|verb; perfective
+485|услышать|to hear|verb; perfective
+486|уметь|to be able to|verb; regular
+487|случиться|to happen|verb; perfective
+488|странный|strange|adjective
+489|единственный|only|adjective
+490|рота|company|noun; singular
+491|закон|law|noun; singular
+492|короткий|short|adjective; irregular comparison
+493|море|sea|noun; singular
+494|добрый|kind|adjective
+495|темный|dark|adjective
+496|гора|mountain|noun; singular
+497|врач|doctor|noun; singular
+498|край|edge|noun; singular
+499|стараться|to try|verb; regular
+500|лучший|best|adjective; irregular comparison

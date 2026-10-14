@@ -1,0 +1,50 @@
+3151|вставить|Поместить внутрь чего-либо|einfügen|verb; perfective; infinitive
+3152|гад|Мерзкий, отвратительный человек|Schuft|noun; masculine
+3153|застыть|Отвердеть от охлаждения|erstarren|verb; perfective; infinitive
+3154|пьеса|Драматическое произведение для театра|Theaterstück|noun; neuter
+3155|примета|Признак, по которому можно узнать кого-либо|Merkmal|noun; neuter
+3156|залить|Покрыть сплошь жидкостью|überfluten|verb; perfective; infinitive
+3157|разумный|Обладающий разумом; здравомыслящий|vernünftig|adjective
+3158|сено|Скошенная и высушенная трава|Heu|noun; neuter
+3159|нередко|Часто|oft|adverb
+3160|мчаться|Очень быстро передвигаться|rasen|verb; imperfective; infinitive
+3161|недовольный|Испытывающий неудовлетворение|unzufrieden|adjective
+3162|внезапный|Вдруг наступивший; неожиданный|plötzlich|adjective
+3163|игрушка|Вещь, служащая для игры|Spielzeug|noun; neuter
+3164|стоимость|Денежное выражение ценности; цена|Wert|noun; masculine
+3165|учреждение|Организация, занимающаяся определённым видом деятельности|Institution|noun; feminine
+3166|воротник|Часть одежды, пришиваемая к вороту|Kragen|noun; masculine
+3167|сжечь|Уничтожить огнём|verbrennen|verb; perfective; infinitive
+3168|опасаться|Бояться чего-либо|sich fürchten|verb; imperfective; infinitive; reflexive
+3169|спинка|Верхняя опорная часть у мебели|Rückenlehne|noun; feminine
+3170|проверка|Контроль; действие по проверке|Kontrolle|noun; feminine
+3171|курсант|Военнослужащий, обучающийся в учебном заведении|Kadett|noun; masculine
+3172|уход|Оставление места или должности|Abgang|noun; masculine
+3173|удержаться|Сохранить положение; не упасть|sich halten|verb; perfective; infinitive; reflexive
+3174|подослать|Послать кого-либо с тайной целью|einschleusen|verb; perfective; infinitive
+3175|эксперимент|Опыт; испытание|Experiment|noun; neuter
+3176|барин|Человек из привилегированного класса в дореволюционной России|Herr|noun; masculine
+3177|пообещать|Дать обещание|versprechen|verb; perfective; infinitive
+3178|Англия|Государство в Западной Европе|England|noun; neuter; proper
+3179|заболеть|Начать болеть|erkranken|verb; perfective; infinitive
+3180|потрясти|Сильно взволновать; произвести большое впечатление|erschüttern|verb; perfective; infinitive
+3181|падение|Действие падения|Fall|noun; masculine
+3182|девятый|Порядковое числительное к «девять»|neunte|numeral; ordinal
+3183|поворачиваться|Обернуться; повернуться|sich umdrehen|verb; imperfective; infinitive; reflexive
+3184|петух|Самец домашней курицы|Hahn|noun; masculine
+3185|записывать|Фиксировать письменно|aufschreiben|verb; imperfective; infinitive
+3186|любитель|Человек, занимающийся делом как хобби|Liebhaber|noun; masculine
+3187|щёлкнуть|Издать короткий резкий звук|schnappen|verb; perfective; infinitive
+3188|медный|Относящийся к меди; сделанный из меди|kupfern|adjective
+3189|наверху|В верхней части; вверху|oben|adverb
+3190|точность|Степень соответствия чему-либо|Genauigkeit|noun; feminine
+3191|чеченец|Представитель чеченского народа|Tschetschene|noun; masculine
+3192|ценный|Имеющий большую цену; дорогой|wertvoll|adjective
+3193|глупо|Неразумно; без умения|dumm|adverb
+3194|передовой|Движущийся впереди; прогрессивный|fortschrittlich|adjective
+3195|тесный|Недостаточный по пространству; непросторный|eng|adjective
+3196|исполнение|Процесс осуществления; результат|Ausführung|noun; feminine
+3197|хронический|О болезни: длящийся продолжительное время|chronisch|adjective
+3198|стремление|Настойчивое желание чего-либо добиться|Streben|noun; neuter
+3199|наполнить|Сделать полным; заполнить|füllen|verb; perfective; infinitive
+3200|неподвижный|Не передвигающийся; остающийся на одном месте|reglos|adjective

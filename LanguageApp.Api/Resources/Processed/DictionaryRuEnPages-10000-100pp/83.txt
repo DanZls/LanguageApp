@@ -1,0 +1,100 @@
+8201|охапка|armful|noun; singular
+8202|вспотеть|to sweat|verb; perfective; reflexive
+8203|математик|mathematician|noun; singular
+8204|ротмистр|cavalry captain|noun; singular
+8205|раса|race|noun; singular
+8206|навеки|forever|adverb
+8207|щетка|brush|noun; singular
+8208|нефтяной|oil|adjective
+8209|наилучший|best|adjective; superlative
+8210|ФСБ|FSB|noun; singular; abbreviation
+8211|уголовник|criminal|noun; singular
+8212|радужный|iridescent|adjective
+8213|забивать|to hammer in|verb; imperfective
+8214|повторный|repeated|adjective
+8215|тринадцатый|thirteenth|numeral; ordinal
+8216|хан|khan|noun; singular
+8217|оратор|orator|noun; singular
+8218|веер|fan|noun; singular
+8219|прилечь|to lie down for a while|verb; perfective
+8220|вторжение|invasion|noun; singular
+8221|алкогольный|alcoholic|adjective
+8222|осмотреться|to look around|verb; perfective; reflexive
+8223|минеральный|mineral|adjective
+8224|добежать|to run to|verb; perfective
+8225|внутренность|interior|noun; singular
+8226|медлить|to delay|verb; imperfective; reflexive
+8227|топот|stomping|noun; singular; uncountable
+8228|похудеть|to lose weight|verb; perfective
+8229|пожелание|wish|noun; singular
+8230|дружка|best man|noun; singular
+8231|помотать|to shake|verb; perfective
+8232|фасад|facade|noun; singular
+8233|затеряться|to get lost|verb; perfective; reflexive
+8234|сочный|juicy|adjective
+8235|шут|jester|noun; singular
+8236|взрослый|adult|adjective
+8237|кудрявый|curly|adjective
+8238|выкладывать|to lay out|verb; imperfective
+8239|гитарист|guitarist|noun; singular
+8240|босиком|barefoot|adverb
+8241|въезд|entrance|noun; singular
+8242|предельно|extremely|adverb
+8243|цигарка|hand-rolled cigarette|noun; singular
+8244|взвиться|to soar up|verb; perfective; reflexive
+8245|подбрасывать|to toss up|verb; imperfective
+8246|световой|light|adjective
+8247|угадывать|to guess|verb; imperfective
+8248|сенатор|senator|noun; singular
+8249|шарада|charade|noun; singular
+8250|хм|hmm|interjection
+8251|потрясение|shock|noun; singular
+8252|соединять|to connect|verb; imperfective
+8253|рак|crayfish|noun; singular
+8254|неровный|uneven|adjective
+8255|крытый|covered|adjective
+8256|помятый|crumpled|adjective
+8257|восклицать|to exclaim|verb; imperfective
+8258|завестись|to start up|verb; perfective; reflexive
+8259|мечтательный|dreamy|adjective
+8260|босс|boss|noun; singular
+8261|антарктида|Antarctica|noun; singular; proper
+8262|болезненно|painfully|adverb
+8263|сталь|steel|noun; singular; uncountable
+8264|торопить|to hurry|verb; imperfective
+8265|кит|whale|noun; singular
+8266|формальный|formal|adjective
+8267|затаиться|to hide|verb; perfective; reflexive
+8268|худощавый|lean|adjective
+8269|умница|smart person|noun; singular
+8270|певица|singer|noun; singular
+8271|ООН|UN|noun; singular; proper; abbreviation
+8272|скидка|discount|noun; singular
+8273|параметр|parameter|noun; singular
+8274|коттедж|cottage|noun; singular
+8275|резной|carved|adjective
+8276|лондонский|London|adjective
+8277|сковородка|frying pan|noun; singular
+8278|регулярный|regular|adjective
+8279|ноша|burden|noun; singular
+8280|мятежник|rebel|noun; singular
+8281|ухмыляться|to smirk|verb; imperfective; reflexive
+8282|промокнуть|to get soaked|verb; perfective; reflexive
+8283|сыпать|to pour|verb; imperfective
+8284|поликлиника|clinic|noun; singular
+8285|изуродовать|to disfigure|verb; perfective
+8286|морально|morally|adverb
+8287|фирменный|brand|adjective
+8288|мстить|to take revenge|verb; imperfective
+8289|спасительный|saving|adjective
+8290|дяденька|mister|noun; singular
+8291|защищаться|to defend oneself|verb; imperfective; reflexive
+8292|отскочить|to bounce off|verb; perfective
+8293|контейнер|container|noun; singular
+8294|наделить|to endow|verb; perfective
+8295|возрождение|revival|noun; singular
+8296|планироваться|to be planned|verb; imperfective; reflexive
+8297|неудобный|uncomfortable|adjective
+8298|вдыхать|to inhale|verb; imperfective
+8299|холодок|coolness|noun; singular; uncountable
+8300|купюра|banknote|noun; singular

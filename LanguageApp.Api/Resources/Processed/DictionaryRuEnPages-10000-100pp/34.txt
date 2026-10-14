@@ -1,0 +1,100 @@
+3301|клясться|to swear|verb; regular; reflexive
+3302|раскрытый|revealed|adjective
+3303|пожелать|to wish|verb; perfective
+3304|красный|red|adjective
+3305|приниматься|to begin|verb; regular; reflexive
+3306|приложить|to attach|verb; perfective
+3307|реформа|reform|noun; singular
+3308|кинуть|to throw|verb; perfective
+3309|оперативный|operational|adjective
+3310|жрать|to devour|verb; irregular
+3311|техник|technician|noun; singular
+3312|дошлый|savvy|adjective
+3313|надолго|for a long time|adverb
+3314|оторваться|to break away|verb; perfective; reflexive
+3315|охранник|guard|noun; singular
+3316|пугать|to frighten|verb; regular
+3317|установка|installation|noun; singular
+3318|сверкать|to sparkle|verb; regular
+3319|расход|expense|noun; singular
+3320|неприятно|unpleasantly|adverb
+3321|забытый|forgotten|adjective
+3322|поесть|to eat|verb; perfective
+3323|зависть|envy|noun; singular; uncountable
+3324|барон|baron|noun; singular
+3325|талантливый|talented|adjective
+3326|отправляться|to set off|verb; regular; reflexive
+3327|несомненно|undoubtedly|adverb
+3328|изобразить|to depict|verb; perfective
+3329|бред|delirium|noun; singular; uncountable
+3330|нарочно|on purpose|adverb
+3331|прихожая|hallway|noun; singular
+3332|комендант|commandant|noun; singular
+3333|рослый|tall|adjective
+3334|высказать|to voice|verb; perfective
+3335|мутный|murky|adjective
+3336|кисть|hand|noun; singular
+3337|цирк|circus|noun; singular
+3338|квартал|block|noun; singular
+3339|нелепый|absurd|adjective
+3340|пешком|on foot|adverb
+3341|жуткий|terrifying|adjective
+3342|жилье|dwelling|noun; singular
+3343|приступ|attack|noun; singular
+3344|предыдущий|previous|adjective
+3345|спалить|to burn down|verb; perfective
+3346|политбюро|politburo|noun; singular
+3347|спасение|salvation|noun; singular; uncountable
+3348|моральный|moral|adjective
+3349|определение|definition|noun; singular
+3350|образец|sample|noun; singular
+3351|одиннадцать|eleven|numeral; cardinal
+3352|здешний|local|adjective
+3353|фантазия|fantasy|noun; singular
+3354|спорт|sport|noun; singular; uncountable
+3355|вначале|at first|adverb
+3356|гладкий|smooth|adjective
+3357|июль|July|noun; singular
+3358|шептать|to whisper|verb; irregular
+3359|телеграмма|telegram|noun; singular
+3360|напиток|beverage|noun; singular
+3361|торговля|trade|noun; singular; uncountable
+3362|юмор|humor|noun; singular; uncountable
+3363|испортить|to spoil|verb; perfective
+3364|молчаливый|silent|adjective
+3365|следовательно|therefore|conjunction
+3366|отъезд|departure|noun; singular
+3367|чтение|reading|noun; singular; uncountable
+3368|мучить|to torment|verb; regular
+3369|надевать|to put on|verb; regular
+3370|сумерки|twilight|noun; plural
+3371|царский|tsarist|adjective
+3372|вылететь|to fly out|verb; perfective
+3373|овраг|ravine|noun; singular
+3374|недолго|not long|adverb
+3375|видеться|to see each other|verb; regular; reflexive
+3376|свободно|freely|adverb
+3377|охранять|to guard|verb; regular
+3378|авиация|aviation|noun; singular; uncountable
+3379|Берлин|Berlin|noun; singular; proper
+3380|эдакий|such a|pronoun
+3381|облегчение|relief|noun; singular
+3382|скрываться|to hide|verb; regular; reflexive
+3383|весенний|spring|adjective
+3384|влезть|to climb in|verb; perfective
+3385|трясти|to shake|verb; irregular
+3386|рядовой|ordinary|adjective
+3387|приблизиться|to approach|verb; perfective; reflexive
+3388|дыра|hole|noun; singular
+3389|настаивать|to insist|verb; regular
+3390|оркестр|orchestra|noun; singular
+3391|визит|visit|noun; singular
+3392|большевик|bolshevik|noun; singular
+3393|Сибирь|Siberia|noun; singular; proper
+3394|старательный|diligent|adjective
+3395|напряженный|tense|adjective
+3396|машинка|small machine|noun; singular
+3397|термин|term|noun; singular
+3398|интервью|interview|noun; singular; indeclinable
+3399|выжить|to survive|verb; perfective
+3400|гордый|proud|adjective

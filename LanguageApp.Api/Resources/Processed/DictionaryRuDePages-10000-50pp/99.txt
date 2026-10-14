@@ -1,0 +1,50 @@
+4951|верхушка|Верхняя часть чего-либо|Spitze|noun; feminine
+4952|око|Глаз (устар.)|Auge|noun; neuter
+4953|вопреки|Несмотря на что-либо, наперекор|trotz|preposition
+4954|активно|Деятельно, энергично|aktiv|adverb
+4955|национальность|Принадлежность к нации или народности|Nationalität|noun; feminine
+4956|платформа|Возвышение для посадки в транспорт; перрон|Bahnsteig|noun; masculine
+4957|верста|Старая русская мера длины, около 1,06 км|Werst|noun; feminine
+4958|подружка|Близкая подруга|Freundin|noun; feminine
+4959|практик|Специалист с богатым практическим опытом|Praktiker|noun; masculine
+4960|ограниченный|Небольшой, узкий в чём-либо|begrenzt|adjective
+4961|оглядывать|Осматривать, обозревать|mustern|verb; imperfective; infinitive
+4962|взяток|Сбор нектара пчёлами|Bienenertrag|noun; masculine
+4963|гусеница|Личинка бабочки, червеобразная с несколькими парами ног|Raupe|noun; feminine
+4964|объятие|Охват руками кого-либо как выражение чувств|Umarmung|noun; feminine
+4965|отставка|Увольнение с военной или государственной службы|Rücktritt|noun; masculine
+4966|ихний|Их (разг.)|ihr|pronoun
+4967|чересчур|Слишком, сверх меры|zu sehr|adverb
+4968|оригинальный|Своеобразный, необычный|originell|adjective
+4969|рельс|Стальной брус на рельсовом пути|Schiene|noun; feminine
+4970|рыбка|Маленькая рыба (уменьш.)|Fischlein|noun; neuter
+4971|игрок|Участник игры|Spieler|noun; masculine
+4972|вить|Изготовлять, скручивая или сплетая|flechten|verb; imperfective; infinitive
+4973|ура|Боевой или торжественный клич|Hurra|interjection
+4974|шорох|Тихий звук от лёгкого трения|Rascheln|noun; neuter
+4975|новичок|Тот, кто недавно начал заниматься чем-либо|Neuling|noun; masculine
+4976|парнишка|Мальчик, подросток (разг.)|Bursche|noun; masculine
+4977|скотина|Крупный домашний скот|Vieh|noun; neuter
+4978|поручение|Дело, порученное кому-либо для выполнения|Auftrag|noun; masculine
+4979|сослаться|Указать на что-либо в подтверждение своих слов|sich berufen|verb; perfective; infinitive; reflexive
+4980|премьер|Глава правительства, премьер-министр|Premier|noun; masculine
+4981|добывать|Извлекать, получать путём усилий|gewinnen|verb; imperfective; infinitive
+4982|рывок|Резкое порывистое движение|Ruck|noun; masculine
+4983|заканчиваться|Приходить к завершению|enden|verb; imperfective; infinitive
+4984|женатый|Состоящий в браке (о мужчине)|verheiratet|adjective
+4985|сопка|Небольшая гора с округлой вершиной|Hügel|noun; masculine
+4986|торговец|Человек, занимающийся торговлей|Händler|noun; masculine
+4987|эфир|Воздушное пространство для радиоволн; также химическое соединение|Äther|noun; masculine
+4988|шевелить|Трогать, слегка двигать|bewegen|verb; imperfective; infinitive
+4989|присутствующий|Находящийся в данном месте|Anwesende|adjective
+4990|связаться|Установить контакт с кем-либо|sich in Verbindung setzen|verb; perfective; infinitive; reflexive
+4991|завязать|Закрепить узлом или бантом|zubinden|verb; perfective; infinitive
+4992|приезжий|Приехавший из другого места|Zugereiste|adjective
+4993|строитель|Специалист по строительным работам|Bauarbeiter|noun; masculine
+4994|разложить|Разместить по местам в определённом порядке|ausbreiten|verb; perfective; infinitive
+4995|знакомый|Человек, с которым поддерживается знакомство|Bekannte|noun; masculine
+4996|слушатель|Тот, кто слушает кого-либо или что-либо|Zuhörer|noun; masculine
+4997|отрывать|Резко отделять|abreißen|verb; imperfective; infinitive
+4998|остро|Остроумно, язвительно|scharf|adverb
+4999|Африка|Континент на земном шаре|Afrika|noun; neuter; proper
+5000|тумбочка|Небольшой прикроватный шкафчик|Nachttisch|noun; masculine

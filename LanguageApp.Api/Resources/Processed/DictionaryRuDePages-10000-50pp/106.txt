@@ -1,0 +1,50 @@
+5301|приподняться|Подняться чуть выше исходного положения|sich ein wenig erheben|verb; perfective; infinitive; reflexive
+5302|отделять|Служить границей; разграничивать|trennen|verb; imperfective; infinitive
+5303|станок|Машина для обработки металла, дерева или иных материалов|Maschine|noun; feminine
+5304|портить|Приводить в негодность; делать хуже|verderben|verb; imperfective; infinitive
+5305|врезаться|Войти острым краем; резко столкнуться|sich einrammen|verb; perfective; infinitive; reflexive
+5306|гребень|Пластинка с зубцами для расчёсывания волос|Kamm|noun; masculine
+5307|дарить|Передавать в качестве подарка|schenken|verb; imperfective; infinitive
+5308|пшеничный|Относящийся к пшенице|Weizen-|adjective
+5309|усиливаться|Становиться более сильным или интенсивным|zunehmen|verb; imperfective; infinitive
+5310|изумрудный|Ярко-зелёного цвета, как изумруд|smaragdgrün|adjective
+5311|туманный|Покрытый туманом; неясный|neblig|adjective
+5312|выбрасывать|Бросая, удалять; избавляться от чего-либо|wegwerfen|verb; imperfective; infinitive
+5313|коробочка|Маленькая коробка|Schächtelchen|noun; neuter
+5314|выделять|Обособлять, отделять часть от целого|hervorheben|verb; imperfective; infinitive
+5315|ненадолго|На короткое время|für kurze Zeit|adverb
+5316|умственный|Относящийся к деятельности ума; интеллектуальный|geistig|adjective
+5317|чуждый|Далёкий, не имеющий ничего общего; инородный|fremd|adjective
+5318|уток|Поперечные нити ткани|Schussfaden|noun; masculine
+5319|дружеский|Проникнутый дружелюбием и расположением|freundschaftlich|adjective
+5320|купе|Закрытое отделение в пассажирском вагоне|Abteil|noun; neuter
+5321|колония|Страна под властью иностранного государства|Kolonie|noun; feminine
+5322|дергать|Тянуть резким отрывистым движением|reißen|verb; imperfective; infinitive
+5323|колхозный|Относящийся к колхозу — коллективному хозяйству|Kolchos-|adjective
+5324|ефрейтор|Воинское звание выше рядового|Gefreite|noun; masculine
+5325|рояль|Клавишный инструмент с горизонтально натянутыми струнами|Flügel|noun; masculine
+5326|нарядный|Красиво и нарядно одетый|festlich gekleidet|adjective
+5327|аналогичный|Сходный, подобный по характеру или свойствам|ähnlich|adjective
+5328|присниться|Появиться в сновидении|träumen|verb; perfective; infinitive
+5329|серебристый|Цвета серебра, с серебристым отливом|silbern|adjective
+5330|морщиться|Делать морщины на лице; гримасничать|die Stirn runzeln|verb; imperfective; infinitive
+5331|глотать|Проталкивать пищу из рта в желудок|schlucken|verb; imperfective; infinitive
+5332|удочка|Рыболовная снасть с удилищем и крючком|Angel|noun; feminine
+5333|ожить|Снова стать живым или активным|wieder aufleben|verb; perfective; infinitive
+5334|Ана|Женское имя|Anna|noun; feminine; proper
+5335|разработка|Детальная проработка или освоение чего-либо|Entwicklung|noun; feminine
+5336|минимальный|Наименьший из возможных|minimal|adjective
+5337|рыдать|Громко и судорожно плакать|schluchzen|verb; imperfective; infinitive
+5338|деваться|Исчезать, пропадать; не знать, куда себя деть|verschwinden|verb; imperfective; infinitive
+5339|мамочка|Ласковое обращение к матери|Mama|noun; feminine
+5340|регулярно|Через равные промежутки времени; систематически|regelmäßig|adverb
+5341|проделать|Выполнить, совершить|durchführen|verb; perfective; infinitive
+5342|сталкиваться|Столкнуться, встретиться с чем-либо|aufeinanderprallen|verb; imperfective; infinitive
+5343|сокращение|Уменьшение численности или объёма|Kürzung|noun; feminine
+5344|сбиться|Отклониться от правильного курса; запутаться|durcheinanderkommen|verb; perfective; infinitive
+5345|служащий|Работник умственного труда|Angestellte|noun; masculine
+5346|почтенный|Внушающий уважение; достойный почтения|ehrenwert|adjective
+5347|бродяга|Бездомный скиталец|Landstreicher|noun; masculine
+5348|изволить|Хотеть, желать (устар., вежл.)|geruhen|verb; imperfective; infinitive
+5349|носовой|Относящийся к носу|Nasen-|adjective
+5350|грандиозный|Огромный, величественный|grandios|adjective

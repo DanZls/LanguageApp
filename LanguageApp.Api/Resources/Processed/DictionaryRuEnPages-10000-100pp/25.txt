@@ -1,0 +1,100 @@
+2401|снаряд|shell|noun; singular
+2402|ярко|brightly|adverb
+2403|марка|stamp|noun; singular
+2404|заместитель|deputy|noun; singular
+2405|папка|folder|noun; singular
+2406|отказываться|to refuse|verb; regular; reflexive
+2407|концерт|concert|noun; singular
+2408|творческий|creative|adjective
+2409|разум|mind|noun; singular; uncountable
+2410|волшебный|magical|adjective
+2411|МК|MK|noun; abbreviation
+2412|пояснить|to clarify|verb; perfective
+2413|активный|active|adjective
+2414|услуга|service|noun; singular
+2415|белье|linen|noun; singular; uncountable
+2416|прощать|to forgive|verb; regular
+2417|благо|good|noun; singular
+2418|ангел|angel|noun; singular
+2419|шуметь|to make noise|verb; irregular
+2420|одинаковый|identical|adjective
+2421|толь|roofing felt|noun; singular; uncountable
+2422|мина|mine|noun; singular
+2423|модель|model|noun; singular
+2424|массовый|mass|adjective
+2425|разрешение|permission|noun; singular; uncountable
+2426|наличие|presence|noun; singular; uncountable
+2427|доноситься|to reach|verb; regular; reflexive
+2428|этап|stage|noun; singular
+2429|описать|to describe|verb; perfective
+2430|невольно|involuntarily|adverb
+2431|козел|goat|noun; singular
+2432|возвращение|return|noun; singular
+2433|класть|to put|verb; irregular
+2434|шагать|to stride|verb; regular
+2435|идиот|idiot|noun; singular
+2436|ненависть|hatred|noun; singular; uncountable
+2437|жалкий|pitiful|adjective
+2438|победить|to win|verb; perfective
+2439|плавать|to swim|verb; regular
+2440|летчик|pilot|noun; singular
+2441|лекция|lecture|noun; singular
+2442|смелый|brave|adjective
+2443|случайный|accidental|adjective
+2444|каков|what kind|pronoun
+2445|печь|oven|noun; singular
+2446|разобрать|to take apart|verb; perfective
+2447|государь|sovereign|noun; singular
+2448|замуж|to get married|verb; regular; reflexive
+2449|верх|top|noun; singular
+2450|изображение|image|noun; singular
+2451|моряк|sailor|noun; singular
+2452|речка|small river|noun; singular
+2453|республика|republic|noun; singular
+2454|гордость|pride|noun; singular; uncountable
+2455|бревно|log|noun; singular
+2456|невеста|bride|noun; singular
+2457|потянуться|to stretch|verb; perfective; reflexive
+2458|кривой|crooked|adjective
+2459|посреди|amid|preposition
+2460|предположить|to suppose|verb; perfective
+2461|вчерашний|yesterday's|adjective
+2462|прибор|device|noun; singular
+2463|кандидат|candidate|noun; singular
+2464|портфель|briefcase|noun; singular
+2465|доставить|to deliver|verb; perfective
+2466|ошибиться|to be mistaken|verb; perfective; reflexive
+2467|разбудить|to wake|verb; perfective
+2468|невидимый|invisible|adjective
+2469|виза|visa|noun; singular
+2470|гибель|death|noun; singular; uncountable
+2471|прятать|to hide|verb; regular
+2472|карьера|career|noun; singular
+2473|водить|to drive|verb; irregular
+2474|малыш|kid|noun; singular
+2475|пробовать|to try|verb; regular
+2476|заплатить|to pay|verb; perfective
+2477|назначение|purpose|noun; singular
+2478|гвоздь|nail|noun; singular
+2479|кафе|cafe|noun; singular
+2480|убийца|murderer|noun; singular
+2481|неведомый|unknown|adjective
+2482|японский|Japanese|adjective
+2483|обязанность|duty|noun; singular
+2484|отель|hotel|noun; singular
+2485|обнять|to hug|verb; perfective
+2486|допустимый|permissible|adjective
+2487|заглядывать|to peek|verb; regular
+2488|подготовка|preparation|noun; singular; uncountable
+2489|последствие|consequence|noun; singular
+2490|красавица|beauty|noun; singular
+2491|ковер|carpet|noun; singular
+2492|выбросить|to throw out|verb; perfective
+2493|анализ|analysis|noun; singular
+2494|устроиться|to get settled|verb; perfective; reflexive
+2495|собственность|property|noun; singular; uncountable
+2496|оценить|to evaluate|verb; perfective
+2497|немножко|a little bit|adverb
+2498|хлопнуть|to slam|verb; perfective
+2499|родить|to give birth|verb; perfective
+2500|уставиться|to stare|verb; perfective; reflexive

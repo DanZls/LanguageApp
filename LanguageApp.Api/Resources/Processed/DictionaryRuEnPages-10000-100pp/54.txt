@@ -1,0 +1,100 @@
+5301|приподняться|to rise slightly|verb; perfective; reflexive
+5302|отделять|to separate|verb; imperfective
+5303|станок|machine|noun; singular
+5304|портить|to spoil|verb; imperfective
+5305|врезаться|to crash into|verb; perfective; reflexive
+5306|гребень|comb|noun; singular
+5307|дарить|to give|verb; imperfective
+5308|пшеничный|wheat|adjective
+5309|усиливаться|to intensify|verb; imperfective; reflexive
+5310|изумрудный|emerald|adjective
+5311|туманный|foggy|adjective
+5312|выбрасывать|to throw out|verb; imperfective
+5313|коробочка|capsule|noun; singular
+5314|выделять|to allocate|verb; imperfective
+5315|ненадолго|for a short time|adverb
+5316|умственный|mental|adjective
+5317|чуждый|alien|adjective
+5318|уток|weft|noun; singular
+5319|дружеский|friendly|adjective
+5320|купе|compartment|noun; singular
+5321|колония|colony|noun; singular
+5322|дергать|to tug|verb; imperfective
+5323|колхозный|collective-farm|adjective
+5324|ефрейтор|lance corporal|noun; singular
+5325|рояль|grand piano|noun; singular
+5326|нарядный|smartly dressed|adjective
+5327|аналогичный|similar|adjective
+5328|присниться|to dream|verb; perfective; reflexive
+5329|серебристый|silvery|adjective
+5330|морщиться|to wince|verb; imperfective; reflexive
+5331|глотать|to swallow|verb; imperfective
+5332|удочка|fishing rod|noun; singular
+5333|ожить|to come alive|verb; perfective
+5334|Ана|Ana|noun; singular; proper
+5335|разработка|development|noun; singular
+5336|минимальный|minimal|adjective
+5337|рыдать|to sob|verb; imperfective
+5338|деваться|to disappear|verb; imperfective; reflexive
+5339|мамочка|mommy|noun; singular
+5340|регулярно|regularly|adverb
+5341|проделать|to carry out|verb; perfective
+5342|сталкиваться|to collide|verb; imperfective; reflexive
+5343|сокращение|reduction|noun; singular
+5344|сбиться|to lose track|verb; perfective; reflexive
+5345|служащий|employee|noun; singular
+5346|почтенный|venerable|adjective
+5347|бродяга|tramp|noun; singular
+5348|изволить|to wish|verb; imperfective
+5349|носовой|nasal|adjective
+5350|грандиозный|grandiose|adjective
+5351|пение|singing|noun; singular; uncountable
+5352|лихо|evil|noun; singular; uncountable
+5353|парус|sail|noun; singular
+5354|нащупать|to feel out|verb; perfective
+5355|растить|to raise|verb; imperfective
+5356|запрет|ban|noun; singular
+5357|золотистый|golden|adjective
+5358|гонорар|fee|noun; singular
+5359|союзник|ally|noun; singular
+5360|почтовый|postal|adjective
+5361|гимназия|gymnasium|noun; singular
+5362|насилие|violence|noun; singular; uncountable
+5363|прощание|farewell|noun; singular
+5364|лорд|lord|noun; singular
+5365|лить|to pour|verb; imperfective
+5366|носиться|to rush around|verb; imperfective; reflexive
+5367|грудной|chest|adjective
+5368|адмирал|admiral|noun; singular
+5369|разбросать|to scatter|verb; perfective
+5370|эмиграция|emigration|noun; singular; uncountable
+5371|завтрашний|tomorrow's|adjective
+5372|наводить|to aim|verb; imperfective
+5373|мерзавец|scoundrel|noun; singular
+5374|смутно|vaguely|adverb
+5375|некто|someone|pronoun
+5376|кислый|sour|adjective
+5377|цыпочки|tiptoe|noun; plural
+5378|грусть|sadness|noun; singular; uncountable
+5379|раздумье|contemplation|noun; singular
+5380|нота|note|noun; singular
+5381|реплика|remark|noun; singular
+5382|рация|walkie-talkie|noun; singular
+5383|дисциплина|discipline|noun; singular; uncountable
+5384|лай|barking|noun; singular; uncountable
+5385|потратить|to spend|verb; perfective
+5386|лезвие|blade|noun; singular
+5387|любезный|courteous|adjective
+5388|критик|critic|noun; singular
+5389|воспринять|to perceive|verb; perfective
+5390|захохотать|to burst out laughing|verb; perfective; reflexive
+5391|замирать|to freeze|verb; imperfective
+5392|покров|cover|noun; singular
+5393|судорожно|convulsively|adverb
+5394|стыдиться|to be ashamed|verb; imperfective; reflexive
+5395|шрам|scar|noun; singular
+5396|закинуть|to throw|verb; perfective
+5397|симпатия|sympathy|noun; singular; uncountable
+5398|табличка|plaque|noun; singular
+5399|сочинить|to compose|verb; perfective
+5400|мужество|courage|noun; singular; uncountable

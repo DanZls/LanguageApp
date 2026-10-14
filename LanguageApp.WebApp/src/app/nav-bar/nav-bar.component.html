@@ -1,0 +1,31 @@
+<header class="nav">
+  <div class="nav__brand">
+    <span class="nav__mark">L</span>
+    <span class="nav__name">LanguageApp</span>
+  </div>
+
+  <nav class="nav__links">
+    @for (link of links; track link.label) {
+      <a
+        class="nav__link"
+        [class.nav__link--active]="link.label === activeLink"
+        href="#"
+        (click)="selectLink(link.label, $event)"
+      >
+        {{ link.label }}
+      </a>
+    }
+  </nav>
+
+  <div class="nav__account">
+    <button
+      class="nav__avatar"
+      type="button"
+      [class.nav__avatar--active]="activeLink === 'Settings'"
+      (click)="openAccount()"
+      aria-label="Account"
+    >
+      <span class="material-symbols-outlined">settings</span>
+    </button>
+  </div>
+</header>

@@ -1,0 +1,50 @@
+6851|встревожить|Привести в состояние тревоги|beunruhigen|verb; perfective; infinitive
+6852|повториться|Произойти ещё раз|sich wiederholen|verb; perfective; infinitive; reflexive
+6853|повелеть|Дать приказ или указание|befehlen|verb; perfective; infinitive
+6854|вылетать|Быстро вырываться наружу; покидать|herausfliegen|verb; imperfective; infinitive
+6855|сводка|Краткое сообщение о событиях|Bericht|noun; masculine
+6856|мочь|Быть в состоянии; иметь возможность|können|verb; imperfective; infinitive
+6857|обжечь|Повредить огнём или горячим|verbrennen|verb; perfective; infinitive
+6858|отличать|Быть характерным признаком; выделять|unterscheiden|verb; imperfective; infinitive
+6859|уродливый|Некрасивый; безобразный|hässlich|adjective
+6860|неслышный|Тихий; бесшумный|unhörbar|adjective
+6861|борщ|Суп со свёклой и другими овощами|Borschtsch|noun; masculine
+6862|администратор|Должностное лицо, управляющее чем-либо|Administrator|noun; masculine
+6863|матовый|Не имеющий блеска или глянца|matt|adjective
+6864|Казахстан|Государство в Центральной Азии|Kasachstan|noun; neuter; proper
+6865|взреветь|Внезапно завыть или зарычать|aufbrüllen|verb; perfective; infinitive
+6866|яблоня|Плодовое дерево с шаровидными сладкими плодами|Apfelbaum|noun; masculine
+6867|мастерство|Профессиональное умение и навыки|Meisterschaft|noun; feminine
+6868|предполагаться|Иметься в предположении|vorgesehen sein|verb; imperfective; infinitive
+6869|град|Атмосферные осадки в виде льдинок|Hagel|noun; masculine
+6870|ремесло|Изготовление изделий ручным способом как профессия|Handwerk|noun; neuter
+6871|властный|Имеющий склонность к повелеванию|herrisch|adjective
+6872|выдумка|Изобретательность; придумка|Erfindung|noun; feminine
+6873|нелегкий|Трудный; тяжёлый|schwierig|adjective
+6874|прозвать|Дать прозвище|spitznamen|verb; perfective; infinitive
+6875|сбрасывать|Бросать вниз; удалять|abwerfen|verb; imperfective; infinitive
+6876|накопить|Собрать в запас; накопить|ansammeln|verb; perfective; infinitive
+6877|выговор|Строгое словесное взыскание за проступок|Rüge|noun; feminine
+6878|внушительный|Производящий сильное впечатление|eindrucksvoll|adjective
+6879|клан|Родовая община; клан|Clan|noun; masculine
+6880|оттолкнуть|Толчком отодвинуть|wegstoßen|verb; perfective; infinitive
+6881|павильон|Здание для экспонатов или киносъёмок|Pavillon|noun; masculine
+6882|безымянный|Неизвестный по имени|namenlos|adjective
+6883|затея|Задуманное дело; замысел|Vorhaben|noun; neuter
+6884|косяк|Брус дверной или оконной рамы|Türrahmen|noun; masculine
+6885|взорвать|Разрушить взрывом|sprengen|verb; perfective; infinitive
+6886|усаживаться|Садиться; располагаться|sich niederlassen|verb; imperfective; infinitive; reflexive
+6887|споткнуться|Зацепив за что-либо ногой, потерять равновесие|stolpern|verb; perfective; infinitive
+6888|запрос|Официальное обращение с требованием|Anfrage|noun; feminine
+6889|приветливо|Дружелюбно и радушно|freundlich|adverb
+6890|шашлык|Кушанье из кусочков мяса на шампуре|Schaschlik|noun; masculine
+6891|похитить|Тайно унести или присвоить|entführen|verb; perfective; infinitive
+6892|поросенок|Детёныш свиньи|Ferkel|noun; neuter
+6893|закономерность|Соответствие законам; повторяемость|Gesetzmäßigkeit|noun; feminine
+6894|придерживаться|Следовать чему-либо; иметь склонность|sich halten an|verb; imperfective; infinitive; reflexive
+6895|втянуть|Вовлечь в какое-либо дело|hineinziehen|verb; perfective; infinitive
+6896|синдром|Сочетание симптомов, характерных для болезни|Syndrom|noun; neuter
+6897|прищуриться|Слегка прикрыть глаза|die Augen zusammenkneifen|verb; perfective; infinitive
+6898|взвыть|Внезапно завыть|aufheulen|verb; perfective; infinitive
+6899|командный|Относящийся к командованию|Kommando-|adjective
+6900|мятый|Со складками и морщинами; негладкий|zerknittert|adjective

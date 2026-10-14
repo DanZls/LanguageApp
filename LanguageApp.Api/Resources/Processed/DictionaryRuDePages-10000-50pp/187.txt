@@ -1,0 +1,50 @@
+9351|закружиться|Начать кружиться|sich drehen|verb; perfective; infinitive; reflexive
+9352|долл|Сокращение от «доллар»|Dollar|noun; masculine; abbreviation
+9353|отгонять|Прогонять; удалять кого-либо|verjagen|verb; imperfective; infinitive
+9354|ласкать|Проявлять ласку; нежно гладить|liebkosen|verb; imperfective; infinitive
+9355|губка|Мягкое пористое изделие для мытья|Schwamm|noun; masculine
+9356|восемнадцатый|Порядковое числительное — 18-й|achtzehnter|numeral; ordinal
+9357|продолжительный|Долго длящийся; длительный|langwierig|adjective
+9358|паста|Однородная тестообразная смесь|Paste|noun; feminine
+9359|подсознание|Область неосознанных мыслей и чувств|Unterbewusstsein|noun; neuter
+9360|наблюдательный|Внимательный; умеющий хорошо подмечать|aufmerksam|adjective
+9361|сувенир|Подарок или предмет на память|Souvenir|noun; neuter
+9362|соединиться|Объединиться; слиться в одно целое|sich vereinigen|verb; perfective; infinitive; reflexive
+9363|постельный|Относящийся к постели или постельным принадлежностям|Bett-|adjective
+9364|сновать|Торопливо двигаться туда и сюда|hin und her laufen|verb; imperfective; infinitive
+9365|грузить|Наполнять грузом; загружать|beladen|verb; imperfective; infinitive
+9366|таможня|Учреждение, контролирующее провоз грузов через границу|Zoll|noun; masculine
+9367|прекращать|Переставать делать что-либо; заканчивать|einstellen|verb; imperfective; infinitive
+9368|ловкость|Умение и проворство в движениях|Geschicklichkeit|noun; feminine
+9369|обгонять|Опережать в движении; обгонять|überholen|verb; imperfective; infinitive
+9370|поклясться|Дать торжественную клятву|schwören|verb; perfective; infinitive
+9371|шейк|Парный танец с энергичными движениями|Shake|noun; masculine
+9372|пояснять|Объяснять; делать более понятным|erläutern|verb; imperfective; infinitive
+9373|пики|Масть в картах с наконечником копья|Pik|noun; neuter; plural
+9374|навещать|Периодически посещать кого-либо|besuchen|verb; imperfective; infinitive
+9375|взвесить|Определить вес чего-либо|wiegen|verb; perfective; infinitive
+9376|утомленный|Испытывающий усталость; изнурённый|erschöpft|adjective
+9377|умеренный|Средний; не крайний|gemäßigt|adjective
+9378|дробь|Число, выраженное как часть единицы|Bruch|noun; masculine
+9379|возвышенный|Благородный; стоящий выше обыденности|erhaben|adjective
+9380|предсказать|Заранее сообщить о будущем событии|vorhersagen|verb; perfective; infinitive
+9381|горбатый|Имеющий горб; с горбом|bucklig|adjective
+9382|выпалить|Сказать одним духом; выпалить|herausplatzen|verb; perfective; infinitive
+9383|протез|Искусственный заменитель утраченного органа|Prothese|noun; feminine
+9384|изрядный|Значительный по размеру или количеству|beträchtlich|adjective
+9385|гимназист|Учащийся гимназии|Gymnasiast|noun; masculine
+9386|флажок|Небольшой флаг|Fähnchen|noun; neuter; diminutive
+9387|перегрузка|Излишняя нагрузка; перегрузка|Überlastung|noun; feminine
+9388|воротничок|Часть одежды у ворота|Krägelchen|noun; neuter; diminutive
+9389|прощанье|Прощание; расставание|Abschied|noun; masculine
+9390|хвоя|Игловидные листья хвойных деревьев|Nadeln|noun; plural; feminine
+9391|невообразимый|Немыслимый; не поддающийся воображению|unvorstellbar|adjective
+9392|разлететься|Разлететься в разные стороны; рассеяться|auseinanderfliegen|verb; perfective; infinitive
+9393|дощечка|Небольшая деревянная дощечка|Brettchen|noun; neuter; diminutive
+9394|мавзолей|Большое надгробное мемориальное сооружение|Mausoleum|noun; neuter
+9395|горевать|Испытывать горе; скорбеть|trauern|verb; imperfective; infinitive
+9396|неуклюже|Неловко; неумело|ungeschickt|adverb
+9397|словесный|Относящийся к слову; устный|verbal|adjective
+9398|половинка|Половина чего-либо|Hälfte|noun; feminine
+9399|нечеловеческий|Не свойственный человеку; нечеловеческий|unmenschlich|adjective
+9400|грозиться|Угрожать; делать угрожающий жест|drohen|verb; imperfective; infinitive

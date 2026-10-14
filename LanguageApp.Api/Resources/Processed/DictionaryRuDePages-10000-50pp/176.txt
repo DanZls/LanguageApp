@@ -1,0 +1,50 @@
+8801|нагреть|Сделать тёплым или горячим|erhitzen|verb; perfective; infinitive
+8802|общественно|Относящийся к общественной жизни|gesellschaftlich|adjective
+8803|купля|Покупка, приобретение|Kauf|noun; masculine
+8804|впустить|Дать доступ, пустить внутрь|einlassen|verb; perfective; infinitive
+8805|подрагивать|Слегка дрожать время от времени|zittern|verb; imperfective; infinitive
+8806|вырубить|Уничтожить деревья рубкой|abholzen|verb; perfective; infinitive
+8807|вывозить|Везти, удалять за пределы чего-либо|abtransportieren|verb; imperfective; infinitive
+8808|праздновать|Торжественно отмечать праздник|feiern|verb; imperfective; infinitive
+8809|беленький|Беловатый, очень белый (уменьш.)|weißlich|adjective
+8810|переписать|Написать заново или скопировать|umschreiben|verb; perfective; infinitive
+8811|Иерусалим|Столица Израиля|Jerusalem|noun; neuter; proper
+8812|канадский|Относящийся к Канаде или канадцам|kanadisch|adjective
+8813|повлиять|Оказать влияние на что-либо|beeinflussen|verb; perfective; infinitive
+8814|скорбный|Печальный, полный скорби|trauervoll|adjective
+8815|резинка|Ластик для стирания карандаша|Radiergummi|noun; masculine
+8816|отогнать|Прогнать, отстранить|vertreiben|verb; perfective; infinitive
+8817|Никитич|Отчество по имени Никита|Nikititsch|noun; masculine; proper
+8818|отбивать|Ритмично ударять, издавать мерный стук|abwehren|verb; imperfective; infinitive
+8819|вша|Мелкое паразитическое насекомое|Laus|noun; feminine
+8820|соблюдение|Выполнение правил и норм|Einhaltung|noun; feminine
+8821|пластиковый|Сделанный из пластика|Kunststoff-|adjective
+8822|настигнуть|Догнать, настичь преследуемого|einholen|verb; perfective; infinitive
+8823|пошевелиться|Слегка двинуться|sich rühren|verb; perfective; infinitive; reflexive
+8824|Веня|Мужское имя (уменьш.)|Wenja|noun; masculine; proper
+8825|приветливый|Благожелательный, радушный|freundlich|adjective
+8826|брик|Двухмачтовое парусное судно|Brigg|noun; feminine
+8827|окинуть|Осмотреть взглядом, охватить взором|überblicken|verb; perfective; infinitive
+8828|апостол|Ученик Христа, несущий его учение|Apostel|noun; masculine
+8829|позавидовать|Испытать зависть к кому-либо|beneiden|verb; perfective; infinitive
+8830|совершаться|Происходить, осуществляться|stattfinden|verb; imperfective; infinitive
+8831|просвещение|Распространение знаний и культуры|Aufklärung|noun; feminine
+8832|волосок|Тонкая пружинная нить в приборе; тонкий волос|Haar|noun; neuter
+8833|подружиться|Вступить в дружеские отношения|sich anfreunden|verb; perfective; infinitive; reflexive
+8834|вторник|Второй день недели|Dienstag|noun; masculine
+8835|знатный|Прославленный, известный|angesehen|adjective
+8836|крайность|Крайняя степень чего-либо|Extrem|noun; neuter
+8837|льгота|Преимущественное право или облегчение для отдельных лиц|Vergünstigung|noun; feminine
+8838|неуместный|Не соответствующий обстановке, некстати|unangebracht|adjective
+8839|хищный|Питающийся другими животными|Raub-|adjective
+8840|соус|Жидкая приправа к блюду|Soße|noun; feminine
+8841|подвижной|Способный двигаться, нефиксированный|beweglich|adjective
+8842|забираться|Залезать куда-либо; уходить далеко|hinaufklettern|verb; imperfective; infinitive
+8843|пик|Острая вершина горы; высшая точка|Gipfel|noun; masculine
+8844|тронутый|Психически нестабильный (разг.)|verrückt|adjective
+8845|хохол|Торчащий клок волос или перьев на голове|Haarbüschel|noun; neuter
+8846|помянуть|Вспомнить, упомянуть в разговоре|erwähnen|verb; perfective; infinitive
+8847|лошадиный|Относящийся к лошади|Pferde-|adjective
+8848|засуетиться|Начать суетиться, хлопотать|anfangen zu hasten|verb; perfective; infinitive
+8849|грести|Работать вёслами для движения лодки|rudern|verb; imperfective; infinitive
+8850|благородство|Высокая нравственность, самоотверженность и честность|Edelmut|noun; masculine

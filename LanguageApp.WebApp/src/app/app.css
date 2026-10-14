@@ -1,0 +1,31 @@
+app-nav-bar {
+  flex: 0 0 auto;
+}
+
+.app-content {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  overflow: hidden;
+}
+
+.app-content > * {
+  flex: 1 1 auto;
+  min-height: 0;
+  height: 100%;
+}
+
+.card--placeholder {
+  min-height: 0;
+  overflow: auto;
+}
+
+.card--placeholder h2 {
+  margin: 0 0 0.5rem;
+  font-family: var(--font-display);
+}
+
+.card--placeholder p {
+  margin: 0;
+  color: var(--muted);
+}

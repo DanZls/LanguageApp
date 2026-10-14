@@ -1,0 +1,100 @@
+501|река|river|noun; singular
+502|военный|military|adjective
+503|мера|measure|noun; singular
+504|страшный|terrible|adjective
+505|вполне|completely|adverb
+506|звать|to call|verb; irregular
+507|произойти|to happen|verb; perfective
+508|вперед|forward|adverb
+509|медленно|slowly|adverb
+510|возле|near|preposition
+511|никак|no way|adverb
+512|заниматься|to be engaged|verb; regular
+513|действие|action|noun; singular
+514|довольно|quite|adverb
+515|вещь|thing|noun; singular
+516|необходимый|necessary|adjective
+517|ход|move|noun; singular
+518|боль|pain|noun; singular
+519|судьба|fate|noun; singular
+520|причина|reason|noun; singular
+521|положить|to put|verb; perfective
+522|едва|hardly|adverb
+523|черта|line|noun; singular
+524|девочка|girl|noun; singular
+525|легкий|light|adjective
+526|волос|hair|noun; singular
+527|купить|to buy|verb; irregular
+528|номер|number|noun; singular
+529|основной|main|adjective
+530|широкий|wide|adjective
+531|умереть|to die|verb; irregular
+532|далеко|far|adverb
+533|плохо|badly|adverb; irregular comparison
+534|глава|chapter|noun; singular
+535|красивый|beautiful|adjective
+536|серый|gray|adjective
+537|пить|to drink|verb; irregular
+538|командир|commander|noun; singular
+539|обычно|usually|adverb
+540|партия|party|noun; singular
+541|проблема|problem|noun; singular
+542|страх|fear|noun; singular
+543|проходить|to pass|verb; regular
+544|ясно|clearly|adverb
+545|снять|to remove|verb; perfective
+546|бумага|paper|noun; singular; uncountable
+547|герой|hero|noun; singular
+548|пара|pair|noun; singular
+549|государство|state|noun; singular
+550|деревня|village|noun; singular
+551|речь|speech|noun; singular
+552|начаться|to begin|verb; perfective
+553|средство|means|noun; singular; irregular plural
+554|положение|position|noun; singular
+555|связь|connection|noun; singular
+556|скоро|soon|adverb
+557|небольшой|small|adjective
+558|представлять|to represent|verb; regular
+559|завтра|tomorrow|adverb
+560|объяснить|to explain|verb; perfective
+561|пустой|empty|adjective
+562|произнести|to pronounce|verb; perfective
+563|человеческий|human|adjective
+564|нравиться|to please|verb; regular
+565|однажды|once|adverb
+566|мимо|past|preposition
+567|иначе|otherwise|adverb
+568|существовать|to exist|verb; regular
+569|класс|class|noun; singular
+570|удаться|to succeed|verb; perfective
+571|толстый|thick|adjective
+572|цель|goal|noun; singular
+573|сквозь|through|preposition
+574|прийтись|to have to|verb; perfective; impersonal
+575|чистый|clean|adjective
+576|знать|to know|verb; irregular
+577|прежний|former|adjective
+578|профессор|professor|noun; singular
+579|господин|mister|noun; singular; irregular plural
+580|счастье|happiness|noun; singular; uncountable
+581|худой|thin|adjective
+582|дух|spirit|noun; singular
+583|план|plan|noun; singular
+584|чужой|someone else's|adjective
+585|зал|hall|noun; singular
+586|представить|to present|verb; perfective
+587|особый|special|adjective
+588|директор|director|noun; singular
+589|бывший|former|adjective
+590|память|memory|noun; singular
+591|близкий|close|adjective; irregular comparison
+592|сей|this|pronoun
+593|результат|result|noun; singular
+594|больной|sick|adjective
+595|данный|given|adjective
+596|кстати|by the way|adverb
+597|назвать|to name|verb; perfective
+598|след|trace|noun; singular
+599|улыбаться|to smile|verb; regular
+600|бутылка|bottle|noun; singular

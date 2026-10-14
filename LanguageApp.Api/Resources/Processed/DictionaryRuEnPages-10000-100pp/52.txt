@@ -1,0 +1,100 @@
+5101|хирургический|surgical|adjective
+5102|наслаждаться|to enjoy|verb; imperfective; reflexive
+5103|припомнить|to recall|verb; perfective
+5104|первобытный|primitive|adjective
+5105|федеральный|federal|adjective
+5106|уста|mouth|noun; plural
+5107|овца|sheep|noun; singular
+5108|папаша|dad|noun; singular
+5109|колебаться|to hesitate|verb; imperfective; reflexive
+5110|бытовой|everyday|adjective
+5111|скользнуть|to slip|verb; perfective
+5112|потащить|to start dragging|verb; perfective
+5113|накормить|to feed|verb; perfective
+5114|отражаться|to be reflected|verb; imperfective; reflexive
+5115|компьютерный|computer|adjective
+5116|племянник|nephew|noun; singular
+5117|закуска|snack|noun; singular
+5118|вежливый|polite|adjective
+5119|кура|hen|noun; singular
+5120|земляк|fellow countryman|noun; singular
+5121|парта|school desk|noun; singular
+5122|обвинять|to accuse|verb; imperfective
+5123|содержимый|full|adjective
+5124|величайший|greatest|adjective; superlative
+5125|снятой|removed|adjective; participle
+5126|пенсионер|pensioner|noun; singular
+5127|раздеваться|to undress|verb; imperfective; reflexive
+5128|расстрел|execution by shooting|noun; singular
+5129|областной|regional|adjective
+5130|близость|closeness|noun; singular; uncountable
+5131|притихнуть|to fall silent|verb; perfective
+5132|Австралия|Australia|noun; singular; proper
+5133|жалобно|plaintively|adverb
+5134|фара|headlight|noun; singular
+5135|категорически|categorically|adverb
+5136|покатиться|to start rolling|verb; perfective; reflexive
+5137|секс|sex|noun; singular; uncountable
+5138|останавливать|to stop|verb; imperfective
+5139|загорелый|tanned|adjective
+5140|груда|heap|noun; singular
+5141|схватка|clash|noun; singular
+5142|проба|sample|noun; singular
+5143|четырнадцать|fourteen|numeral; cardinal
+5144|ближний|nearest|adjective
+5145|бесполезно|uselessly|adverb
+5146|нырнуть|to dive|verb; perfective
+5147|экземпляр|copy|noun; singular
+5148|задеть|to touch|verb; perfective
+5149|орех|nut|noun; singular
+5150|жанр|genre|noun; singular
+5151|счастливо|happily|adverb
+5152|враждебный|hostile|adjective
+5153|напугать|to scare|verb; perfective
+5154|аудитория|audience|noun; singular
+5155|твердить|to repeat|verb; imperfective
+5156|бережно|carefully|adverb
+5157|стремительный|rapid|adjective
+5158|побережье|coast|noun; singular
+5159|обеспечение|provision|noun; singular; uncountable
+5160|персонаж|character|noun; singular
+5161|холл|hall|noun; singular
+5162|брести|to trudge|verb; imperfective
+5163|кошмар|nightmare|noun; singular
+5164|покорно|obediently|adverb
+5165|хвалить|to praise|verb; imperfective
+5166|хлопоты|trouble|noun; plural
+5167|вводить|to introduce|verb; imperfective
+5168|удостоверение|certificate|noun; singular
+5169|конечность|limb|noun; singular
+5170|возвышаться|to rise|verb; imperfective; reflexive
+5171|лежа|lying down|adverb
+5172|птичий|bird's|adjective
+5173|коллекция|collection|noun; singular
+5174|миллион|million|noun; singular
+5175|донести|to carry|verb; perfective
+5176|ядовитый|poisonous|adjective
+5177|овладеть|to master|verb; perfective
+5178|треть|third|noun; singular
+5179|оценивать|to evaluate|verb; imperfective
+5180|удовлетворить|to satisfy|verb; perfective
+5181|затихнуть|to quiet down|verb; perfective
+5182|намного|much|adverb
+5183|взволновать|to agitate|verb; perfective
+5184|ленивый|lazy|adjective
+5185|ранг|rank|noun; singular
+5186|артиллерия|artillery|noun; singular; uncountable
+5187|вешать|to hang|verb; imperfective
+5188|смущенно|embarrassedly|adverb
+5189|чушь|nonsense|noun; singular; uncountable
+5190|обусловить|to cause|verb; perfective
+5191|забавный|amusing|adjective
+5192|греческий|Greek|adjective
+5193|сладко|sweetly|adverb
+5194|двойник|double|noun; singular
+5195|сплошь|entirely|adverb
+5196|задерживаться|to linger|verb; imperfective; reflexive
+5197|похлопать|to pat|verb; perfective
+5198|бессмысленно|meaninglessly|adverb
+5199|парижский|Parisian|adjective
+5200|поблизости|nearby|adverb

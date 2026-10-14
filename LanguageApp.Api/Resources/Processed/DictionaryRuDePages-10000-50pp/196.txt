@@ -1,0 +1,50 @@
+9801|униматься|Прекращаться; утихать|aufhören|verb; imperfective; infinitive
+9802|долой|Прочь; вон|weg|adverb
+9803|бесформенный|Не имеющий определённой формы|formlos|adjective
+9804|нарушаться|Подвергаться нарушению|verletzt werden|verb; imperfective; infinitive
+9805|озадачить|Привести в недоумение; озадачить|verblüffen|verb; perfective; infinitive
+9806|галоша|Водонепроницаемая резиновая обувь|Galosche|noun; feminine
+9807|гонка|Состязание в скорости|Rennen|noun; neuter
+9808|масть|Масть игральных карт, отличающаяся цветом|Farbe|noun; feminine
+9809|сняться|Сфотографироваться|sich fotografieren lassen|verb; perfective; infinitive; reflexive
+9810|надумать|Решить после раздумья|beschließen|verb; perfective; infinitive
+9811|наливаться|Наполняться жидкостью|sich füllen|verb; imperfective; infinitive; reflexive
+9812|полковой|Относящийся к полку как воинской части|Regiments-|adjective
+9813|вскрикивать|Громко и внезапно вскрикивать от испуга или боли|aufschreien|verb; imperfective; infinitive
+9814|сени|Прихожее помещение между жилой частью и крыльцом|Diele|noun; feminine
+9815|читаться|Быть удобочитаемым; поддаваться чтению|lesbar sein|verb; imperfective; infinitive
+9816|слуховой|Относящийся к слуху|Hör-|adjective
+9817|йод|Химический элемент; дезинфицирующее вещество|Jod|noun; neuter
+9818|сильнейший|Самый сильный; превосходная степень|stärkst|adjective; superlative
+9819|сом|Крупная пресноводная хищная рыба без чешуи|Wels|noun; masculine
+9820|врываться|Вбегать или проникать насильно|eindringen|verb; imperfective; infinitive
+9821|лицензия|Официальное разрешение на деятельность или использование|Lizenz|noun; feminine
+9822|совокупность|Общая совокупность; сочетание|Gesamtheit|noun; feminine
+9823|подчинение|Приведение в зависимое положение|Unterwerfung|noun; feminine
+9824|уклон|Отклонение от направления; наклон|Neigung|noun; feminine
+9825|простодушный|Бесхитростный и добрый|naiv|adjective
+9826|приличие|Норма вежливого поведения; благопристойность|Anstand|noun; masculine
+9827|пролить|Случайно разлить жидкость|verschütten|verb; perfective; infinitive
+9828|скамеечка|Маленькая скамья|Bänkchen|noun; neuter; diminutive
+9829|наслать|Послать в некотором количестве|herschicken|verb; perfective; infinitive
+9830|исправно|Точно и вовремя; исправно|ordentlich|adverb
+9831|семеро|Семь человек (собирательное)|sieben|numeral; collective
+9832|булочный|Относящийся к булочной или хлебопечению|Bäckerei-|adjective
+9833|военнослужащий|Человек, состоящий на военной службе|Soldat|noun; masculine
+9834|мэрия|Орган управления или здание городской администрации|Rathaus|noun; neuter
+9835|могущество|Большая сила, власть и влияние|Macht|noun; feminine
+9836|наличный|Имеющийся в наличии|vorhanden|adjective
+9837|ленточка|Небольшая лента|Bändchen|noun; neuter; diminutive
+9838|отмена|Объявление чего-либо недействительным|Abschaffung|noun; feminine
+9839|подслушивать|Тайно слушать чужой разговор|belauschen|verb; imperfective; infinitive
+9840|прикасаться|Дотрагиваться до кого-либо|berühren|verb; imperfective; infinitive
+9841|воспалить|Привести в воспаление; возбудить|entzünden|verb; perfective; infinitive
+9842|разворачивать|Раскладывать; раскрывать|entfalten|verb; imperfective; infinitive
+9843|обнаруживаться|Становиться явным; обнаруживаться|sich herausstellen|verb; imperfective; infinitive; reflexive
+9844|завизжать|Начать пронзительно визжать|aufquietschen|verb; perfective; infinitive
+9845|лязг|Резкий металлический звук удара|Klirren|noun; neuter
+9846|рубец|Плотный след от зажившей раны|Narbe|noun; feminine
+9847|су|Старинная французская разменная монета|Sou|noun; masculine
+9848|калибр|Диаметр ствола огнестрельного оружия|Kaliber|noun; neuter
+9849|приписать|Написать дополнительно; добавить текст|hinzuschreiben|verb; perfective; infinitive
+9850|присматриваться|Вглядываться; внимательно наблюдать|genau hinsehen|verb; imperfective; infinitive

@@ -1,0 +1,50 @@
+3251|переставать|Прекращать делать что-либо|aufhören|verb; imperfective; infinitive
+3252|тёща|Мать жены|Schwiegermutter|noun; feminine
+3253|пришелец|Лицо, пришедшее откуда-либо; чужак|Fremder|noun; masculine
+3254|гном|Мифическое существо, обитающее под землёй|Gnom|noun; masculine
+3255|конверт|Бумажная упаковка для писем|Umschlag|noun; masculine
+3256|процедура|Официальный порядок действий|Verfahren|noun; neuter
+3257|понести|Начать нести|tragen|verb; perfective; infinitive
+3258|нуждаться|Испытывать потребность|benötigen|verb; imperfective; infinitive
+3259|лужа|Небольшое углубление с водой|Pfütze|noun; feminine
+3260|выпилить|Вырезать пилой|aussägen|verb; perfective; infinitive
+3261|необычный|Не похожий на обычное; своеобразный|ungewöhnlich|adjective
+3262|сердиться|Быть в раздражении; злиться|sich ärgern|verb; imperfective; infinitive; reflexive
+3263|юбка|Женская одежда от талии книзу|Rock|noun; masculine
+3264|звон|Звук от колебаний металлического предмета|Klang|noun; masculine
+3265|соединить|Объединить; составить из многого одно целое|verbinden|verb; perfective; infinitive
+3266|люк|Закрывающееся отверстие в палубе или полу|Luke|noun; feminine
+3267|ошибаться|Делать ошибку; поступать неправильно|sich irren|verb; imperfective; infinitive; reflexive
+3268|нехорошо|Плохо; скверно|schlecht|adverb
+3269|недавний|Относящийся к недалёкому прошлому|kürzlich|adjective
+3270|аэропорт|Крупная станция воздушного транспорта|Flughafen|noun; masculine
+3271|задать|Поручить сделать что-либо; дать задание|aufgeben|verb; perfective; infinitive
+3272|наблюдаться|Быть под наблюдением; обнаруживаться|auftreten|verb; imperfective; infinitive
+3273|подполковник|Офицерское звание между майором и полковником|Oberstleutnant|noun; masculine
+3274|растеряться|Прийти в состояние растерянности|verzagen|verb; perfective; infinitive
+3275|промолчать|Не ответить; уклониться от ответа|schweigen|verb; perfective; infinitive
+3276|выражаться|Произносить бранные или резкие слова|fluchen|verb; imperfective; infinitive
+3277|богатство|Обилие материальных ценностей|Reichtum|noun; masculine
+3278|мудрый|Обладающий большим умом|weise|adjective
+3279|налог|Обязательный платёж с граждан и юрлиц|Steuer|noun; feminine
+3280|всюду|Во всех местах; везде|überall|adverb
+3281|минимум|Наименьшее количество или величина|Minimum|noun; neuter
+3282|издали|С далёкого расстояния|von weitem|adverb
+3283|ад|В религии: место вечных мук грешников|Hölle|noun; feminine
+3284|полотенце|Изделие для вытирания|Handtuch|noun; neuter
+3285|воспаление|Болезненный процесс с болью и жаром|Entzündung|noun; feminine
+3286|наслаждение|Высшая степень удовольствия|Genuss|noun; masculine
+3287|продажа|Торговля; товарооборот|Verkauf|noun; masculine
+3288|фашист|Сторонник фашизма|Faschist|noun; masculine
+3289|колючий|Имеющий колючки; острый|stachelig|adjective
+3290|выиграть|Одержать победу в чём-либо|gewinnen|verb; perfective; infinitive
+3291|полость|Внутреннее пространство — вместилище органов|Hohlraum|noun; masculine
+3292|проволока|Металлическое изделие в виде нити|Draht|noun; masculine
+3293|удивить|Привести в удивление|überraschen|verb; perfective; infinitive
+3294|флот|Совокупность судов страны|Flotte|noun; feminine
+3295|уверенно|С чувством уверенности; без колебаний|sicher|adverb
+3296|маска|Накладка, скрывающая лицо|Maske|noun; feminine
+3297|включать|Вводить; добавлять в состав|einschließen|verb; imperfective; infinitive
+3298|удивлённо|С выражением удивления|staunend|adverb
+3299|атака|Стремительное наступательное движение войск|Angriff|noun; masculine
+3300|согласие|Разрешение; утвердительный ответ|Zustimmung|noun; feminine

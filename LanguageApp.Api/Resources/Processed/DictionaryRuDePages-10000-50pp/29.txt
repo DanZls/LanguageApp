@@ -1,0 +1,50 @@
+1451|изменение|Поправка или перемена, меняющая прежнее состояние|Änderung|noun; feminine
+1452|вариант|Разновидность; видоизменение чего-либо|Variante|noun; feminine
+1453|шофёр|Водитель автомобиля|Fahrer|noun; masculine
+1454|опасный|Способный причинить вред или несчастье|gefährlich|adjective
+1455|означать|Обозначать; иметь определённый смысл|bedeuten|verb; imperfective; infinitive
+1456|вход|Место или проход для входа|Eingang|noun; masculine
+1457|практически|В действительности; фактически|praktisch|adverb
+1458|нынешний|Относящийся к сегодняшнему дню или настоящему времени|heutig|adjective
+1459|глупый|С ограниченными умственными способностями; несообразительный|dumm|adjective
+1460|национальный|Характерный для данной нации; народный|national|adjective
+1461|чиновник|Государственный служащий|Beamter|noun; masculine
+1462|поверхность|Наружная сторона чего-либо|Oberfläche|noun; feminine
+1463|приятно|Вызывая удовольствие; приятным образом|angenehm|adverb
+1464|каменный|Изготовленный из камня|steinern|adjective
+1465|говориться|О словах: произноситься; быть сказанным|gesagt werden|verb; imperfective; infinitive
+1466|прочий|Остальной; другой|übrig|pronoun
+1467|испытывать|Ощущать; переживать|erleben|verb; imperfective; infinitive
+1468|рано|До обычного срока; преждевременно|früh|adverb
+1469|жениться|О мужчине: вступать в брак|heiraten|verb; perfective; infinitive; reflexive
+1470|аппарат|Прибор; техническое устройство|Apparat|noun; masculine
+1471|церковь|Христианский храм; религиозная организация|Kirche|noun; feminine
+1472|ручка|Письменный инструмент с пером или стержнем|Stift|noun; masculine
+1473|оглянуться|Обернуться и посмотреть назад|sich umschauen|verb; perfective; infinitive; reflexive
+1474|пригласить|Попросить прийти; направить приглашение|einladen|verb; perfective; infinitive
+1475|хозяйка|Женщина, ведущая домашнее хозяйство; владелица|Hausfrau|noun; feminine
+1476|строго|Сурово; требовательно; без снисхождения|streng|adverb
+1477|принадлежать|Находиться в чьей-либо собственности|gehören|verb; imperfective; infinitive
+1478|внезапно|Неожиданно; вдруг|plötzlich|adverb
+1479|единый|Один; общий; объединённый|einheitlich|adjective
+1480|дворец|Большое величественное здание; резиденция правителя|Palast|noun; masculine
+1481|водитель|Тот, кто управляет наземным транспортным средством|Fahrer|noun; masculine
+1482|строить|Возводить сооружение; создавать здание|bauen|verb; imperfective; infinitive
+1483|множество|Очень большое количество|Menge|noun; feminine
+1484|перейти|Переместиться с одной стороны на другую|überqueren|verb; perfective; infinitive
+1485|столик|Небольшой стол для посетителей|Tischchen|noun; neuter
+1486|урок|Учебный час, посвящённый отдельному предмету|Unterrichtsstunde|noun; feminine
+1487|древний|Существовавший в далёком прошлом; очень давний|antik|adjective
+1488|опасность|Угроза вреда или несчастья|Gefahr|noun; feminine
+1489|повезти|Отправиться, везя кого-либо; начать везти|fahren|verb; perfective; infinitive
+1490|французский|Относящийся к Франции, французам или их языку|französisch|adjective
+1491|поглядеть|Посмотреть; бросить взгляд|schauen|verb; perfective; infinitive
+1492|горе|Скорбь; глубокая печаль|Kummer|noun; masculine
+1493|честной|Почтенный; уважаемый; добропорядочный|ehrenwert|adjective
+1494|способность|Природная одарённость; умение|Fähigkeit|noun; feminine
+1495|повернуть|Изменить направление; обратить в другую сторону|wenden|verb; perfective; infinitive
+1496|остальное|То, что осталось; прочее|das Übrige|noun; neuter
+1497|добраться|С усилиями достичь цели или места|gelangen|verb; perfective; infinitive; reflexive
+1498|серьёзно|Серьёзным образом; не легкомысленно|ernsthaft|adverb
+1499|признать|Согласиться считать законным или существующим|anerkennen|verb; perfective; infinitive
+1500|поступить|Совершить поступок; действовать определённым образом|handeln|verb; perfective; infinitive

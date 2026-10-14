@@ -1,0 +1,100 @@
+6001|проститутка|prostitute|noun; singular
+6002|кавалер|escort|noun; singular
+6003|стражник|guard|noun; singular
+6004|двенадцатый|twelfth|numeral; ordinal
+6005|запрещать|to forbid|verb; imperfective
+6006|инфаркт|heart attack|noun; singular
+6007|пучок|bunch|noun; singular
+6008|церковный|church|adjective
+6009|физически|physically|adverb
+6010|угрюмо|sullenly|adverb
+6011|ассоциация|association|noun; singular
+6012|придерживать|to hold back|verb; imperfective
+6013|фашизм|fascism|noun; singular; uncountable
+6014|соврать|to lie|verb; perfective
+6015|растерянность|confusion|noun; singular; uncountable
+6016|штык|bayonet|noun; singular
+6017|опушка|edge of the forest|noun; singular
+6018|пробиться|to break through|verb; perfective; reflexive
+6019|сверкнуть|to flash|verb; perfective
+6020|устойчивый|stable|adjective
+6021|изобрести|to invent|verb; perfective
+6022|таблица|table|noun; singular
+6023|материк|continent|noun; singular
+6024|сходство|resemblance|noun; singular
+6025|хулиган|hooligan|noun; singular
+6026|поместить|to place|verb; perfective
+6027|клочок|scrap|noun; singular
+6028|неверный|incorrect|adjective
+6029|нажимать|to press|verb; imperfective
+6030|отпечаток|imprint|noun; singular
+6031|замедлить|to slow down|verb; perfective
+6032|хрустальный|crystal-clear|adjective
+6033|шахматы|chess|noun; plural
+6034|бессильный|powerless|adjective
+6035|бедняга|poor fellow|noun; singular
+6036|прут|twig|noun; singular
+6037|камин|fireplace|noun; singular
+6038|светящийся|glowing|adjective
+6039|непрерывно|continuously|adverb
+6040|фунт|pound|noun; singular
+6041|авторский|author's|adjective
+6042|поить|to give a drink|verb; imperfective
+6043|кореец|Korean|noun; singular
+6044|покрывать|to cover|verb; imperfective
+6045|прочно|firmly|adverb
+6046|тонуть|to drown|verb; imperfective; reflexive
+6047|митинг|rally|noun; singular
+6048|вмешательство|interference|noun; singular; uncountable
+6049|возмущение|indignation|noun; singular; uncountable
+6050|чемпион|champion|noun; singular
+6051|туловище|torso|noun; singular
+6052|навалиться|to lean on|verb; perfective; reflexive
+6053|переворот|coup|noun; singular
+6054|гипотеза|hypothesis|noun; singular
+6055|двинуть|to hit|verb; perfective
+6056|неохотно|reluctantly|adverb
+6057|выдохнуть|to exhale|verb; perfective
+6058|погубить|to destroy|verb; perfective
+6059|октябрьский|October|adjective
+6060|прикосновение|touch|noun; singular
+6061|ниша|niche|noun; singular
+6062|ссора|quarrel|noun; singular
+6063|мускул|muscle|noun; singular
+6064|партизанский|partisan|adjective
+6065|миссия|mission|noun; singular
+6066|комментарий|commentary|noun; singular
+6067|сверток|package|noun; singular
+6068|запутаться|to get confused|verb; perfective; reflexive
+6069|сворачивать|to turn|verb; imperfective
+6070|заслать|to send away|verb; perfective
+6071|усатый|mustached|adjective
+6072|перила|railing|noun; plural
+6073|жадный|greedy|adjective
+6074|топить|to stoke|verb; imperfective
+6075|вывернуть|to unscrew|verb; perfective
+6076|пробиваться|to push through|verb; imperfective; reflexive
+6077|пострадавший|victim|noun; singular
+6078|потрогать|to touch|verb; perfective
+6079|принципиальный|principled|adjective
+6080|уносить|to carry away|verb; imperfective
+6081|осторожность|caution|noun; singular; uncountable
+6082|приготовиться|to prepare oneself|verb; perfective; reflexive
+6083|затеять|to start up|verb; perfective
+6084|православный|Orthodox|noun; singular
+6085|потрепать|to wear out|verb; perfective
+6086|тридцатый|thirtieth|numeral; ordinal
+6087|человечески|humanly|adverb
+6088|мельком|briefly|adverb
+6089|возглавлять|to head|verb; imperfective
+6090|сотворить|to create|verb; perfective
+6091|перрон|platform|noun; singular
+6092|пузырек|small bottle|noun; singular
+6093|согнуться|to bend|verb; perfective; reflexive
+6094|устанавливать|to establish|verb; imperfective
+6095|выбираться|to get out|verb; imperfective; reflexive
+6096|вопросительно|questioningly|adverb
+6097|обязательство|obligation|noun; singular
+6098|потемнеть|to darken|verb; perfective
+6099|месть|revenge|noun; singular; uncountable
+6100|пойма|floodplain|noun; singular

@@ -1,0 +1,49 @@
+8952|окаменеть|Стать неподвижным, застыть как камень|versteinern|verb; perfective; infinitive
+8953|стереть|Трением удалить с поверхности|wegwischen|verb; perfective; infinitive
+8954|ударять|Наносить удар|schlagen|verb; imperfective; infinitive
+8955|чуточку|В самой малой мере, немного|ein bisschen|adverb
+8956|поневоле|Вопреки желанию, против воли|unfreiwillig|adverb
+8957|конкуренция|Соперничество за достижение преимуществ|Konkurrenz|noun; feminine
+8958|кошмарный|Ужасный, как в кошмарном сне|albtraumhaft|adjective
+8959|Лапина|Женская фамилия|Lapina|noun; feminine; proper
+8960|теневой|Находящийся в тени; неофициальный|Schatten-|adjective
+8961|орудовать|Действовать с помощью чего-либо|hantieren|verb; imperfective; infinitive
+8962|терзать|Мучить, причинять страдания|quälen|verb; imperfective; infinitive
+8963|сантехника|Санитарно-техническое оборудование|Sanitärtechnik|noun; feminine
+8964|загорать|Находиться на солнце для потемнения кожи|sich bräunen|verb; imperfective; infinitive; reflexive
+8965|страничка|Небольшая страница (уменьш.)|Seite|noun; feminine; diminutive
+8966|созреть|Достичь зрелости|reifen|verb; perfective; infinitive
+8967|кочка|Небольшой земляной бугорок|Bülte|noun; feminine
+8968|наводчик|Военный, наводящий оружие на цель|Richtkanonier|noun; masculine
+8969|неспособный|Лишённый необходимых способностей|unfähig|adjective
+8970|маячить|Неясно виднеться в отдалении|auftauchen|verb; imperfective; infinitive
+8971|зажить|О ране: затянуться, зарубцеваться|verheilen|verb; perfective; infinitive
+8972|превосходить|Быть выше или значительнее|übertreffen|verb; imperfective; infinitive
+8973|периодически|С определёнными промежутками, повторяясь|periodisch|adverb
+8974|меньшинство|Меньшая часть (людей, группы)|Minderheit|noun; feminine
+8975|сев|Время или процесс посева|Aussaat|noun; feminine
+8976|рыжик|Съедобный гриб с рыжей шляпкой|Echter Reizker|noun; masculine
+8977|корзинка|Небольшая корзина (уменьш.)|Körbchen|noun; neuter; diminutive
+8978|гарь|Выгоревшее место в лесу|Brandstelle|noun; feminine
+8979|ди|Частица или сокращение в именах собственных|Di|noun; feminine
+8980|подвернуться|Случайно попасться, оказаться рядом|sich ergeben|verb; perfective; infinitive; reflexive
+8981|экзотический|Присущий необычным, далёким странам|exotisch|adjective
+8982|ориентироваться|Определять своё местоположение или направление|sich orientieren|verb; imperfective; infinitive; reflexive
+8983|древность|Далёкое прошлое|Altertum|noun; neuter
+8984|помеха|Препятствие, то, что мешает|Hindernis|noun; neuter
+8985|обыватель|Рядовой житель; человек с узким кругозором|Spießbürger|noun; masculine
+8986|острие|Острый конец или режущая сторона|Spitze|noun; feminine
+8987|виновник|Тот, кто несёт ответственность за что-либо|Schuldige|noun; masculine
+8988|нехватка|Недостаток, отсутствие нужного|Mangel|noun; masculine
+8989|листовка|Печатный листок с актуальным воззванием|Flugblatt|noun; neuter
+8990|богатырь|Герой русского эпоса, совершающий ратные подвиги|Recke|noun; masculine
+8991|шалаш|Лёгкое временное укрытие из веток и жердей|Schutzhütte|noun; feminine
+8992|тщетно|Напрасно, без результата|vergeblich|adverb
+8993|адский|Очень сильный, невыносимый (разг.)|höllisch|adjective
+8994|повязать|Надеть, завязав концы|binden|verb; perfective; infinitive
+8995|заряжать|Вкладывать патрон или заряд|laden|verb; imperfective; infinitive
+8996|топчан|Дощатая кровать на ножках|Pritsche|noun; feminine
+8997|позвоночник|Скелетная ось вдоль спины|Wirbelsäule|noun; feminine
+8998|разгадать|Найти правильный ответ, разгадать|erraten|verb; perfective; infinitive
+8999|буйный|Стремительный, неистовый, бурный|wild|adjective
+9000|стих|Единица ритмически организованной речи; стихотворение|Vers|noun; masculine

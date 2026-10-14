@@ -1,0 +1,100 @@
+6501|бездна|abyss|noun; singular
+6502|превращение|transformation|noun; singular
+6503|упругий|elastic|adjective
+6504|пьяница|drunkard|noun; singular
+6505|эра|era|noun; singular
+6506|элита|elite|noun; singular; uncountable
+6507|контрольный|control|adjective
+6508|шататься|to wander|verb; imperfective; reflexive
+6509|тайно|secretly|adverb
+6510|Венера|Venus|noun; singular; proper
+6511|лихорадка|fever|noun; singular
+6512|жестоко|cruelly|adverb
+6513|очерк|essay|noun; singular
+6514|смолкнуть|to fall silent|verb; perfective
+6515|проходной|through|adjective
+6516|чернеть|to turn black|verb; imperfective
+6517|лапка|little paw|noun; singular
+6518|публичный|public|adjective
+6519|разгар|height|noun; singular
+6520|аппаратура|equipment|noun; singular; uncountable
+6521|украшать|to decorate|verb; imperfective
+6522|пирог|pie|noun; singular
+6523|спиртной|alcoholic|adjective
+6524|толстяк|fat man|noun; singular
+6525|хобот|trunk|noun; singular
+6526|измученный|exhausted|adjective
+6527|неловкость|awkwardness|noun; singular; uncountable
+6528|проезжать|to pass through|verb; imperfective
+6529|убитый|killed|adjective; participle
+6530|небритый|unshaven|adjective
+6531|неприязнь|hostility|noun; singular; uncountable
+6532|огарок|stub|noun; singular
+6533|списать|to copy|verb; perfective
+6534|шикарный|luxurious|adjective
+6535|обстрел|shelling|noun; singular
+6536|вуз|university|noun; singular
+6537|клей|glue|noun; singular; uncountable
+6538|повидать|to see|verb; perfective
+6539|измена|betrayal|noun; singular
+6540|приблизительно|approximately|adverb
+6541|мамаша|mom|noun; singular
+6542|ухватить|to grab|verb; perfective
+6543|чувствительный|sensitive|adjective
+6544|азарт|excitement|noun; singular; uncountable
+6545|необычайно|unusually|adverb
+6546|фаза|phase|noun; singular
+6547|сплюнуть|to spit|verb; perfective
+6548|восприниматься|to be perceived|verb; imperfective; reflexive
+6549|выпивка|drinking|noun; singular; uncountable
+6550|сослать|to exile|verb; perfective
+6551|средневековый|medieval|adjective
+6552|ми|E (note)|noun; singular; indeclinable
+6553|сварить|to cook|verb; perfective
+6554|обвинить|to accuse|verb; perfective
+6555|любка|orchid|noun; singular
+6556|заводить|to start|verb; imperfective
+6557|карабин|carbine|noun; singular
+6558|травка|grass|noun; singular
+6559|завершить|to complete|verb; perfective
+6560|нечистый|unclean|adjective
+6561|сочувствовать|to sympathize|verb; imperfective
+6562|выразительный|expressive|adjective
+6563|конкретно|specifically|adverb
+6564|скула|cheekbone|noun; singular
+6565|подписывать|to sign|verb; imperfective
+6566|смущение|embarrassment|noun; singular; uncountable
+6567|тряхнуть|to shake|verb; perfective
+6568|смять|to crush|verb; perfective
+6569|пират|pirate|noun; singular
+6570|раствориться|to dissolve|verb; perfective; reflexive
+6571|заверить|to assure|verb; perfective
+6572|такт|beat|noun; singular
+6573|ядерный|nuclear|adjective
+6574|рычать|to growl|verb; imperfective
+6575|патологический|pathological|adjective
+6576|революционер|revolutionary|noun; singular
+6577|грабить|to rob|verb; imperfective
+6578|Пронякина|Pronyakina|noun; singular; proper
+6579|меховой|fur|adjective
+6580|потенциал|potential|noun; singular
+6581|бруствер|parapet|noun; singular
+6582|отделаться|to get rid|verb; perfective; reflexive
+6583|повозка|cart|noun; singular
+6584|светский|secular|adjective
+6585|зашевелиться|to start moving|verb; perfective; reflexive
+6586|пропеть|to sing|verb; perfective
+6587|участь|fate|noun; singular
+6588|успешный|successful|adjective
+6589|расстроить|to upset|verb; perfective
+6590|филин|eagle owl|noun; singular
+6591|липкий|sticky|adjective
+6592|приговорить|to sentence|verb; perfective
+6593|паром|ferry|noun; singular
+6594|свыше|over|adverb; preposition
+6595|сшить|to sew|verb; perfective
+6596|вращаться|to rotate|verb; imperfective; reflexive
+6597|притом|moreover|conjunction
+6598|эдакий|such|pronoun
+6599|застрелить|to shoot|verb; perfective
+6600|разрушать|to destroy|verb; imperfective
