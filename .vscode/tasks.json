@@ -2,6 +2,13 @@
   "version": "2.0.0",
   "tasks": [
     {
+      "label": "npm-install-webapp",
+      "type": "shell",
+      "command": "npm install",
+      "options": { "cwd": "${workspaceFolder}/LanguageApp.WebApp" },
+      "problemMatcher": []
+    },
+    {
       "label": "build-api",
       "command": "dotnet",
       "type": "process",
