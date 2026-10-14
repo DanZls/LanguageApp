@@ -7,6 +7,14 @@
       "type": "process",
       "args": ["build", "${workspaceFolder}/LanguageApp.Api/LanguageApp.Dotnet.csproj"],
       "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "npm-install-webapp",
+      "command": "npm",
+      "type": "shell",
+      "args": ["install"],
+      "options": { "cwd": "${workspaceFolder}/LanguageApp.WebApp" },
+      "problemMatcher": []
     }
   ]
 }

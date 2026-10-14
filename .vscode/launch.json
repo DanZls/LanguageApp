@@ -15,7 +15,8 @@
       "name": "WebApp (Angular)",
       "type": "node-terminal",
       "request": "launch",
-      "command": "npm install && npm start",
+      "command": "npm start",
+      "preLaunchTask": "npm-install-webapp",
       "cwd": "${workspaceFolder}/LanguageApp.WebApp"
     }
   ],
