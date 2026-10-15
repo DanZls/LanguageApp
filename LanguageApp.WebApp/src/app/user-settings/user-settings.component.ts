@@ -48,6 +48,15 @@ export class UserSettingsComponent {
     this.notificationService.info('Learning language updated.', 1800);
   }
 
+  setVocabularyBatchSize(event: Event): void {
+    const input = event.target as HTMLInputElement;
+
+    this.userSettings.setVocabularyBatchSize(input.valueAsNumber);
+    // Show the normalized (clamped) value, or restore the previous one if the input was invalid
+    input.value = String(this.userSettings.vocabularyBatchSize());
+    this.notificationService.info('Batch size updated.', 1800);
+  }
+
   setAudioLoudness(event: Event): void {
     const loudnessPercent = (event.target as HTMLInputElement).valueAsNumber;
 

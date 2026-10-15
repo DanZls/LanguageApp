@@ -12,6 +12,8 @@ const saveDebounceMs = 400;
 @Injectable({ providedIn: 'root' })
 export class UserSettingsService {
   readonly languages = ['ru', 'de'];
+  readonly minBatchSize = 5;
+  readonly maxBatchSize = 200;
 
   // The email stays in localStorage; everything else lives in the backend (UserSettings table)
   readonly userEmail = signal('dan.zloschastiev@gmail.com');
@@ -20,6 +22,7 @@ export class UserSettingsService {
   readonly audioLoudnessPercent = computed(() => Math.round(this.audioLoudness() * 100));
   readonly language1Tag = signal(this.languages[0]);
   readonly language2Tag = signal(this.languages[1]);
+  readonly vocabularyBatchSize = signal(50);
   readonly theme = signal<AppTheme>('light');
 
   private saveTimer: ReturnType<typeof setTimeout> | undefined;
@@ -86,6 +89,17 @@ export class UserSettingsService {
     this.scheduleSave();
   }
 
+  setVocabularyBatchSize(vocabularyBatchSize: number): void {
+    if (!Number.isFinite(vocabularyBatchSize)) {
+      return;
+    }
+
+    this.vocabularyBatchSize.set(
+      Math.min(this.maxBatchSize, Math.max(this.minBatchSize, Math.round(vocabularyBatchSize))),
+    );
+    this.scheduleSave();
+  }
+
   setTheme(theme: AppTheme): void {
     this.theme.set(theme);
     this.scheduleSave();
@@ -118,6 +132,7 @@ export class UserSettingsService {
     if (this.languages.includes(settings.language2Tag)) {
       this.language2Tag.set(settings.language2Tag);
     }
+    this.vocabularyBatchSize.set(settings.vocabularyBatchSize || this.vocabularyBatchSize());
     this.theme.set(settings.theme === 'dark' ? 'dark' : 'light');
   }
 
@@ -133,6 +148,7 @@ export class UserSettingsService {
       audioLoudness: this.audioLoudness(),
       language1Tag: this.language1Tag(),
       language2Tag: this.language2Tag(),
+      vocabularyBatchSize: this.vocabularyBatchSize(),
       theme: this.theme(),
     };
 

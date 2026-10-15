@@ -12,7 +12,13 @@ public class AzureSqlDatabaseService(AppDbContext db)
 	) {
 		int hoursAfterFirstLearn = 3*24 - 6;
 		int hoursAfterSecondLearn = 7*24 - 6;
-		int batchMaxSize = 50;
+		int batchMaxSize = await _db.UserSettingsTable
+			.AsNoTracking()
+			.Where(s => s.User.Email == userEmail)
+			.Select(s => s.VocabularyBatchSize)
+			.FirstOrDefaultAsync();
+		if (batchMaxSize <= 0)
+			batchMaxSize = UserSettings.DefaultVocabularyBatchSize;
 
 		DateTimeOffset now = DateTimeOffset.Now;
 		// Cutoffs are computed here so the predicates compare bare columns to parameters (sargable)
@@ -165,6 +171,10 @@ public class AzureSqlDatabaseService(AppDbContext db)
 			throw new ArgumentException("Unsupported language tag.");
 		if (!AllowedThemes.Contains(dto.Theme))
 			throw new ArgumentException("Unsupported theme.");
+		if (dto.VocabularyBatchSize < UserSettings.MinVocabularyBatchSize
+			|| dto.VocabularyBatchSize > UserSettings.MaxVocabularyBatchSize)
+			throw new ArgumentException(
+				$"Batch size must be between {UserSettings.MinVocabularyBatchSize} and {UserSettings.MaxVocabularyBatchSize}.");
 		if (double.IsNaN(dto.AudioLoudness))
 			throw new ArgumentException("Invalid audio loudness.");
 
@@ -177,6 +187,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		user.Settings.AudioLoudness = Math.Clamp(dto.AudioLoudness, 0, 1);
 		user.Settings.Language1Tag = dto.Language1Tag;
 		user.Settings.Language2Tag = dto.Language2Tag;
+		user.Settings.VocabularyBatchSize = dto.VocabularyBatchSize;
 		user.Settings.Theme = dto.Theme;
 		await _db.SaveChangesAsync();
 		return ToDto(user.Settings);
@@ -184,7 +195,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 
 
 	private static UserSettingsDto ToDto(UserSettings s) =>
-		new(s.AutoPlayAudio, s.AudioLoudness, s.Language1Tag, s.Language2Tag, s.Theme);
+		new(s.AutoPlayAudio, s.AudioLoudness, s.Language1Tag, s.Language2Tag, s.VocabularyBatchSize, s.Theme);
 
 
 	private async Task<int> GetUserId (string userEmail) {

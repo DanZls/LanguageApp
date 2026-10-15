@@ -157,6 +157,11 @@ namespace LanguageApp.Dotnet.Migrations
                         .HasMaxLength(10)
                         .HasColumnType("nvarchar(10)");
 
+                    b.Property<int>("VocabularyBatchSize")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasDefaultValue(50);
+
                     b.HasKey("UserId");
 
                     b.ToTable("UserSettings", (string)null);

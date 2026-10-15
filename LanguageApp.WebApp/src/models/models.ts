@@ -33,5 +33,6 @@ export interface UserSettingsDto {
   audioLoudness: number;
   language1Tag: string;
   language2Tag: string;
+  vocabularyBatchSize: number;
   theme: AppTheme;
 }

@@ -40,7 +40,28 @@
           />
         </label>
 
-        <div class="field-pair">
+        <label class="field field--inline" for="vocabulary-batch-size">
+        <span class="field__text">
+          <span class="field__label">Batch size</span>
+          <span class="field__hint">
+            Terms picked from per round, most frequent first (allowed:
+            {{ userSettings.minBatchSize }} to {{ userSettings.maxBatchSize }})
+          </span>
+        </span>
+        <input
+          id="vocabulary-batch-size"
+          class="field__number"
+          type="number"
+          inputmode="numeric"
+          [min]="userSettings.minBatchSize"
+          [max]="userSettings.maxBatchSize"
+          step="5"
+          [value]="userSettings.vocabularyBatchSize()"
+          (change)="setVocabularyBatchSize($event)"
+        />
+      </label>
+
+      <div class="field-pair">
           <label class="field">
             <span class="field__label">Language 1</span>
             <select [value]="userSettings.language1Tag()" (change)="setLanguage1Tag($event)">

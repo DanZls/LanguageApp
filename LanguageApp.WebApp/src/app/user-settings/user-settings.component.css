@@ -69,12 +69,26 @@
   justify-content: space-between;
 }
 
+.field__text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.field__hint {
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: var(--muted);
+}
+
 .field__value {
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
 
 .field input:not([type='checkbox']):not([type='range']),
+.field input.field__number,
 .field select {
   width: 100%;
   box-sizing: border-box;
@@ -85,6 +99,13 @@
   padding: 0.55rem 0.75rem;
   font-family: var(--font-body);
   font-size: 0.95rem;
+}
+
+.field input.field__number[type='number'] {
+  width: 5.5rem;
+  flex: none;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
 }
 
 .field input[type='checkbox'] {

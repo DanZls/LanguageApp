@@ -23,6 +23,7 @@ public class AppDbContext : DbContext {
 			settings.Property(s => s.Language1Tag).HasMaxLength(10);
 			settings.Property(s => s.Language2Tag).HasMaxLength(10);
 			settings.Property(s => s.Theme).HasMaxLength(10);
+			settings.Property(s => s.VocabularyBatchSize).HasDefaultValue(UserSettings.DefaultVocabularyBatchSize);
 		});
 
 		// Language pair filter + FrequencyIndex ordering, restricted to non-skipped rows
