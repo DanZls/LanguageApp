@@ -18,7 +18,6 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 	)
 );
 
-builder.Services.AddSingleton<AiService>();
 builder.Services.AddSingleton<PronunciationProviderService>();
 builder.Services.AddSingleton<AzureTextToSpeechService>();
 builder.Services.AddScoped<AzureSqlDatabaseService>();
@@ -117,67 +116,10 @@ app.MapGet("/tech/generate-pronunciations-audio", async (
 });
 
 
-app.MapGet("/tech/ParseDictionary", async (AiService aiService) => {
+app.MapGet("/tech/CombineDictionary", async () => {
 	try {
-		var dictionaryParser = new DictionaryParserService(aiService);
-		var result = await dictionaryParser.ParseDictionaryRuUshakovAsync();
-		return Results.Ok(new {result});
-	}
-	catch (Exception ex){
-		return Results.BadRequest(ex.Message);
-	}
-});
-
-
-app.MapGet("/tech/ParseDictionaryRuOzhegov", async (AiService aiService) => {
-	try {
-		var dictionaryParser = new DictionaryParserService(aiService);
-		var result = await dictionaryParser.ParseDictRuOzhegovAsync();
-		return Results.Ok(new {result});
-	}
-	catch (Exception ex){
-		return Results.BadRequest(ex.Message);
-	}
-});
-
-
-app.MapGet("/tech/CombineDictionary", async (AiService aiService) => {
-	try {
-		var dictionaryParser = new DictionaryParserService(aiService);
+		var dictionaryParser = new DictionaryParserService();
 		await dictionaryParser.CombineDocumentPagesAsync();
-		return Results.Ok();
-	}
-	catch (Exception ex){
-		return Results.BadRequest(ex.Message);
-	}
-});
-
-
-app.MapGet("/tech/CreateDictionaryRuBgFrequencyPages", async (
-	AiService aiService,
-	string? pageNumbers,
-	int? pageNumber,
-	int? startPageNumber,
-	int? endPageNumber
-) => {
-	try {
-		var dictionaryParser = new DictionaryParserService(aiService);
-		IEnumerable<int>? parsedPageNumbers = null;
-		if (!string.IsNullOrWhiteSpace(pageNumbers)) {
-			parsedPageNumbers = pageNumbers
-				.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)
-				.Select(int.Parse)
-				.Distinct()
-				.OrderBy(n => n)
-				.ToArray();
-		}
-
-		await dictionaryParser.CreateDictionaryRuBgFrequencyPagesAsync(
-			pageNumber: pageNumber,
-			pageNumbers: parsedPageNumbers,
-			startPageNumber: startPageNumber ?? 200,
-			endPageNumber: endPageNumber ?? 1000
-		);
 		return Results.Ok();
 	}
 	catch (Exception ex){
