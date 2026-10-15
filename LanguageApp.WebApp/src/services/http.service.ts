@@ -1,7 +1,7 @@
 import { HttpClient, HttpErrorResponse, HttpParams } from '@angular/common/http';
 import { Injectable, inject } from '@angular/core';
 import { catchError, Observable, throwError } from 'rxjs';
-import { TranslationDto, TranslationUpdateDto } from '../models/models';
+import { TranslationDto, TranslationUpdateDto, UserSettingsDto } from '../models/models';
 import { NotificationService } from './notification.service';
 import { backendUrl } from "../environment/environment";
 
@@ -42,9 +42,26 @@ export class TranslationHttpService {
   }
 
 
+  getUserSettings(userEmail: string): Observable<UserSettingsDto> {
+    const params = new HttpParams().set('userEmail', userEmail);
+    return this.http
+      .get<UserSettingsDto>(`${this.backendUrl}/api/user-settings`, { params })
+      .pipe(catchError((errorResponse: HttpErrorResponse) => this.handleHttpError(errorResponse)));
+  }
+
+
+  saveUserSettings(userEmail: string, settings: UserSettingsDto): Observable<UserSettingsDto> {
+    const params = new HttpParams().set('userEmail', userEmail);
+    return this.http
+      .put<UserSettingsDto>(`${this.backendUrl}/api/user-settings`, settings, { params })
+      .pipe(catchError((errorResponse: HttpErrorResponse) => this.handleHttpError(errorResponse)));
+  }
+
+
   private handleHttpError(errorResponse: HttpErrorResponse): Observable<never> {
-    this.notificationService.error(errorResponse.error.error);
-    console.log(errorResponse.error.error);
+    const message = errorResponse.error?.error ?? errorResponse.message;
+    this.notificationService.error(message);
+    console.log(message);
     return throwError(() => errorResponse);
   }
 }

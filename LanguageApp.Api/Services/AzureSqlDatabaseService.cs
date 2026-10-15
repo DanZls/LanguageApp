@@ -148,6 +148,45 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		await _db.SaveChangesAsync();
 	}
 
+	private static readonly string[] AllowedLanguages = ["ru", "de"];
+	private static readonly string[] AllowedThemes = ["light", "dark"];
+
+	public async Task<UserSettingsDto> GetUserSettings(string userEmail) {
+		UserSettings? settings = await _db.UserSettingsTable
+			.AsNoTracking()
+			.FirstOrDefaultAsync(s => s.User.Email == userEmail);
+		// Users without a saved row (or unknown emails) get defaults
+		return ToDto(settings ?? new UserSettings());
+	}
+
+
+	public async Task<UserSettingsDto> SaveUserSettings(string userEmail, UserSettingsDto dto) {
+		if (!AllowedLanguages.Contains(dto.Language1Tag) || !AllowedLanguages.Contains(dto.Language2Tag))
+			throw new ArgumentException("Unsupported language tag.");
+		if (!AllowedThemes.Contains(dto.Theme))
+			throw new ArgumentException("Unsupported theme.");
+		if (double.IsNaN(dto.AudioLoudness))
+			throw new ArgumentException("Invalid audio loudness.");
+
+		User user = await _db.Users
+			.Include(u => u.Settings)
+			.FirstOrDefaultAsync(u => u.Email == userEmail)
+			?? _db.Users.Add(new User { Email = userEmail }).Entity;
+		user.Settings ??= new UserSettings();
+		user.Settings.AutoPlayAudio = dto.AutoPlayAudio;
+		user.Settings.AudioLoudness = Math.Clamp(dto.AudioLoudness, 0, 1);
+		user.Settings.Language1Tag = dto.Language1Tag;
+		user.Settings.Language2Tag = dto.Language2Tag;
+		user.Settings.Theme = dto.Theme;
+		await _db.SaveChangesAsync();
+		return ToDto(user.Settings);
+	}
+
+
+	private static UserSettingsDto ToDto(UserSettings s) =>
+		new(s.AutoPlayAudio, s.AudioLoudness, s.Language1Tag, s.Language2Tag, s.Theme);
+
+
 	private async Task<int> GetUserId (string userEmail) {
 		int userId = await _db.Users
 			.AsNoTracking()

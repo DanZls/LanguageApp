@@ -1,13 +1,19 @@
-import { computed, effect, Injectable, signal } from '@angular/core';
+import { computed, effect, Injectable, signal, untracked } from '@angular/core';
+import { firstValueFrom } from 'rxjs';
 
+import { AppTheme, UserSettingsDto } from '../models/models';
+import { TranslationHttpService } from './http.service';
 import { LocalStorageService } from './local-storage.service';
 
-export type AppTheme = 'light' | 'dark';
+export type { AppTheme } from '../models/models';
+
+const saveDebounceMs = 400;
 
 @Injectable({ providedIn: 'root' })
 export class UserSettingsService {
   readonly languages = ['ru', 'de'];
 
+  // The email stays in localStorage; everything else lives in the backend (UserSettings table)
   readonly userEmail = signal('dan.zloschastiev@gmail.com');
   readonly autoPlayAudio = signal(false);
   readonly audioLoudness = signal(0.8);
@@ -16,48 +22,29 @@ export class UserSettingsService {
   readonly language2Tag = signal(this.languages[1]);
   readonly theme = signal<AppTheme>('light');
 
-  constructor(private readonly localStorageService: LocalStorageService) {
+  private saveTimer: ReturnType<typeof setTimeout> | undefined;
+  // Bumped on every local change so a slow initial load never overwrites newer edits
+  private localChangeVersion = 0;
+
+  constructor(
+    private readonly localStorageService: LocalStorageService,
+    private readonly httpService: TranslationHttpService,
+  ) {
     const storedUserEmail = this.localStorageService.getUserEmail();
-    const storedAutoPlayAudio = this.localStorageService.getAutoPlayAudio();
-    const storedAudioLoudness = this.localStorageService.getAudioLoudness();
-    const storedLanguage1Tag = this.localStorageService.getLanguage1Tag();
-    const storedLanguage2Tag = this.localStorageService.getLanguage2Tag();
-    const storedTheme = this.localStorageService.getTheme();
 
     if (storedUserEmail) {
       this.userEmail.set(storedUserEmail);
     }
 
-    if (storedAutoPlayAudio === 'true' || storedAutoPlayAudio === 'false') {
-      this.autoPlayAudio.set(storedAutoPlayAudio === 'true');
-    }
-
-    if (storedAudioLoudness !== null) {
-      this.audioLoudness.set(this.normalizeAudioLoudness(Number(storedAudioLoudness)));
-    }
-
-    if (storedLanguage1Tag && this.languages.includes(storedLanguage1Tag)) {
-      this.language1Tag.set(storedLanguage1Tag);
-    }
-
-    if (storedLanguage2Tag && this.languages.includes(storedLanguage2Tag)) {
-      this.language2Tag.set(storedLanguage2Tag);
-    }
-
-    if (storedTheme === 'light' || storedTheme === 'dark') {
-      this.theme.set(storedTheme);
-    }
+    effect(() => {
+      document.documentElement.setAttribute('data-theme', this.theme());
+    });
 
     effect(() => {
-      const currentTheme = this.theme();
+      const userEmail = this.userEmail();
 
-      document.documentElement.setAttribute('data-theme', currentTheme);
-      this.localStorageService.setTheme(currentTheme);
-      this.localStorageService.setUserEmail(this.userEmail());
-      this.localStorageService.setAutoPlayAudio(String(this.autoPlayAudio()));
-      this.localStorageService.setAudioLoudness(String(this.audioLoudness()));
-      this.localStorageService.setLanguage1Tag(this.language1Tag());
-      this.localStorageService.setLanguage2Tag(this.language2Tag());
+      this.localStorageService.setUserEmail(userEmail);
+      untracked(() => void this.loadSettings(userEmail));
     });
   }
 
@@ -73,10 +60,12 @@ export class UserSettingsService {
 
   setAutoPlayAudio(autoPlayAudio: boolean): void {
     this.autoPlayAudio.set(autoPlayAudio);
+    this.scheduleSave();
   }
 
   setAudioLoudness(audioLoudness: number): void {
     this.audioLoudness.set(this.normalizeAudioLoudness(audioLoudness));
+    this.scheduleSave();
   }
 
   setLanguage1Tag(language1Tag: string): void {
@@ -85,6 +74,7 @@ export class UserSettingsService {
     }
 
     this.language1Tag.set(language1Tag);
+    this.scheduleSave();
   }
 
   setLanguage2Tag(language2Tag: string): void {
@@ -93,14 +83,64 @@ export class UserSettingsService {
     }
 
     this.language2Tag.set(language2Tag);
+    this.scheduleSave();
   }
 
   setTheme(theme: AppTheme): void {
     this.theme.set(theme);
+    this.scheduleSave();
   }
 
   toggleTheme(): void {
-    this.theme.update((theme) => (theme === 'light' ? 'dark' : 'light'));
+    this.setTheme(this.theme() === 'light' ? 'dark' : 'light');
+  }
+
+  private async loadSettings(userEmail: string): Promise<void> {
+    const versionAtRequest = this.localChangeVersion;
+
+    try {
+      const settings = await firstValueFrom(this.httpService.getUserSettings(userEmail));
+
+      if (versionAtRequest === this.localChangeVersion && userEmail === this.userEmail()) {
+        this.applySettings(settings);
+      }
+    } catch {
+      // The error is already reported by the http service; keep the current values
+    }
+  }
+
+  private applySettings(settings: UserSettingsDto): void {
+    this.autoPlayAudio.set(settings.autoPlayAudio);
+    this.audioLoudness.set(this.normalizeAudioLoudness(settings.audioLoudness));
+    if (this.languages.includes(settings.language1Tag)) {
+      this.language1Tag.set(settings.language1Tag);
+    }
+    if (this.languages.includes(settings.language2Tag)) {
+      this.language2Tag.set(settings.language2Tag);
+    }
+    this.theme.set(settings.theme === 'dark' ? 'dark' : 'light');
+  }
+
+  private scheduleSave(): void {
+    this.localChangeVersion++;
+    clearTimeout(this.saveTimer);
+    this.saveTimer = setTimeout(() => void this.saveSettings(), saveDebounceMs);
+  }
+
+  private async saveSettings(): Promise<void> {
+    const settings: UserSettingsDto = {
+      autoPlayAudio: this.autoPlayAudio(),
+      audioLoudness: this.audioLoudness(),
+      language1Tag: this.language1Tag(),
+      language2Tag: this.language2Tag(),
+      theme: this.theme(),
+    };
+
+    try {
+      await firstValueFrom(this.httpService.saveUserSettings(this.userEmail(), settings));
+    } catch {
+      // The error is already reported by the http service
+    }
   }
 
   private normalizeAudioLoudness(audioLoudness: number): number {

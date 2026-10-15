@@ -23,3 +23,15 @@ export class TranslationUpdateDto {
     Object.assign(this, init);
   }
 }
+
+
+export type AppTheme = 'light' | 'dark';
+
+
+export interface UserSettingsDto {
+  autoPlayAudio: boolean;
+  audioLoudness: number;
+  language1Tag: string;
+  language2Tag: string;
+  theme: AppTheme;
+}

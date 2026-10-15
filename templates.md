@@ -1,8 +1,8 @@
 # Api
 
 ## Database update
-az login
 dotnet ef migrations add <migration_name>
+az login
 dotnet ef database update
 
 

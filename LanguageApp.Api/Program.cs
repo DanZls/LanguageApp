@@ -78,6 +78,30 @@ app.MapPatch("/api/update-translation", async (
 });
 
 
+app.MapGet("/api/user-settings", async (AzureSqlDatabaseService dbService, string userEmail) => {
+	try {
+		return Results.Ok(await dbService.GetUserSettings(userEmail));
+	}
+	catch (Exception ex) {
+		return Results.BadRequest(new {error = ExceptionService.GetExceptionDetails(ex)});
+	}
+});
+
+
+app.MapPut("/api/user-settings", async (
+	AzureSqlDatabaseService dbService,
+	string userEmail,
+	UserSettingsDto settings
+) => {
+	try {
+		return Results.Ok(await dbService.SaveUserSettings(userEmail, settings));
+	}
+	catch (Exception ex) {
+		return Results.BadRequest(new {error = ExceptionService.GetExceptionDetails(ex)});
+	}
+});
+
+
 app.MapGet("/api/add-user", async (AzureSqlDatabaseService dbService) =>
 {
 	try	{

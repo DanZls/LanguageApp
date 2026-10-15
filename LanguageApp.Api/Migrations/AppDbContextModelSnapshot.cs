@@ -16,7 +16,7 @@ namespace LanguageApp.Dotnet.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "10.0.9")
+                .HasAnnotation("ProductVersion", "10.0.13")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -131,6 +131,37 @@ namespace LanguageApp.Dotnet.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("UserSettings", b =>
+                {
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.Property<double>("AudioLoudness")
+                        .HasColumnType("float");
+
+                    b.Property<bool>("AutoPlayAudio")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Language1Tag")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("Language2Tag")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("Theme")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("UserSettings", (string)null);
+                });
+
             modelBuilder.Entity("TranslationLearningInfo", b =>
                 {
                     b.HasOne("Translation", "Translation")
@@ -150,6 +181,17 @@ namespace LanguageApp.Dotnet.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("UserSettings", b =>
+                {
+                    b.HasOne("User", "User")
+                        .WithOne("Settings")
+                        .HasForeignKey("UserSettings", "UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("Translation", b =>
                 {
                     b.Navigation("TranslationLearningInfos");
@@ -157,6 +199,8 @@ namespace LanguageApp.Dotnet.Migrations
 
             modelBuilder.Entity("User", b =>
                 {
+                    b.Navigation("Settings");
+
                     b.Navigation("TranslationLearningInfos");
                 });
 #pragma warning restore 612, 618
