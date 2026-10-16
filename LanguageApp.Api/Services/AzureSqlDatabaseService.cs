@@ -12,6 +12,12 @@ public class AzureSqlDatabaseService(AppDbContext db)
 	) {
 		int hoursAfterFirstLearn = 3*24 - 6;
 		int hoursAfterSecondLearn = 7*24 - 6;
+		int hoursAfterThirdLearn = 14*24 - 6;
+		DateTimeOffset now = DateTimeOffset.Now;
+		DateTimeOffset firstLearnCutoff = now.AddHours(-hoursAfterFirstLearn);
+		DateTimeOffset secondLearnCutoff = now.AddHours(-hoursAfterSecondLearn);
+		DateTimeOffset thirdLearnCutoff = now.AddHours(-hoursAfterThirdLearn);
+
 		int batchMaxSize = await _db.UserSettingsTable
 			.AsNoTracking()
 			.Where(s => s.User.Email == userEmail)
@@ -20,11 +26,6 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		if (batchMaxSize <= 0)
 			batchMaxSize = UserSettings.DefaultVocabularyBatchSize;
 
-		DateTimeOffset now = DateTimeOffset.Now;
-		// Cutoffs are computed here so the predicates compare bare columns to parameters (sargable)
-		DateTimeOffset firstLearnCutoff = now.AddHours(-hoursAfterFirstLearn);
-		DateTimeOffset secondLearnCutoff = now.AddHours(-hoursAfterSecondLearn);
-
 		// Lightweight projection (no audio blob); the batch is the 50 lowest-frequency due translations
 		var batch = await _db.TranslationLearningInfoTable
 			.AsNoTracking()
@@ -32,6 +33,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 				(tlInfo.FirstLearnAt == null)
 				|| (tlInfo.SecondLearnAt == null && tlInfo.FirstLearnAt != null && tlInfo.FirstLearnAt <= firstLearnCutoff)
 				|| (tlInfo.ThirdLearnAt == null && tlInfo.SecondLearnAt != null && tlInfo.SecondLearnAt <= secondLearnCutoff)
+				|| (tlInfo.ThirdLearnAt != null && tlInfo.ThirdLearnAt <= thirdLearnCutoff)
 			)
 			.Where(tlInfo => tlInfo.User.Email == userEmail)
 			.Where(tlInfo => tlInfo.Translation.Language1Tag == language1Tag)
@@ -94,7 +96,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 				translationLearningInfo.FirstLearnAt = now;
 			else if (translationLearningInfo.SecondLearnAt == null)
 				translationLearningInfo.SecondLearnAt = now;
-			else if (translationLearningInfo.ThirdLearnAt == null)
+			else
 				translationLearningInfo.ThirdLearnAt = now;
 		}
 		if (translationUpdate.IsTranslationFlagged != null) {
