@@ -11,6 +11,12 @@ export interface TranslationDto {
 }
 
 
+export interface TranslationBatchItemDto extends TranslationDto {
+  frequencyIndex: number;
+  lastViewAt: string | null;
+}
+
+
 export class TranslationUpdateDto {
   translationId: number = 0;
   translationLearningInfoId: number = 0;

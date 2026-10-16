@@ -5,7 +5,9 @@ public class AzureSqlDatabaseService(AppDbContext db)
 	private readonly AppDbContext _db = db;
 
 
-  public async Task<TranslationDto> GetNextTranslation(
+  // Returns the whole "current bucket" of due translations (see the selection rules below), so the
+  // client can walk through it without asking the server for every single word.
+  public async Task<List<TranslationBatchItemDto>> GetTranslationBatch(
 		string userEmail,
 		string language1Tag,
 		string language2Tag
@@ -26,7 +28,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		if (batchMaxSize <= 0)
 			batchMaxSize = UserSettings.DefaultVocabularyBatchSize;
 
-		// Lightweight projection (no audio blob); the batch is the 50 lowest-frequency due translations
+		// Lightweight projection (no audio blob); the batch is the lowest-frequency due translations
 		var batch = await _db.TranslationLearningInfoTable
 			.AsNoTracking()
 			.Where(tlInfo => 
@@ -48,18 +50,23 @@ public class AzureSqlDatabaseService(AppDbContext db)
 			})
 			.ToListAsync();
 
-		// Same selection as before, done in memory on the already-limited batch
+		if (batch.Count == 0)
+			return [];
+
+		// Only translations from the same frequency bucket as the first one are served together,
+		// least recently viewed first (never viewed first), then by frequency
 		int firstBucket = (int)Math.Floor((double)batch.First().FrequencyIndex / batchMaxSize);
-		var next = batch
+		var bucketItems = batch
 			.Where(t => (int)Math.Floor((double)t.FrequencyIndex / batchMaxSize) == firstBucket)
 			.OrderBy(t => t.LastViewAt)
 			.ThenBy(t => t.FrequencyIndex)
-			.First();
+			.ToList();
 
-		return await _db.TranslationLearningInfoTable
+		List<int> ids = bucketItems.Select(t => t.Id).ToList();
+		Dictionary<int, TranslationBatchItemDto> dtoById = (await _db.TranslationLearningInfoTable
 			.AsNoTracking()
-			.Where(tlInfo => tlInfo.Id == next.Id)
-			.Select(tlInfo => new TranslationDto {
+			.Where(tlInfo => ids.Contains(tlInfo.Id))
+			.Select(tlInfo => new TranslationBatchItemDto {
 				TranslationId = tlInfo.TranslationId,
 				TranslationLearningInfoId = tlInfo.Id,
 				Term = tlInfo.Translation.Term,
@@ -70,7 +77,20 @@ public class AzureSqlDatabaseService(AppDbContext db)
 				IsTranslationFlagged = tlInfo.Translation.IsFlagged,
 				IsTranslationSkipped = tlInfo.Translation.IsSkipped,
 			})
-			.FirstAsync();
+			.ToListAsync())
+			.ToDictionary(dto => dto.TranslationLearningInfoId);
+
+		List<TranslationBatchItemDto> result = [];
+		foreach (var item in bucketItems) {
+			// The row can disappear between the two queries (e.g. a concurrent write); skip it then
+			if (!dtoById.TryGetValue(item.Id, out TranslationBatchItemDto? dto))
+				continue;
+
+			dto.FrequencyIndex = item.FrequencyIndex;
+			dto.LastViewAt = item.LastViewAt;
+			result.Add(dto);
+		}
+		return result;
 	}
 
 

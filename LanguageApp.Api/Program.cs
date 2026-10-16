@@ -48,14 +48,14 @@ if (app.Environment.IsDevelopment())
 app.MapHealthChecks("/health");
 
 
-app.MapGet("/api/get-next-translation", async (
+app.MapGet("/api/get-translation-batch", async (
 	AzureSqlDatabaseService dbService,
 	string userEmail,
 	string language1Tag,
 	string language2Tag
 ) => {
 	try	{
-		TranslationDto result = await dbService.GetNextTranslation(userEmail, language1Tag, language2Tag);
+		List<TranslationBatchItemDto> result = await dbService.GetTranslationBatch(userEmail, language1Tag, language2Tag);
 		return Results.Ok(result);
 	}
 	catch (Exception ex) {

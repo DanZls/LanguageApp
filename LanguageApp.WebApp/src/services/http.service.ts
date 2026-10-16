@@ -1,14 +1,13 @@
 import { HttpClient, HttpErrorResponse, HttpParams } from '@angular/common/http';
 import { Injectable, inject } from '@angular/core';
 import { catchError, Observable, throwError } from 'rxjs';
-import { TranslationDto, TranslationUpdateDto, UserSettingsDto } from '../models/models';
+import { TranslationBatchItemDto, TranslationUpdateDto, UserSettingsDto } from '../models/models';
 import { NotificationService } from './notification.service';
 import { backendUrl } from "../environment/environment";
 
 @Injectable({ providedIn: 'root' })
 export class TranslationHttpService {
   private backendUrl: string;
-  // private readonly getNextTranslationEndpoint = 'http://localhost:8080/api/get-next-translation';
   // private readonly updateTranslationEndpoint = 'http://localhost:8080/api/update-translation';
   private readonly notificationService = inject(NotificationService);
 
@@ -20,17 +19,17 @@ export class TranslationHttpService {
   }
 
 
-  getNextTranslation(
+  getTranslationBatch(
     userEmail: string,
     language1Tag: string,
     language2Tag: string,
-  ): Observable<TranslationDto> {
+  ): Observable<TranslationBatchItemDto[]> {
     const params = new HttpParams()
       .set('userEmail', userEmail)
       .set('language1Tag', language1Tag)
       .set('language2Tag', language2Tag);
     return this.http
-      .get<TranslationDto>(`${this.backendUrl}/api/get-next-translation`, { params })
+      .get<TranslationBatchItemDto[]>(`${this.backendUrl}/api/get-translation-batch`, { params })
       .pipe(catchError((errorResponse: HttpErrorResponse) => this.handleHttpError(errorResponse)));
   }
 
