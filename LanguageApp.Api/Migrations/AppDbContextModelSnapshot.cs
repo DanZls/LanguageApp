@@ -21,6 +21,38 @@ namespace LanguageApp.Dotnet.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Pronunciation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<byte[]>("Audio")
+                        .HasColumnType("varbinary(max)")
+                        .HasColumnName("Pronunciation");
+
+                    b.Property<string>("LanguageTag")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("Term")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("TranslationId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("TranslationId")
+                        .IsUnique();
+
+                    b.ToTable("Pronunciations");
+                });
+
             modelBuilder.Entity("Translation", b =>
                 {
                     b.Property<int>("Id")
@@ -170,6 +202,17 @@ namespace LanguageApp.Dotnet.Migrations
                     b.ToTable("UserSettings", (string)null);
                 });
 
+            modelBuilder.Entity("Pronunciation", b =>
+                {
+                    b.HasOne("Translation", "Translation")
+                        .WithOne("Pronunciation")
+                        .HasForeignKey("Pronunciation", "TranslationId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Translation");
+                });
+
             modelBuilder.Entity("TranslationLearningInfo", b =>
                 {
                     b.HasOne("Translation", "Translation")
@@ -202,6 +245,8 @@ namespace LanguageApp.Dotnet.Migrations
 
             modelBuilder.Entity("Translation", b =>
                 {
+                    b.Navigation("Pronunciation");
+
                     b.Navigation("TranslationLearningInfos");
                 });
 

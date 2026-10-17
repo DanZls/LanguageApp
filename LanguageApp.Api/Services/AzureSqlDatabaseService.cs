@@ -74,7 +74,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 				TermTranslation = tlInfo.Translation.TermTranslation,
 				AlternativeForms = tlInfo.Translation.AlternativeForms,
 				TermTranslationTags = tlInfo.Translation.TermTranslationTags,
-				TermTranslationAudio = tlInfo.Translation.TermTranslationAudio,
+				TermTranslationAudio = tlInfo.Translation.Pronunciation!.Audio,
 				IsTranslationFlagged = tlInfo.Translation.IsFlagged,
 				IsTranslationSkipped = tlInfo.Translation.IsSkipped,
 			})
@@ -171,7 +171,11 @@ public class AzureSqlDatabaseService(AppDbContext db)
 			.ToArray();
 		foreach (var translation in dictionaryTranslationTerms) {
 			var audioBytes = await File.ReadAllBytesAsync($"{audioPath}/{translation.Id}--{translation.TermTranslation}.mp3");
-			translation.TermTranslationAudio = audioBytes;
+			translation.Pronunciation = new Pronunciation {
+					Term = translation.TermTranslation,
+					LanguageTag = translation.Language2Tag ?? "",
+					Audio = audioBytes
+				};
 			// _db.Dictionaries.Add(translation);
 		}
 		await _db.SaveChangesAsync();

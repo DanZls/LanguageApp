@@ -7,6 +7,7 @@ public class AppDbContext : DbContext {
 	public DbSet<TranslationLearningInfo> TranslationLearningInfoTable { get; set; }
 	public DbSet<Translation> Translations { get; set; }
 	public DbSet<UserSettings> UserSettingsTable { get; set; }
+	public DbSet<Pronunciation> Pronunciations { get; set; }
 
 	protected override void OnModelCreating(ModelBuilder modelBuilder) {
 		modelBuilder.Entity<User>()
@@ -24,6 +25,17 @@ public class AppDbContext : DbContext {
 			settings.Property(s => s.Language2Tag).HasMaxLength(10);
 			settings.Property(s => s.Theme).HasMaxLength(10);
 			settings.Property(s => s.VocabularyBatchSize).HasDefaultValue(UserSettings.DefaultVocabularyBatchSize);
+		});
+
+		// 1:1 with Translation; the audio column is named "Pronunciation" (a property can't share its type's name)
+		modelBuilder.Entity<Pronunciation>(pronunciation => {
+			pronunciation.HasOne(p => p.Translation)
+				.WithOne(translation => translation.Pronunciation)
+				.HasForeignKey<Pronunciation>(p => p.TranslationId)
+				.OnDelete(DeleteBehavior.Cascade);
+			pronunciation.HasIndex(p => p.TranslationId).IsUnique();
+			pronunciation.Property(p => p.LanguageTag).HasMaxLength(10);
+			pronunciation.Property(p => p.Audio).HasColumnName("Pronunciation");
 		});
 
 		// Language pair filter + FrequencyIndex ordering, restricted to non-skipped rows
