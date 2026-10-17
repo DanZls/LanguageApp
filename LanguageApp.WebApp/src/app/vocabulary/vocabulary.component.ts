@@ -27,6 +27,7 @@ export class VocabularyComponent implements OnInit {
     term: '',
     termMeaning: '',
     termTranslation: '',
+    alternativeForms: null,
     termTranslationTags: [],
     termTranslationAudio: null,
     isTranslationFlagged: false,
