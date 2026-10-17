@@ -29,6 +29,9 @@ namespace LanguageApp.Dotnet.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("AlternativeForms")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int?>("FrequencyIndex")
                         .HasColumnType("int");
 

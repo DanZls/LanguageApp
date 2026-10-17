@@ -46,6 +46,11 @@
               {{ "..." }}
             }
         </p>
+        @if (isTranslationVisible() && translation().alternativeForms) {
+          <p class="field__value field__value--secondary">
+            {{ translation().alternativeForms }}
+          </p>
+        }
       </div>
 
       <div class="field">

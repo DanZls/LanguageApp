@@ -6,6 +6,7 @@ public class Translation {
 	public string Term { get; set; } = "";
 	public string TermMeaning { get; set; } = "";
 	public string TermTranslation { get; set; } = "";
+	public string? AlternativeForms { get; set; }
 	public string[] TermTranslationTags { get; set; } = [];
 	public byte[]? TermTranslationAudio { get; set; }
 	public bool IsFlagged { get; set; } = false;

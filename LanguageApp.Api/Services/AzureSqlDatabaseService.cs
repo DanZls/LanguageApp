@@ -72,6 +72,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 				Term = tlInfo.Translation.Term,
 				TermMeaning = tlInfo.Translation.TermMeaning,
 				TermTranslation = tlInfo.Translation.TermTranslation,
+				AlternativeForms = tlInfo.Translation.AlternativeForms,
 				TermTranslationTags = tlInfo.Translation.TermTranslationTags,
 				TermTranslationAudio = tlInfo.Translation.TermTranslationAudio,
 				IsTranslationFlagged = tlInfo.Translation.IsFlagged,

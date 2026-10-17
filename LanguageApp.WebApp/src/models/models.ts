@@ -4,6 +4,7 @@ export interface TranslationDto {
   term: string | null;
   termMeaning: string | null;
   termTranslation: string | null;
+  alternativeForms: string | null;
   termTranslationTags: string[] | null;
   termTranslationAudio: number[] | null;
   isTranslationFlagged: boolean | null;

@@ -87,6 +87,12 @@
   color: var(--ink);
 }
 
+.field__value--secondary {
+  font-size: 1rem;
+  color: var(--ink);
+  opacity: 0.7;
+}
+
 .field__value--hidden {
   color: var(--muted);
   font-style: italic;
