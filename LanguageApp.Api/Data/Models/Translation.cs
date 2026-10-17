@@ -8,8 +8,6 @@ public class Translation {
 	public string TermTranslation { get; set; } = "";
 	public string? AlternativeForms { get; set; }
 	public string[] TermTranslationTags { get; set; } = [];
-	// Legacy column, kept so existing data is retained; audio is now served from Pronunciations
-	public byte[]? TermTranslationAudio { get; set; }
 	public bool IsFlagged { get; set; } = false;
 	public bool IsSkipped { get; set; } = false;
 	

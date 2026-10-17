@@ -91,9 +91,6 @@ namespace LanguageApp.Dotnet.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<byte[]>("TermTranslationAudio")
-                        .HasColumnType("varbinary(max)");
-
                     b.PrimitiveCollection<string>("TermTranslationTags")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
