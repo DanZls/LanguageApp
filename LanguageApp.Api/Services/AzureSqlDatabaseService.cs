@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 public class AzureSqlDatabaseService(AppDbContext db)
 {
 	private readonly AppDbContext _db = db;
+	private static readonly string[] AllowedLanguages = ["ru", "de"];
+	private static readonly string[] AllowedThemes = ["light", "dark"];
 
 
   // Returns the whole "current bucket" of due translations (see the selection rules below), so the
@@ -12,13 +14,9 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		string language1Tag,
 		string language2Tag
 	) {
-		int hoursAfterFirstLearn = 3*24 - 6;
-		int hoursAfterSecondLearn = 7*24 - 6;
-		int hoursAfterThirdLearn = 14*24 - 6;
-		DateTimeOffset now = DateTimeOffset.Now;
-		DateTimeOffset firstLearnCutoff = now.AddHours(-hoursAfterFirstLearn);
-		DateTimeOffset secondLearnCutoff = now.AddHours(-hoursAfterSecondLearn);
-		DateTimeOffset thirdLearnCutoff = now.AddHours(-hoursAfterThirdLearn);
+		int successfulAttemptsToLearn = 2;
+		int hoursAfterLastLearn = 3*24 - 6;
+		DateTimeOffset lastLearnCutoff = DateTimeOffset.Now.AddHours(-hoursAfterLastLearn);
 
 		int batchMaxSize = await _db.UserSettingsTable
 			.AsNoTracking()
@@ -31,12 +29,8 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		// Lightweight projection (no audio blob); the batch is the lowest-frequency due translations
 		var batch = await _db.TranslationLearningInfoTable
 			.AsNoTracking()
-			.Where(tlInfo => 
-				(tlInfo.FirstLearnAt == null)
-				|| (tlInfo.SecondLearnAt == null && tlInfo.FirstLearnAt != null && tlInfo.FirstLearnAt <= firstLearnCutoff)
-				|| (tlInfo.ThirdLearnAt == null && tlInfo.SecondLearnAt != null && tlInfo.SecondLearnAt <= secondLearnCutoff)
-				|| (tlInfo.ThirdLearnAt != null && tlInfo.ThirdLearnAt <= thirdLearnCutoff)
-			)
+			.Where(tlInfo => tlInfo.LearnMeter < successfulAttemptsToLearn)
+			.Where(tlInfo => (tlInfo.LastLearnAt == null) || (tlInfo.LastLearnAt <= lastLearnCutoff))
 			.Where(tlInfo => tlInfo.User.Email == userEmail)
 			.Where(tlInfo => tlInfo.Translation.Language1Tag == language1Tag)
 			.Where(tlInfo => tlInfo.Translation.Language2Tag == language2Tag)
@@ -98,8 +92,6 @@ public class AzureSqlDatabaseService(AppDbContext db)
 	public async Task UpdateTranslation(
 		TranslationUpdateDto translationUpdate
 	) {
-		DateTimeOffset now = DateTimeOffset.Now;
-
 		TranslationLearningInfo translationLearningInfo = await _db.TranslationLearningInfoTable
 			.Where(tlInfo => tlInfo.Id == translationUpdate.TranslationLearningInfoId)
 			.Where(tlInfo => tlInfo.TranslationId == translationUpdate.TranslationId)
@@ -110,15 +102,13 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		_db.Translations.Attach(translationStub);
 
 		if (translationUpdate.IsViewed != null) {
-			translationLearningInfo.LastViewAt = now;
+			translationLearningInfo.LastViewAt = DateTimeOffset.Now;
+			if (translationUpdate.IsLearned == null || translationUpdate.IsLearned == false)
+				translationLearningInfo.LearnMeter = 0;
 		}
 		if (translationUpdate.IsLearned != null && translationUpdate.IsLearned == true) {
-			if (translationLearningInfo.FirstLearnAt == null)
-				translationLearningInfo.FirstLearnAt = now;
-			else if (translationLearningInfo.SecondLearnAt == null)
-				translationLearningInfo.SecondLearnAt = now;
-			else
-				translationLearningInfo.ThirdLearnAt = now;
+			translationLearningInfo.LastLearnAt = DateTimeOffset.Now;
+			translationLearningInfo.LearnMeter += 1;
 		}
 		if (translationUpdate.IsTranslationFlagged != null) {
 			translationStub.IsFlagged = translationUpdate.IsTranslationFlagged.Value;
@@ -180,9 +170,6 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		}
 		await _db.SaveChangesAsync();
 	}
-
-	private static readonly string[] AllowedLanguages = ["ru", "de"];
-	private static readonly string[] AllowedThemes = ["light", "dark"];
 
 	public async Task<UserSettingsDto> GetUserSettings(string userEmail) {
 		UserSettings? settings = await _db.UserSettingsTable

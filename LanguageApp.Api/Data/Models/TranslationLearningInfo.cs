@@ -4,9 +4,11 @@ public class TranslationLearningInfo {
 	public int TranslationId { get; set; } = new();
 	public string? DictionaryName { get; set; }
 	public DateTimeOffset? LastViewAt { get; set; }
+	public DateTimeOffset? LastLearnAt { get; set; }
 	public DateTimeOffset? FirstLearnAt { get; set; }
 	public DateTimeOffset? SecondLearnAt { get; set; }
 	public DateTimeOffset? ThirdLearnAt { get; set; }
+	public int LearnMeter { get; set; } = 0;
 
 	public User User { get; set; } = new();
 	public Translation Translation { get; set; } = new();

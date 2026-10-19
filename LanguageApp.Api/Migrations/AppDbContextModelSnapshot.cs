@@ -117,8 +117,14 @@ namespace LanguageApp.Dotnet.Migrations
                     b.Property<DateTimeOffset?>("FirstLearnAt")
                         .HasColumnType("datetimeoffset");
 
+                    b.Property<DateTimeOffset?>("LastLearnAt")
+                        .HasColumnType("datetimeoffset");
+
                     b.Property<DateTimeOffset?>("LastViewAt")
                         .HasColumnType("datetimeoffset");
+
+                    b.Property<int>("LearnMeter")
+                        .HasColumnType("int");
 
                     b.Property<DateTimeOffset?>("SecondLearnAt")
                         .HasColumnType("datetimeoffset");
