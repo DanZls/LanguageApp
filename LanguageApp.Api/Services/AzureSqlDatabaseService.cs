@@ -15,8 +15,11 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		string language2Tag
 	) {
 		int successfulAttemptsToLearn = 2;
-		int hoursAfterLastLearn = 3*24 - 6;
-		DateTimeOffset lastLearnCutoff = DateTimeOffset.Now.AddHours(-hoursAfterLastLearn);
+		int daysAfterLastLearn = 3;
+		// Translations learned on day D become available again on day D + 3 at 00:00,
+		// so anything learned before the start of (today - (days - 1)) is due.
+		DateTimeOffset now = DateTimeOffset.Now;
+		DateTimeOffset lastLearnCutoff = new DateTimeOffset(now.Date.AddDays(-(daysAfterLastLearn - 1)), now.Offset);
 
 		int batchMaxSize = await _db.UserSettingsTable
 			.AsNoTracking()
@@ -30,7 +33,7 @@ public class AzureSqlDatabaseService(AppDbContext db)
 		var batch = await _db.TranslationLearningInfoTable
 			.AsNoTracking()
 			.Where(tlInfo => tlInfo.LearnMeter < successfulAttemptsToLearn)
-			.Where(tlInfo => (tlInfo.LastLearnAt == null) || (tlInfo.LastLearnAt <= lastLearnCutoff))
+			.Where(tlInfo => (tlInfo.LastLearnAt == null) || (tlInfo.LastLearnAt < lastLearnCutoff))
 			.Where(tlInfo => tlInfo.User.Email == userEmail)
 			.Where(tlInfo => tlInfo.Translation.Language1Tag == language1Tag)
 			.Where(tlInfo => tlInfo.Translation.Language2Tag == language2Tag)
